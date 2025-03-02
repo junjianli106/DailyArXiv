@@ -6,7 +6,9 @@ on:
       - created # for test
   schedule:
       - cron: '13 8 * * 0-6' # 00:30 Beijing time every Monday to Friday
-
+  
+  workflow_dispatch:
+  
 permissions:
   contents: write
   issues: write 
@@ -46,5 +48,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-on:
-  workflow_dispatch:
+
