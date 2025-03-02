@@ -22,10 +22,10 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["Time Series", "Trajectory", "Graph Neural Networks"] # TODO add more keywords
+keywords = ["whole slide image", "whole slide images", "pathology", "Multiple Instance Learning", "pathology reports", "Pathology Report Generation"] # TODO add more keywords
 
-max_result = 100 # maximum query results from arXiv API for each keyword
-issues_result = 15 # maximum papers to be included in the issue
+max_result = 200 # maximum query results from arXiv API for each keyword
+issues_result = 20 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
 # fixed_columns = ["Title", "Link", "Date"]
