@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 02, 2025
+title: Latest 20 Papers - March 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v1)** | 2025-02-27 | Preprint |
+| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v2)** | 2025-02-28 | Preprint |
 | **[Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions](http://arxiv.org/abs/2502.19293v2)** | 2025-02-27 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. arXiv admin note: text overlap with arXiv:2502.19285</p></details> |
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v2)** | 2025-02-27 | 11 pages, 1 figure |
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v1)** | 2025-02-26 | 27 pages, 11 figures |
@@ -31,7 +31,7 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v1)** | 2025-02-27 | Preprint |
+| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v2)** | 2025-02-28 | Preprint |
 | **[Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions](http://arxiv.org/abs/2502.19293v2)** | 2025-02-27 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. arXiv admin note: text overlap with arXiv:2502.19285</p></details> |
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v2)** | 2025-02-27 | 11 pages, 1 figure |
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v1)** | 2025-02-26 | 27 pages, 11 figures |
@@ -55,7 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v1)** | 2025-02-27 | Preprint |
+| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v2)** | 2025-02-28 | Preprint |
 | **[Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions](http://arxiv.org/abs/2502.19293v2)** | 2025-02-27 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. arXiv admin note: text overlap with arXiv:2502.19285</p></details> |
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v2)** | 2025-02-27 | 11 pages, 1 figure |
 | **[A Survey on Computational Pathology Foundation Models: Datasets, Adaptation Strategies, and Evaluation Tasks](http://arxiv.org/abs/2501.15724v2)** | 2025-02-26 |  |
@@ -79,7 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v1)** | 2025-02-27 | Preprint |
+| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v2)** | 2025-02-28 | Preprint |
 | **[TRUSWorthy: Toward Clinically Applicable Deep Learning for Confident Detection of Prostate Cancer in Micro-Ultrasound](http://arxiv.org/abs/2502.14707v1)** | 2025-02-20 | <details><summary>accep...</summary><p>accepted to IJCARS. This preprint has not undergone post-submission improvements or corrections. To access the Version of Record of this article, see the journal reference below</p></details> |
 | **[Learning county from pixels: Corn yield prediction with attention-weighted multiple instance learning](http://arxiv.org/abs/2312.01001v3)** | 2025-02-13 | <details><summary>I am ...</summary><p>I am writing to request the resubmission of my paper submitted to arXiv</p></details> |
 | **[PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](http://arxiv.org/abs/2502.08916v1)** | 2025-02-13 |  |
