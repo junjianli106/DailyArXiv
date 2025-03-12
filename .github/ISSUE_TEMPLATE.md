@@ -88,17 +88,6 @@ labels: documentation
 | **[WeakSupCon: Weakly Supervised Contrastive Learning for Encoder Pre-training](http://arxiv.org/abs/2503.04165v1)** | 2025-03-06 |  |
 | **[Novel Pipeline for Diagnosing Acute Lymphoblastic Leukemia Sensitive to Related Biomarkers](http://arxiv.org/abs/2307.04014v3)** | 2025-03-06 |  |
 | **[Foundation Models -- A Panacea for Artificial Intelligence in Pathology?](http://arxiv.org/abs/2502.21264v2)** | 2025-03-03 | <details><summary>50 pa...</summary><p>50 pages, 15 figures and an appendix (study protocol) which is previously published, see https://doi.org/10.1101/2024.07.04.24309948; updated authors list format</p></details> |
-| **[Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis](http://arxiv.org/abs/2503.00915v1)** | 2025-03-02 |  |
-| **[Snuffy: Efficient Whole Slide Image Classifier](http://arxiv.org/abs/2408.08258v3)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted for ECCV 2024</p></details> |
-| **["No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images](http://arxiv.org/abs/2502.21109v1)** | 2025-02-28 |  |
-| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v2)** | 2025-02-28 | Preprint |
-| **[Weakly Supervised Multiple Instance Learning for Whale Call Detection and Localization in Long-Duration Passive Acoustic Monitoring](http://arxiv.org/abs/2502.20838v1)** | 2025-02-28 |  |
-| **[Can We Simplify Slide-level Fine-tuning of Pathology Foundation Models?](http://arxiv.org/abs/2502.20823v1)** | 2025-02-28 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 4 tables</p></details> |
-| **[TRUSWorthy: Toward Clinically Applicable Deep Learning for Confident Detection of Prostate Cancer in Micro-Ultrasound](http://arxiv.org/abs/2502.14707v1)** | 2025-02-20 | <details><summary>accep...</summary><p>accepted to IJCARS. This preprint has not undergone post-submission improvements or corrections. To access the Version of Record of this article, see the journal reference below</p></details> |
-| **[Learning county from pixels: Corn yield prediction with attention-weighted multiple instance learning](http://arxiv.org/abs/2312.01001v3)** | 2025-02-13 | <details><summary>I am ...</summary><p>I am writing to request the resubmission of my paper submitted to arXiv</p></details> |
-| **[PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](http://arxiv.org/abs/2502.08916v1)** | 2025-02-13 |  |
-| **[LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information](http://arxiv.org/abs/2502.08888v1)** | 2025-02-13 | Accepted by ACM TIST |
-| **[ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2502.08391v1)** | 2025-02-12 | <details><summary>CVPR ...</summary><p>CVPR 2024 (Updated version with corrections for typos and errors.)</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
