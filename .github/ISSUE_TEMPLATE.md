@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 12, 2025
+title: Latest 20 Papers - March 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v1)** | 2025-03-11 | summited to ICCV2025 |
+| **[Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder](http://arxiv.org/abs/2503.09496v1)** | 2025-03-12 | Accepted by CVPR2025 |
+| **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v2)** | 2025-03-12 | summited to ICCV2025 |
+| **[Multi-Modal Foundation Models for Computational Pathology: A Survey](http://arxiv.org/abs/2503.09091v1)** | 2025-03-12 |  |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v1)** | 2025-03-11 |  |
 | **[CASC-AI: Consensus-aware Self-corrective Learning for Noise Cell Segmentation](http://arxiv.org/abs/2502.07302v2)** | 2025-03-10 |  |
 | **[LSA: Latent Style Augmentation Towards Stain-Agnostic Cervical Cancer Screening](http://arxiv.org/abs/2503.06563v1)** | 2025-03-09 |  |
@@ -25,13 +27,13 @@ labels: documentation
 | **[Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis](http://arxiv.org/abs/2503.00915v1)** | 2025-03-02 |  |
 | **[Snuffy: Efficient Whole Slide Image Classifier](http://arxiv.org/abs/2408.08258v3)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted for ECCV 2024</p></details> |
 | **["No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images](http://arxiv.org/abs/2502.21109v1)** | 2025-02-28 |  |
-| **[Hybrid deep learning-based strategy for the hepatocellular carcinoma cancer grade classification of H&E stained liver histopathology images](http://arxiv.org/abs/2412.03084v2)** | 2025-02-28 | 14 figure, 9 tables |
-| **[VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation](http://arxiv.org/abs/2502.20850v1)** | 2025-02-28 | Under review |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v1)** | 2025-03-11 | summited to ICCV2025 |
+| **[Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder](http://arxiv.org/abs/2503.09496v1)** | 2025-03-12 | Accepted by CVPR2025 |
+| **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v2)** | 2025-03-12 | summited to ICCV2025 |
+| **[Multi-Modal Foundation Models for Computational Pathology: A Survey](http://arxiv.org/abs/2503.09091v1)** | 2025-03-12 |  |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v1)** | 2025-03-11 |  |
 | **[CASC-AI: Consensus-aware Self-corrective Learning for Noise Cell Segmentation](http://arxiv.org/abs/2502.07302v2)** | 2025-03-10 |  |
 | **[LSA: Latent Style Augmentation Towards Stain-Agnostic Cervical Cancer Screening](http://arxiv.org/abs/2503.06563v1)** | 2025-03-09 |  |
@@ -49,12 +51,11 @@ labels: documentation
 | **[Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis](http://arxiv.org/abs/2503.00915v1)** | 2025-03-02 |  |
 | **[Snuffy: Efficient Whole Slide Image Classifier](http://arxiv.org/abs/2408.08258v3)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted for ECCV 2024</p></details> |
 | **["No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images](http://arxiv.org/abs/2502.21109v1)** | 2025-02-28 |  |
-| **[Hybrid deep learning-based strategy for the hepatocellular carcinoma cancer grade classification of H&E stained liver histopathology images](http://arxiv.org/abs/2412.03084v2)** | 2025-02-28 | 14 figure, 9 tables |
-| **[VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation](http://arxiv.org/abs/2502.20850v1)** | 2025-02-28 | Under review |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Modal Foundation Models for Computational Pathology: A Survey](http://arxiv.org/abs/2503.09091v1)** | 2025-03-12 |  |
 | **[Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis](http://arxiv.org/abs/2503.08346v1)** | 2025-03-11 |  |
 | **[Towards Spatial Transcriptomics-guided Pathological Image Recognition with Batch-Agnostic Encoder](http://arxiv.org/abs/2503.07173v1)** | 2025-03-10 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
 | **[Improving cognitive diagnostics in pathology: a deep learning approach for augmenting perceptional understanding of histopathology images](http://arxiv.org/abs/2503.06894v1)** | 2025-03-10 |  |
@@ -74,12 +75,11 @@ labels: documentation
 | **[Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering](http://arxiv.org/abs/2407.21368v2)** | 2025-03-01 |  |
 | **[Distilling foundation models for robust and efficient models in digital pathology](http://arxiv.org/abs/2501.16239v3)** | 2025-02-28 | Preprint |
 | **[PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](http://arxiv.org/abs/2502.20869v1)** | 2025-02-28 | 10pages, 4figures |
-| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v2)** | 2025-02-28 | Preprint |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v1)** | 2025-03-11 | summited to ICCV2025 |
+| **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v2)** | 2025-03-12 | summited to ICCV2025 |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v1)** | 2025-03-11 |  |
 | **[Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification](http://arxiv.org/abs/2503.06056v1)** | 2025-03-08 | ICASSP2025(Oral) |
 | **[MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient Diagnosis Using Microscopy Images](http://arxiv.org/abs/2407.21604v2)** | 2025-03-07 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
@@ -88,6 +88,17 @@ labels: documentation
 | **[WeakSupCon: Weakly Supervised Contrastive Learning for Encoder Pre-training](http://arxiv.org/abs/2503.04165v1)** | 2025-03-06 |  |
 | **[Novel Pipeline for Diagnosing Acute Lymphoblastic Leukemia Sensitive to Related Biomarkers](http://arxiv.org/abs/2307.04014v3)** | 2025-03-06 |  |
 | **[Foundation Models -- A Panacea for Artificial Intelligence in Pathology?](http://arxiv.org/abs/2502.21264v2)** | 2025-03-03 | <details><summary>50 pa...</summary><p>50 pages, 15 figures and an appendix (study protocol) which is previously published, see https://doi.org/10.1101/2024.07.04.24309948; updated authors list format</p></details> |
+| **[Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis](http://arxiv.org/abs/2503.00915v1)** | 2025-03-02 |  |
+| **[Snuffy: Efficient Whole Slide Image Classifier](http://arxiv.org/abs/2408.08258v3)** | 2025-03-02 | <details><summary>Accep...</summary><p>Accepted for ECCV 2024</p></details> |
+| **["No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images](http://arxiv.org/abs/2502.21109v1)** | 2025-02-28 |  |
+| **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v2)** | 2025-02-28 | Preprint |
+| **[Weakly Supervised Multiple Instance Learning for Whale Call Detection and Localization in Long-Duration Passive Acoustic Monitoring](http://arxiv.org/abs/2502.20838v1)** | 2025-02-28 |  |
+| **[Can We Simplify Slide-level Fine-tuning of Pathology Foundation Models?](http://arxiv.org/abs/2502.20823v1)** | 2025-02-28 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 4 tables</p></details> |
+| **[TRUSWorthy: Toward Clinically Applicable Deep Learning for Confident Detection of Prostate Cancer in Micro-Ultrasound](http://arxiv.org/abs/2502.14707v1)** | 2025-02-20 | <details><summary>accep...</summary><p>accepted to IJCARS. This preprint has not undergone post-submission improvements or corrections. To access the Version of Record of this article, see the journal reference below</p></details> |
+| **[Learning county from pixels: Corn yield prediction with attention-weighted multiple instance learning](http://arxiv.org/abs/2312.01001v3)** | 2025-02-13 | <details><summary>I am ...</summary><p>I am writing to request the resubmission of my paper submitted to arXiv</p></details> |
+| **[PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](http://arxiv.org/abs/2502.08916v1)** | 2025-02-13 |  |
+| **[LLM-Enhanced Multiple Instance Learning for Joint Rumor and Stance Detection with Social Context Information](http://arxiv.org/abs/2502.08888v1)** | 2025-02-13 | Accepted by ACM TIST |
+| **[ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2502.08391v1)** | 2025-02-12 | <details><summary>CVPR ...</summary><p>CVPR 2024 (Updated version with corrections for typos and errors.)</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
