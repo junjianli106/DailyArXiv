@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 17, 2025
+title: Latest 20 Papers - March 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification](http://arxiv.org/abs/2503.12401v1)** | 2025-03-16 | Accepted to CVPR2025 |
+| **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](http://arxiv.org/abs/2412.00678v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
+| **[From Pixels to Histopathology: A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v1)** | 2025-03-14 | 11 pages, 2 figures |
 | **[Pathology Image Compression with Pre-trained Autoencoders](http://arxiv.org/abs/2503.11591v1)** | 2025-03-14 |  |
 | **[Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification](http://arxiv.org/abs/2503.10510v1)** | 2025-03-13 |  |
 | **[Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder](http://arxiv.org/abs/2503.09496v1)** | 2025-03-12 | Accepted by CVPR2025 |
@@ -24,13 +27,13 @@ labels: documentation
 | **[Towards Effective and Efficient Context-aware Nucleus Detection in Histopathology Whole Slide Images](http://arxiv.org/abs/2503.05678v1)** | 2025-03-04 | under review |
 | **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](http://arxiv.org/abs/2503.02064v1)** | 2025-03-03 |  |
 | **[Foundation Models -- A Panacea for Artificial Intelligence in Pathology?](http://arxiv.org/abs/2502.21264v2)** | 2025-03-03 | <details><summary>50 pa...</summary><p>50 pages, 15 figures and an appendix (study protocol) which is previously published, see https://doi.org/10.1101/2024.07.04.24309948; updated authors list format</p></details> |
-| **[Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning](http://arxiv.org/abs/2502.21130v2)** | 2025-03-03 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted by CVPR2025</p></details> |
-| **[Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion](http://arxiv.org/abs/2503.00925v1)** | 2025-03-02 | 11 pages, 3 figure |
-| **[Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis](http://arxiv.org/abs/2503.00915v1)** | 2025-03-02 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MExD: An Expert-Infused Diffusion Model for Whole-Slide Image Classification](http://arxiv.org/abs/2503.12401v1)** | 2025-03-16 | Accepted to CVPR2025 |
+| **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](http://arxiv.org/abs/2412.00678v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
+| **[From Pixels to Histopathology: A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v1)** | 2025-03-14 | 11 pages, 2 figures |
 | **[Pathology Image Compression with Pre-trained Autoencoders](http://arxiv.org/abs/2503.11591v1)** | 2025-03-14 |  |
 | **[Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification](http://arxiv.org/abs/2503.10510v1)** | 2025-03-13 |  |
 | **[Robust Multimodal Survival Prediction with the Latent Differentiation Conditional Variational AutoEncoder](http://arxiv.org/abs/2503.09496v1)** | 2025-03-12 | Accepted by CVPR2025 |
@@ -48,13 +51,13 @@ labels: documentation
 | **[Towards Effective and Efficient Context-aware Nucleus Detection in Histopathology Whole Slide Images](http://arxiv.org/abs/2503.05678v1)** | 2025-03-04 | under review |
 | **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](http://arxiv.org/abs/2503.02064v1)** | 2025-03-03 |  |
 | **[Foundation Models -- A Panacea for Artificial Intelligence in Pathology?](http://arxiv.org/abs/2502.21264v2)** | 2025-03-03 | <details><summary>50 pa...</summary><p>50 pages, 15 figures and an appendix (study protocol) which is previously published, see https://doi.org/10.1101/2024.07.04.24309948; updated authors list format</p></details> |
-| **[Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning](http://arxiv.org/abs/2502.21130v2)** | 2025-03-03 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted by CVPR2025</p></details> |
-| **[Explainable Classifier for Malignant Lymphoma Subtyping via Cell Graph and Image Fusion](http://arxiv.org/abs/2503.00925v1)** | 2025-03-02 | 11 pages, 3 figure |
-| **[Multimodal Distillation-Driven Ensemble Learning for Long-Tailed Histopathology Whole Slide Images Analysis](http://arxiv.org/abs/2503.00915v1)** | 2025-03-02 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering](http://arxiv.org/abs/2407.21368v3)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2025:004</p></details> |
+| **[MLLM4PUE: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs](http://arxiv.org/abs/2502.07221v2)** | 2025-03-16 |  |
+| **[Pathology Image Restoration via Mixture of Prompts](http://arxiv.org/abs/2503.12399v1)** | 2025-03-16 |  |
 | **[Pathology Image Compression with Pre-trained Autoencoders](http://arxiv.org/abs/2503.11591v1)** | 2025-03-14 |  |
 | **[Reproducible Machine Learning-based Voice Pathology Detection: Introducing the Pitch Difference Feature](http://arxiv.org/abs/2410.10537v3)** | 2025-03-14 | <details><summary>Code ...</summary><p>Code repository: https://github.com/aailab-uct/Automated-Robust-and-Reproducible-Voice-Pathology-Detection, Supplementary materials: https://doi.org/10.5281/zenodo.14793017</p></details> |
 | **[CountPath: Automating Fragment Counting in Digital Pathology](http://arxiv.org/abs/2503.10520v1)** | 2025-03-13 | 10 pages, 3 figures |
@@ -72,9 +75,6 @@ labels: documentation
 | **[SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models](http://arxiv.org/abs/2503.02876v1)** | 2025-03-04 |  |
 | **[Foundation Models -- A Panacea for Artificial Intelligence in Pathology?](http://arxiv.org/abs/2502.21264v2)** | 2025-03-03 | <details><summary>50 pa...</summary><p>50 pages, 15 figures and an appendix (study protocol) which is previously published, see https://doi.org/10.1101/2024.07.04.24309948; updated authors list format</p></details> |
 | **[Fast and Accurate Gigapixel Pathological Image Classification with Hierarchical Distillation Multi-Instance Learning](http://arxiv.org/abs/2502.21130v2)** | 2025-03-03 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted by CVPR2025</p></details> |
-| **[Voice Cloning for Dysarthric Speech Synthesis: Addressing Data Scarcity in Speech-Language Pathology](http://arxiv.org/abs/2503.01266v1)** | 2025-03-03 |  |
-| **[Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs](http://arxiv.org/abs/2503.01194v1)** | 2025-03-03 |  |
-| **[MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention](http://arxiv.org/abs/2503.00374v1)** | 2025-03-01 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
