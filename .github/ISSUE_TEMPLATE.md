@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 30, 2025
+title: Latest 20 Papers - March 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,11 +55,14 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain](http://arxiv.org/abs/2503.22397v1)** | 2025-03-28 |  |
+| **[AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings](http://arxiv.org/abs/2503.20316v2)** | 2025-03-28 | 20 pages , 3 figurea |
+| **[A Multi-Site Study on AI-Driven Pathology Detection and Osteoarthritis Grading from Knee X-Ray](http://arxiv.org/abs/2503.22176v1)** | 2025-03-28 | 15 pages, 2 figures |
 | **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v1)** | 2025-03-26 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
-| **[AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings](http://arxiv.org/abs/2503.20316v1)** | 2025-03-26 | 20 pages , 3 figurea |
 | **[Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology](http://arxiv.org/abs/2503.20190v1)** | 2025-03-26 | 11pages,3 figures |
 | **[A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model](http://arxiv.org/abs/2407.15362v3)** | 2025-03-25 | 62 pages |
 | **[Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification](http://arxiv.org/abs/2503.06056v2)** | 2025-03-25 | ICASSP2025(Oral) |
+| **[ELM: Ensemble of Language Models for Predicting Tumor Group from Pathology Reports](http://arxiv.org/abs/2503.21800v1)** | 2025-03-24 |  |
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v1)** | 2025-03-24 | MICCAI 2025 |
 | **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](http://arxiv.org/abs/2503.17970v1)** | 2025-03-23 |  |
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
@@ -72,9 +75,6 @@ labels: documentation
 | **[Prompting Medical Large Vision-Language Models to Diagnose Pathologies by Visual Question Answering](http://arxiv.org/abs/2407.21368v3)** | 2025-03-17 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2025:004</p></details> |
 | **[MLLM4PUE: Toward Universal Embeddings in Digital Pathology through Multimodal LLMs](http://arxiv.org/abs/2502.07221v2)** | 2025-03-16 |  |
 | **[Pathology Image Restoration via Mixture of Prompts](http://arxiv.org/abs/2503.12399v1)** | 2025-03-16 |  |
-| **[Pathology Image Compression with Pre-trained Autoencoders](http://arxiv.org/abs/2503.11591v1)** | 2025-03-14 |  |
-| **[Reproducible Machine Learning-based Voice Pathology Detection: Introducing the Pitch Difference Feature](http://arxiv.org/abs/2410.10537v3)** | 2025-03-14 | <details><summary>Code ...</summary><p>Code repository: https://github.com/aailab-uct/Automated-Robust-and-Reproducible-Voice-Pathology-Detection, Supplementary materials: https://doi.org/10.5281/zenodo.14793017</p></details> |
-| **[CountPath: Automating Fragment Counting in Digital Pathology](http://arxiv.org/abs/2503.10520v1)** | 2025-03-13 | 10 pages, 3 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,7 +103,9 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vision Language Models versus Machine Learning Models Performance on Polyp Detection and Classification in Colonoscopy Images](http://arxiv.org/abs/2503.21840v1)** | 2025-03-27 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/aminkhalafi/CML-vs-LLM-on-Polyp-Detection. CoI: AlSo serves on the advisory board and holds equity in Virgo Surgical Solutions. The other authors declare no conflicts of interest. Data</p></details> |
 | **[A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model](http://arxiv.org/abs/2407.15362v3)** | 2025-03-25 | 62 pages |
+| **[ELM: Ensemble of Language Models for Predicting Tumor Group from Pathology Reports](http://arxiv.org/abs/2503.21800v1)** | 2025-03-24 |  |
 | **[Towards Scalable and Cross-Lingual Specialist Language Models for Oncology](http://arxiv.org/abs/2503.08323v1)** | 2025-03-11 |  |
 | **[Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs](http://arxiv.org/abs/2503.01194v1)** | 2025-03-03 |  |
 | **[Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions](http://arxiv.org/abs/2502.19293v2)** | 2025-02-27 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. arXiv admin note: text overlap with arXiv:2502.19285</p></details> |
@@ -121,8 +123,6 @@ labels: documentation
 | **[PathAlign: A vision-language model for whole slide images in histopathology](http://arxiv.org/abs/2406.19578v1)** | 2024-06-27 | <details><summary>9 mai...</summary><p>9 main pages and 19 pages of supplemental material; 3 main tables, 3 main figures and 11 supplemental tables, 7 supplemental figures</p></details> |
 | **[WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](http://arxiv.org/abs/2311.16480v4)** | 2024-06-27 |  |
 | **[Use of natural language processing to extract and classify papillary thyroid cancer features from surgical pathology reports](http://arxiv.org/abs/2406.00015v1)** | 2024-05-22 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 7 tables</p></details> |
-| **[Large Multimodal Model based Standardisation of Pathology Reports with Confidence and their Prognostic Significance](http://arxiv.org/abs/2405.02040v1)** | 2024-05-03 | 19 pages, 6 figures |
-| **[Beyond Self-Consistency: Ensemble Reasoning Boosts Consistency and Accuracy of LLMs in Cancer Staging](http://arxiv.org/abs/2404.13149v1)** | 2024-04-19 | <details><summary>accep...</summary><p>accepted to the 22nd International Conference on Artificial Intelligence in Medicine (AIME'24)</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
