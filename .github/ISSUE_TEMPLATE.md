@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 01, 2025
+title: Latest 20 Papers - April 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v1)** | 2025-03-31 |  |
+| **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v2)** | 2025-03-29 | <details><summary>Accep...</summary><p>Acceppted by ICME2025</p></details> |
 | **[MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning](http://arxiv.org/abs/2503.23042v1)** | 2025-03-29 |  |
 | **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
@@ -31,7 +31,7 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v1)** | 2025-03-31 |  |
+| **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v2)** | 2025-03-29 | <details><summary>Accep...</summary><p>Acceppted by ICME2025</p></details> |
 | **[MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning](http://arxiv.org/abs/2503.23042v1)** | 2025-03-29 |  |
 | **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
@@ -55,9 +55,9 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[PathOrchestra: A Comprehensive Foundation Model for Computational Pathology with Over 100 Diverse Clinical-Grade Tasks](http://arxiv.org/abs/2503.24345v1)** | 2025-03-31 |  |
 | **[Exploring In-Context Learning Capabilities of ChatGPT for Pathological Speech Detection](http://arxiv.org/abs/2503.23873v1)** | 2025-03-31 | <details><summary>submi...</summary><p>submitted to EUSIPCO 2025</p></details> |
-| **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v1)** | 2025-03-31 |  |
 | **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
 | **[GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain](http://arxiv.org/abs/2503.22397v1)** | 2025-03-28 |  |
 | **[AI-Driven MRI Spine Pathology Detection: A Comprehensive Deep Learning Approach for Automated Diagnosis in Diverse Clinical Settings](http://arxiv.org/abs/2503.20316v2)** | 2025-03-28 | 20 pages , 3 figurea |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
 | **[Vision Language Models versus Machine Learning Models Performance on Polyp Detection and Classification in Colonoscopy Images](http://arxiv.org/abs/2503.21840v1)** | 2025-03-27 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/aminkhalafi/CML-vs-LLM-on-Polyp-Detection. CoI: AlSo serves on the advisory board and holds equity in Virgo Surgical Solutions. The other authors declare no conflicts of interest. Data</p></details> |
 | **[A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model](http://arxiv.org/abs/2407.15362v3)** | 2025-03-25 | 62 pages |
 | **[ELM: Ensemble of Language Models for Predicting Tumor Group from Pathology Reports](http://arxiv.org/abs/2503.21800v1)** | 2025-03-24 |  |
@@ -118,7 +119,6 @@ labels: documentation
 | **[Clinical-grade Multi-Organ Pathology Report Generation for Multi-scale Whole Slide Images via a Semantically Guided Medical Text Foundation Model](http://arxiv.org/abs/2409.15574v1)** | 2024-09-23 |  |
 | **[A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models](http://arxiv.org/abs/2408.14496v3)** | 2024-09-18 | <details><summary>20 pa...</summary><p>20 pages, 19 figures and 9 tables</p></details> |
 | **[Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports](http://arxiv.org/abs/2409.10576v2)** | 2024-09-18 |  |
-| **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v2)** | 2024-09-01 | <details><summary>add t...</summary><p>add the diagnosis evaluation of ICD code</p></details> |
 | **[PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology](http://arxiv.org/abs/2408.07037v1)** | 2024-08-13 | 10 pages, 2 figures |
 | **[PathAlign: A vision-language model for whole slide images in histopathology](http://arxiv.org/abs/2406.19578v1)** | 2024-06-27 | <details><summary>9 mai...</summary><p>9 main pages and 19 pages of supplemental material; 3 main tables, 3 main figures and 11 supplemental tables, 7 supplemental figures</p></details> |
 | **[WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](http://arxiv.org/abs/2311.16480v4)** | 2024-06-27 |  |
