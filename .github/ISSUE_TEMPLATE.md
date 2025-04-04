@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 03, 2025
+title: Latest 20 Papers - April 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
 | **[GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](http://arxiv.org/abs/2504.01009v1)** | 2025-04-01 |  |
 | **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v2)** | 2025-03-29 | <details><summary>Accep...</summary><p>Acceppted by ICME2025</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
 | **[Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology](http://arxiv.org/abs/2503.17238v1)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
 | **[Multi-Modal Foundation Models for Computational Pathology: A Survey](http://arxiv.org/abs/2503.09091v2)** | 2025-03-20 |  |
-| **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2503.16284v1)** | 2025-03-20 | 8 pages, 7 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
 | **[GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](http://arxiv.org/abs/2504.01009v1)** | 2025-04-01 |  |
 | **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v2)** | 2025-03-29 | <details><summary>Accep...</summary><p>Acceppted by ICME2025</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
 | **[Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology](http://arxiv.org/abs/2503.17238v1)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
 | **[Multi-Modal Foundation Models for Computational Pathology: A Survey](http://arxiv.org/abs/2503.09091v2)** | 2025-03-20 |  |
-| **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2503.16284v1)** | 2025-03-20 | 8 pages, 7 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
 | **[Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology](http://arxiv.org/abs/2504.01577v1)** | 2025-04-02 |  |
 | **[Autonomous AI for Multi-Pathology Detection in Chest X-Rays: A Multi-Site Study in the Indian Healthcare System](http://arxiv.org/abs/2504.00022v2)** | 2025-04-02 | 27 pages , 8 figures |
 | **[SCFANet: Style Distribution Constraint Feature Alignment Network For Pathological Staining Translation](http://arxiv.org/abs/2504.00490v1)** | 2025-04-01 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](http://arxiv.org/abs/2503.17970v1)** | 2025-03-23 |  |
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
 | **[Cross-Species Data Integration for Enhanced Layer Segmentation in Kidney Pathology](http://arxiv.org/abs/2408.09278v2)** | 2025-03-21 |  |
-| **[Multi-Modal Foundation Models for Computational Pathology: A Survey](http://arxiv.org/abs/2503.09091v2)** | 2025-03-20 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
