@@ -50,6 +50,7 @@ labels: documentation
 | **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](http://arxiv.org/abs/2503.17970v1)** | 2025-03-23 |  |
 | **[Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning](http://arxiv.org/abs/2411.13623v3)** | 2025-03-22 | <details><summary>Got a...</summary><p>Got accepted at CVPR 2025</p></details> |
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
+| **[Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology](http://arxiv.org/abs/2503.17238v1)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
