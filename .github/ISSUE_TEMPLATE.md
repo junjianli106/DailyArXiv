@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 07, 2025
+title: Latest 20 Papers - April 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides](http://arxiv.org/abs/2504.05219v1)** | 2025-04-07 | 14 pages, 2 figures |
+| **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
+| **[Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging](http://arxiv.org/abs/2504.04749v1)** | 2025-04-07 | 10 pages |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v1)** | 2025-04-05 |  |
+| **[Artificial intelligence application in lymphoma diagnosis: from Convolutional Neural Network to Vision Transformer](http://arxiv.org/abs/2504.04025v1)** | 2025-04-05 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 1 table</p></details> |
 | **[HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification](http://arxiv.org/abs/2411.07660v3)** | 2025-04-04 | Accepted by TMI 2025 |
 | **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
 | **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
@@ -22,15 +27,15 @@ labels: documentation
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v1)** | 2025-03-24 | MICCAI 2025 |
 | **[Quantitative Evaluation of Multiple Instance Learning Reliability For WSIs Classification](http://arxiv.org/abs/2409.11110v2)** | 2025-03-23 |  |
 | **[WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression](http://arxiv.org/abs/2503.18074v1)** | 2025-03-23 |  |
-| **[Histomorphology-driven multi-instance learning for breast cancer WSI classification](http://arxiv.org/abs/2503.17983v1)** | 2025-03-23 | 10 pages,5 figures |
-| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](http://arxiv.org/abs/2503.17970v1)** | 2025-03-23 |  |
-| **[Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning](http://arxiv.org/abs/2411.13623v3)** | 2025-03-22 | <details><summary>Got a...</summary><p>Got accepted at CVPR 2025</p></details> |
-| **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
-| **[Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology](http://arxiv.org/abs/2503.17238v1)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An ensemble deep learning approach to detect tumors on Mohs micrographic surgery slides](http://arxiv.org/abs/2504.05219v1)** | 2025-04-07 | 14 pages, 2 figures |
+| **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
+| **[Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging](http://arxiv.org/abs/2504.04749v1)** | 2025-04-07 | 10 pages |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v1)** | 2025-04-05 |  |
+| **[Artificial intelligence application in lymphoma diagnosis: from Convolutional Neural Network to Vision Transformer](http://arxiv.org/abs/2504.04025v1)** | 2025-04-05 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 1 table</p></details> |
 | **[HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification](http://arxiv.org/abs/2411.07660v3)** | 2025-04-04 | Accepted by TMI 2025 |
 | **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
 | **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
@@ -46,15 +51,13 @@ labels: documentation
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v1)** | 2025-03-24 | MICCAI 2025 |
 | **[Quantitative Evaluation of Multiple Instance Learning Reliability For WSIs Classification](http://arxiv.org/abs/2409.11110v2)** | 2025-03-23 |  |
 | **[WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression](http://arxiv.org/abs/2503.18074v1)** | 2025-03-23 |  |
-| **[Histomorphology-driven multi-instance learning for breast cancer WSI classification](http://arxiv.org/abs/2503.17983v1)** | 2025-03-23 | 10 pages,5 figures |
-| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](http://arxiv.org/abs/2503.17970v1)** | 2025-03-23 |  |
-| **[Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning](http://arxiv.org/abs/2411.13623v3)** | 2025-03-22 | <details><summary>Got a...</summary><p>Got accepted at CVPR 2025</p></details> |
-| **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
-| **[Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology](http://arxiv.org/abs/2503.17238v1)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Training state-of-the-art pathology foundation models with orders of magnitude less data](http://arxiv.org/abs/2504.05186v1)** | 2025-04-07 | 10 pages, 3 figures |
+| **[SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models](http://arxiv.org/abs/2503.02876v2)** | 2025-04-07 |  |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v1)** | 2025-04-05 |  |
 | **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
 | **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
 | **[Instance Migration Diffusion for Nuclear Instance Segmentation in Pathology](http://arxiv.org/abs/2504.01577v1)** | 2025-04-02 |  |
@@ -72,13 +75,13 @@ labels: documentation
 | **[Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification](http://arxiv.org/abs/2503.06056v2)** | 2025-03-25 | ICASSP2025(Oral) |
 | **[ELM: Ensemble of Language Models for Predicting Tumor Group from Pathology Reports](http://arxiv.org/abs/2503.21800v1)** | 2025-03-24 |  |
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v1)** | 2025-03-24 | MICCAI 2025 |
-| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](http://arxiv.org/abs/2503.17970v1)** | 2025-03-23 |  |
-| **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v1)** | 2025-03-21 |  |
-| **[Cross-Species Data Integration for Enhanced Layer Segmentation in Kidney Pathology](http://arxiv.org/abs/2408.09278v2)** | 2025-03-21 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v1)** | 2025-04-05 |  |
+| **[Leveraging Gait Patterns as Biomarkers: An attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification](http://arxiv.org/abs/2504.03894v1)** | 2025-04-04 | 6 pages, 3 figures |
 | **[GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](http://arxiv.org/abs/2504.01009v1)** | 2025-04-01 |  |
 | **[MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning](http://arxiv.org/abs/2503.23042v1)** | 2025-03-29 |  |
 | **[Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology](http://arxiv.org/abs/2503.20190v1)** | 2025-03-26 | 11pages,3 figures |
@@ -96,9 +99,6 @@ labels: documentation
 | **[Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification](http://arxiv.org/abs/2503.10510v1)** | 2025-03-13 |  |
 | **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v2)** | 2025-03-12 | summited to ICCV2025 |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v1)** | 2025-03-11 |  |
-| **[MicroMIL: Graph-based Contextual Multiple Instance Learning for Patient Diagnosis Using Microscopy Images](http://arxiv.org/abs/2407.21604v2)** | 2025-03-07 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
-| **[Spatial Context-Driven Positive Pair Sampling for Enhanced Histopathology Image Classification](http://arxiv.org/abs/2503.05170v1)** | 2025-03-07 |  |
-| **[Rethinking Pre-Trained Feature Extractor Selection in Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2408.01167v5)** | 2025-03-07 | <details><summary>Accep...</summary><p>Accepted to IEEE International Symposium on Biomedical Imaging (ISBI) 2025</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
