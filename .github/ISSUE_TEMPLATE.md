@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 10, 2025
+title: Latest 20 Papers - April 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying regions of interest in whole slide images of renal cell carcinoma](http://arxiv.org/abs/2504.07313v1)** | 2025-04-09 |  |
 | **[A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology](http://arxiv.org/abs/2504.06957v1)** | 2025-04-09 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, SCIA2025</p></details> |
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v2)** | 2025-04-09 | 30 pages, 11 figures |
 | **[Assessing the risk of recurrence in early-stage breast cancer through H&E stained whole slide images](http://arxiv.org/abs/2406.06650v2)** | 2025-04-09 | 20 pages, 9 figures |
@@ -26,11 +27,11 @@ labels: documentation
 | **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
 | **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v1)** | 2025-03-26 |  |
 | **[Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology](http://arxiv.org/abs/2503.20190v1)** | 2025-03-26 | 11pages,3 figures |
-| **[A Prototype-Guided Coarse Annotations Refining Approach for Whole Slide Images](http://arxiv.org/abs/2503.19407v1)** | 2025-03-25 | 10 pages |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying regions of interest in whole slide images of renal cell carcinoma](http://arxiv.org/abs/2504.07313v1)** | 2025-04-09 |  |
 | **[A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology](http://arxiv.org/abs/2504.06957v1)** | 2025-04-09 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, SCIA2025</p></details> |
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v2)** | 2025-04-09 | 30 pages, 11 figures |
 | **[Assessing the risk of recurrence in early-stage breast cancer through H&E stained whole slide images](http://arxiv.org/abs/2406.06650v2)** | 2025-04-09 | 20 pages, 9 figures |
@@ -50,7 +51,6 @@ labels: documentation
 | **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
 | **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v1)** | 2025-03-26 |  |
 | **[Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology](http://arxiv.org/abs/2503.20190v1)** | 2025-03-26 | 11pages,3 figures |
-| **[A Prototype-Guided Coarse Annotations Refining Approach for Whole Slide Images](http://arxiv.org/abs/2503.19407v1)** | 2025-03-25 | 10 pages |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[P2Object: Single Point Supervised Object Detection and Instance Segmentation](http://arxiv.org/abs/2504.07813v1)** | 2025-04-10 | Accepted by IJCV |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
 | **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v1)** | 2025-04-05 |  |
 | **[Leveraging Gait Patterns as Biomarkers: An attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification](http://arxiv.org/abs/2504.03894v1)** | 2025-04-04 | 6 pages, 3 figures |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method](http://arxiv.org/abs/2501.07496v2)** | 2025-03-14 |  |
 | **[Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification](http://arxiv.org/abs/2503.10510v1)** | 2025-03-13 |  |
 | **[MsaMIL-Net: An End-to-End Multi-Scale Aware Multiple Instance Learning Network for Efficient Whole Slide Image Classification](http://arxiv.org/abs/2503.08581v2)** | 2025-03-12 | summited to ICCV2025 |
-| **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v1)** | 2025-03-11 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
