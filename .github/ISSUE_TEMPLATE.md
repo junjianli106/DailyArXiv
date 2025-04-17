@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 16, 2025
+title: Latest 20 Papers - April 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
 | **[Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation](http://arxiv.org/abs/2407.18449v3)** | 2025-04-14 | update |
 | **[Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network](http://arxiv.org/abs/2504.09430v1)** | 2025-04-13 | <details><summary>Work ...</summary><p>Work accepted at ISBI 2025</p></details> |
 | **[Identifying regions of interest in whole slide images of renal cell carcinoma](http://arxiv.org/abs/2504.07313v1)** | 2025-04-09 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v2)** | 2025-03-29 | <details><summary>Accep...</summary><p>Acceppted by ICME2025</p></details> |
 | **[MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning](http://arxiv.org/abs/2503.23042v1)** | 2025-03-29 |  |
-| **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
 | **[Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation](http://arxiv.org/abs/2407.18449v3)** | 2025-04-14 | update |
 | **[Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network](http://arxiv.org/abs/2504.09430v1)** | 2025-04-13 | <details><summary>Work ...</summary><p>Work accepted at ISBI 2025</p></details> |
 | **[Identifying regions of interest in whole slide images of renal cell carcinoma](http://arxiv.org/abs/2504.07313v1)** | 2025-04-09 |  |
@@ -50,11 +51,12 @@ labels: documentation
 | **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v2)** | 2025-03-29 | <details><summary>Accep...</summary><p>Acceppted by ICME2025</p></details> |
 | **[MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning](http://arxiv.org/abs/2503.23042v1)** | 2025-03-29 |  |
-| **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-modal vision-language model for generalizable annotation-free pathology localization and clinical diagnosis](http://arxiv.org/abs/2401.02044v5)** | 2025-04-16 |  |
+| **[Pathological Cases for a Class of Reachability-Based Garbage Collectors](http://arxiv.org/abs/2504.11654v1)** | 2025-04-15 | OOPSLA 2025 |
 | **[Towards contrast- and pathology-agnostic clinical fetal brain MRI segmentation using SynthSeg](http://arxiv.org/abs/2504.10244v1)** | 2025-04-14 | 21 pages, 16 figures |
 | **[Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation](http://arxiv.org/abs/2407.18449v3)** | 2025-04-14 | update |
 | **[PathVLM-R1: A Reinforcement Learning-Driven Reasoning Model for Pathology Visual-Language Tasks](http://arxiv.org/abs/2504.09258v1)** | 2025-04-12 |  |
@@ -73,12 +75,11 @@ labels: documentation
 | **[SCFANet: Style Distribution Constraint Feature Alignment Network For Pathological Staining Translation](http://arxiv.org/abs/2504.00490v1)** | 2025-04-01 |  |
 | **[Learned Image Compression and Restoration for Digital Pathology](http://arxiv.org/abs/2503.23862v2)** | 2025-04-01 |  |
 | **[PathOrchestra: A Comprehensive Foundation Model for Computational Pathology with Over 100 Diverse Clinical-Grade Tasks](http://arxiv.org/abs/2503.24345v1)** | 2025-03-31 |  |
-| **[Exploring In-Context Learning Capabilities of ChatGPT for Pathological Speech Detection](http://arxiv.org/abs/2503.23873v1)** | 2025-03-31 | <details><summary>submi...</summary><p>submitted to EUSIPCO 2025</p></details> |
-| **[The impact of tissue detection on diagnostic artificial intelligence algorithms in digital pathology](http://arxiv.org/abs/2503.23021v1)** | 2025-03-29 | <details><summary>25 pa...</summary><p>25 pages, 2 tables, 3 figures, 1 supplementary figure</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
 | **[Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network](http://arxiv.org/abs/2504.09430v1)** | 2025-04-13 | <details><summary>Work ...</summary><p>Work accepted at ISBI 2025</p></details> |
 | **[P2Object: Single Point Supervised Object Detection and Instance Segmentation](http://arxiv.org/abs/2504.07813v1)** | 2025-04-10 | Accepted by IJCV |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[AI-Driven Rapid Identification of Bacterial and Fungal Pathogens in Blood Smears of Septic Patients](http://arxiv.org/abs/2503.14542v1)** | 2025-03-17 |  |
 | **[Pathology Image Compression with Pre-trained Autoencoders](http://arxiv.org/abs/2503.11591v1)** | 2025-03-14 |  |
 | **[Aligning First, Then Fusing: A Novel Weakly Supervised Multimodal Violence Detection Method](http://arxiv.org/abs/2501.07496v2)** | 2025-03-14 |  |
-| **[Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification](http://arxiv.org/abs/2503.10510v1)** | 2025-03-13 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
