@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 21, 2025
+title: Latest 20 Papers - April 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v1)** | 2025-04-21 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v1)** | 2025-04-18 | 14pages, 8 figures |
 | **[GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation](http://arxiv.org/abs/2402.03592v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted in Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025</p></details> |
 | **[ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images](http://arxiv.org/abs/2504.13023v1)** | 2025-04-17 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Artificial intelligence application in lymphoma diagnosis: from Convolutional Neural Network to Vision Transformer](http://arxiv.org/abs/2504.04025v1)** | 2025-04-05 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 1 table</p></details> |
 | **[HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification](http://arxiv.org/abs/2411.07660v3)** | 2025-04-04 | Accepted by TMI 2025 |
 | **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
-| **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v1)** | 2025-04-21 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v1)** | 2025-04-18 | 14pages, 8 figures |
 | **[GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation](http://arxiv.org/abs/2402.03592v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted in Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025</p></details> |
 | **[ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images](http://arxiv.org/abs/2504.13023v1)** | 2025-04-17 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Artificial intelligence application in lymphoma diagnosis: from Convolutional Neural Network to Vision Transformer](http://arxiv.org/abs/2504.04025v1)** | 2025-04-05 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, 1 table</p></details> |
 | **[HMIL: Hierarchical Multi-Instance Learning for Fine-Grained Whole Slide Image Classification](http://arxiv.org/abs/2411.07660v3)** | 2025-04-04 | Accepted by TMI 2025 |
 | **[BioX-CPath: Biologically-driven Explainable Diagnostics for Multistain IHC Computational Pathology](http://arxiv.org/abs/2503.20880v2)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2025</p></details> |
-| **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v1)** | 2025-04-03 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v1)** | 2025-04-21 |  |
 | **[GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation](http://arxiv.org/abs/2402.03592v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted in Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025</p></details> |
 | **[CytoFM: The first cytology foundation model](http://arxiv.org/abs/2504.13402v1)** | 2025-04-18 |  |
 | **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Weakly Supervised Segmentation of Hyper-Reflective Foci with Compact Convolutional Transformers and SAM2](http://arxiv.org/abs/2501.05933v2)** | 2025-03-21 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, accepted at German Conference on Medical Image Computing 2025</p></details> |
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2503.16284v1)** | 2025-03-20 | 8 pages, 7 figures |
 | **[SMILE: a Scale-aware Multiple Instance Learning Method for Multicenter STAS Lung Cancer Histopathology Diagnosis](http://arxiv.org/abs/2503.13799v1)** | 2025-03-18 |  |
-| **[AI-Driven Rapid Identification of Bacterial and Fungal Pathogens in Blood Smears of Septic Patients](http://arxiv.org/abs/2503.14542v1)** | 2025-03-17 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
