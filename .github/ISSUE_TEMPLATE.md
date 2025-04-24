@@ -89,16 +89,6 @@ labels: documentation
 | **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v1)** | 2025-04-05 |  |
 | **[Leveraging Gait Patterns as Biomarkers: An attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification](http://arxiv.org/abs/2504.03894v1)** | 2025-04-04 | 6 pages, 3 figures |
 | **[GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](http://arxiv.org/abs/2504.01009v1)** | 2025-04-01 |  |
-| **[MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning](http://arxiv.org/abs/2503.23042v1)** | 2025-03-29 |  |
-| **[Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology](http://arxiv.org/abs/2503.20190v1)** | 2025-03-26 | 11pages,3 figures |
-| **[Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification](http://arxiv.org/abs/2503.06056v2)** | 2025-03-25 | ICASSP2025(Oral) |
-| **[ZoomLDM: Latent Diffusion Model for multi-scale image generation](http://arxiv.org/abs/2411.16969v2)** | 2025-03-24 |  |
-| **[Quantitative Evaluation of Multiple Instance Learning Reliability For WSIs Classification](http://arxiv.org/abs/2409.11110v2)** | 2025-03-23 |  |
-| **[Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning](http://arxiv.org/abs/2411.13623v3)** | 2025-03-22 | <details><summary>Got a...</summary><p>Got accepted at CVPR 2025</p></details> |
-| **[Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology](http://arxiv.org/abs/2503.17238v1)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
-| **[Weakly Supervised Segmentation of Hyper-Reflective Foci with Compact Convolutional Transformers and SAM2](http://arxiv.org/abs/2501.05933v2)** | 2025-03-21 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, accepted at German Conference on Medical Image Computing 2025</p></details> |
-| **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2503.16284v1)** | 2025-03-20 | 8 pages, 7 figures |
-| **[SMILE: a Scale-aware Multiple Instance Learning Method for Multicenter STAS Lung Cancer Histopathology Diagnosis](http://arxiv.org/abs/2503.13799v1)** | 2025-03-18 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
