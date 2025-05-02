@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 01, 2025
+title: Latest 20 Papers - May 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design](http://arxiv.org/abs/2505.00134v1)** | 2025-04-30 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v2)** | 2025-04-29 | 10pages, 8 figures |
 | **[Position: From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](http://arxiv.org/abs/2408.09449v2)** | 2025-04-27 |  |
 | **[Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation](http://arxiv.org/abs/2504.18856v1)** | 2025-04-26 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v2)** | 2025-04-09 | 30 pages, 11 figures |
 | **[Assessing the risk of recurrence in early-stage breast cancer through H&E stained whole slide images](http://arxiv.org/abs/2406.06650v2)** | 2025-04-09 | 20 pages, 9 figures |
 | **[Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging](http://arxiv.org/abs/2504.04749v2)** | 2025-04-08 | 11 pages |
-| **[A Novel Approach to Linking Histology Images with DNA Methylation](http://arxiv.org/abs/2504.05403v1)** | 2025-04-07 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design](http://arxiv.org/abs/2505.00134v1)** | 2025-04-30 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v2)** | 2025-04-29 | 10pages, 8 figures |
 | **[Position: From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](http://arxiv.org/abs/2408.09449v2)** | 2025-04-27 |  |
 | **[Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation](http://arxiv.org/abs/2504.18856v1)** | 2025-04-26 |  |
@@ -50,11 +51,12 @@ labels: documentation
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v2)** | 2025-04-09 | 30 pages, 11 figures |
 | **[Assessing the risk of recurrence in early-stage breast cancer through H&E stained whole slide images](http://arxiv.org/abs/2406.06650v2)** | 2025-04-09 | 20 pages, 9 figures |
 | **[Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging](http://arxiv.org/abs/2504.04749v2)** | 2025-04-08 | 11 pages |
-| **[A Novel Approach to Linking Histology Images with DNA Methylation](http://arxiv.org/abs/2504.05403v1)** | 2025-04-07 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Perceptual Implications of Automatic Anonymization in Pathological Speech](http://arxiv.org/abs/2505.00409v1)** | 2025-05-01 |  |
+| **[Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design](http://arxiv.org/abs/2505.00134v1)** | 2025-04-30 |  |
 | **[MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment](http://arxiv.org/abs/2403.10635v2)** | 2025-04-30 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v2)** | 2025-04-29 | 10pages, 8 figures |
 | **[Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation](http://arxiv.org/abs/2504.18856v1)** | 2025-04-26 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[PathSegDiff: Pathology Segmentation using Diffusion model representations](http://arxiv.org/abs/2504.06950v1)** | 2025-04-09 |  |
 | **[CTI-Unet: Cascaded Threshold Integration for Improved U-Net Segmentation of Pathology Images](http://arxiv.org/abs/2504.05640v1)** | 2025-04-08 |  |
 | **[Transfer Learning Strategies for Pathological Foundation Models: A Systematic Evaluation in Brain Tumor Classification](http://arxiv.org/abs/2501.11014v2)** | 2025-04-08 | 25 pages, 7 figures |
-| **[Training state-of-the-art pathology foundation models with orders of magnitude less data](http://arxiv.org/abs/2504.05186v1)** | 2025-04-07 | 10 pages, 3 figures |
-| **[SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models](http://arxiv.org/abs/2503.02876v2)** | 2025-04-07 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
