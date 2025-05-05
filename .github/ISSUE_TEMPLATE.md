@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 04, 2025
+title: Latest 20 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
 | **[Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design](http://arxiv.org/abs/2505.00134v1)** | 2025-04-30 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v2)** | 2025-04-29 | 10pages, 8 figures |
 | **[Position: From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](http://arxiv.org/abs/2408.09449v2)** | 2025-04-27 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology](http://arxiv.org/abs/2504.06957v1)** | 2025-04-09 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, SCIA2025</p></details> |
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v2)** | 2025-04-09 | 30 pages, 11 figures |
 | **[Assessing the risk of recurrence in early-stage breast cancer through H&E stained whole slide images](http://arxiv.org/abs/2406.06650v2)** | 2025-04-09 | 20 pages, 9 figures |
-| **[Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging](http://arxiv.org/abs/2504.04749v2)** | 2025-04-08 | 11 pages |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
 | **[Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design](http://arxiv.org/abs/2505.00134v1)** | 2025-04-30 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v2)** | 2025-04-29 | 10pages, 8 figures |
 | **[Position: From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](http://arxiv.org/abs/2408.09449v2)** | 2025-04-27 |  |
@@ -50,11 +51,12 @@ labels: documentation
 | **[A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology](http://arxiv.org/abs/2504.06957v1)** | 2025-04-09 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, SCIA2025</p></details> |
 | **[A Lightweight and Extensible Cell Segmentation and Classification Model for Whole Slide Images](http://arxiv.org/abs/2502.19217v2)** | 2025-04-09 | 30 pages, 11 figures |
 | **[Assessing the risk of recurrence in early-stage breast cancer through H&E stained whole slide images](http://arxiv.org/abs/2406.06650v2)** | 2025-04-09 | 20 pages, 9 figures |
-| **[Vision Transformers with Autoencoders and Explainable AI for Cancer Patient Risk Stratification Using Whole Slide Imaging](http://arxiv.org/abs/2504.04749v2)** | 2025-04-08 | 11 pages |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework for Predicting Pathological Response in Non-Small Cell Lung Cancer](http://arxiv.org/abs/2505.01390v1)** | 2025-05-02 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2502.17503</p></details> |
+| **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
 | **[Perceptual Implications of Automatic Anonymization in Pathological Speech](http://arxiv.org/abs/2505.00409v1)** | 2025-05-01 |  |
 | **[Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design](http://arxiv.org/abs/2505.00134v1)** | 2025-04-30 |  |
 | **[MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment](http://arxiv.org/abs/2403.10635v2)** | 2025-04-30 |  |
@@ -73,12 +75,11 @@ labels: documentation
 | **[PathSeqSAM: Sequential Modeling for Pathology Image Segmentation with SAM2](http://arxiv.org/abs/2504.10526v1)** | 2025-04-12 |  |
 | **[Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer](http://arxiv.org/abs/2504.07061v1)** | 2025-04-09 |  |
 | **[PathSegDiff: Pathology Segmentation using Diffusion model representations](http://arxiv.org/abs/2504.06950v1)** | 2025-04-09 |  |
-| **[CTI-Unet: Cascaded Threshold Integration for Improved U-Net Segmentation of Pathology Images](http://arxiv.org/abs/2504.05640v1)** | 2025-04-08 |  |
-| **[Transfer Learning Strategies for Pathological Foundation Models: A Systematic Evaluation in Brain Tumor Classification](http://arxiv.org/abs/2501.11014v2)** | 2025-04-08 | 25 pages, 7 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
 | **[A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology](http://arxiv.org/abs/2504.17379v2)** | 2025-04-25 |  |
 | **[Multiple-Instance, Cascaded Classification for Keyword Spotting in Narrow-Band Audio](http://arxiv.org/abs/1711.08058v2)** | 2025-04-25 | <details><summary>Publi...</summary><p>Published in the proceedings of NeurIPS 2017 Workshop: Machine Learning on the Phone and other Consumer Devices</p></details> |
 | **[Set2Seq Transformer: Temporal and Positional-Aware Set Representations for Sequential Multiple-Instance Learning](http://arxiv.org/abs/2408.03404v2)** | 2025-04-23 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[ZoomLDM: Latent Diffusion Model for multi-scale image generation](http://arxiv.org/abs/2411.16969v2)** | 2025-03-24 |  |
 | **[Quantitative Evaluation of Multiple Instance Learning Reliability For WSIs Classification](http://arxiv.org/abs/2409.11110v2)** | 2025-03-23 |  |
 | **[Unsupervised Foundation Model-Agnostic Slide-Level Representation Learning](http://arxiv.org/abs/2411.13623v3)** | 2025-03-22 | <details><summary>Got a...</summary><p>Got accepted at CVPR 2025</p></details> |
-| **[Slide-Level Prompt Learning with Vision Language Models for Few-Shot Multiple Instance Learning in Histopathology](http://arxiv.org/abs/2503.17238v1)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted to ISBI 2025</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
