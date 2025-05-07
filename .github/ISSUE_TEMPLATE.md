@@ -128,8 +128,4 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions](http://arxiv.org/abs/2502.19293v2)** | 2025-02-27 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. arXiv admin note: text overlap with arXiv:2502.19285</p></details> |
-| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v2)** | 2025-02-27 | 11 pages, 1 figure |
-| **[PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation](http://arxiv.org/abs/2502.10536v1)** | 2025-02-14 | <details><summary>8 mai...</summary><p>8 main pages, 21 pages in total</p></details> |
-| **[Multimodal Whole Slide Foundation Model for Pathology](http://arxiv.org/abs/2411.19666v1)** | 2024-11-29 | <details><summary>The c...</summary><p>The code is accessible at https://github.com/mahmoodlab/TITAN</p></details> |
-| **[Clinical-grade Multi-Organ Pathology Report Generation for Multi-scale Whole Slide Images via a Semantically Guided Medical Text Foundation Model](http://arxiv.org/abs/2409.15574v1)** | 2024-09-23 |  |
 
