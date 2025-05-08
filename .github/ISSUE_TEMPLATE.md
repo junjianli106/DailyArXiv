@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 07, 2025
+title: Latest 20 Papers - May 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages](http://arxiv.org/abs/2505.04150v1)** | 2025-05-07 | <details><summary>MICCA...</summary><p>MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]</p></details> |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v3)** | 2025-05-06 | 10pages, 8 figures |
 | **[Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow](http://arxiv.org/abs/2505.02780v1)** | 2025-05-05 |  |
 | **[GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology](http://arxiv.org/abs/2501.04206v2)** | 2025-05-05 | <details><summary>25 Pa...</summary><p>25 Pages, 10 Figures, 1 Tables</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
 | **[Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation](http://arxiv.org/abs/2407.18449v3)** | 2025-04-14 | update |
 | **[Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network](http://arxiv.org/abs/2504.09430v1)** | 2025-04-13 | <details><summary>Work ...</summary><p>Work accepted at ISBI 2025</p></details> |
-| **[Identifying regions of interest in whole slide images of renal cell carcinoma](http://arxiv.org/abs/2504.07313v1)** | 2025-04-09 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages](http://arxiv.org/abs/2505.04150v1)** | 2025-05-07 | <details><summary>MICCA...</summary><p>MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]</p></details> |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v3)** | 2025-05-06 | 10pages, 8 figures |
 | **[Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow](http://arxiv.org/abs/2505.02780v1)** | 2025-05-05 |  |
 | **[GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology](http://arxiv.org/abs/2501.04206v2)** | 2025-05-05 | <details><summary>25 Pa...</summary><p>25 Pages, 10 Figures, 1 Tables</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
 | **[Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation](http://arxiv.org/abs/2407.18449v3)** | 2025-04-14 | update |
 | **[Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network](http://arxiv.org/abs/2504.09430v1)** | 2025-04-13 | <details><summary>Work ...</summary><p>Work accepted at ISBI 2025</p></details> |
-| **[Identifying regions of interest in whole slide images of renal cell carcinoma](http://arxiv.org/abs/2504.07313v1)** | 2025-04-09 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning](http://arxiv.org/abs/2505.04192v1)** | 2025-05-07 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v3)** | 2025-05-06 | 10pages, 8 figures |
 | **[Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow](http://arxiv.org/abs/2505.02780v1)** | 2025-05-05 |  |
 | **[Multimodal Doctor-in-the-Loop: A Clinically-Guided Explainable Framework for Predicting Pathological Response in Non-Small Cell Lung Cancer](http://arxiv.org/abs/2505.01390v1)** | 2025-05-02 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2502.17503</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Towards contrast- and pathology-agnostic clinical fetal brain MRI segmentation using SynthSeg](http://arxiv.org/abs/2504.10244v1)** | 2025-04-14 | 21 pages, 16 figures |
 | **[Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation](http://arxiv.org/abs/2407.18449v3)** | 2025-04-14 | update |
 | **[PathSeqSAM: Sequential Modeling for Pathology Image Segmentation with SAM2](http://arxiv.org/abs/2504.10526v1)** | 2025-04-12 |  |
-| **[Teaching pathology foundation models to accurately predict gene expression with parameter efficient knowledge transfer](http://arxiv.org/abs/2504.07061v1)** | 2025-04-09 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -128,4 +128,8 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions](http://arxiv.org/abs/2502.19293v2)** | 2025-02-27 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. arXiv admin note: text overlap with arXiv:2502.19285</p></details> |
+| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v2)** | 2025-02-27 | 11 pages, 1 figure |
+| **[PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation](http://arxiv.org/abs/2502.10536v1)** | 2025-02-14 | <details><summary>8 mai...</summary><p>8 main pages, 21 pages in total</p></details> |
+| **[Multimodal Whole Slide Foundation Model for Pathology](http://arxiv.org/abs/2411.19666v1)** | 2024-11-29 | <details><summary>The c...</summary><p>The code is accessible at https://github.com/mahmoodlab/TITAN</p></details> |
+| **[Clinical-grade Multi-Organ Pathology Report Generation for Multi-scale Whole Slide Images via a Semantically Guided Medical Text Foundation Model](http://arxiv.org/abs/2409.15574v1)** | 2024-09-23 |  |
 
