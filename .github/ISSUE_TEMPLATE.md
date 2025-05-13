@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 12, 2025
+title: Latest 20 Papers - May 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis](http://arxiv.org/abs/2412.09521v2)** | 2025-05-12 |  |
 | **[Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages](http://arxiv.org/abs/2505.04150v2)** | 2025-05-08 | <details><summary>MICCA...</summary><p>MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]</p></details> |
 | **[ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization](http://arxiv.org/abs/2505.05041v1)** | 2025-05-08 |  |
 | **[Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma](http://arxiv.org/abs/2505.04672v1)** | 2025-05-07 | <details><summary>31 pa...</summary><p>31 pages including supplement, 5 core figures, 5 supplement figures</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation](http://arxiv.org/abs/2402.03592v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted in Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025</p></details> |
 | **[ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images](http://arxiv.org/abs/2504.13023v1)** | 2025-04-17 |  |
 | **[TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology](http://arxiv.org/abs/2504.12718v1)** | 2025-04-17 | <details><summary>32 pa...</summary><p>32 pages, 15 figures, 3 tables, 42 references</p></details> |
-| **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis](http://arxiv.org/abs/2412.09521v2)** | 2025-05-12 |  |
 | **[Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages](http://arxiv.org/abs/2505.04150v2)** | 2025-05-08 | <details><summary>MICCA...</summary><p>MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]</p></details> |
 | **[ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization](http://arxiv.org/abs/2505.05041v1)** | 2025-05-08 |  |
 | **[Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma](http://arxiv.org/abs/2505.04672v1)** | 2025-05-07 | <details><summary>31 pa...</summary><p>31 pages including supplement, 5 core figures, 5 supplement figures</p></details> |
@@ -50,11 +51,12 @@ labels: documentation
 | **[GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation](http://arxiv.org/abs/2402.03592v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted in Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025</p></details> |
 | **[ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images](http://arxiv.org/abs/2504.13023v1)** | 2025-04-17 |  |
 | **[TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology](http://arxiv.org/abs/2504.12718v1)** | 2025-04-17 | <details><summary>32 pa...</summary><p>32 pages, 15 figures, 3 tables, 42 references</p></details> |
-| **[Weakly Semi-supervised Whole Slide Image Classification by Two-level Cross Consistency Supervision](http://arxiv.org/abs/2504.12132v1)** | 2025-04-16 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis](http://arxiv.org/abs/2412.09521v2)** | 2025-05-12 |  |
+| **[SimMIL: A Universal Weakly Supervised Pre-Training Framework for Multi-Instance Learning in Whole Slide Pathology Images](http://arxiv.org/abs/2505.06710v1)** | 2025-05-10 |  |
 | **[ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](http://arxiv.org/abs/2505.04963v1)** | 2025-05-08 |  |
 | **[VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning](http://arxiv.org/abs/2505.04192v1)** | 2025-05-07 |  |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v3)** | 2025-05-06 | 10pages, 8 figures |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Multi-modal vision-language model for generalizable annotation-free pathology localization and clinical diagnosis](http://arxiv.org/abs/2401.02044v5)** | 2025-04-16 |  |
 | **[Pathological Cases for a Class of Reachability-Based Garbage Collectors](http://arxiv.org/abs/2504.11654v1)** | 2025-04-15 | OOPSLA 2025 |
 | **[Prototype-Guided Diffusion for Digital Pathology: Achieving Foundation Model Performance with Minimal Clinical Data](http://arxiv.org/abs/2504.12351v1)** | 2025-04-15 |  |
-| **[Towards contrast- and pathology-agnostic clinical fetal brain MRI segmentation using SynthSeg](http://arxiv.org/abs/2504.10244v1)** | 2025-04-14 | 21 pages, 16 figures |
-| **[Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation](http://arxiv.org/abs/2407.18449v3)** | 2025-04-14 | update |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Survival Modeling in the Age of Foundation Models](http://arxiv.org/abs/2505.07683v1)** | 2025-05-12 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 8 tables</p></details> |
 | **[Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare](http://arxiv.org/abs/2504.21191v1)** | 2025-04-29 |  |
 | **[Global explainability of a deep abstaining classifier](http://arxiv.org/abs/2504.01202v1)** | 2025-04-01 |  |
 | **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models](http://arxiv.org/abs/2408.14496v3)** | 2024-09-18 | <details><summary>20 pa...</summary><p>20 pages, 19 figures and 9 tables</p></details> |
 | **[Language Models and Retrieval Augmented Generation for Automated Structured Data Extraction from Diagnostic Reports](http://arxiv.org/abs/2409.10576v2)** | 2024-09-18 |  |
 | **[PathInsight: Instruction Tuning of Multimodal Datasets and Models for Intelligence Assisted Diagnosis in Histopathology](http://arxiv.org/abs/2408.07037v1)** | 2024-08-13 | 10 pages, 2 figures |
-| **[PathAlign: A vision-language model for whole slide images in histopathology](http://arxiv.org/abs/2406.19578v1)** | 2024-06-27 | <details><summary>9 mai...</summary><p>9 main pages and 19 pages of supplemental material; 3 main tables, 3 main figures and 11 supplemental tables, 7 supplemental figures</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
