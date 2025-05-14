@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 13, 2025
+title: Latest 20 Papers - May 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis](http://arxiv.org/abs/2505.08524v1)** | 2025-05-13 |  |
+| **[GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI](http://arxiv.org/abs/2505.08430v1)** | 2025-05-13 |  |
 | **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis](http://arxiv.org/abs/2412.09521v2)** | 2025-05-12 |  |
 | **[Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages](http://arxiv.org/abs/2505.04150v2)** | 2025-05-08 | <details><summary>MICCA...</summary><p>MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]</p></details> |
 | **[ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization](http://arxiv.org/abs/2505.05041v1)** | 2025-05-08 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[ZeroSlide: Is Zero-Shot Classification Adequate for Lifelong Learning in Whole-Slide Image Analysis in the Era of Pathology Vision-Language Foundation Models?](http://arxiv.org/abs/2504.15627v1)** | 2025-04-22 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 1 table, conference submission</p></details> |
 | **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v1)** | 2025-04-21 |  |
 | **[GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation](http://arxiv.org/abs/2402.03592v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted in Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025</p></details> |
-| **[ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images](http://arxiv.org/abs/2504.13023v1)** | 2025-04-17 |  |
-| **[TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology](http://arxiv.org/abs/2504.12718v1)** | 2025-04-17 | <details><summary>32 pa...</summary><p>32 pages, 15 figures, 3 tables, 42 references</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis](http://arxiv.org/abs/2505.08524v1)** | 2025-05-13 |  |
+| **[GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI](http://arxiv.org/abs/2505.08430v1)** | 2025-05-13 |  |
 | **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis](http://arxiv.org/abs/2412.09521v2)** | 2025-05-12 |  |
 | **[Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages](http://arxiv.org/abs/2505.04150v2)** | 2025-05-08 | <details><summary>MICCA...</summary><p>MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]</p></details> |
 | **[ADNP-15: An Open-Source Histopathological Dataset for Neuritic Plaque Segmentation in Human Brain Whole Slide Images with Frequency Domain Image Enhancement for Stain Normalization](http://arxiv.org/abs/2505.05041v1)** | 2025-05-08 |  |
@@ -49,8 +51,6 @@ labels: documentation
 | **[ZeroSlide: Is Zero-Shot Classification Adequate for Lifelong Learning in Whole-Slide Image Analysis in the Era of Pathology Vision-Language Foundation Models?](http://arxiv.org/abs/2504.15627v1)** | 2025-04-22 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 1 table, conference submission</p></details> |
 | **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v1)** | 2025-04-21 |  |
 | **[GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation](http://arxiv.org/abs/2402.03592v2)** | 2025-04-18 | <details><summary>Accep...</summary><p>Accepted in Learning Meaningful Representations of Life (LMRL) Workshop at ICLR 2025</p></details> |
-| **[ChatEXAONEPath: An Expert-level Multimodal Large Language Model for Histopathology Using Whole Slide Images](http://arxiv.org/abs/2504.13023v1)** | 2025-04-17 |  |
-| **[TUMLS: Trustful Fully Unsupervised Multi-Level Segmentation for Whole Slide Images of Histology](http://arxiv.org/abs/2504.12718v1)** | 2025-04-17 | <details><summary>32 pa...</summary><p>32 pages, 15 figures, 3 tables, 42 references</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis](http://arxiv.org/abs/2505.08524v1)** | 2025-05-13 |  |
 | **[ProDisc-VAD: An Efficient System for Weakly-Supervised Anomaly Detection in Video Surveillance Applications](http://arxiv.org/abs/2505.02179v1)** | 2025-05-04 |  |
 | **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
 | **[A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology](http://arxiv.org/abs/2504.17379v2)** | 2025-04-25 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Cross-Modal Prototype Allocation: Unsupervised Slide Representation Learning via Patch-Text Contrast in Computational Pathology](http://arxiv.org/abs/2503.20190v1)** | 2025-03-26 | 11pages,3 figures |
 | **[Pathological Prior-Guided Multiple Instance Learning For Mitigating Catastrophic Forgetting in Breast Cancer Whole Slide Image Classification](http://arxiv.org/abs/2503.06056v2)** | 2025-03-25 | ICASSP2025(Oral) |
 | **[ZoomLDM: Latent Diffusion Model for multi-scale image generation](http://arxiv.org/abs/2411.16969v2)** | 2025-03-24 |  |
-| **[Quantitative Evaluation of Multiple Instance Learning Reliability For WSIs Classification](http://arxiv.org/abs/2409.11110v2)** | 2025-03-23 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
