@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 21, 2025
+title: Latest 20 Papers - May 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology](http://arxiv.org/abs/2501.17822v2)** | 2025-05-21 |  |
+| **[Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2505.15504v1)** | 2025-05-21 |  |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v2)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2025 Survey Track, 10 Pages</p></details> |
 | **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v2)** | 2025-05-20 | Accepted by ICML2025 |
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
 | **[Automated Quality Evaluation of Cervical Cytopathology Whole Slide Images Based on Content Analysis](http://arxiv.org/abs/2505.13875v1)** | 2025-05-20 | 12 pages, 10 figures |
@@ -24,13 +27,13 @@ labels: documentation
 | **[Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma](http://arxiv.org/abs/2505.04672v1)** | 2025-05-07 | <details><summary>31 pa...</summary><p>31 pages including supplement, 5 core figures, 5 supplement figures</p></details> |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v3)** | 2025-05-06 | 10pages, 8 figures |
 | **[Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow](http://arxiv.org/abs/2505.02780v1)** | 2025-05-05 |  |
-| **[GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology](http://arxiv.org/abs/2501.04206v2)** | 2025-05-05 | <details><summary>25 Pa...</summary><p>25 Pages, 10 Figures, 1 Tables</p></details> |
-| **[Lifelong Whole Slide Image Analysis: Online Vision-Language Adaptation and Past-to-Present Gradient Distillation](http://arxiv.org/abs/2505.01984v1)** | 2025-05-04 |  |
-| **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology](http://arxiv.org/abs/2501.17822v2)** | 2025-05-21 |  |
+| **[Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2505.15504v1)** | 2025-05-21 |  |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v2)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2025 Survey Track, 10 Pages</p></details> |
 | **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v2)** | 2025-05-20 | Accepted by ICML2025 |
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
 | **[Automated Quality Evaluation of Cervical Cytopathology Whole Slide Images Based on Content Analysis](http://arxiv.org/abs/2505.13875v1)** | 2025-05-20 | 12 pages, 10 figures |
@@ -48,13 +51,13 @@ labels: documentation
 | **[Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma](http://arxiv.org/abs/2505.04672v1)** | 2025-05-07 | <details><summary>31 pa...</summary><p>31 pages including supplement, 5 core figures, 5 supplement figures</p></details> |
 | **[Towards Accurate and Interpretable Neuroblastoma Diagnosis via Contrastive Multi-scale Pathological Image Analysis](http://arxiv.org/abs/2504.13754v3)** | 2025-05-06 | 10pages, 8 figures |
 | **[Beyond the Monitor: Mixed Reality Visualization and AI for Enhanced Digital Pathology Workflow](http://arxiv.org/abs/2505.02780v1)** | 2025-05-05 |  |
-| **[GRAPHITE: Graph-Based Interpretable Tissue Examination for Enhanced Explainability in Breast Cancer Histopathology](http://arxiv.org/abs/2501.04206v2)** | 2025-05-05 | <details><summary>25 Pa...</summary><p>25 Pages, 10 Figures, 1 Tables</p></details> |
-| **[Lifelong Whole Slide Image Analysis: Online Vision-Language Adaptation and Past-to-Present Gradient Distillation](http://arxiv.org/abs/2505.01984v1)** | 2025-05-04 |  |
-| **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](http://arxiv.org/abs/2505.15687v1)** | 2025-05-21 |  |
+| **[Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology](http://arxiv.org/abs/2501.17822v2)** | 2025-05-21 |  |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v2)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2025 Survey Track, 10 Pages</p></details> |
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
 | **[Segmentation of temporomandibular joint structures on mri images using neural networks for diagnosis of pathologies](http://arxiv.org/abs/2505.12963v1)** | 2025-05-19 | 10 pages, 10 figures |
 | **[HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology](http://arxiv.org/abs/2505.12120v1)** | 2025-05-17 |  |
@@ -72,13 +75,12 @@ labels: documentation
 | **[Investigating Zero-Shot Diagnostic Pathology in Vision-Language Models with Efficient Prompt Design](http://arxiv.org/abs/2505.00134v1)** | 2025-04-30 |  |
 | **[MeDSLIP: Medical Dual-Stream Language-Image Pre-training with Pathology-Anatomy Semantic Alignment](http://arxiv.org/abs/2403.10635v2)** | 2025-04-30 |  |
 | **[Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation](http://arxiv.org/abs/2504.18856v1)** | 2025-04-26 |  |
-| **[A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology](http://arxiv.org/abs/2504.17379v2)** | 2025-04-25 |  |
-| **[Spectral Bias Correction in PINNs for Myocardial Image Registration of Pathological Data](http://arxiv.org/abs/2504.17945v1)** | 2025-04-24 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 3 tables</p></details> |
-| **[Iris: A Next Generation Digital Pathology Rendering Engine](http://arxiv.org/abs/2504.15437v2)** | 2025-04-23 | 11 pages, 8 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Linearity: Squeeze-and-Recalibrate Blocks for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2505.15504v1)** | 2025-05-21 |  |
+| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v2)** | 2025-05-21 | <details><summary>Accep...</summary><p>Accepted to IJCAI 2025 Survey Track, 10 Pages</p></details> |
 | **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v2)** | 2025-05-20 | Accepted by ICML2025 |
 | **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](http://arxiv.org/abs/2502.02707v3)** | 2025-05-19 |  |
 | **[Denoising Mutual Knowledge Distillation in Bi-Directional Multiple Instance Learning](http://arxiv.org/abs/2505.12074v1)** | 2025-05-17 | 12 pages, 2 figures |
@@ -95,10 +97,8 @@ labels: documentation
 | **[Predicting ulcer in H&E images of inflammatory bowel disease using domain-knowledge-driven graph neural network](http://arxiv.org/abs/2504.09430v1)** | 2025-04-13 | <details><summary>Work ...</summary><p>Work accepted at ISBI 2025</p></details> |
 | **[P2Object: Single Point Supervised Object Detection and Instance Segmentation](http://arxiv.org/abs/2504.07813v1)** | 2025-04-10 | Accepted by IJCV |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v2)** | 2025-04-07 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
-| **[A Survey of Pathology Foundation Model: Progress and Future Directions](http://arxiv.org/abs/2504.04045v1)** | 2025-04-05 |  |
 | **[Leveraging Gait Patterns as Biomarkers: An attention-guided Deep Multiple Instance Learning Network for Scoliosis Classification](http://arxiv.org/abs/2504.03894v1)** | 2025-04-04 | 6 pages, 3 figures |
 | **[GECKO: Gigapixel Vision-Concept Contrastive Pretraining in Histopathology](http://arxiv.org/abs/2504.01009v1)** | 2025-04-01 |  |
-| **[MIL vs. Aggregation: Evaluating Patient-Level Survival Prediction Strategies Using Graph-Based Learning](http://arxiv.org/abs/2503.23042v1)** | 2025-03-29 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
