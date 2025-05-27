@@ -17,16 +17,6 @@ labels: documentation
 | **[How Effective Can Dropout Be in Multiple Instance Learning ?](http://arxiv.org/abs/2504.14783v2)** | 2025-05-20 | Accepted by ICML2025 |
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
 | **[Automated Quality Evaluation of Cervical Cytopathology Whole Slide Images Based on Content Analysis](http://arxiv.org/abs/2505.13875v1)** | 2025-05-20 | 12 pages, 10 figures |
-| **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](http://arxiv.org/abs/2502.02707v3)** | 2025-05-19 |  |
-| **[Uncovering the Genetic Basis of Glioblastoma Heterogeneity through Multimodal Analysis of Whole Slide Images and RNA Sequencing Data](http://arxiv.org/abs/2410.18710v3)** | 2025-05-19 |  |
-| **[HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology](http://arxiv.org/abs/2505.12120v1)** | 2025-05-17 |  |
-| **[Denoising Mutual Knowledge Distillation in Bi-Directional Multiple Instance Learning](http://arxiv.org/abs/2505.12074v1)** | 2025-05-17 | 12 pages, 2 figures |
-| **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Pathology Analysis](http://arxiv.org/abs/2412.09521v3)** | 2025-05-16 |  |
-| **[Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](http://arxiv.org/abs/2505.10993v1)** | 2025-05-16 | 18 pages,9 figures |
-| **[Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging](http://arxiv.org/abs/2505.10649v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
-| **[Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis](http://arxiv.org/abs/2505.08524v1)** | 2025-05-13 |  |
-| **[GNCAF: A GNN-based Neighboring Context Aggregation Framework for Tertiary Lymphoid Structures Semantic Segmentation in WSI](http://arxiv.org/abs/2505.08430v1)** | 2025-05-13 |  |
-| **[Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages](http://arxiv.org/abs/2505.04150v2)** | 2025-05-08 | <details><summary>MICCA...</summary><p>MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
