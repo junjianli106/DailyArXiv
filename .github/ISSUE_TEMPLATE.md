@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 01, 2025
+title: Latest 20 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models](http://arxiv.org/abs/2505.24141v1)** | 2025-05-30 |  |
 | **[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](http://arxiv.org/abs/2505.23341v1)** | 2025-05-29 |  |
 | **[IRS: Incremental Relationship-guided Segmentation for Digital Pathology](http://arxiv.org/abs/2505.22855v1)** | 2025-05-28 |  |
 | **[Automating tumor-infiltrating lymphocyte assessment in breast cancer histopathology images using QuPath: a transparent and accessible machine learning pipeline](http://arxiv.org/abs/2504.16979v2)** | 2025-05-28 | <details><summary>16 Pa...</summary><p>16 Pages, 9 Figures, 3 tables</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](http://arxiv.org/abs/2502.02707v3)** | 2025-05-19 |  |
 | **[Uncovering the Genetic Basis of Glioblastoma Heterogeneity through Multimodal Analysis of Whole Slide Images and RNA Sequencing Data](http://arxiv.org/abs/2410.18710v3)** | 2025-05-19 |  |
 | **[HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology](http://arxiv.org/abs/2505.12120v1)** | 2025-05-17 |  |
-| **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Pathology Analysis](http://arxiv.org/abs/2412.09521v3)** | 2025-05-16 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models](http://arxiv.org/abs/2505.24141v1)** | 2025-05-30 |  |
 | **[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](http://arxiv.org/abs/2505.23341v1)** | 2025-05-29 |  |
 | **[IRS: Incremental Relationship-guided Segmentation for Digital Pathology](http://arxiv.org/abs/2505.22855v1)** | 2025-05-28 |  |
 | **[Automating tumor-infiltrating lymphocyte assessment in breast cancer histopathology images using QuPath: a transparent and accessible machine learning pipeline](http://arxiv.org/abs/2504.16979v2)** | 2025-05-28 | <details><summary>16 Pa...</summary><p>16 Pages, 9 Figures, 3 tables</p></details> |
@@ -50,11 +51,12 @@ labels: documentation
 | **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](http://arxiv.org/abs/2502.02707v3)** | 2025-05-19 |  |
 | **[Uncovering the Genetic Basis of Glioblastoma Heterogeneity through Multimodal Analysis of Whole Slide Images and RNA Sequencing Data](http://arxiv.org/abs/2410.18710v3)** | 2025-05-19 |  |
 | **[HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology](http://arxiv.org/abs/2505.12120v1)** | 2025-05-17 |  |
-| **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Pathology Analysis](http://arxiv.org/abs/2412.09521v3)** | 2025-05-16 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](http://arxiv.org/abs/2505.11404v2)** | 2025-05-30 |  |
+| **[The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models](http://arxiv.org/abs/2505.24141v1)** | 2025-05-30 |  |
 | **[IRS: Incremental Relationship-guided Segmentation for Digital Pathology](http://arxiv.org/abs/2505.22855v1)** | 2025-05-28 |  |
 | **[PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation](http://arxiv.org/abs/2505.22522v1)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Accepted by MedIA</p></details> |
 | **[Subspecialty-Specific Foundation Model for Intelligent Gastrointestinal Pathology](http://arxiv.org/abs/2505.21928v1)** | 2025-05-28 |  |
@@ -70,11 +72,9 @@ labels: documentation
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
 | **[Segmentation of temporomandibular joint structures on mri images using neural networks for diagnosis of pathologies](http://arxiv.org/abs/2505.12963v1)** | 2025-05-19 | 10 pages, 10 figures |
 | **[HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology](http://arxiv.org/abs/2505.12120v1)** | 2025-05-17 |  |
-| **[Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](http://arxiv.org/abs/2505.11404v1)** | 2025-05-16 |  |
 | **[Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Pathology Analysis](http://arxiv.org/abs/2412.09521v3)** | 2025-05-16 |  |
 | **[Generative Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](http://arxiv.org/abs/2505.10993v1)** | 2025-05-16 | 18 pages,9 figures |
 | **[SimMIL: A Universal Weakly Supervised Pre-Training Framework for Multi-Instance Learning in Whole Slide Pathology Images](http://arxiv.org/abs/2505.06710v1)** | 2025-05-10 |  |
-| **[VideoPath-LLaVA: Pathology Diagnostic Reasoning Through Video Instruction Tuning](http://arxiv.org/abs/2505.04192v1)** | 2025-05-07 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
