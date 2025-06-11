@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 10, 2025
+title: Latest 20 Papers - June 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning](http://arxiv.org/abs/2506.08854v1)** | 2025-06-10 | 20 pages, 7 figures |
 | **[Subspecialty-Specific Foundation Model for Intelligent Gastrointestinal Pathology](http://arxiv.org/abs/2505.21928v2)** | 2025-06-06 |  |
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
 | **[Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2506.05184v1)** | 2025-06-05 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images](http://arxiv.org/abs/2501.18984v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[Graph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v1)** | 2025-05-23 |  |
 | **[Artificial intelligence in digital pathology: a systematic review and meta-analysis of diagnostic test accuracy](http://arxiv.org/abs/2306.07999v3)** | 2025-05-22 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 8 tables + Supplementary materials Preprint is pre-peer review version. Please see link for updated, peer reviewed article to see latest version</p></details> |
-| **[Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology](http://arxiv.org/abs/2501.17822v2)** | 2025-05-21 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning](http://arxiv.org/abs/2506.08854v1)** | 2025-06-10 | 20 pages, 7 figures |
 | **[Subspecialty-Specific Foundation Model for Intelligent Gastrointestinal Pathology](http://arxiv.org/abs/2505.21928v2)** | 2025-06-06 |  |
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
 | **[Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2506.05184v1)** | 2025-06-05 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images](http://arxiv.org/abs/2501.18984v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 | **[Graph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v1)** | 2025-05-23 |  |
 | **[Artificial intelligence in digital pathology: a systematic review and meta-analysis of diagnostic test accuracy](http://arxiv.org/abs/2306.07999v3)** | 2025-05-22 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 8 tables + Supplementary materials Preprint is pre-peer review version. Please see link for updated, peer reviewed article to see latest version</p></details> |
-| **[Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology](http://arxiv.org/abs/2501.17822v2)** | 2025-05-21 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,8 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do MIL Models Transfer?](http://arxiv.org/abs/2506.09022v1)** | 2025-06-10 | <details><summary>ICML ...</summary><p>ICML 2025 (Spotlight). 20 pages, 8 figures</p></details> |
+| **[BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models](http://arxiv.org/abs/2506.08936v1)** | 2025-06-10 | <details><summary>Proce...</summary><p>Proceedings of ICML 2025 Workshop on Multi-modal Foundation Proceedings of ICML 2025 Workshop on Multi-modal Foundation Proceedings of ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences</p></details> |
 | **[Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2506.05184v1)** | 2025-06-05 |  |
 | **[Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology](http://arxiv.org/abs/2506.02408v1)** | 2025-06-03 |  |
 | **[DLiPath: A Benchmark for the Comprehensive Assessment of Donor Liver Based on Histopathological Image Dataset](http://arxiv.org/abs/2506.03185v1)** | 2025-05-30 | Submit to ACM MM2025 |
@@ -97,8 +99,6 @@ labels: documentation
 | **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](http://arxiv.org/abs/2502.02707v3)** | 2025-05-19 |  |
 | **[Advancing Multiple Instance Learning with Continual Learning for Whole Slide Imaging](http://arxiv.org/abs/2505.10649v1)** | 2025-05-15 | <details><summary>Accep...</summary><p>Accepted by CVPR 2025</p></details> |
 | **[Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis](http://arxiv.org/abs/2505.08524v1)** | 2025-05-13 |  |
-| **[Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study](http://arxiv.org/abs/2505.01109v1)** | 2025-05-02 | <details><summary>Accep...</summary><p>Accepted for publication in the Journal of Medical Imaging (SPIE)</p></details> |
-| **[A Spatially-Aware Multiple Instance Learning Framework for Digital Pathology](http://arxiv.org/abs/2504.17379v2)** | 2025-04-25 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
