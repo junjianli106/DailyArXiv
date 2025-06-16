@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 15, 2025
+title: Latest 20 Papers - June 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Iris File Extension](http://arxiv.org/abs/2506.10009v2)** | 2025-06-13 | 17 pages, 7 figures |
 | **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
 | **[Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning](http://arxiv.org/abs/2506.08854v1)** | 2025-06-10 | 20 pages, 7 figures |
 | **[Subspecialty-Specific Foundation Model for Intelligent Gastrointestinal Pathology](http://arxiv.org/abs/2505.21928v2)** | 2025-06-06 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Denoising Mutual Knowledge Distillation in Bi-Directional Multiple Instance Learning](http://arxiv.org/abs/2505.12074v2)** | 2025-05-27 | 15 pages, 3 figures |
 | **[PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology](http://arxiv.org/abs/2505.20202v1)** | 2025-05-26 | 35 pages, 9 figures |
 | **[Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images](http://arxiv.org/abs/2501.18984v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Graph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v1)** | 2025-05-23 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Iris File Extension](http://arxiv.org/abs/2506.10009v2)** | 2025-06-13 | 17 pages, 7 figures |
 | **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
 | **[Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning](http://arxiv.org/abs/2506.08854v1)** | 2025-06-10 | 20 pages, 7 figures |
 | **[Subspecialty-Specific Foundation Model for Intelligent Gastrointestinal Pathology](http://arxiv.org/abs/2505.21928v2)** | 2025-06-06 |  |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Denoising Mutual Knowledge Distillation in Bi-Directional Multiple Instance Learning](http://arxiv.org/abs/2505.12074v2)** | 2025-05-27 | 15 pages, 3 figures |
 | **[PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology](http://arxiv.org/abs/2505.20202v1)** | 2025-05-26 | 35 pages, 9 figures |
 | **[Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images](http://arxiv.org/abs/2501.18984v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
-| **[Graph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v1)** | 2025-05-23 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Awareness Enables Efficient Labeling for Cancer Subtyping in Digital Pathology](http://arxiv.org/abs/2506.11439v1)** | 2025-06-13 |  |
 | **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
 | **[Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration](http://arxiv.org/abs/2506.10573v1)** | 2025-06-12 | <details><summary>12 pa...</summary><p>12 pages, 10 tables and 6 figures</p></details> |
 | **[WiFi Pathologies Detection using LLMs](http://arxiv.org/abs/2506.06943v1)** | 2025-06-07 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[PathoSCOPE: Few-Shot Pathology Detection via Self-Supervised Contrastive Learning and Pathology-Informed Synthetic Embeddings](http://arxiv.org/abs/2505.17614v1)** | 2025-05-23 |  |
 | **[Artificial intelligence in digital pathology: a systematic review and meta-analysis of diagnostic test accuracy](http://arxiv.org/abs/2306.07999v3)** | 2025-05-22 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 8 tables + Supplementary materials Preprint is pre-peer review version. Please see link for updated, peer reviewed article to see latest version</p></details> |
 | **[Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](http://arxiv.org/abs/2505.15687v1)** | 2025-05-21 |  |
-| **[Aggregation Schemes for Single-Vector WSI Representation Learning in Digital Pathology](http://arxiv.org/abs/2501.17822v2)** | 2025-05-21 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
