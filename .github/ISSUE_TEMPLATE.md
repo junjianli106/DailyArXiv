@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 16, 2025
+title: Latest 20 Papers - June 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v1)** | 2025-06-16 |  |
+| **[Semantic Segmentation Based Quality Control of Histopathology Whole Slide Images](http://arxiv.org/abs/2410.03289v2)** | 2025-06-15 | 14 pages, 8 figures |
 | **[The Iris File Extension](http://arxiv.org/abs/2506.10009v2)** | 2025-06-13 | 17 pages, 7 figures |
 | **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
 | **[Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning](http://arxiv.org/abs/2506.08854v1)** | 2025-06-10 | 20 pages, 7 figures |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Automating tumor-infiltrating lymphocyte assessment in breast cancer histopathology images using QuPath: a transparent and accessible machine learning pipeline](http://arxiv.org/abs/2504.16979v2)** | 2025-05-28 | <details><summary>16 Pa...</summary><p>16 Pages, 9 Figures, 3 tables</p></details> |
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v3)** | 2025-05-28 |  |
 | **[Denoising Mutual Knowledge Distillation in Bi-Directional Multiple Instance Learning](http://arxiv.org/abs/2505.12074v2)** | 2025-05-27 | 15 pages, 3 figures |
-| **[PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology](http://arxiv.org/abs/2505.20202v1)** | 2025-05-26 | 35 pages, 9 figures |
-| **[Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images](http://arxiv.org/abs/2501.18984v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v1)** | 2025-06-16 |  |
+| **[Semantic Segmentation Based Quality Control of Histopathology Whole Slide Images](http://arxiv.org/abs/2410.03289v2)** | 2025-06-15 | 14 pages, 8 figures |
 | **[The Iris File Extension](http://arxiv.org/abs/2506.10009v2)** | 2025-06-13 | 17 pages, 7 figures |
 | **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
 | **[Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning](http://arxiv.org/abs/2506.08854v1)** | 2025-06-10 | 20 pages, 7 figures |
@@ -49,12 +51,12 @@ labels: documentation
 | **[Automating tumor-infiltrating lymphocyte assessment in breast cancer histopathology images using QuPath: a transparent and accessible machine learning pipeline](http://arxiv.org/abs/2504.16979v2)** | 2025-05-28 | <details><summary>16 Pa...</summary><p>16 Pages, 9 Figures, 3 tables</p></details> |
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v3)** | 2025-05-28 |  |
 | **[Denoising Mutual Knowledge Distillation in Bi-Directional Multiple Instance Learning](http://arxiv.org/abs/2505.12074v2)** | 2025-05-27 | 15 pages, 3 figures |
-| **[PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology](http://arxiv.org/abs/2505.20202v1)** | 2025-05-26 | 35 pages, 9 figures |
-| **[Context Matters: Query-aware Dynamic Long Sequence Modeling of Gigapixel Images](http://arxiv.org/abs/2501.18984v2)** | 2025-05-24 | <details><summary>Accep...</summary><p>Accepted by ICML 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A robust and scalable framework for hallucination detection in virtual tissue staining and digital pathology](http://arxiv.org/abs/2404.18458v2)** | 2025-06-16 | <details><summary>45 Pa...</summary><p>45 Pages, 22 Figures, 2 Tables</p></details> |
+| **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v1)** | 2025-06-16 |  |
 | **[Uncertainty Awareness Enables Efficient Labeling for Cancer Subtyping in Digital Pathology](http://arxiv.org/abs/2506.11439v1)** | 2025-06-13 |  |
 | **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
 | **[Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration](http://arxiv.org/abs/2506.10573v1)** | 2025-06-12 | <details><summary>12 pa...</summary><p>12 pages, 10 tables and 6 figures</p></details> |
@@ -73,8 +75,6 @@ labels: documentation
 | **[MVP: Multi-source Voice Pathology detection](http://arxiv.org/abs/2505.20050v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](http://arxiv.org/abs/2505.04963v2)** | 2025-05-23 |  |
 | **[PathoSCOPE: Few-Shot Pathology Detection via Self-Supervised Contrastive Learning and Pathology-Informed Synthetic Embeddings](http://arxiv.org/abs/2505.17614v1)** | 2025-05-23 |  |
-| **[Artificial intelligence in digital pathology: a systematic review and meta-analysis of diagnostic test accuracy](http://arxiv.org/abs/2306.07999v3)** | 2025-05-22 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 8 tables + Supplementary materials Preprint is pre-peer review version. Please see link for updated, peer reviewed article to see latest version</p></details> |
-| **[Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](http://arxiv.org/abs/2505.15687v1)** | 2025-05-21 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
