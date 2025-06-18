@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 17, 2025
+title: Latest 20 Papers - June 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,8 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](http://arxiv.org/abs/2505.11404v3)** | 2025-06-17 |  |
+| **[One-Shot Neural Architecture Search with Network Similarity Directed Initialization for Pathological Image Classification](http://arxiv.org/abs/2506.14176v1)** | 2025-06-17 |  |
 | **[A robust and scalable framework for hallucination detection in virtual tissue staining and digital pathology](http://arxiv.org/abs/2404.18458v2)** | 2025-06-16 | <details><summary>45 Pa...</summary><p>45 Pages, 22 Figures, 2 Tables</p></details> |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v1)** | 2025-06-16 |  |
 | **[Uncertainty Awareness Enables Efficient Labeling for Cancer Subtyping in Digital Pathology](http://arxiv.org/abs/2506.11439v1)** | 2025-06-13 |  |
@@ -66,7 +68,6 @@ labels: documentation
 | **[Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2506.05184v1)** | 2025-06-05 |  |
 | **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v2)** | 2025-06-03 |  |
 | **[Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology](http://arxiv.org/abs/2506.02408v1)** | 2025-06-03 |  |
-| **[Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](http://arxiv.org/abs/2505.11404v2)** | 2025-05-30 |  |
 | **[The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models](http://arxiv.org/abs/2505.24141v1)** | 2025-05-30 |  |
 | **[IRS: Incremental Relationship-guided Segmentation for Digital Pathology](http://arxiv.org/abs/2505.22855v1)** | 2025-05-28 |  |
 | **[PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation](http://arxiv.org/abs/2505.22522v1)** | 2025-05-28 | <details><summary>17 pa...</summary><p>17 pages, 5 figures; Accepted by MedIA</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[PathBench: A comprehensive comparison benchmark for pathology foundation models towards precision oncology](http://arxiv.org/abs/2505.20202v1)** | 2025-05-26 | 35 pages, 9 figures |
 | **[MVP: Multi-source Voice Pathology detection](http://arxiv.org/abs/2505.20050v1)** | 2025-05-26 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2025</p></details> |
 | **[ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](http://arxiv.org/abs/2505.04963v2)** | 2025-05-23 |  |
-| **[PathoSCOPE: Few-Shot Pathology Detection via Self-Supervised Contrastive Learning and Pathology-Informed Synthetic Embeddings](http://arxiv.org/abs/2505.17614v1)** | 2025-05-23 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
