@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 25, 2025
+title: Latest 20 Papers - June 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v3)** | 2025-06-24 |  |
 | **[Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images](http://arxiv.org/abs/2506.19681v1)** | 2025-06-24 | Under Review |
 | **[Benchmarking histopathology foundation models in a multi-center dataset for skin cancer subtyping](http://arxiv.org/abs/2506.18668v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepeted for oral presentation at Medical Image Understanding and Analysis (MIUA) 2025</p></details> |
 | **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2506.05184v1)** | 2025-06-05 |  |
 | **[PixCell: A generative foundation model for digital histopathology images](http://arxiv.org/abs/2506.05127v1)** | 2025-06-05 |  |
 | **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v2)** | 2025-06-03 |  |
-| **[HIEGNet: A Heterogenous Graph Neural Network Including the Immune Environment in Glomeruli Classification](http://arxiv.org/abs/2506.02542v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted for poster presentation at MIDL 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v3)** | 2025-06-24 |  |
 | **[Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images](http://arxiv.org/abs/2506.19681v1)** | 2025-06-24 | Under Review |
 | **[Benchmarking histopathology foundation models in a multi-center dataset for skin cancer subtyping](http://arxiv.org/abs/2506.18668v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepeted for oral presentation at Medical Image Understanding and Analysis (MIUA) 2025</p></details> |
 | **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2506.05184v1)** | 2025-06-05 |  |
 | **[PixCell: A generative foundation model for digital histopathology images](http://arxiv.org/abs/2506.05127v1)** | 2025-06-05 |  |
 | **[Towards Computation- and Communication-efficient Computational Pathology](http://arxiv.org/abs/2504.02628v2)** | 2025-06-03 |  |
-| **[HIEGNet: A Heterogenous Graph Neural Network Including the Immune Environment in Glomeruli Classification](http://arxiv.org/abs/2506.02542v1)** | 2025-06-03 | <details><summary>Accep...</summary><p>Accepted for poster presentation at MIDL 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
