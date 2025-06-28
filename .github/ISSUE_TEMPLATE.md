@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 27, 2025
+title: Latest 20 Papers - June 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,16 @@ labels: documentation
 | **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
 | **[Histopathology Image Report Generation by Vision Language Model with Multimodal In-Context Learning](http://arxiv.org/abs/2506.17645v1)** | 2025-06-21 | <details><summary>Accep...</summary><p>Accepted to MIDL 2025</p></details> |
 | **[LBMamba: Locally Bi-directional Mamba](http://arxiv.org/abs/2506.15976v1)** | 2025-06-19 | Submitted to TMLR |
+| **[Cross-Modality Learning for Predicting IHC Biomarkers from H&E-Stained Whole-Slide Images](http://arxiv.org/abs/2506.15853v1)** | 2025-06-18 |  |
+| **[FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation](http://arxiv.org/abs/2506.15365v1)** | 2025-06-18 | MICCAI 2025 |
+| **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v1)** | 2025-06-16 |  |
+| **[Semantic Segmentation Based Quality Control of Histopathology Whole Slide Images](http://arxiv.org/abs/2410.03289v2)** | 2025-06-15 | 14 pages, 8 figures |
+| **[The Iris File Extension](http://arxiv.org/abs/2506.10009v2)** | 2025-06-13 | 17 pages, 7 figures |
+| **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
+| **[Spatial Transcriptomics Expression Prediction from Histopathology Based on Cross-Modal Mask Reconstruction and Contrastive Learning](http://arxiv.org/abs/2506.08854v1)** | 2025-06-10 | 20 pages, 7 figures |
+| **[Subspecialty-Specific Foundation Model for Intelligent Gastrointestinal Pathology](http://arxiv.org/abs/2505.21928v2)** | 2025-06-06 |  |
+| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
+| **[Single GPU Task Adaptation of Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2506.05184v1)** | 2025-06-05 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
