@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 01, 2025
+title: Latest 20 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Diagnostic Performance: Revealing and Quantifying Ethical Risks in Pathology Foundation Models](http://arxiv.org/abs/2502.16889v2)** | 2025-07-01 | <details><summary>33 pa...</summary><p>33 pages,5 figure,23 tables</p></details> |
 | **[HASD: Hierarchical Adaption for pathology Slide-level Domain-shift](http://arxiv.org/abs/2506.23673v1)** | 2025-06-30 |  |
 | **[OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models](http://arxiv.org/abs/2506.15318v3)** | 2025-06-28 | <details><summary>MICCA...</summary><p>MICCAI 2025 early accept</p></details> |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v1)** | 2025-06-27 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Semi-Automated Quality Assurance in Digital Pathology: Tile Classification Approach](http://arxiv.org/abs/2506.10916v1)** | 2025-06-12 |  |
 | **[Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration](http://arxiv.org/abs/2506.10573v1)** | 2025-06-12 | <details><summary>12 pa...</summary><p>12 pages, 10 tables and 6 figures</p></details> |
 | **[WiFi Pathologies Detection using LLMs](http://arxiv.org/abs/2506.06943v1)** | 2025-06-07 |  |
-| **[Subspecialty-Specific Foundation Model for Intelligent Gastrointestinal Pathology](http://arxiv.org/abs/2505.21928v2)** | 2025-06-06 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
