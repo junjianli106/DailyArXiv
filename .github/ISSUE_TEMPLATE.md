@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 08, 2025
+title: Latest 20 Papers - July 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,13 +7,14 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[Tissue Concepts v2: a Supervised Foundation Model for whole slide images](http://arxiv.org/abs/2507.05742v1)** | 2025-07-08 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v1)** | 2025-07-07 |  |
 | **[MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction](http://arxiv.org/abs/2507.04891v1)** | 2025-07-07 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, Accepted by MICCAI 2025</p></details> |
 | **[Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism](http://arxiv.org/abs/2407.19821v3)** | 2025-07-07 |  |
 | **[Establishing Causal Relationship Between Whole Slide Image Predictions and Diagnostic Evidence Subregions in Deep Learning](http://arxiv.org/abs/2407.17157v3)** | 2025-07-07 |  |
 | **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
 | **[HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction](http://arxiv.org/abs/2507.04613v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
-| **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
 | **[Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning](http://arxiv.org/abs/2506.23827v1)** | 2025-06-30 | <details><summary>Our p...</summary><p>Our paper has been accepted by MICCAI 2025</p></details> |
 | **[AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification](http://arxiv.org/abs/2406.15303v3)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
@@ -26,18 +27,18 @@ labels: documentation
 | **[Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](http://arxiv.org/abs/2506.20964v1)** | 2025-06-26 |  |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2506.18028v2)** | 2025-06-26 | MICCAI 2025 |
 | **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v3)** | 2025-06-24 |  |
-| **[Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images](http://arxiv.org/abs/2506.19681v1)** | 2025-06-24 | Under Review |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[Tissue Concepts v2: a Supervised Foundation Model for whole slide images](http://arxiv.org/abs/2507.05742v1)** | 2025-07-08 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v1)** | 2025-07-07 |  |
 | **[MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction](http://arxiv.org/abs/2507.04891v1)** | 2025-07-07 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, Accepted by MICCAI 2025</p></details> |
 | **[Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism](http://arxiv.org/abs/2407.19821v3)** | 2025-07-07 |  |
 | **[Establishing Causal Relationship Between Whole Slide Image Predictions and Diagnostic Evidence Subregions in Deep Learning](http://arxiv.org/abs/2407.17157v3)** | 2025-07-07 |  |
 | **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
 | **[HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction](http://arxiv.org/abs/2507.04613v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
-| **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
 | **[Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning](http://arxiv.org/abs/2506.23827v1)** | 2025-06-30 | <details><summary>Our p...</summary><p>Our paper has been accepted by MICCAI 2025</p></details> |
 | **[AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification](http://arxiv.org/abs/2406.15303v3)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](http://arxiv.org/abs/2506.20964v1)** | 2025-06-26 |  |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2506.18028v2)** | 2025-06-26 | MICCAI 2025 |
 | **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v3)** | 2025-06-24 |  |
-| **[Genome-Anchored Foundation Model Embeddings Improve Molecular Prediction from Histology Images](http://arxiv.org/abs/2506.19681v1)** | 2025-06-24 | Under Review |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,10 +79,10 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v1)** | 2025-07-07 |  |
 | **[Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism](http://arxiv.org/abs/2407.19821v3)** | 2025-07-07 |  |
 | **[Establishing Causal Relationship Between Whole Slide Image Predictions and Diagnostic Evidence Subregions in Deep Learning](http://arxiv.org/abs/2407.17157v3)** | 2025-07-07 |  |
-| **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
 | **[Medical-Knowledge Driven Multiple Instance Learning for Classifying Severe Abdominal Anomalies on Prenatal Ultrasound](http://arxiv.org/abs/2507.01401v1)** | 2025-07-02 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2025</p></details> |
 | **[The Trilemma of Truth in Large Language Models](http://arxiv.org/abs/2506.23921v1)** | 2025-06-30 |  |
