@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 10, 2025
+title: Latest 20 Papers - July 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)](http://arxiv.org/abs/2507.07839v1)** | 2025-07-10 |  |
 | **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
 | **[Tissue Concepts v2: A Supervised Foundation Model For Whole Slide Images](http://arxiv.org/abs/2507.05742v2)** | 2025-07-09 |  |
 | **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v2)** | 2025-07-09 | preprint |
@@ -26,11 +27,11 @@ labels: documentation
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
 | **[Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction](http://arxiv.org/abs/2503.16069v2)** | 2025-06-27 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 3 tables. Preprint submitted and accepted to MICCAI 2025. This preprint has not undergone peer review or any post-submission improvements or corrections</p></details> |
 | **[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](http://arxiv.org/abs/2505.23341v2)** | 2025-06-27 |  |
-| **[OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport](http://arxiv.org/abs/2506.20741v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)](http://arxiv.org/abs/2507.07839v1)** | 2025-07-10 |  |
 | **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
 | **[Tissue Concepts v2: A Supervised Foundation Model For Whole Slide Images](http://arxiv.org/abs/2507.05742v2)** | 2025-07-09 |  |
 | **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v2)** | 2025-07-09 | preprint |
@@ -50,7 +51,6 @@ labels: documentation
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
 | **[Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction](http://arxiv.org/abs/2503.16069v2)** | 2025-06-27 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 3 tables. Preprint submitted and accepted to MICCAI 2025. This preprint has not undergone peer review or any post-submission improvements or corrections</p></details> |
 | **[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](http://arxiv.org/abs/2505.23341v2)** | 2025-06-27 |  |
-| **[OTSurv: A Novel Multiple Instance Learning Framework for Survival Prediction with Heterogeneity-aware Optimal Transport](http://arxiv.org/abs/2506.20741v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted by International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2025)</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
