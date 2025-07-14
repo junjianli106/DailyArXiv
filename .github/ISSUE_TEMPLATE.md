@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 13, 2025
+title: Latest 20 Papers - July 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,11 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
+| **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v3)** | 2025-07-10 | preprint |
 | **[MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)](http://arxiv.org/abs/2507.07839v1)** | 2025-07-10 |  |
 | **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
 | **[Tissue Concepts v2: A Supervised Foundation Model For Whole Slide Images](http://arxiv.org/abs/2507.05742v2)** | 2025-07-09 |  |
-| **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v2)** | 2025-07-09 | preprint |
 | **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v2)** | 2025-07-09 |  |
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v2)** | 2025-07-08 | MICCAI 2025 |
@@ -26,15 +27,15 @@ labels: documentation
 | **[HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis](http://arxiv.org/abs/2506.16398v3)** | 2025-06-29 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
 | **[Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction](http://arxiv.org/abs/2503.16069v2)** | 2025-06-27 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 3 tables. Preprint submitted and accepted to MICCAI 2025. This preprint has not undergone peer review or any post-submission improvements or corrections</p></details> |
-| **[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](http://arxiv.org/abs/2505.23341v2)** | 2025-06-27 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
+| **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v3)** | 2025-07-10 | preprint |
 | **[MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)](http://arxiv.org/abs/2507.07839v1)** | 2025-07-10 |  |
 | **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
 | **[Tissue Concepts v2: A Supervised Foundation Model For Whole Slide Images](http://arxiv.org/abs/2507.05742v2)** | 2025-07-09 |  |
-| **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v2)** | 2025-07-09 | preprint |
 | **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v2)** | 2025-07-09 |  |
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v2)** | 2025-07-08 | MICCAI 2025 |
@@ -50,7 +51,6 @@ labels: documentation
 | **[HyperPath: Knowledge-Guided Hyperbolic Semantic Hierarchy Modeling for WSI Analysis](http://arxiv.org/abs/2506.16398v3)** | 2025-06-29 |  |
 | **[VGAT: A Cancer Survival Analysis Framework Transitioning from Generative Visual Question Answering to Genomic Reconstruction](http://arxiv.org/abs/2503.19367v3)** | 2025-06-27 | Accepted by ICME2025 |
 | **[Disentangled and Interpretable Multimodal Attention Fusion for Cancer Survival Prediction](http://arxiv.org/abs/2503.16069v2)** | 2025-06-27 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 3 tables. Preprint submitted and accepted to MICCAI 2025. This preprint has not undergone peer review or any post-submission improvements or corrections</p></details> |
-| **[DSAGL: Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification](http://arxiv.org/abs/2505.23341v2)** | 2025-06-27 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,8 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](http://arxiv.org/abs/2507.08711v1)** | 2025-07-11 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
+| **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
 | **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
 | **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v2)** | 2025-07-09 |  |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](http://arxiv.org/abs/2411.08590v2)** | 2025-06-19 | <details><summary>49 pa...</summary><p>49 pages, 14 figures. arXiv admin note: text overlap with arXiv:2402.13725</p></details> |
 | **[LBMamba: Locally Bi-directional Mamba](http://arxiv.org/abs/2506.15976v1)** | 2025-06-19 | Submitted to TMLR |
 | **[Do Multiple Instance Learning Models Transfer?](http://arxiv.org/abs/2506.09022v2)** | 2025-06-11 | <details><summary>ICML ...</summary><p>ICML 2025 (Spotlight). 20 pages, 8 figures</p></details> |
-| **[Weakly Supervised Multiple Instance Learning for Whale Call Detection and Temporal Localization in Long-Duration Passive Acoustic Monitoring](http://arxiv.org/abs/2502.20838v2)** | 2025-06-11 |  |
-| **[BioLangFusion: Multimodal Fusion of DNA, mRNA, and Protein Language Models](http://arxiv.org/abs/2506.08936v1)** | 2025-06-10 | <details><summary>Proce...</summary><p>Proceedings of ICML 2025 Workshop on Multi-modal Foundation Proceedings of ICML 2025 Workshop on Multi-modal Foundation Proceedings of ICML 2025 Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
