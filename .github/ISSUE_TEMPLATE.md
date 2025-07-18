@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 17, 2025
+title: Latest 20 Papers - July 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
-
-## whole slide images
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
+| **[Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis](http://arxiv.org/abs/2405.09298v4)** | 2025-07-16 |  |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
 | **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v4)** | 2025-07-14 |  |
 | **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
@@ -31,11 +27,35 @@ labels: documentation
 | **[HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction](http://arxiv.org/abs/2507.04613v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
 | **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
 | **[Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning](http://arxiv.org/abs/2506.23827v1)** | 2025-06-30 | <details><summary>Our p...</summary><p>Our paper has been accepted by MICCAI 2025</p></details> |
-| **[AEM: Attention Entropy Maximization for Multiple Instance Learning based Whole Slide Image Classification](http://arxiv.org/abs/2406.15303v3)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
+
+## whole slide images
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis](http://arxiv.org/abs/2405.09298v4)** | 2025-07-16 |  |
+| **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
+| **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v4)** | 2025-07-14 |  |
+| **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
+| **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v2)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
+| **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
+| **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v3)** | 2025-07-10 | preprint |
+| **[MeD-3D: A Multimodal Deep Learning Framework for Precise Recurrence Prediction in Clear Cell Renal Cell Carcinoma (ccRCC)](http://arxiv.org/abs/2507.07839v1)** | 2025-07-10 |  |
+| **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
+| **[Tissue Concepts v2: A Supervised Foundation Model For Whole Slide Images](http://arxiv.org/abs/2507.05742v2)** | 2025-07-09 |  |
+| **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
+| **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v2)** | 2025-07-09 |  |
+| **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v2)** | 2025-07-08 | MICCAI 2025 |
+| **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
+| **[MurreNet: Modeling Holistic Multimodal Interactions Between Histopathology and Genomic Profiles for Survival Prediction](http://arxiv.org/abs/2507.04891v1)** | 2025-07-07 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, Accepted by MICCAI 2025</p></details> |
+| **[Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism](http://arxiv.org/abs/2407.19821v3)** | 2025-07-07 |  |
+| **[Establishing Causal Relationship Between Whole Slide Image Predictions and Diagnostic Evidence Subregions in Deep Learning](http://arxiv.org/abs/2407.17157v3)** | 2025-07-07 |  |
+| **[HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction](http://arxiv.org/abs/2507.04613v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
+| **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
+| **[Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning](http://arxiv.org/abs/2506.23827v1)** | 2025-06-30 | <details><summary>Our p...</summary><p>Our paper has been accepted by MICCAI 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology-Guided Virtual Staining Metric for Evaluation and Training](http://arxiv.org/abs/2507.12624v1)** | 2025-07-16 | <details><summary>19 pa...</summary><p>19 pages, 10 figures. Intended for submission to the Journal of Imaging Informatics in Medicine (JIIM)</p></details> |
 | **[Integrating Pathology Foundation Models and Spatial Transcriptomics for Cellular Decomposition from Histology Images](http://arxiv.org/abs/2507.07013v1)** | 2025-07-09 |  |
 | **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v2)** | 2025-07-08 | MICCAI 2025 |
@@ -55,11 +75,11 @@ labels: documentation
 | **[StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining](http://arxiv.org/abs/2506.17879v1)** | 2025-06-22 |  |
 | **[Cost-effective Instruction Learning for Pathology Vision and Language Analysis](http://arxiv.org/abs/2407.17734v2)** | 2025-06-20 |  |
 | **[PathCoT: Chain-of-Thought Prompting for Zero-shot Pathology Visual Reasoning](http://arxiv.org/abs/2507.01029v1)** | 2025-06-18 |  |
-| **[Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](http://arxiv.org/abs/2505.11404v3)** | 2025-06-17 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProDisc-VAD: An Efficient System for Weakly-Supervised Anomaly Detection in Video Surveillance Applications](http://arxiv.org/abs/2505.02179v3)** | 2025-07-17 | <details><summary>arXiv...</summary><p>arXiv admin comment: This version has been removed by arXiv administrators as the submitter did not have the rights to agree to the license at the time of submission</p></details> |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
 | **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](http://arxiv.org/abs/2507.08711v1)** | 2025-07-11 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
 | **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
@@ -79,7 +99,6 @@ labels: documentation
 | **[Cross-Level Multi-Instance Distillation for Self-Supervised Fine-Grained Visual Categorization](http://arxiv.org/abs/2401.08860v3)** | 2025-06-24 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Image Processing (TIP)</p></details> |
 | **[Benchmarking histopathology foundation models in a multi-center dataset for skin cancer subtyping](http://arxiv.org/abs/2506.18668v1)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepeted for oral presentation at Medical Image Understanding and Analysis (MIUA) 2025</p></details> |
 | **[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](http://arxiv.org/abs/2411.08590v2)** | 2025-06-19 | <details><summary>49 pa...</summary><p>49 pages, 14 figures. arXiv admin note: text overlap with arXiv:2402.13725</p></details> |
-| **[LBMamba: Locally Bi-directional Mamba](http://arxiv.org/abs/2506.15976v1)** | 2025-06-19 | Submitted to TMLR |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
