@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 20, 2025
+title: Latest 20 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis](http://arxiv.org/abs/2405.09298v4)** | 2025-07-16 |  |
+| **[Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images](http://arxiv.org/abs/2507.13974v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted by MIUA 2025</p></details> |
+| **[A Mixture of Experts (MoE) model to improve AI-based computational pathology prediction performance under variable levels of histopathology image blur](http://arxiv.org/abs/2405.09298v5)** | 2025-07-18 |  |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
 | **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v4)** | 2025-07-14 |  |
 | **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
@@ -26,12 +27,12 @@ labels: documentation
 | **[Establishing Causal Relationship Between Whole Slide Image Predictions and Diagnostic Evidence Subregions in Deep Learning](http://arxiv.org/abs/2407.17157v3)** | 2025-07-07 |  |
 | **[HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction](http://arxiv.org/abs/2507.04613v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
 | **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
-| **[Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning](http://arxiv.org/abs/2506.23827v1)** | 2025-06-30 | <details><summary>Our p...</summary><p>Our paper has been accepted by MICCAI 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deep Blur Multi-Model (DeepBlurMM) -- a strategy to mitigate the impact of image blur on deep learning model performance in histopathology image analysis](http://arxiv.org/abs/2405.09298v4)** | 2025-07-16 |  |
+| **[Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images](http://arxiv.org/abs/2507.13974v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted by MIUA 2025</p></details> |
+| **[A Mixture of Experts (MoE) model to improve AI-based computational pathology prediction performance under variable levels of histopathology image blur](http://arxiv.org/abs/2405.09298v5)** | 2025-07-18 |  |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
 | **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v4)** | 2025-07-14 |  |
 | **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
@@ -50,11 +51,12 @@ labels: documentation
 | **[Establishing Causal Relationship Between Whole Slide Image Predictions and Diagnostic Evidence Subregions in Deep Learning](http://arxiv.org/abs/2407.17157v3)** | 2025-07-07 |  |
 | **[HiLa: Hierarchical Vision-Language Collaboration for Cancer Survival Prediction](http://arxiv.org/abs/2507.04613v1)** | 2025-07-07 | <details><summary>Accep...</summary><p>Accepted by MICCAI2025</p></details> |
 | **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
-| **[Spatially Gene Expression Prediction using Dual-Scale Contrastive Learning](http://arxiv.org/abs/2506.23827v1)** | 2025-06-30 | <details><summary>Our p...</summary><p>Our paper has been accepted by MICCAI 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images](http://arxiv.org/abs/2507.13974v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted by MIUA 2025</p></details> |
+| **[A Mixture of Experts (MoE) model to improve AI-based computational pathology prediction performance under variable levels of histopathology image blur](http://arxiv.org/abs/2405.09298v5)** | 2025-07-18 |  |
 | **[Pathology-Guided Virtual Staining Metric for Evaluation and Training](http://arxiv.org/abs/2507.12624v1)** | 2025-07-16 | <details><summary>19 pa...</summary><p>19 pages, 10 figures. Intended for submission to the Journal of Imaging Informatics in Medicine (JIIM)</p></details> |
 | **[Integrating Pathology Foundation Models and Spatial Transcriptomics for Cellular Decomposition from Histology Images](http://arxiv.org/abs/2507.07013v1)** | 2025-07-09 |  |
 | **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
 | **[Multi-Scale Representation of Follicular Lymphoma Pathology Images in a Single Hyperbolic Space](http://arxiv.org/abs/2506.18523v1)** | 2025-06-23 | 10 pages, 3 figures |
 | **[StainPIDR: A Pathological Image Decouplingand Reconstruction Method for Stain Normalization Based on Color Vector Quantization and Structure Restaining](http://arxiv.org/abs/2506.17879v1)** | 2025-06-22 |  |
-| **[Cost-effective Instruction Learning for Pathology Vision and Language Analysis](http://arxiv.org/abs/2407.17734v2)** | 2025-06-20 |  |
-| **[PathCoT: Chain-of-Thought Prompting for Zero-shot Pathology Visual Reasoning](http://arxiv.org/abs/2507.01029v1)** | 2025-06-18 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
