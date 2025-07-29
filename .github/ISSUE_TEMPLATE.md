@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 28, 2025
+title: Latest 20 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
 | **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v3)** | 2025-07-24 | <details><summary>Camer...</summary><p>Camera ready version. Accepted at MICCAI 2025</p></details> |
 | **[PreMix: Label-Efficient Multiple Instance Learning via Non-Contrastive Pre-training and Feature Mixing](http://arxiv.org/abs/2408.01162v3)** | 2025-07-24 | Under review |
@@ -26,11 +27,11 @@ labels: documentation
 | **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
 | **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v2)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
 | **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
-| **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v3)** | 2025-07-10 | preprint |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
 | **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v3)** | 2025-07-24 | <details><summary>Camer...</summary><p>Camera ready version. Accepted at MICCAI 2025</p></details> |
 | **[PreMix: Label-Efficient Multiple Instance Learning via Non-Contrastive Pre-training and Feature Mixing](http://arxiv.org/abs/2408.01162v3)** | 2025-07-24 | Under review |
@@ -50,11 +51,12 @@ labels: documentation
 | **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
 | **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v2)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
 | **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
-| **[UWarp: A Whole Slide Image Registration Pipeline to Characterize Scanner-Induced Local Domain Shift](http://arxiv.org/abs/2503.20653v3)** | 2025-07-10 | preprint |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification](http://arxiv.org/abs/2403.15836v2)** | 2025-07-28 | Accepted at TMI |
+| **[Priority-Aware Pathological Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v1)** | 2025-07-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
 | **[ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](http://arxiv.org/abs/2505.04963v3)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025</p></details> |
 | **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v3)** | 2025-07-24 | <details><summary>Camer...</summary><p>Camera ready version. Accepted at MICCAI 2025</p></details> |
 | **[DiagR1: A Vision-Language Model Trained via Reinforcement Learning for Digestive Pathology Diagnosis](http://arxiv.org/abs/2507.18433v1)** | 2025-07-24 |  |
@@ -73,12 +75,12 @@ labels: documentation
 | **[ViTaL: A Multimodality Dataset and Benchmark for Multi-pathological Ovarian Tumor Recognition](http://arxiv.org/abs/2507.04383v1)** | 2025-07-06 |  |
 | **[CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MR](http://arxiv.org/abs/2507.02289v1)** | 2025-07-03 |  |
 | **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
-| **[Beyond Diagnostic Performance: Revealing and Quantifying Ethical Risks in Pathology Foundation Models](http://arxiv.org/abs/2502.16889v2)** | 2025-07-01 | <details><summary>33 pa...</summary><p>33 pages,5 figure,23 tables</p></details> |
-| **[HASD: Hierarchical Adaption for pathology Slide-level Domain-shift](http://arxiv.org/abs/2506.23673v1)** | 2025-06-30 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Priority-Aware Pathological Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v1)** | 2025-07-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
+| **[Predicting Neoadjuvant Chemotherapy Response in Triple-Negative Breast Cancer Using Pre-Treatment Histopathologic Images](http://arxiv.org/abs/2505.14730v2)** | 2025-07-26 |  |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
 | **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v3)** | 2025-07-24 | <details><summary>Camer...</summary><p>Camera ready version. Accepted at MICCAI 2025</p></details> |
 | **[PreMix: Label-Efficient Multiple Instance Learning via Non-Contrastive Pre-training and Feature Mixing](http://arxiv.org/abs/2408.01162v3)** | 2025-07-24 | Under review |
@@ -97,8 +99,6 @@ labels: documentation
 | **[The Trilemma of Truth in Large Language Models](http://arxiv.org/abs/2506.23921v2)** | 2025-07-08 |  |
 | **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism](http://arxiv.org/abs/2407.19821v3)** | 2025-07-07 |  |
-| **[Establishing Causal Relationship Between Whole Slide Image Predictions and Diagnostic Evidence Subregions in Deep Learning](http://arxiv.org/abs/2407.17157v3)** | 2025-07-07 |  |
-| **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
