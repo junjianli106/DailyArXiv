@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 29, 2025
+title: Latest 20 Papers - July 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,13 +7,13 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review](http://arxiv.org/abs/2507.16876v2)** | 2025-07-29 | <details><summary>Main ...</summary><p>Main article (50 pages, inc 3 tables, 4 figures). Supplementary material included with additional methodological information and data</p></details> |
 | **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
 | **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v3)** | 2025-07-24 | <details><summary>Camer...</summary><p>Camera ready version. Accepted at MICCAI 2025</p></details> |
 | **[PreMix: Label-Efficient Multiple Instance Learning via Non-Contrastive Pre-training and Feature Mixing](http://arxiv.org/abs/2408.01162v3)** | 2025-07-24 | Under review |
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v1)** | 2025-07-23 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v1)** | 2025-07-22 |  |
-| **[Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review](http://arxiv.org/abs/2507.16876v1)** | 2025-07-22 | <details><summary>Main ...</summary><p>Main article (50 pages, inc 3 tables, 4 figures). Supplementary material included with additional methodological information and data</p></details> |
 | **[A tissue and cell-level annotated H&E and PD-L1 histopathology image dataset in non-small cell lung cancer](http://arxiv.org/abs/2507.16855v1)** | 2025-07-21 | <details><summary>Our d...</summary><p>Our dataset is available at 'https://zenodo.org/records/15674785' and our code is available at 'https://github.com/DIAGNijmegen/ignite-data-toolkit'</p></details> |
 | **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](http://arxiv.org/abs/2503.05170v2)** | 2025-07-21 |  |
 | **[Probabilistic smooth attention for deep multiple instance learning in medical imaging](http://arxiv.org/abs/2507.14932v1)** | 2025-07-20 |  |
@@ -31,13 +31,13 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review](http://arxiv.org/abs/2507.16876v2)** | 2025-07-29 | <details><summary>Main ...</summary><p>Main article (50 pages, inc 3 tables, 4 figures). Supplementary material included with additional methodological information and data</p></details> |
 | **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
 | **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v3)** | 2025-07-24 | <details><summary>Camer...</summary><p>Camera ready version. Accepted at MICCAI 2025</p></details> |
 | **[PreMix: Label-Efficient Multiple Instance Learning via Non-Contrastive Pre-training and Feature Mixing](http://arxiv.org/abs/2408.01162v3)** | 2025-07-24 | Under review |
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v1)** | 2025-07-23 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v1)** | 2025-07-22 |  |
-| **[Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review](http://arxiv.org/abs/2507.16876v1)** | 2025-07-22 | <details><summary>Main ...</summary><p>Main article (50 pages, inc 3 tables, 4 figures). Supplementary material included with additional methodological information and data</p></details> |
 | **[A tissue and cell-level annotated H&E and PD-L1 histopathology image dataset in non-small cell lung cancer](http://arxiv.org/abs/2507.16855v1)** | 2025-07-21 | <details><summary>Our d...</summary><p>Our dataset is available at 'https://zenodo.org/records/15674785' and our code is available at 'https://github.com/DIAGNijmegen/ignite-data-toolkit'</p></details> |
 | **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](http://arxiv.org/abs/2503.05170v2)** | 2025-07-21 |  |
 | **[Probabilistic smooth attention for deep multiple instance learning in medical imaging](http://arxiv.org/abs/2507.14932v1)** | 2025-07-20 |  |
@@ -55,7 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Human Annotation-Free Pathological Image Classification](http://arxiv.org/abs/2403.15836v2)** | 2025-07-28 | Accepted at TMI |
+| **[VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Annotation-Free Pathological Image Classification](http://arxiv.org/abs/2403.15836v3)** | 2025-07-29 | Accepted at TMI |
 | **[Priority-Aware Pathological Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v1)** | 2025-07-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
 | **[ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](http://arxiv.org/abs/2505.04963v3)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025</p></details> |
 | **[Robust sensitivity control in digital pathology via tile score distribution matching](http://arxiv.org/abs/2502.20144v3)** | 2025-07-24 | <details><summary>Camer...</summary><p>Camera ready version. Accepted at MICCAI 2025</p></details> |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can human clinical rationales improve the performance and explainability of clinical text classification models?](http://arxiv.org/abs/2507.21302v1)** | 2025-07-28 |  |
 | **[DiagR1: A Vision-Language Model Trained via Reinforcement Learning for Digestive Pathology Diagnosis](http://arxiv.org/abs/2507.18433v1)** | 2025-07-24 |  |
 | **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
@@ -122,7 +123,6 @@ labels: documentation
 | **[PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation](http://arxiv.org/abs/2502.10536v1)** | 2025-02-14 | <details><summary>8 mai...</summary><p>8 main pages, 21 pages in total</p></details> |
 | **[Volumetric Reconstruction of Prostatectomy Specimens from Histology](http://arxiv.org/abs/2412.01855v1)** | 2024-11-29 |  |
 | **[Multimodal Whole Slide Foundation Model for Pathology](http://arxiv.org/abs/2411.19666v1)** | 2024-11-29 | <details><summary>The c...</summary><p>The code is accessible at https://github.com/mahmoodlab/TITAN</p></details> |
-| **[CLASS-M: Adaptive stain separation-based contrastive learning with pseudo-labeling for histopathological image classification](http://arxiv.org/abs/2312.06978v4)** | 2024-11-13 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
