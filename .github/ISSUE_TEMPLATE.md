@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 30, 2025
+title: Latest 20 Papers - July 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology Foundation Models are Scanner Sensitive: Benchmark and Mitigation with Contrastive ScanGen Loss](http://arxiv.org/abs/2507.22092v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted (Oral) in MedAGI 2025 International Workshop at MICCAI Conference</p></details> |
 | **[Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review](http://arxiv.org/abs/2507.16876v2)** | 2025-07-29 | <details><summary>Main ...</summary><p>Main article (50 pages, inc 3 tables, 4 figures). Supplementary material included with additional methodological information and data</p></details> |
 | **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v4)** | 2025-07-14 |  |
 | **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
 | **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v2)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
-| **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology Foundation Models are Scanner Sensitive: Benchmark and Mitigation with Contrastive ScanGen Loss](http://arxiv.org/abs/2507.22092v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted (Oral) in MedAGI 2025 International Workshop at MICCAI Conference</p></details> |
 | **[Machine learning-based multimodal prognostic models integrating pathology images and high-throughput omic data for overall survival prediction in cancer: a systematic review](http://arxiv.org/abs/2507.16876v2)** | 2025-07-29 | <details><summary>Main ...</summary><p>Main article (50 pages, inc 3 tables, 4 figures). Supplementary material included with additional methodological information and data</p></details> |
 | **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v1)** | 2025-07-28 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Screen Them All: High-Throughput Pan-Cancer Genetic and Phenotypic Biomarker Screening from H&E Whole Slide Images](http://arxiv.org/abs/2408.09554v4)** | 2025-07-14 |  |
 | **[DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology](http://arxiv.org/abs/2507.10250v1)** | 2025-07-14 | 25 pages, 15 figures |
 | **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v2)** | 2025-07-12 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
-| **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology Foundation Models are Scanner Sensitive: Benchmark and Mitigation with Contrastive ScanGen Loss](http://arxiv.org/abs/2507.22092v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted (Oral) in MedAGI 2025 International Workshop at MICCAI Conference</p></details> |
 | **[VLM-CPL: Consensus Pseudo Labels from Vision-Language Models for Annotation-Free Pathological Image Classification](http://arxiv.org/abs/2403.15836v3)** | 2025-07-29 | Accepted at TMI |
 | **[Priority-Aware Pathological Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v1)** | 2025-07-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
 | **[ViCTr: Vital Consistency Transfer for Pathology Aware Image Synthesis](http://arxiv.org/abs/2505.04963v3)** | 2025-07-25 | <details><summary>Accep...</summary><p>Accepted in ICCV 2025</p></details> |
@@ -74,11 +75,11 @@ labels: documentation
 | **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v2)** | 2025-07-08 | MICCAI 2025 |
 | **[ViTaL: A Multimodality Dataset and Benchmark for Multi-pathological Ovarian Tumor Recognition](http://arxiv.org/abs/2507.04383v1)** | 2025-07-06 |  |
 | **[CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MR](http://arxiv.org/abs/2507.02289v1)** | 2025-07-03 |  |
-| **[Reducing Variability of Multiple Instance Learning Methods for Digital Pathology](http://arxiv.org/abs/2507.00292v2)** | 2025-07-02 | <details><summary>MICCA...</summary><p>MICCAI 2025 - This preprint has not undergone peer review or any post-submission improvements or corrections. The Version of Record of this article is published in LNCS, Springer</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology Foundation Models are Scanner Sensitive: Benchmark and Mitigation with Contrastive ScanGen Loss](http://arxiv.org/abs/2507.22092v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted (Oral) in MedAGI 2025 International Workshop at MICCAI Conference</p></details> |
 | **[Priority-Aware Pathological Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v1)** | 2025-07-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
 | **[Predicting Neoadjuvant Chemotherapy Response in Triple-Negative Breast Cancer Using Pre-Treatment Histopathologic Images](http://arxiv.org/abs/2505.14730v2)** | 2025-07-26 |  |
 | **[PTCMIL: Multiple Instance Learning via Prompt Token Clustering for Whole Slide Image Analysis](http://arxiv.org/abs/2507.18848v1)** | 2025-07-24 |  |
@@ -98,11 +99,11 @@ labels: documentation
 | **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v2)** | 2025-07-09 |  |
 | **[The Trilemma of Truth in Large Language Models](http://arxiv.org/abs/2506.23921v2)** | 2025-07-08 |  |
 | **[Continual Multiple Instance Learning with Enhanced Localization for Histopathological Whole Slide Image Analysis](http://arxiv.org/abs/2507.02395v2)** | 2025-07-08 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
-| **[Distilling High Diagnostic Value Patches for Whole Slide Image Classification Using Attention Mechanism](http://arxiv.org/abs/2407.19821v3)** | 2025-07-07 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](http://arxiv.org/abs/2504.16181v3)** | 2025-07-29 |  |
 | **[Can human clinical rationales improve the performance and explainability of clinical text classification models?](http://arxiv.org/abs/2507.21302v1)** | 2025-07-28 |  |
 | **[DiagR1: A Vision-Language Model Trained via Reinforcement Learning for Digestive Pathology Diagnosis](http://arxiv.org/abs/2507.18433v1)** | 2025-07-24 |  |
 | **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Leveraging large language models for structured information extraction from pathology reports](http://arxiv.org/abs/2502.12183v1)** | 2025-02-14 | 29 pages, 6 figures |
 | **[PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation](http://arxiv.org/abs/2502.10536v1)** | 2025-02-14 | <details><summary>8 mai...</summary><p>8 main pages, 21 pages in total</p></details> |
 | **[Volumetric Reconstruction of Prostatectomy Specimens from Histology](http://arxiv.org/abs/2412.01855v1)** | 2024-11-29 |  |
-| **[Multimodal Whole Slide Foundation Model for Pathology](http://arxiv.org/abs/2411.19666v1)** | 2024-11-29 | <details><summary>The c...</summary><p>The code is accessible at https://github.com/mahmoodlab/TITAN</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
