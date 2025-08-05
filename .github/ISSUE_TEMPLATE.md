@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 04, 2025
+title: Latest 20 Papers - August 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,15 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparing ImageNet Pre-training with Digital Pathology Foundation Models for Whole Slide Image-Based Survival Analysis](http://arxiv.org/abs/2405.17446v4)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted (Oral) at the 6th International Conference on Computer Vision and Information Technology (CVIT 2025)</p></details> |
+| **[Welcome New Doctor: Continual Learning with Expert Consultation and Autoregressive Inference for Whole Slide Image Analysis](http://arxiv.org/abs/2508.02220v1)** | 2025-08-04 |  |
+| **[Hypergraph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v2)** | 2025-08-04 |  |
+| **[SPAN: Unlocking Pyramid Representations for Gigapixel Histopathological Images](http://arxiv.org/abs/2406.09333v2)** | 2025-08-04 |  |
+| **[Measuring and Predicting Where and When Pathologists Focus their Visual Attention while Grading Whole Slide Images of Cancer](http://arxiv.org/abs/2508.01668v1)** | 2025-08-03 | <details><summary>Accep...</summary><p>Accepted to Medical Image Analysis (MEDIA), Elsevier, 2025. This is the accepted manuscript version; the final published article link will be updated when available</p></details> |
+| **[Minimal High-Resolution Patches Are Sufficient for Whole Slide Image Representation via Cascaded Dual-Scale Reconstruction](http://arxiv.org/abs/2508.01641v1)** | 2025-08-03 | 11 pages, 4 figures |
+| **[Enhancing Zero-Shot Brain Tumor Subtype Classification via Fine-Grained Patch-Text Alignment](http://arxiv.org/abs/2508.01602v1)** | 2025-08-03 |  |
+| **[Predicting EGFR Mutation in LUAD from Histopathological Whole-Slide Images Using Pretrained Foundation Model and Transfer Learning: An Indian Cohort Study](http://arxiv.org/abs/2508.01352v1)** | 2025-08-02 |  |
+| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](http://arxiv.org/abs/2508.01293v1)** | 2025-08-02 |  |
 | **[$MV_{Hybrid}$: Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models](http://arxiv.org/abs/2508.00383v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted (Oral) in MICCAI 2025 COMPAYL Workshop</p></details> |
 | **[WeakSupCon: Weakly Supervised Contrastive Learning for Encoder Pre-training](http://arxiv.org/abs/2503.04165v2)** | 2025-07-30 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 workshop on Efficient Medical AI</p></details> |
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v2)** | 2025-07-30 |  |
@@ -18,19 +27,19 @@ labels: documentation
 | **[PreMix: Label-Efficient Multiple Instance Learning via Non-Contrastive Pre-training and Feature Mixing](http://arxiv.org/abs/2408.01162v3)** | 2025-07-24 | Under review |
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v1)** | 2025-07-23 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v1)** | 2025-07-22 |  |
-| **[A tissue and cell-level annotated H&E and PD-L1 histopathology image dataset in non-small cell lung cancer](http://arxiv.org/abs/2507.16855v1)** | 2025-07-21 | <details><summary>Our d...</summary><p>Our dataset is available at 'https://zenodo.org/records/15674785' and our code is available at 'https://github.com/DIAGNijmegen/ignite-data-toolkit'</p></details> |
-| **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](http://arxiv.org/abs/2503.05170v2)** | 2025-07-21 |  |
-| **[Probabilistic smooth attention for deep multiple instance learning in medical imaging](http://arxiv.org/abs/2507.14932v1)** | 2025-07-20 |  |
-| **[RACR-MIL: Rank-aware contextual reasoning for weakly supervised grading of squamous cell carcinoma using whole slide images](http://arxiv.org/abs/2308.15618v2)** | 2025-07-19 | <details><summary>17 pa...</summary><p>17 pages main text, 2 page references, 2 page appendix; under submission</p></details> |
-| **[WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis](http://arxiv.org/abs/2507.14680v1)** | 2025-07-19 |  |
-| **[Efficient Whole Slide Pathology VQA via Token Compression](http://arxiv.org/abs/2507.14497v1)** | 2025-07-19 |  |
-| **[Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images](http://arxiv.org/abs/2507.13974v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted by MIUA 2025</p></details> |
-| **[A Mixture of Experts (MoE) model to improve AI-based computational pathology prediction performance under variable levels of histopathology image blur](http://arxiv.org/abs/2405.09298v5)** | 2025-07-18 |  |
-| **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparing ImageNet Pre-training with Digital Pathology Foundation Models for Whole Slide Image-Based Survival Analysis](http://arxiv.org/abs/2405.17446v4)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted (Oral) at the 6th International Conference on Computer Vision and Information Technology (CVIT 2025)</p></details> |
+| **[Welcome New Doctor: Continual Learning with Expert Consultation and Autoregressive Inference for Whole Slide Image Analysis](http://arxiv.org/abs/2508.02220v1)** | 2025-08-04 |  |
+| **[Hypergraph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v2)** | 2025-08-04 |  |
+| **[SPAN: Unlocking Pyramid Representations for Gigapixel Histopathological Images](http://arxiv.org/abs/2406.09333v2)** | 2025-08-04 |  |
+| **[Measuring and Predicting Where and When Pathologists Focus their Visual Attention while Grading Whole Slide Images of Cancer](http://arxiv.org/abs/2508.01668v1)** | 2025-08-03 | <details><summary>Accep...</summary><p>Accepted to Medical Image Analysis (MEDIA), Elsevier, 2025. This is the accepted manuscript version; the final published article link will be updated when available</p></details> |
+| **[Minimal High-Resolution Patches Are Sufficient for Whole Slide Image Representation via Cascaded Dual-Scale Reconstruction](http://arxiv.org/abs/2508.01641v1)** | 2025-08-03 | 11 pages, 4 figures |
+| **[Enhancing Zero-Shot Brain Tumor Subtype Classification via Fine-Grained Patch-Text Alignment](http://arxiv.org/abs/2508.01602v1)** | 2025-08-03 |  |
+| **[Predicting EGFR Mutation in LUAD from Histopathological Whole-Slide Images Using Pretrained Foundation Model and Transfer Learning: An Indian Cohort Study](http://arxiv.org/abs/2508.01352v1)** | 2025-08-02 |  |
+| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](http://arxiv.org/abs/2508.01293v1)** | 2025-08-02 |  |
 | **[$MV_{Hybrid}$: Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models](http://arxiv.org/abs/2508.00383v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted (Oral) in MICCAI 2025 COMPAYL Workshop</p></details> |
 | **[WeakSupCon: Weakly Supervised Contrastive Learning for Encoder Pre-training](http://arxiv.org/abs/2503.04165v2)** | 2025-07-30 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 workshop on Efficient Medical AI</p></details> |
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v2)** | 2025-07-30 |  |
@@ -42,19 +51,13 @@ labels: documentation
 | **[PreMix: Label-Efficient Multiple Instance Learning via Non-Contrastive Pre-training and Feature Mixing](http://arxiv.org/abs/2408.01162v3)** | 2025-07-24 | Under review |
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v1)** | 2025-07-23 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v1)** | 2025-07-22 |  |
-| **[A tissue and cell-level annotated H&E and PD-L1 histopathology image dataset in non-small cell lung cancer](http://arxiv.org/abs/2507.16855v1)** | 2025-07-21 | <details><summary>Our d...</summary><p>Our dataset is available at 'https://zenodo.org/records/15674785' and our code is available at 'https://github.com/DIAGNijmegen/ignite-data-toolkit'</p></details> |
-| **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](http://arxiv.org/abs/2503.05170v2)** | 2025-07-21 |  |
-| **[Probabilistic smooth attention for deep multiple instance learning in medical imaging](http://arxiv.org/abs/2507.14932v1)** | 2025-07-20 |  |
-| **[RACR-MIL: Rank-aware contextual reasoning for weakly supervised grading of squamous cell carcinoma using whole slide images](http://arxiv.org/abs/2308.15618v2)** | 2025-07-19 | <details><summary>17 pa...</summary><p>17 pages main text, 2 page references, 2 page appendix; under submission</p></details> |
-| **[WSI-Agents: A Collaborative Multi-Agent System for Multi-Modal Whole Slide Image Analysis](http://arxiv.org/abs/2507.14680v1)** | 2025-07-19 |  |
-| **[Efficient Whole Slide Pathology VQA via Token Compression](http://arxiv.org/abs/2507.14497v1)** | 2025-07-19 |  |
-| **[Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images](http://arxiv.org/abs/2507.13974v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted by MIUA 2025</p></details> |
-| **[A Mixture of Experts (MoE) model to improve AI-based computational pathology prediction performance under variable levels of histopathology image blur](http://arxiv.org/abs/2405.09298v5)** | 2025-07-18 |  |
-| **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparing ImageNet Pre-training with Digital Pathology Foundation Models for Whole Slide Image-Based Survival Analysis](http://arxiv.org/abs/2405.17446v4)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted (Oral) at the 6th International Conference on Computer Vision and Information Technology (CVIT 2025)</p></details> |
+| **[Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning](http://arxiv.org/abs/2508.02258v1)** | 2025-08-04 |  |
+| **[GeHirNet: A Gender-Aware Hierarchical Model for Voice Pathology Classification](http://arxiv.org/abs/2508.01172v1)** | 2025-08-02 |  |
 | **[$MV_{Hybrid}$: Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models](http://arxiv.org/abs/2508.00383v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted (Oral) in MICCAI 2025 COMPAYL Workshop</p></details> |
 | **[Priority-Aware Clinical Pathology Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v2)** | 2025-07-31 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
 | **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v2)** | 2025-07-30 |  |
@@ -72,13 +75,16 @@ labels: documentation
 | **[Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images](http://arxiv.org/abs/2507.13974v1)** | 2025-07-18 | <details><summary>Accep...</summary><p>Accepted by MIUA 2025</p></details> |
 | **[A Mixture of Experts (MoE) model to improve AI-based computational pathology prediction performance under variable levels of histopathology image blur](http://arxiv.org/abs/2405.09298v5)** | 2025-07-18 |  |
 | **[Pathology-Guided Virtual Staining Metric for Evaluation and Training](http://arxiv.org/abs/2507.12624v1)** | 2025-07-16 | <details><summary>19 pa...</summary><p>19 pages, 10 figures. Intended for submission to the Journal of Imaging Informatics in Medicine (JIIM)</p></details> |
-| **[Integrating Pathology Foundation Models and Spatial Transcriptomics for Cellular Decomposition from Histology Images](http://arxiv.org/abs/2507.07013v1)** | 2025-07-09 |  |
-| **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
-| **[Revisiting Automatic Data Curation for Vision Foundation Models in Digital Pathology](http://arxiv.org/abs/2503.18709v2)** | 2025-07-08 | MICCAI 2025 |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identifying actionable driver mutations in lung cancer using an efficient Asymmetric Transformer Decoder](http://arxiv.org/abs/2508.02431v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025 Workshop COMPAYL</p></details> |
+| **[Comparing ImageNet Pre-training with Digital Pathology Foundation Models for Whole Slide Image-Based Survival Analysis](http://arxiv.org/abs/2405.17446v4)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted (Oral) at the 6th International Conference on Computer Vision and Information Technology (CVIT 2025)</p></details> |
+| **[Hypergraph Mamba for Efficient Whole Slide Image Understanding](http://arxiv.org/abs/2505.17457v2)** | 2025-08-04 |  |
+| **[Minimal High-Resolution Patches Are Sufficient for Whole Slide Image Representation via Cascaded Dual-Scale Reconstruction](http://arxiv.org/abs/2508.01641v1)** | 2025-08-03 | 11 pages, 4 figures |
+| **[Predicting EGFR Mutation in LUAD from Histopathological Whole-Slide Images Using Pretrained Foundation Model and Transfer Learning: An Indian Cohort Study](http://arxiv.org/abs/2508.01352v1)** | 2025-08-02 |  |
+| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](http://arxiv.org/abs/2508.01293v1)** | 2025-08-02 |  |
 | **[Priority-Aware Clinical Pathology Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v2)** | 2025-07-31 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
 | **[WeakSupCon: Weakly Supervised Contrastive Learning for Encoder Pre-training](http://arxiv.org/abs/2503.04165v2)** | 2025-07-30 | <details><summary>Medic...</summary><p>Medical Image Computing and Computer Assisted Intervention (MICCAI) 2025 workshop on Efficient Medical AI</p></details> |
 | **[Pathology Foundation Models are Scanner Sensitive: Benchmark and Mitigation with Contrastive ScanGen Loss](http://arxiv.org/abs/2507.22092v1)** | 2025-07-29 | <details><summary>Accep...</summary><p>Accepted (Oral) in MedAGI 2025 International Workshop at MICCAI Conference</p></details> |
@@ -93,12 +99,6 @@ labels: documentation
 | **[Smarter Together: Combining Large Language Models and Small Models for Physiological Signals Visual Inspection](http://arxiv.org/abs/2501.16215v2)** | 2025-07-18 |  |
 | **[ProDisc-VAD: An Efficient System for Weakly-Supervised Anomaly Detection in Video Surveillance Applications](http://arxiv.org/abs/2505.02179v3)** | 2025-07-17 | <details><summary>arXiv...</summary><p>arXiv admin comment: This version has been removed by arXiv administrators as the submitter did not have the rights to agree to the license at the time of submission</p></details> |
 | **[Prototype-Based Multiple Instance Learning for Gigapixel Whole Slide Image Classification](http://arxiv.org/abs/2503.08384v2)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025</p></details> |
-| **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](http://arxiv.org/abs/2507.08711v1)** | 2025-07-11 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
-| **[Cracking Instance Jigsaw Puzzles: An Alternative to Multiple Instance Learning for Whole Slide Image Analysis](http://arxiv.org/abs/2507.08178v1)** | 2025-07-10 | Accepted by ICCV2025 |
-| **[GNN-ViTCap: GNN-Enhanced Multiple Instance Learning with Vision Transformers for Whole Slide Image Classification and Captioning](http://arxiv.org/abs/2507.07006v1)** | 2025-07-09 |  |
-| **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v1)** | 2025-07-09 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
-| **[Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v2)** | 2025-07-09 |  |
-| **[The Trilemma of Truth in Large Language Models](http://arxiv.org/abs/2506.23921v2)** | 2025-07-08 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
