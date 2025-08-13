@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 12, 2025
+title: Latest 20 Papers - August 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Iris RESTful Server and IrisTileSource: An Iris implementation for existing OpenSeaDragon viewers](http://arxiv.org/abs/2508.06615v2)** | 2025-08-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
+| **[WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](http://arxiv.org/abs/2412.02141v5)** | 2025-08-12 | <details><summary>ICCV ...</summary><p>ICCV 2025, 38 pages, 22 figures, 35 tables</p></details> |
 | **[Compact and De-biased Negative Instance Embedding for Multi-Instance Learning on Whole-Slide Image Classification](http://arxiv.org/abs/2402.10595v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2024</p></details> |
 | **[Domain Generalization of Pathological Image Segmentation by Patch-Level and WSI-Level Contrastive Learning](http://arxiv.org/abs/2508.07539v1)** | 2025-08-11 |  |
-| **[WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](http://arxiv.org/abs/2412.02141v4)** | 2025-08-09 | <details><summary>ICCV ...</summary><p>ICCV 2025, 38 pages, 22 figures, 35 tables</p></details> |
-| **[Iris RESTful Server and IrisTileSource: An Iris implementation for existing OpenSeaDragon viewers](http://arxiv.org/abs/2508.06615v1)** | 2025-08-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v2)** | 2025-08-08 |  |
 | **[Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2508.05382v1)** | 2025-08-07 |  |
 | **[AHDMIL: Asymmetric Hierarchical Distillation Multi-Instance Learning for Fast and Accurate Whole-Slide Image Classification](http://arxiv.org/abs/2508.05114v1)** | 2025-08-07 |  |
@@ -31,10 +31,10 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Iris RESTful Server and IrisTileSource: An Iris implementation for existing OpenSeaDragon viewers](http://arxiv.org/abs/2508.06615v2)** | 2025-08-12 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
+| **[WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](http://arxiv.org/abs/2412.02141v5)** | 2025-08-12 | <details><summary>ICCV ...</summary><p>ICCV 2025, 38 pages, 22 figures, 35 tables</p></details> |
 | **[Compact and De-biased Negative Instance Embedding for Multi-Instance Learning on Whole-Slide Image Classification](http://arxiv.org/abs/2402.10595v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2024</p></details> |
 | **[Domain Generalization of Pathological Image Segmentation by Patch-Level and WSI-Level Contrastive Learning](http://arxiv.org/abs/2508.07539v1)** | 2025-08-11 |  |
-| **[WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](http://arxiv.org/abs/2412.02141v4)** | 2025-08-09 | <details><summary>ICCV ...</summary><p>ICCV 2025, 38 pages, 22 figures, 35 tables</p></details> |
-| **[Iris RESTful Server and IrisTileSource: An Iris implementation for existing OpenSeaDragon viewers](http://arxiv.org/abs/2508.06615v1)** | 2025-08-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v2)** | 2025-08-08 |  |
 | **[Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2508.05382v1)** | 2025-08-07 |  |
 | **[AHDMIL: Asymmetric Hierarchical Distillation Multi-Instance Learning for Fast and Accurate Whole-Slide Image Classification](http://arxiv.org/abs/2508.05114v1)** | 2025-08-07 |  |
