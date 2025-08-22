@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 21, 2025
+title: Latest 20 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,10 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](http://arxiv.org/abs/2508.15256v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. \c{opyright} IEEE 2025. This is the author's accepted version (camera-ready) of the paper. The definitive version is published in the Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025). DOI will be updated when available</p></details> |
+| **[Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis](http://arxiv.org/abs/2508.15236v1)** | 2025-08-21 |  |
+| **[DyMorph-B2I: Dynamic and Morphology-Guided Binary-to-Instance Segmentation for Renal Pathology](http://arxiv.org/abs/2508.15208v1)** | 2025-08-21 | 9 pages, 5 figures |
+| **[A Robust BERT-Based Deep Learning Model for Automated Cancer Type Extraction from Unstructured Pathology Reports](http://arxiv.org/abs/2508.15149v1)** | 2025-08-21 |  |
 | **[Controllable Latent Space Augmentation for Digital Pathology](http://arxiv.org/abs/2508.14588v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v2)** | 2025-08-19 |  |
 | **[SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](http://arxiv.org/abs/2508.12410v2)** | 2025-08-19 | 9 pages, 4 figures |
@@ -71,10 +75,6 @@ labels: documentation
 | **[Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning](http://arxiv.org/abs/2508.02258v2)** | 2025-08-07 |  |
 | **[GRASPing Anatomy to Improve Pathology Segmentation](http://arxiv.org/abs/2508.03374v1)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted at 16th MICCAI Workshop on Machine Learning in Medical Imaging (MLMI2025)</p></details> |
 | **[Comparing ImageNet Pre-training with Digital Pathology Foundation Models for Whole Slide Image-Based Survival Analysis](http://arxiv.org/abs/2405.17446v4)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted (Oral) at the 6th International Conference on Computer Vision and Information Technology (CVIT 2025)</p></details> |
-| **[GeHirNet: A Gender-Aware Hierarchical Model for Voice Pathology Classification](http://arxiv.org/abs/2508.01172v1)** | 2025-08-02 |  |
-| **[$MV_{Hybrid}$: Improving Spatial Transcriptomics Prediction with Hybrid State Space-Vision Transformer Backbone in Pathology Vision Foundation Models](http://arxiv.org/abs/2508.00383v1)** | 2025-08-01 | <details><summary>Accep...</summary><p>Accepted (Oral) in MICCAI 2025 COMPAYL Workshop</p></details> |
-| **[Priority-Aware Clinical Pathology Hierarchy Training for Multiple Instance Learning](http://arxiv.org/abs/2507.20469v2)** | 2025-07-31 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, Accepted for oral presentation by The 2nd MICCAI Student Board (MSB) EMERGE Workshop</p></details> |
-| **[ModalTune: Fine-Tuning Slide-Level Foundation Models with Multi-Modal Information for Multi-task Learning in Digital Pathology](http://arxiv.org/abs/2503.17564v2)** | 2025-07-30 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Robust BERT-Based Deep Learning Model for Automated Cancer Type Extraction from Unstructured Pathology Reports](http://arxiv.org/abs/2508.15149v1)** | 2025-08-21 |  |
 | **[Glo-DMU: A Deep Morphometry Framework of Ultrastructural Characterization in Glomerular Electron Microscopic Images](http://arxiv.org/abs/2508.10351v1)** | 2025-08-14 | 15 pages, 6 figures |
 | **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](http://arxiv.org/abs/2504.16181v3)** | 2025-07-29 |  |
 | **[Can human clinical rationales improve the performance and explainability of clinical text classification models?](http://arxiv.org/abs/2507.21302v1)** | 2025-07-28 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs](http://arxiv.org/abs/2503.01194v1)** | 2025-03-03 |  |
 | **[Pathology Report Generation and Multimodal Representation Learning for Cutaneous Melanocytic Lesions](http://arxiv.org/abs/2502.19293v2)** | 2025-02-27 | <details><summary>11 pa...</summary><p>11 pages, 2 figures. arXiv admin note: text overlap with arXiv:2502.19285</p></details> |
 | **[Leveraging large language models for structured information extraction from pathology reports](http://arxiv.org/abs/2502.12183v1)** | 2025-02-14 | 29 pages, 6 figures |
-| **[PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation](http://arxiv.org/abs/2502.10536v1)** | 2025-02-14 | <details><summary>8 mai...</summary><p>8 main pages, 21 pages in total</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
