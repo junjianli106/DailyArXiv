@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 30, 2025
+title: Latest 20 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -88,6 +88,17 @@ labels: documentation
 | **[STAMP: Multi-pattern Attention-aware Multiple Instance Learning for STAS Diagnosis in Multi-center Histopathology Images](http://arxiv.org/abs/2508.10473v1)** | 2025-08-14 | Submit to AAAI2026 |
 | **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v2)** | 2025-08-14 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
 | **[MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2508.09967v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted in MICCAI 2025</p></details> |
+| **[Pediatric brain tumor classification using digital histopathology and deep learning: evaluation of SOTA methods on a multi-center Swedish cohort](http://arxiv.org/abs/2409.01330v2)** | 2025-08-13 |  |
+| **[EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](http://arxiv.org/abs/2409.07480v4)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
+| **[Compact and De-biased Negative Instance Embedding for Multi-Instance Learning on Whole-Slide Image Classification](http://arxiv.org/abs/2402.10595v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2024</p></details> |
+| **[Approaching Maximal Information Extraction in Low-Signal Regimes via Multiple Instance Learning](http://arxiv.org/abs/2508.07114v1)** | 2025-08-09 |  |
+| **[Continual Multiple Instance Learning for Hematologic Disease Diagnosis](http://arxiv.org/abs/2508.04368v2)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted for publication at MICCAI 2025 workshop on Efficient Medical AI</p></details> |
+| **[Interpretable Rheumatoid Arthritis Scoring via Anatomy-aware Multiple Instance Learning](http://arxiv.org/abs/2508.06218v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by MICCAI AMAI Workshop 2025</p></details> |
+| **[Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2508.05382v1)** | 2025-08-07 |  |
+| **[AdvDINO: Domain-Adversarial Self-Supervised Representation Learning for Spatial Proteomics](http://arxiv.org/abs/2508.04955v1)** | 2025-08-07 |  |
+| **[Identifying actionable driver mutations in lung cancer using an efficient Asymmetric Transformer Decoder](http://arxiv.org/abs/2508.02431v2)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025 Workshop COMPAYL</p></details> |
+| **[Predicting EGFR Mutation in LUAD from Histopathological Whole-Slide Images Using Pretrained Foundation Model and Transfer Learning: An Indian Cohort Study](http://arxiv.org/abs/2508.01352v2)** | 2025-08-05 | <details><summary>14 pa...</summary><p>14 pages, 4 figures and 2 tables</p></details> |
+| **[Contrastive Cross-Bag Augmentation for Multiple Instance Learning-based Whole Slide Image Classification](http://arxiv.org/abs/2508.03081v1)** | 2025-08-05 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
