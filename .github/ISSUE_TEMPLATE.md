@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 02, 2025
+title: Latest 20 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis](http://arxiv.org/abs/2503.08346v2)** | 2025-09-02 |  |
 | **[Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer](http://arxiv.org/abs/2508.21581v1)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Accepted at the Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) Workshop, MICCAI 2025. This is the submitted version with authors, affiliations, and acknowledgements included; it has not undergone peer review or revisions. The final version will appear in the Springer Lecture Notes in Computer Science (LNCS) proceedings</p></details> |
 | **[Are the Majority of Public Computational Notebooks Pathologically Non-Executable?](http://arxiv.org/abs/2502.04184v4)** | 2025-08-28 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 3 tables, the 22nd International Conference on Mining Software Repositories (MSR 2025)</p></details> |
 | **[PathMR: Multimodal Visual Reasoning for Interpretable Pathology Diagnosis](http://arxiv.org/abs/2508.20851v1)** | 2025-08-28 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Towards Understanding and Harnessing the Transferability of Prognostic Knowledge in Computational Pathology](http://arxiv.org/abs/2508.13482v1)** | 2025-08-19 | <details><summary>15 pa...</summary><p>15 pages (13 figures and 5 tables)</p></details> |
 | **[Segment Anything in Pathology Images with Natural Language](http://arxiv.org/abs/2506.20988v2)** | 2025-08-19 |  |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v1)** | 2025-08-17 | 13 pages, 5 figures |
-| **[Pathology-Guided AI System for Accurate Segmentation and Diagnosis of Cervical Spondylosis](http://arxiv.org/abs/2503.06114v2)** | 2025-08-15 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
