@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 07, 2025
+title: Latest 20 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma](http://arxiv.org/abs/2505.04672v2)** | 2025-09-05 | <details><summary>31 pa...</summary><p>31 pages including supplement, 5 core figures, 5 supplement figures. Version 2: change sections order, add new supplementary sections, minor text updates</p></details> |
+| **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v3)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
 | **[SAC-MIL: Spatial-Aware Correlated Multiple Instance Learning for Histopathology Whole Slide Image Classification](http://arxiv.org/abs/2509.03973v1)** | 2025-09-04 |  |
 | **[Scalable and Loosely-Coupled Multimodal Deep Learning for Breast Cancer Subtyping](http://arxiv.org/abs/2509.03408v1)** | 2025-09-03 |  |
 | **[A Two-Stage Strategy for Mitosis Detection Using Improved YOLO11x Proposals and ConvNeXt Classification](http://arxiv.org/abs/2509.02627v1)** | 2025-09-01 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v2)** | 2025-08-19 |  |
 | **[Towards Understanding and Harnessing the Transferability of Prognostic Knowledge in Computational Pathology](http://arxiv.org/abs/2508.13482v1)** | 2025-08-19 | <details><summary>15 pa...</summary><p>15 pages (13 figures and 5 tables)</p></details> |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v1)** | 2025-08-17 | 13 pages, 5 figures |
-| **[HistoViT: Vision Transformer for Accurate and Scalable Histopathological Cancer Diagnosis](http://arxiv.org/abs/2508.11181v1)** | 2025-08-15 | 13 pages, 3 Figures |
-| **[From Explainable to Explained AI: Ideas for Falsifying and Quantifying Explanations](http://arxiv.org/abs/2508.09205v2)** | 2025-08-15 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables, submitted at MICCAI IMIMIC workshop</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Histo-Miner: Deep Learning based Tissue Features Extraction Pipeline from H&E Whole Slide Images of Cutaneous Squamous Cell Carcinoma](http://arxiv.org/abs/2505.04672v2)** | 2025-09-05 | <details><summary>31 pa...</summary><p>31 pages including supplement, 5 core figures, 5 supplement figures. Version 2: change sections order, add new supplementary sections, minor text updates</p></details> |
+| **[Colorectal Cancer Tumor Grade Segmentation in Digital Histopathology Images: From Giga to Mini Challenge](http://arxiv.org/abs/2507.04681v3)** | 2025-09-05 | <details><summary>Accep...</summary><p>Accepted Grand Challenge Paper ICIP 2025</p></details> |
 | **[SAC-MIL: Spatial-Aware Correlated Multiple Instance Learning for Histopathology Whole Slide Image Classification](http://arxiv.org/abs/2509.03973v1)** | 2025-09-04 |  |
 | **[Scalable and Loosely-Coupled Multimodal Deep Learning for Breast Cancer Subtyping](http://arxiv.org/abs/2509.03408v1)** | 2025-09-03 |  |
 | **[A Two-Stage Strategy for Mitosis Detection Using Improved YOLO11x Proposals and ConvNeXt Classification](http://arxiv.org/abs/2509.02627v1)** | 2025-09-01 |  |
@@ -49,12 +51,11 @@ labels: documentation
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v2)** | 2025-08-19 |  |
 | **[Towards Understanding and Harnessing the Transferability of Prognostic Knowledge in Computational Pathology](http://arxiv.org/abs/2508.13482v1)** | 2025-08-19 | <details><summary>15 pa...</summary><p>15 pages (13 figures and 5 tables)</p></details> |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v1)** | 2025-08-17 | 13 pages, 5 figures |
-| **[HistoViT: Vision Transformer for Accurate and Scalable Histopathological Cancer Diagnosis](http://arxiv.org/abs/2508.11181v1)** | 2025-08-15 | 13 pages, 3 Figures |
-| **[From Explainable to Explained AI: Ideas for Falsifying and Quantifying Explanations](http://arxiv.org/abs/2508.09205v2)** | 2025-08-15 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables, submitted at MICCAI IMIMIC workshop</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v1)** | 2025-09-05 |  |
 | **[Ensemble of Pathology Foundation Models for MIDOG 2025 Track 2: Atypical Mitosis Classification](http://arxiv.org/abs/2509.02591v2)** | 2025-09-04 |  |
 | **[Pathology-Aware Adaptive Watermarking for Text-Driven Medical Image Synthesis](http://arxiv.org/abs/2503.08346v2)** | 2025-09-02 |  |
 | **[A Unified Low-level Foundation Model for Enhancing Pathology Image Quality](http://arxiv.org/abs/2509.01071v1)** | 2025-09-01 |  |
@@ -74,11 +75,11 @@ labels: documentation
 | **[Controllable Latent Space Augmentation for Digital Pathology](http://arxiv.org/abs/2508.14588v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](http://arxiv.org/abs/2507.17303v2)** | 2025-08-19 |  |
 | **[SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](http://arxiv.org/abs/2508.12410v2)** | 2025-08-19 | 9 pages, 4 figures |
-| **[Towards Understanding and Harnessing the Transferability of Prognostic Knowledge in Computational Pathology](http://arxiv.org/abs/2508.13482v1)** | 2025-08-19 | <details><summary>15 pa...</summary><p>15 pages (13 figures and 5 tables)</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Multiple Instance Learning Strategies for Automated Sebocyte Droplet Counting](http://arxiv.org/abs/2509.04895v1)** | 2025-09-05 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 2 tables</p></details> |
 | **[Learning from Majority Label: A Novel Problem in Multi-class Multiple-Instance Learning](http://arxiv.org/abs/2509.04023v1)** | 2025-09-04 | <details><summary>35 pa...</summary><p>35 pages, 9 figures, Accepted in Pattern recognition</p></details> |
 | **[SAC-MIL: Spatial-Aware Correlated Multiple Instance Learning for Histopathology Whole Slide Image Classification](http://arxiv.org/abs/2509.03973v1)** | 2025-09-04 |  |
 | **[SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification](http://arxiv.org/abs/2509.00442v1)** | 2025-08-30 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Continual Multiple Instance Learning for Hematologic Disease Diagnosis](http://arxiv.org/abs/2508.04368v2)** | 2025-08-09 | <details><summary>Accep...</summary><p>Accepted for publication at MICCAI 2025 workshop on Efficient Medical AI</p></details> |
 | **[Interpretable Rheumatoid Arthritis Scoring via Anatomy-aware Multiple Instance Learning](http://arxiv.org/abs/2508.06218v1)** | 2025-08-08 | <details><summary>Accep...</summary><p>Accepted by MICCAI AMAI Workshop 2025</p></details> |
 | **[Deformable Attention Graph Representation Learning for Histopathology Whole Slide Image Analysis](http://arxiv.org/abs/2508.05382v1)** | 2025-08-07 |  |
-| **[AdvDINO: Domain-Adversarial Self-Supervised Representation Learning for Spatial Proteomics](http://arxiv.org/abs/2508.04955v1)** | 2025-08-07 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
