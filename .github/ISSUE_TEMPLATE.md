@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 15, 2025
+title: Latest 20 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis](http://arxiv.org/abs/2509.11526v1)** | 2025-09-15 | 27 pages, 8 figures |
+| **[Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images](http://arxiv.org/abs/2509.11034v1)** | 2025-09-14 | 12 pages,5 figures |
 | **[OCELOT 2023: Cell Detection from Cell-Tissue Interaction Challenge](http://arxiv.org/abs/2509.09153v1)** | 2025-09-11 | <details><summary>This ...</summary><p>This is the accepted manuscript of an article published in Medical Image Analysis (Elsevier). The final version is available at: https://doi.org/10.1016/j.media.2025.103751</p></details> |
 | **[GloFinder: AI-empowered QuPath Plugin for WSI-level Glomerular Detection, Visualization, and Curation](http://arxiv.org/abs/2411.18795v2)** | 2025-09-09 |  |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v3)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
@@ -25,12 +27,12 @@ labels: documentation
 | **[MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images](http://arxiv.org/abs/2407.21604v4)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
 | **[CellEcoNet: Decoding the Cellular Language of Pathology with Deep Learning for Invasive Lung Adenocarcinoma Recurrence Prediction](http://arxiv.org/abs/2508.16742v1)** | 2025-08-22 |  |
 | **[Ensemble learning of foundation models for precision oncology](http://arxiv.org/abs/2508.16085v1)** | 2025-08-22 | <details><summary>A con...</summary><p>A conceptual evaluation work; more studies are in progress; examples are here (https://github.com/lilab-stanford/ELF)</p></details> |
-| **[Adversarial Hospital-Invariant Feature Learning for WSI Patch Classification](http://arxiv.org/abs/2508.14779v1)** | 2025-08-20 | 8 pages,6 figures |
-| **[Controllable Latent Space Augmentation for Digital Pathology](http://arxiv.org/abs/2508.14588v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis](http://arxiv.org/abs/2509.11526v1)** | 2025-09-15 | 27 pages, 8 figures |
+| **[Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images](http://arxiv.org/abs/2509.11034v1)** | 2025-09-14 | 12 pages,5 figures |
 | **[OCELOT 2023: Cell Detection from Cell-Tissue Interaction Challenge](http://arxiv.org/abs/2509.09153v1)** | 2025-09-11 | <details><summary>This ...</summary><p>This is the accepted manuscript of an article published in Medical Image Analysis (Elsevier). The final version is available at: https://doi.org/10.1016/j.media.2025.103751</p></details> |
 | **[GloFinder: AI-empowered QuPath Plugin for WSI-level Glomerular Detection, Visualization, and Curation](http://arxiv.org/abs/2411.18795v2)** | 2025-09-09 |  |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v3)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
@@ -49,8 +51,6 @@ labels: documentation
 | **[MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images](http://arxiv.org/abs/2407.21604v4)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
 | **[CellEcoNet: Decoding the Cellular Language of Pathology with Deep Learning for Invasive Lung Adenocarcinoma Recurrence Prediction](http://arxiv.org/abs/2508.16742v1)** | 2025-08-22 |  |
 | **[Ensemble learning of foundation models for precision oncology](http://arxiv.org/abs/2508.16085v1)** | 2025-08-22 | <details><summary>A con...</summary><p>A conceptual evaluation work; more studies are in progress; examples are here (https://github.com/lilab-stanford/ELF)</p></details> |
-| **[Adversarial Hospital-Invariant Feature Learning for WSI Patch Classification](http://arxiv.org/abs/2508.14779v1)** | 2025-08-20 | 8 pages,6 figures |
-| **[Controllable Latent Space Augmentation for Digital Pathology](http://arxiv.org/abs/2508.14588v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,8 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis](http://arxiv.org/abs/2509.11526v1)** | 2025-09-15 | 27 pages, 8 figures |
+| **[Weakly Supervised Vulnerability Localization via Multiple Instance Learning](http://arxiv.org/abs/2509.11312v1)** | 2025-09-14 |  |
 | **[torchmil: A PyTorch-based library for deep Multiple Instance Learning](http://arxiv.org/abs/2509.08129v1)** | 2025-09-09 |  |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v3)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
 | **[Identifying actionable driver mutations in lung cancer using an efficient Asymmetric Transformer Decoder](http://arxiv.org/abs/2508.02431v3)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025 Workshop COMPAYL</p></details> |
@@ -97,8 +99,6 @@ labels: documentation
 | **[MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2508.09967v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted in MICCAI 2025</p></details> |
 | **[Pediatric brain tumor classification using digital histopathology and deep learning: evaluation of SOTA methods on a multi-center Swedish cohort](http://arxiv.org/abs/2409.01330v2)** | 2025-08-13 |  |
 | **[EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](http://arxiv.org/abs/2409.07480v4)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
-| **[Compact and De-biased Negative Instance Embedding for Multi-Instance Learning on Whole-Slide Image Classification](http://arxiv.org/abs/2402.10595v2)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2024</p></details> |
-| **[Approaching Maximal Information Extraction in Low-Signal Regimes via Multiple Instance Learning](http://arxiv.org/abs/2508.07114v1)** | 2025-08-09 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
