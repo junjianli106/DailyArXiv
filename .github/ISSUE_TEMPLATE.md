@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 17, 2025
+title: Latest 20 Papers - September 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multiple Instance Verification](http://arxiv.org/abs/2407.06544v2)** | 2025-09-17 | JMLR 2025 |
 | **[Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis](http://arxiv.org/abs/2509.11526v1)** | 2025-09-15 | 27 pages, 8 figures |
 | **[Weakly Supervised Vulnerability Localization via Multiple Instance Learning](http://arxiv.org/abs/2509.11312v1)** | 2025-09-14 |  |
 | **[torchmil: A PyTorch-based library for deep Multiple Instance Learning](http://arxiv.org/abs/2509.08129v1)** | 2025-09-09 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v2)** | 2025-08-14 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
 | **[MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2508.09967v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted in MICCAI 2025</p></details> |
 | **[Pediatric brain tumor classification using digital histopathology and deep learning: evaluation of SOTA methods on a multi-center Swedish cohort](http://arxiv.org/abs/2409.01330v2)** | 2025-08-13 |  |
-| **[EEG-Language Pretraining for Highly Label-Efficient Clinical Phenotyping](http://arxiv.org/abs/2409.07480v4)** | 2025-08-11 | <details><summary>Accep...</summary><p>Accepted to ICML 2025</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
