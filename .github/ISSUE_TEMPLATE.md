@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 21, 2025
+title: Latest 20 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DPC-QA Net: A No-Reference Dual-Stream Perceptual and Cellular Quality Assessment Network for Histopathology Images](http://arxiv.org/abs/2509.15802v1)** | 2025-09-19 |  |
+| **[Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation](http://arxiv.org/abs/2509.15608v1)** | 2025-09-19 |  |
 | **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis](http://arxiv.org/abs/2509.11526v1)** | 2025-09-15 | 27 pages, 8 figures |
 | **[Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images](http://arxiv.org/abs/2509.11034v1)** | 2025-09-14 | 12 pages,5 figures |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer](http://arxiv.org/abs/2508.21581v1)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Accepted at the Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) Workshop, MICCAI 2025. This is the submitted version with authors, affiliations, and acknowledgements included; it has not undergone peer review or revisions. The final version will appear in the Springer Lecture Notes in Computer Science (LNCS) proceedings</p></details> |
 | **[Standardized Multi-Layer Tissue Maps for Enhanced Artificial Intelligence Integration and Search in Large-Scale Whole Slide Image Archives](http://arxiv.org/abs/2508.21418v1)** | 2025-08-29 |  |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
-| **[MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images](http://arxiv.org/abs/2407.21604v4)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
-| **[CellEcoNet: Decoding the Cellular Language of Pathology with Deep Learning for Invasive Lung Adenocarcinoma Recurrence Prediction](http://arxiv.org/abs/2508.16742v1)** | 2025-08-22 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DPC-QA Net: A No-Reference Dual-Stream Perceptual and Cellular Quality Assessment Network for Histopathology Images](http://arxiv.org/abs/2509.15802v1)** | 2025-09-19 |  |
+| **[Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation](http://arxiv.org/abs/2509.15608v1)** | 2025-09-19 |  |
 | **[SCORPION: Addressing Scanner-Induced Variability in Histopathology](http://arxiv.org/abs/2507.20907v2)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted in UNSURE 2025 workshop in MICCAI</p></details> |
 | **[Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis](http://arxiv.org/abs/2509.11526v1)** | 2025-09-15 | 27 pages, 8 figures |
 | **[Cluster-Level Sparse Multi-Instance Learning for Whole-Slide Images](http://arxiv.org/abs/2509.11034v1)** | 2025-09-14 | 12 pages,5 figures |
@@ -49,12 +51,12 @@ labels: documentation
 | **[Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer](http://arxiv.org/abs/2508.21581v1)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Accepted at the Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) Workshop, MICCAI 2025. This is the submitted version with authors, affiliations, and acknowledgements included; it has not undergone peer review or revisions. The final version will appear in the Springer Lecture Notes in Computer Science (LNCS) proceedings</p></details> |
 | **[Standardized Multi-Layer Tissue Maps for Enhanced Artificial Intelligence Integration and Search in Large-Scale Whole Slide Image Archives](http://arxiv.org/abs/2508.21418v1)** | 2025-08-29 |  |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
-| **[MicroMIL: Graph-Based Multiple Instance Learning for Context-Aware Diagnosis with Microscopic Images](http://arxiv.org/abs/2407.21604v4)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025</p></details> |
-| **[CellEcoNet: Decoding the Cellular Language of Pathology with Deep Learning for Invasive Lung Adenocarcinoma Recurrence Prediction](http://arxiv.org/abs/2508.16742v1)** | 2025-08-22 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Comparing Computational Pathology Foundation Models using Representational Similarity Analysis](http://arxiv.org/abs/2509.15482v1)** | 2025-09-18 |  |
+| **[Screener: Self-supervised Pathology Segmentation in Medical CT Images](http://arxiv.org/abs/2502.08321v2)** | 2025-09-18 |  |
 | **[Ensemble of Pathology Foundation Models for MIDOG 2025 Track 2: Atypical Mitosis Classification](http://arxiv.org/abs/2509.02591v3)** | 2025-09-18 |  |
 | **[Multi-pathology Chest X-ray Classification with Rejection Mechanisms](http://arxiv.org/abs/2509.10348v1)** | 2025-09-12 | 12 pages, 4 figures |
 | **[AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models](http://arxiv.org/abs/2508.05084v2)** | 2025-09-12 | 6 Tables, 11 Figures |
@@ -73,8 +75,6 @@ labels: documentation
 | **[CellEcoNet: Decoding the Cellular Language of Pathology with Deep Learning for Invasive Lung Adenocarcinoma Recurrence Prediction](http://arxiv.org/abs/2508.16742v1)** | 2025-08-22 |  |
 | **[Perceptual Implications of Automatic Anonymization in Pathological Speech](http://arxiv.org/abs/2505.00409v2)** | 2025-08-22 |  |
 | **[Boosting Pathology Foundation Models via Few-shot Prompt-tuning for Rare Cancer Subtyping](http://arxiv.org/abs/2508.15904v1)** | 2025-08-21 |  |
-| **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](http://arxiv.org/abs/2508.15256v1)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. \c{opyright} IEEE 2025. This is the author's accepted version (camera-ready) of the paper. The definitive version is published in the Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025). DOI will be updated when available</p></details> |
-| **[Pathology-Informed Latent Diffusion Model for Anomaly Detection in Lymph Node Metastasis](http://arxiv.org/abs/2508.15236v1)** | 2025-08-21 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation](http://arxiv.org/abs/2509.15608v1)** | 2025-09-19 |  |
 | **[Glo-UMF: A Unified Multi-model Framework for Automated Morphometry of Glomerular Ultrastructural Characterization](http://arxiv.org/abs/2508.10351v2)** | 2025-09-11 | 17 pages, 6 figures |
 | **[PathoHR: Hierarchical Reasoning for Vision-Language Models in Pathology](http://arxiv.org/abs/2509.06105v1)** | 2025-09-07 | Accept by EMNLP2025 |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model](http://arxiv.org/abs/2407.15362v3)** | 2025-03-25 | 62 pages |
 | **[ELM: Ensemble of Language Models for Predicting Tumor Group from Pathology Reports](http://arxiv.org/abs/2503.21800v1)** | 2025-03-24 |  |
 | **[Towards Scalable and Cross-Lingual Specialist Language Models for Oncology](http://arxiv.org/abs/2503.08323v1)** | 2025-03-11 |  |
-| **[Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs](http://arxiv.org/abs/2503.01194v1)** | 2025-03-03 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
