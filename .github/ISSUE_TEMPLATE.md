@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 23, 2025
+title: Latest 20 Papers - September 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies](http://arxiv.org/abs/2509.19258v1)** | 2025-09-23 | <details><summary>Under...</summary><p>Under Review: npj Digital Medicine</p></details> |
 | **[Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs](http://arxiv.org/abs/2509.18015v1)** | 2025-09-22 |  |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v2)** | 2025-09-22 | 13 pages, 5 figures |
 | **[Echo-Path: Pathology-Conditioned Echo Video Generation](http://arxiv.org/abs/2509.17190v1)** | 2025-09-21 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, MICCAI-AMAI2025 Workshop</p></details> |
@@ -64,6 +65,7 @@ labels: documentation
 | **[Ensemble of Pathology Foundation Models for MIDOG 2025 Track 2: Atypical Mitosis Classification](http://arxiv.org/abs/2509.02591v3)** | 2025-09-18 |  |
 | **[Multi-pathology Chest X-ray Classification with Rejection Mechanisms](http://arxiv.org/abs/2509.10348v1)** | 2025-09-12 | 12 pages, 4 figures |
 | **[AdaFusion: Prompt-Guided Inference with Adaptive Fusion of Pathology Foundation Models](http://arxiv.org/abs/2508.05084v2)** | 2025-09-12 | 6 Tables, 11 Figures |
+| **[A Study of Skews, Imbalances, and Pathological Conditions in LLM Inference Deployment on GPU Clusters detectable from DPU](http://arxiv.org/abs/2509.18114v1)** | 2025-09-09 | <details><summary>12 pa...</summary><p>12 pages, Technical Report 2025-07-01, Internetworking and Media Communications Research Laboratories, Department of Computer Science, Kent State University</p></details> |
 | **[MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention](http://arxiv.org/abs/2503.00374v3)** | 2025-09-09 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 10 tables. Code available at https://github.com/TianyiFranklinWang/MIRROR. Project page: https://tianyifranklinwang.github.io/MIRROR</p></details> |
 | **[AURAD: Anatomy-Pathology Unified Radiology Synthesis with Progressive Representations](http://arxiv.org/abs/2509.04819v2)** | 2025-09-08 |  |
 | **[Content Generation Models in Computational Pathology: A Comprehensive Survey on Methods, Applications, and Challenges](http://arxiv.org/abs/2505.10993v2)** | 2025-09-08 | 20 pages, 8 figures |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer](http://arxiv.org/abs/2508.21581v1)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Accepted at the Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) Workshop, MICCAI 2025. This is the submitted version with authors, affiliations, and acknowledgements included; it has not undergone peer review or revisions. The final version will appear in the Springer Lecture Notes in Computer Science (LNCS) proceedings</p></details> |
 | **[Are the Majority of Public Computational Notebooks Pathologically Non-Executable?](http://arxiv.org/abs/2502.04184v4)** | 2025-08-28 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 3 tables, the 22nd International Conference on Mining Software Repositories (MSR 2025)</p></details> |
 | **[PathMR: Multimodal Visual Reasoning for Interpretable Pathology Diagnosis](http://arxiv.org/abs/2508.20851v1)** | 2025-08-28 |  |
-| **[Enhancing Corpus Callosum Segmentation in Fetal MRI via Pathology-Informed Domain Randomization](http://arxiv.org/abs/2508.20475v1)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted at the PIPPI Workshop of MICCAI 2025</p></details> |
-| **[The Next Layer: Augmenting Foundation Models with Structure-Preserving and Attention-Guided Learning for Local Patches to Global Context Awareness in Computational Pathology](http://arxiv.org/abs/2508.19914v1)** | 2025-08-27 | <details><summary>43 pa...</summary><p>43 pages, 7 main Figures, 8 Extended Data Figures</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
