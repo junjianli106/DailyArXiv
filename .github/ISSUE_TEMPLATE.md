@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 24, 2025
+title: Latest 20 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[C$^2$MIL: Synchronizing Semantic and Topological Causalities in Multiple Instance Learning for Robust and Interpretable Survival Analysis](http://arxiv.org/abs/2509.20152v1)** | 2025-09-24 |  |
+| **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](http://arxiv.org/abs/2506.00096v2)** | 2025-09-24 | <details><summary>This ...</summary><p>This submission is being withdrawn because we identified issues in the analysis that may affect the results. A corrected version will be submitted in the future. The manuscript is withdrawn as it requires substantial revision. An improved version will be submitted in the future</p></details> |
+| **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](http://arxiv.org/abs/2509.20022v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v1)** | 2025-09-22 | NeurIPS 2025 |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v2)** | 2025-09-22 | 13 pages, 5 figures |
 | **[ME-Mamba: Multi-Expert Mamba with Efficient Knowledge Capture and Fusion for Multimodal Survival Analysis](http://arxiv.org/abs/2509.16900v1)** | 2025-09-21 |  |
@@ -24,13 +27,13 @@ labels: documentation
 | **[SAC-MIL: Spatial-Aware Correlated Multiple Instance Learning for Histopathology Whole Slide Image Classification](http://arxiv.org/abs/2509.03973v1)** | 2025-09-04 |  |
 | **[Scalable and Loosely-Coupled Multimodal Deep Learning for Breast Cancer Subtyping](http://arxiv.org/abs/2509.03408v1)** | 2025-09-03 |  |
 | **[A Two-Stage Strategy for Mitosis Detection Using Improved YOLO11x Proposals and ConvNeXt Classification](http://arxiv.org/abs/2509.02627v1)** | 2025-09-01 |  |
-| **[SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification](http://arxiv.org/abs/2509.00442v1)** | 2025-08-30 |  |
-| **[MorphGen: Morphology-Guided Representation Learning for Robust Single-Domain Generalization in Histopathological Cancer Classification](http://arxiv.org/abs/2509.00311v1)** | 2025-08-30 |  |
-| **[Self-supervised large-scale kidney abnormality detection in drug safety assessment studies](http://arxiv.org/abs/2509.00131v1)** | 2025-08-29 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[C$^2$MIL: Synchronizing Semantic and Topological Causalities in Multiple Instance Learning for Robust and Interpretable Survival Analysis](http://arxiv.org/abs/2509.20152v1)** | 2025-09-24 |  |
+| **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](http://arxiv.org/abs/2506.00096v2)** | 2025-09-24 | <details><summary>This ...</summary><p>This submission is being withdrawn because we identified issues in the analysis that may affect the results. A corrected version will be submitted in the future. The manuscript is withdrawn as it requires substantial revision. An improved version will be submitted in the future</p></details> |
+| **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](http://arxiv.org/abs/2509.20022v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v1)** | 2025-09-22 | NeurIPS 2025 |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v2)** | 2025-09-22 | 13 pages, 5 figures |
 | **[ME-Mamba: Multi-Expert Mamba with Efficient Knowledge Capture and Fusion for Multimodal Survival Analysis](http://arxiv.org/abs/2509.16900v1)** | 2025-09-21 |  |
@@ -48,13 +51,11 @@ labels: documentation
 | **[SAC-MIL: Spatial-Aware Correlated Multiple Instance Learning for Histopathology Whole Slide Image Classification](http://arxiv.org/abs/2509.03973v1)** | 2025-09-04 |  |
 | **[Scalable and Loosely-Coupled Multimodal Deep Learning for Breast Cancer Subtyping](http://arxiv.org/abs/2509.03408v1)** | 2025-09-03 |  |
 | **[A Two-Stage Strategy for Mitosis Detection Using Improved YOLO11x Proposals and ConvNeXt Classification](http://arxiv.org/abs/2509.02627v1)** | 2025-09-01 |  |
-| **[SemaMIL: Semantic Reordering with Retrieval-Guided State Space Modeling for Whole Slide Image Classification](http://arxiv.org/abs/2509.00442v1)** | 2025-08-30 |  |
-| **[MorphGen: Morphology-Guided Representation Learning for Robust Single-Domain Generalization in Histopathological Cancer Classification](http://arxiv.org/abs/2509.00311v1)** | 2025-08-30 |  |
-| **[Self-supervised large-scale kidney abnormality detection in drug safety assessment studies](http://arxiv.org/abs/2509.00131v1)** | 2025-08-29 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](http://arxiv.org/abs/2509.20022v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies](http://arxiv.org/abs/2509.19258v1)** | 2025-09-23 | <details><summary>Under...</summary><p>Under Review: npj Digital Medicine</p></details> |
 | **[Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs](http://arxiv.org/abs/2509.18015v1)** | 2025-09-22 |  |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v2)** | 2025-09-22 | 13 pages, 5 figures |
@@ -74,11 +75,12 @@ labels: documentation
 | **[A Unified Low-level Foundation Model for Enhancing Pathology Image Quality](http://arxiv.org/abs/2509.01071v1)** | 2025-09-01 |  |
 | **[Integrating Pathology and CT Imaging for Personalized Recurrence Risk Prediction in Renal Cancer](http://arxiv.org/abs/2508.21581v1)** | 2025-08-29 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Accepted at the Multimodal Learning and Fusion Across Scales for Clinical Decision Support (ML-CDS) Workshop, MICCAI 2025. This is the submitted version with authors, affiliations, and acknowledgements included; it has not undergone peer review or revisions. The final version will appear in the Springer Lecture Notes in Computer Science (LNCS) proceedings</p></details> |
 | **[Are the Majority of Public Computational Notebooks Pathologically Non-Executable?](http://arxiv.org/abs/2502.04184v4)** | 2025-08-28 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 3 tables, the 22nd International Conference on Mining Software Repositories (MSR 2025)</p></details> |
-| **[PathMR: Multimodal Visual Reasoning for Interpretable Pathology Diagnosis](http://arxiv.org/abs/2508.20851v1)** | 2025-08-28 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[C$^2$MIL: Synchronizing Semantic and Topological Causalities in Multiple Instance Learning for Robust and Interpretable Survival Analysis](http://arxiv.org/abs/2509.20152v1)** | 2025-09-24 |  |
+| **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](http://arxiv.org/abs/2506.00096v2)** | 2025-09-24 | <details><summary>This ...</summary><p>This submission is being withdrawn because we identified issues in the analysis that may affect the results. A corrected version will be submitted in the future. The manuscript is withdrawn as it requires substantial revision. An improved version will be submitted in the future</p></details> |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v2)** | 2025-09-22 | 13 pages, 5 figures |
 | **[Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection](http://arxiv.org/abs/2509.17292v1)** | 2025-09-22 |  |
 | **[Multiple Instance Verification](http://arxiv.org/abs/2407.06544v2)** | 2025-09-17 | JMLR 2025 |
@@ -97,12 +99,12 @@ labels: documentation
 | **[Controllable Latent Space Augmentation for Digital Pathology](http://arxiv.org/abs/2508.14588v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025</p></details> |
 | **[RMSL: Weakly-Supervised Insider Threat Detection with Robust Multi-sphere Learning](http://arxiv.org/abs/2508.11472v1)** | 2025-08-15 | 15 pages |
 | **[STAMP: Multi-pattern Attention-aware Multiple Instance Learning for STAS Diagnosis in Multi-center Histopathology Images](http://arxiv.org/abs/2508.10473v1)** | 2025-08-14 | Submit to AAAI2026 |
-| **[EXAONE Path 2.0: Pathology Foundation Model with End-to-End Supervision](http://arxiv.org/abs/2507.06639v2)** | 2025-08-14 | <details><summary>EXAON...</summary><p>EXAONE Path 2.0 technical report</p></details> |
-| **[MOC: Meta-Optimized Classifier for Few-Shot Whole Slide Image Classification](http://arxiv.org/abs/2508.09967v1)** | 2025-08-13 | <details><summary>Accep...</summary><p>Accepted in MICCAI 2025</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](http://arxiv.org/abs/2509.20022v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
+| **[Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare](http://arxiv.org/abs/2504.21191v2)** | 2025-09-24 |  |
 | **[Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation](http://arxiv.org/abs/2509.15608v1)** | 2025-09-19 |  |
 | **[Glo-UMF: A Unified Multi-model Framework for Automated Morphometry of Glomerular Ultrastructural Characterization](http://arxiv.org/abs/2508.10351v2)** | 2025-09-11 | 17 pages, 6 figures |
 | **[PathoHR: Hierarchical Reasoning for Vision-Language Models in Pathology](http://arxiv.org/abs/2509.06105v1)** | 2025-09-07 | Accept by EMNLP2025 |
@@ -116,13 +118,11 @@ labels: documentation
 | **[VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis](http://arxiv.org/abs/2506.02229v1)** | 2025-06-02 | <details><summary>Proce...</summary><p>Proceedings of the 9th International Workshop on Health Intelligence, in conjunction with the Annual AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, March 2025</p></details> |
 | **[Multimodal Survival Modeling in the Age of Foundation Models](http://arxiv.org/abs/2505.07683v2)** | 2025-05-28 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 8 tables, updated with acknowledgements and declarations of interest</p></details> |
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
-| **[Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare](http://arxiv.org/abs/2504.21191v1)** | 2025-04-29 |  |
 | **[Global explainability of a deep abstaining classifier](http://arxiv.org/abs/2504.01202v1)** | 2025-04-01 |  |
 | **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
 | **[Vision Language Models versus Machine Learning Models Performance on Polyp Detection and Classification in Colonoscopy Images](http://arxiv.org/abs/2503.21840v1)** | 2025-03-27 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/aminkhalafi/CML-vs-LLM-on-Polyp-Detection. CoI: AlSo serves on the advisory board and holds equity in Virgo Surgical Solutions. The other authors declare no conflicts of interest. Data</p></details> |
 | **[A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model](http://arxiv.org/abs/2407.15362v3)** | 2025-03-25 | 62 pages |
 | **[ELM: Ensemble of Language Models for Predicting Tumor Group from Pathology Reports](http://arxiv.org/abs/2503.21800v1)** | 2025-03-24 |  |
-| **[Towards Scalable and Cross-Lingual Specialist Language Models for Oncology](http://arxiv.org/abs/2503.08323v1)** | 2025-03-11 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
