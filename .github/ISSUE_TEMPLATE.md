@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 12, 2025
+title: Latest 20 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
+| **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
 | **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 | **[A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v2)** | 2025-10-06 | 15 pages, 5 figures |
@@ -25,12 +27,12 @@ labels: documentation
 | **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework](http://arxiv.org/abs/2509.20923v1)** | 2025-09-25 | 26 pages, 5 figures |
 | **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](http://arxiv.org/abs/2508.13482v2)** | 2025-09-25 | <details><summary>20 pa...</summary><p>20 pages (11 figures and 6 tables)</p></details> |
-| **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](http://arxiv.org/abs/2502.02707v4)** | 2025-09-24 |  |
-| **[C$^2$MIL: Synchronizing Semantic and Topological Causalities in Multiple Instance Learning for Robust and Interpretable Survival Analysis](http://arxiv.org/abs/2509.20152v1)** | 2025-09-24 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
+| **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
 | **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 | **[A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v2)** | 2025-10-06 | 15 pages, 5 figures |
@@ -49,16 +51,19 @@ labels: documentation
 | **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework](http://arxiv.org/abs/2509.20923v1)** | 2025-09-25 | 26 pages, 5 figures |
 | **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](http://arxiv.org/abs/2508.13482v2)** | 2025-09-25 | <details><summary>20 pa...</summary><p>20 pages (11 figures and 6 tables)</p></details> |
-| **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](http://arxiv.org/abs/2502.02707v4)** | 2025-09-24 |  |
-| **[C$^2$MIL: Synchronizing Semantic and Topological Causalities in Multiple Instance Learning for Robust and Interpretable Survival Analysis](http://arxiv.org/abs/2509.20152v1)** | 2025-09-24 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ViDRiP-LLaVA: A Dataset and Benchmark for Diagnostic Reasoning from Pathology Videos](http://arxiv.org/abs/2505.04192v2)** | 2025-10-13 |  |
+| **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](http://arxiv.org/abs/2510.11176v1)** | 2025-10-13 |  |
+| **[A Clinical-grade Universal Foundation Model for Intraoperative Pathology](http://arxiv.org/abs/2510.04861v2)** | 2025-10-12 |  |
+| **[MSDM: Generating Task-Specific Pathology Images with a Multimodal Conditioned Diffusion Model for Cell and Nuclei Segmentation](http://arxiv.org/abs/2510.09121v1)** | 2025-10-10 |  |
+| **[A Novel Multi-branch ConvNeXt Architecture for Identifying Subtle Pathological Features in CT Scans](http://arxiv.org/abs/2510.09107v1)** | 2025-10-10 |  |
 | **[Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use](http://arxiv.org/abs/2510.06908v2)** | 2025-10-09 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 5 tables</p></details> |
 | **[The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology](http://arxiv.org/abs/2509.16765v2)** | 2025-10-08 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Oral Presentation</p></details> |
+| **[YpathRAG:A Retrieval-Augmented Generation Framework and Benchmark for Pathology](http://arxiv.org/abs/2510.08603v1)** | 2025-10-07 |  |
 | **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
-| **[A Clinical-grade Universal Foundation Model for Intraoperative Pathology](http://arxiv.org/abs/2510.04861v1)** | 2025-10-06 |  |
 | **[GAS-MIL: Group-Aggregative Selection Multi-Instance Learning for Ensemble of Foundation Models in Digital Pathology Image Analysis](http://arxiv.org/abs/2510.03555v1)** | 2025-10-03 |  |
 | **[Enhancing Corpus Callosum Segmentation in Fetal MRI via Pathology-Informed Domain Randomization](http://arxiv.org/abs/2508.20475v2)** | 2025-10-02 | <details><summary>Prese...</summary><p>Presented at the PIPPI Workshop of MICCAI 2025</p></details> |
 | **[Efficient Whole Slide Pathology VQA via Token Compression](http://arxiv.org/abs/2507.14497v2)** | 2025-10-02 |  |
@@ -70,11 +75,6 @@ labels: documentation
 | **[Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive Remedy](http://arxiv.org/abs/2509.20952v1)** | 2025-09-25 |  |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework](http://arxiv.org/abs/2509.20923v1)** | 2025-09-25 | 26 pages, 5 figures |
 | **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](http://arxiv.org/abs/2509.20022v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Graph-Radiomic Learning (GrRAiL) Descriptor to Characterize Imaging Heterogeneity in Confounding Tumor Pathologies](http://arxiv.org/abs/2509.19258v1)** | 2025-09-23 | <details><summary>Under...</summary><p>Under Review: npj Digital Medicine</p></details> |
-| **[Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs](http://arxiv.org/abs/2509.18015v1)** | 2025-09-22 |  |
-| **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v2)** | 2025-09-22 | 13 pages, 5 figures |
-| **[Echo-Path: Pathology-Conditioned Echo Video Generation](http://arxiv.org/abs/2509.17190v1)** | 2025-09-21 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, MICCAI-AMAI2025 Workshop</p></details> |
-| **[Comparing Computational Pathology Foundation Models using Representational Similarity Analysis](http://arxiv.org/abs/2509.15482v1)** | 2025-09-18 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
