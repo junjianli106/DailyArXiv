@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 14, 2025
+title: Latest 20 Papers - October 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,13 +7,14 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
+| **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
 | **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
 | **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
 | **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 | **[A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v2)** | 2025-10-06 | 15 pages, 5 figures |
 | **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
-| **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v1)** | 2025-10-06 |  |
 | **[EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification](http://arxiv.org/abs/2509.23640v2)** | 2025-10-04 | Submitted to Array |
 | **[Hierarchical Generalized Category Discovery for Brain Tumor Classification in Digital Pathology](http://arxiv.org/abs/2510.02760v1)** | 2025-10-03 |  |
 | **[A Multicentric Dataset for Training and Benchmarking Breast Cancer Segmentation in H&E Slides](http://arxiv.org/abs/2510.02037v1)** | 2025-10-02 | <details><summary>Our d...</summary><p>Our dataset is available at https://zenodo.org/records/16812932 , our code is available at https://github.com/DIAGNijmegen/beetle , and our benchmark is available at https://beetle.grand-challenge.org/</p></details> |
@@ -26,18 +27,18 @@ labels: documentation
 | **[SemaMIL: Semantic-Aware Multiple Instance Learning with Retrieval-Guided State Space Modeling for Whole Slide Images](http://arxiv.org/abs/2509.00442v2)** | 2025-09-27 |  |
 | **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework](http://arxiv.org/abs/2509.20923v1)** | 2025-09-25 | 26 pages, 5 figures |
-| **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](http://arxiv.org/abs/2508.13482v2)** | 2025-09-25 | <details><summary>20 pa...</summary><p>20 pages (11 figures and 6 tables)</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
+| **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
 | **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
 | **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
 | **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 | **[A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v2)** | 2025-10-06 | 15 pages, 5 figures |
 | **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
-| **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v1)** | 2025-10-06 |  |
 | **[EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification](http://arxiv.org/abs/2509.23640v2)** | 2025-10-04 | Submitted to Array |
 | **[Hierarchical Generalized Category Discovery for Brain Tumor Classification in Digital Pathology](http://arxiv.org/abs/2510.02760v1)** | 2025-10-03 |  |
 | **[A Multicentric Dataset for Training and Benchmarking Breast Cancer Segmentation in H&E Slides](http://arxiv.org/abs/2510.02037v1)** | 2025-10-02 | <details><summary>Our d...</summary><p>Our dataset is available at https://zenodo.org/records/16812932 , our code is available at https://github.com/DIAGNijmegen/beetle , and our benchmark is available at https://beetle.grand-challenge.org/</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[SemaMIL: Semantic-Aware Multiple Instance Learning with Retrieval-Guided State Space Modeling for Whole Slide Images](http://arxiv.org/abs/2509.00442v2)** | 2025-09-27 |  |
 | **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework](http://arxiv.org/abs/2509.20923v1)** | 2025-09-25 | 26 pages, 5 figures |
-| **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](http://arxiv.org/abs/2508.13482v2)** | 2025-09-25 | <details><summary>20 pa...</summary><p>20 pages (11 figures and 6 tables)</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
 | **[ViDRiP-LLaVA: A Dataset and Benchmark for Diagnostic Reasoning from Pathology Videos](http://arxiv.org/abs/2505.04192v2)** | 2025-10-13 |  |
 | **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](http://arxiv.org/abs/2510.11176v1)** | 2025-10-13 |  |
 | **[A Clinical-grade Universal Foundation Model for Intraoperative Pathology](http://arxiv.org/abs/2510.04861v2)** | 2025-10-12 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
 | **[Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive Remedy](http://arxiv.org/abs/2509.20952v1)** | 2025-09-25 |  |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework](http://arxiv.org/abs/2509.20923v1)** | 2025-09-25 | 26 pages, 5 figures |
-| **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](http://arxiv.org/abs/2509.20022v1)** | 2025-09-24 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
