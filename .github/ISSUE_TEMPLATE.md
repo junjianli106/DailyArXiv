@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 19, 2025
+title: Latest 20 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
+| **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
+| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v1)** | 2025-10-16 |  |
 | **[Morphology-Aware Prognostic model for Five-Year Survival Prediction in Colorectal Cancer from H&E Whole Slide Images](http://arxiv.org/abs/2510.14800v1)** | 2025-10-16 |  |
-| **[DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v1)** | 2025-10-16 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
 | **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
@@ -25,14 +27,14 @@ labels: documentation
 | **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v2)** | 2025-10-01 | NeurIPS 2025 |
 | **[Streamline pathology foundation model by cross-magnification distillation](http://arxiv.org/abs/2509.23097v2)** | 2025-10-01 |  |
 | **[MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification](http://arxiv.org/abs/2509.25863v1)** | 2025-09-30 |  |
-| **[Evaluating Foundation Models with Pathological Concept Learning for Kidney Cancer](http://arxiv.org/abs/2509.25552v1)** | 2025-09-29 | <details><summary>Best ...</summary><p>Best Paper Award at MICCAI AMAI 2025</p></details> |
-| **[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](http://arxiv.org/abs/2510.00053v1)** | 2025-09-28 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
+| **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
+| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v1)** | 2025-10-16 |  |
 | **[Morphology-Aware Prognostic model for Five-Year Survival Prediction in Colorectal Cancer from H&E Whole Slide Images](http://arxiv.org/abs/2510.14800v1)** | 2025-10-16 |  |
-| **[DCMIL: A Progressive Representation Learning Model of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v1)** | 2025-10-16 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
 | **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
@@ -49,17 +51,18 @@ labels: documentation
 | **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v2)** | 2025-10-01 | NeurIPS 2025 |
 | **[Streamline pathology foundation model by cross-magnification distillation](http://arxiv.org/abs/2509.23097v2)** | 2025-10-01 |  |
 | **[MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification](http://arxiv.org/abs/2509.25863v1)** | 2025-09-30 |  |
-| **[Evaluating Foundation Models with Pathological Concept Learning for Kidney Cancer](http://arxiv.org/abs/2509.25552v1)** | 2025-09-29 | <details><summary>Best ...</summary><p>Best Paper Award at MICCAI AMAI 2025</p></details> |
-| **[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](http://arxiv.org/abs/2510.00053v1)** | 2025-09-28 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Inverse Optimal Control of Muscle Force Sharing During Pathological Gait](http://arxiv.org/abs/2510.17456v1)** | 2025-10-20 |  |
+| **[MSDM: Generating Task-Specific Pathology Images with a Multimodal Conditioned Diffusion Model for Cell and Nuclei Segmentation](http://arxiv.org/abs/2510.09121v2)** | 2025-10-20 |  |
+| **[MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention](http://arxiv.org/abs/2503.00374v4)** | 2025-10-20 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 10 tables. Code available at https://github.com/TianyiFranklinWang/MIRROR. Project page: https://tianyifranklinwang.github.io/MIRROR</p></details> |
+| **[Universal and Transferable Attacks on Pathology Foundation Models](http://arxiv.org/abs/2510.16660v1)** | 2025-10-18 | 38 Pages, 8 Figures |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
 | **[ViDRiP-LLaVA: A Dataset and Benchmark for Diagnostic Reasoning from Pathology Videos](http://arxiv.org/abs/2505.04192v2)** | 2025-10-13 |  |
 | **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](http://arxiv.org/abs/2510.11176v1)** | 2025-10-13 |  |
 | **[A Clinical-grade Universal Foundation Model for Intraoperative Pathology](http://arxiv.org/abs/2510.04861v2)** | 2025-10-12 |  |
-| **[MSDM: Generating Task-Specific Pathology Images with a Multimodal Conditioned Diffusion Model for Cell and Nuclei Segmentation](http://arxiv.org/abs/2510.09121v1)** | 2025-10-10 |  |
 | **[A Novel Multi-branch ConvNeXt Architecture for Identifying Subtle Pathological Features in CT Scans](http://arxiv.org/abs/2510.09107v1)** | 2025-10-10 |  |
 | **[Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use](http://arxiv.org/abs/2510.06908v2)** | 2025-10-09 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 5 tables</p></details> |
 | **[The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology](http://arxiv.org/abs/2509.16765v2)** | 2025-10-08 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Oral Presentation</p></details> |
@@ -72,14 +75,13 @@ labels: documentation
 | **[Evaluating New AI Cell Foundation Models on Challenging Kidney Pathology Cases Unaddressed by Previous Foundation Models](http://arxiv.org/abs/2510.01287v1)** | 2025-10-01 |  |
 | **[PathoHR: Hierarchical Reasoning for Vision-Language Models in Pathology](http://arxiv.org/abs/2509.06105v2)** | 2025-09-30 | Accept by EMNLP2025 |
 | **[Evaluating Foundation Models with Pathological Concept Learning for Kidney Cancer](http://arxiv.org/abs/2509.25552v1)** | 2025-09-29 | <details><summary>Best ...</summary><p>Best Paper Award at MICCAI AMAI 2025</p></details> |
-| **[SlideMamba: Entropy-Based Adaptive Fusion of GNN and Mamba for Enhanced Representation Learning in Digital Pathology](http://arxiv.org/abs/2509.21239v1)** | 2025-09-25 |  |
-| **[Flow Matching in the Low-Noise Regime: Pathologies and a Contrastive Remedy](http://arxiv.org/abs/2509.20952v1)** | 2025-09-25 |  |
-| **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Framework](http://arxiv.org/abs/2509.20923v1)** | 2025-09-25 | 26 pages, 5 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](http://arxiv.org/abs/2411.08590v3)** | 2025-10-16 | <details><summary>51 pa...</summary><p>51 pages, 14 figures. arXiv admin note: text overlap with arXiv:2402.13725</p></details> |
+| **[Enrich and Detect: Video Temporal Grounding with Multimodal LLMs](http://arxiv.org/abs/2510.17023v1)** | 2025-10-19 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlights)</p></details> |
+| **[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](http://arxiv.org/abs/2411.08590v4)** | 2025-10-17 | <details><summary>51 pa...</summary><p>51 pages, 14 figures. arXiv admin note: text overlap with arXiv:2402.13725</p></details> |
+| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v1)** | 2025-10-16 |  |
 | **[Finding Holes: Pathologist Level Performance Using AI for Cribriform Morphology Detection in Prostate Cancer](http://arxiv.org/abs/2510.13995v1)** | 2025-10-15 |  |
 | **[PRVR: Partially Relevant Video Retrieval](http://arxiv.org/abs/2208.12510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by TPAMI. The paper's homepage is https://github.com/HuiGuanLab/ms-sl-pp</p></details> |
 | **[A deep multiple instance learning approach based on coarse labels for high-resolution land-cover mapping](http://arxiv.org/abs/2510.06769v1)** | 2025-10-08 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, accepted conference paper at SPIE REMOTE SENSING, 3-7 September 2023, Amsterdam, Netherlands</p></details> |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Weakly Supervised Vulnerability Localization via Multiple Instance Learning](http://arxiv.org/abs/2509.11312v1)** | 2025-09-14 |  |
 | **[torchmil: A PyTorch-based library for deep Multiple Instance Learning](http://arxiv.org/abs/2509.08129v1)** | 2025-09-09 |  |
 | **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v3)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
-| **[Identifying actionable driver mutations in lung cancer using an efficient Asymmetric Transformer Decoder](http://arxiv.org/abs/2508.02431v3)** | 2025-09-08 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2025 Workshop COMPAYL</p></details> |
-| **[Evaluating Multiple Instance Learning Strategies for Automated Sebocyte Droplet Counting](http://arxiv.org/abs/2509.04895v1)** | 2025-09-05 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 2 tables</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
