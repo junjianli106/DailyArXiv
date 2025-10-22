@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 21, 2025
+title: Latest 20 Papers - October 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
 | **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
 | **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
-| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v1)** | 2025-10-16 |  |
 | **[Morphology-Aware Prognostic model for Five-Year Survival Prediction in Colorectal Cancer from H&E Whole Slide Images](http://arxiv.org/abs/2510.14800v1)** | 2025-10-16 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
@@ -31,9 +31,9 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
 | **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
 | **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
-| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v1)** | 2025-10-16 |  |
 | **[Morphology-Aware Prognostic model for Five-Year Survival Prediction in Colorectal Cancer from H&E Whole Slide Images](http://arxiv.org/abs/2510.14800v1)** | 2025-10-16 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
@@ -79,9 +79,9 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
 | **[Enrich and Detect: Video Temporal Grounding with Multimodal LLMs](http://arxiv.org/abs/2510.17023v1)** | 2025-10-19 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlights)</p></details> |
 | **[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](http://arxiv.org/abs/2411.08590v4)** | 2025-10-17 | <details><summary>51 pa...</summary><p>51 pages, 14 figures. arXiv admin note: text overlap with arXiv:2402.13725</p></details> |
-| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v1)** | 2025-10-16 |  |
 | **[Finding Holes: Pathologist Level Performance Using AI for Cribriform Morphology Detection in Prostate Cancer](http://arxiv.org/abs/2510.13995v1)** | 2025-10-15 |  |
 | **[PRVR: Partially Relevant Video Retrieval](http://arxiv.org/abs/2208.12510v2)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by TPAMI. The paper's homepage is https://github.com/HuiGuanLab/ms-sl-pp</p></details> |
 | **[A deep multiple instance learning approach based on coarse labels for high-resolution land-cover mapping](http://arxiv.org/abs/2510.06769v1)** | 2025-10-08 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, accepted conference paper at SPIE REMOTE SENSING, 3-7 September 2023, Amsterdam, Netherlands</p></details> |
