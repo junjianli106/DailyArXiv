@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 22, 2025
+title: Latest 20 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interactive visualization of kidney micro-compartmental segmentations and associated pathomics on whole slide images](http://arxiv.org/abs/2510.19499v1)** | 2025-10-22 |  |
 | **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
 | **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
 | **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Efficient Whole Slide Pathology VQA via Token Compression](http://arxiv.org/abs/2507.14497v2)** | 2025-10-02 |  |
 | **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v2)** | 2025-10-01 | NeurIPS 2025 |
 | **[Streamline pathology foundation model by cross-magnification distillation](http://arxiv.org/abs/2509.23097v2)** | 2025-10-01 |  |
-| **[MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification](http://arxiv.org/abs/2509.25863v1)** | 2025-09-30 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interactive visualization of kidney micro-compartmental segmentations and associated pathomics on whole slide images](http://arxiv.org/abs/2510.19499v1)** | 2025-10-22 |  |
 | **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
 | **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
 | **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Efficient Whole Slide Pathology VQA via Token Compression](http://arxiv.org/abs/2507.14497v2)** | 2025-10-02 |  |
 | **[Semantic and Visual Crop-Guided Diffusion Models for Heterogeneous Tissue Synthesis in Histopathology](http://arxiv.org/abs/2509.17847v2)** | 2025-10-01 | NeurIPS 2025 |
 | **[Streamline pathology foundation model by cross-magnification distillation](http://arxiv.org/abs/2509.23097v2)** | 2025-10-01 |  |
-| **[MAPLE: Multi-scale Attribute-enhanced Prompt Learning for Few-shot Whole Slide Image Classification](http://arxiv.org/abs/2509.25863v1)** | 2025-09-30 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
