@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 23, 2025
+title: Latest 20 Papers - October 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology](http://arxiv.org/abs/2506.02408v2)** | 2025-10-23 | <details><summary>publi...</summary><p>published on NeurIPS 2025</p></details> |
 | **[Inverse Optimal Control of Muscle Force Sharing During Pathological Gait](http://arxiv.org/abs/2510.17456v1)** | 2025-10-20 |  |
 | **[MSDM: Generating Task-Specific Pathology Images with a Multimodal Conditioned Diffusion Model for Cell and Nuclei Segmentation](http://arxiv.org/abs/2510.09121v2)** | 2025-10-20 |  |
 | **[MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention](http://arxiv.org/abs/2503.00374v4)** | 2025-10-20 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 10 tables. Code available at https://github.com/TianyiFranklinWang/MIRROR. Project page: https://tianyifranklinwang.github.io/MIRROR</p></details> |
@@ -74,11 +75,11 @@ labels: documentation
 | **[Streamline pathology foundation model by cross-magnification distillation](http://arxiv.org/abs/2509.23097v2)** | 2025-10-01 |  |
 | **[Evaluating New AI Cell Foundation Models on Challenging Kidney Pathology Cases Unaddressed by Previous Foundation Models](http://arxiv.org/abs/2510.01287v1)** | 2025-10-01 |  |
 | **[PathoHR: Hierarchical Reasoning for Vision-Language Models in Pathology](http://arxiv.org/abs/2509.06105v2)** | 2025-09-30 | Accept by EMNLP2025 |
-| **[Evaluating Foundation Models with Pathological Concept Learning for Kidney Cancer](http://arxiv.org/abs/2509.25552v1)** | 2025-09-29 | <details><summary>Best ...</summary><p>Best Paper Award at MICCAI AMAI 2025</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology](http://arxiv.org/abs/2506.02408v2)** | 2025-10-23 | <details><summary>publi...</summary><p>published on NeurIPS 2025</p></details> |
 | **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
 | **[Enrich and Detect: Video Temporal Grounding with Multimodal LLMs](http://arxiv.org/abs/2510.17023v1)** | 2025-10-19 | <details><summary>ICCV ...</summary><p>ICCV 2025 (Highlights)</p></details> |
 | **[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](http://arxiv.org/abs/2411.08590v4)** | 2025-10-17 | <details><summary>51 pa...</summary><p>51 pages, 14 figures. arXiv admin note: text overlap with arXiv:2402.13725</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Multiple Instance Learning Framework with Masked Hard Instance Mining for Gigapixel Histopathology Image Analysis](http://arxiv.org/abs/2509.11526v1)** | 2025-09-15 | 27 pages, 8 figures |
 | **[Weakly Supervised Vulnerability Localization via Multiple Instance Learning](http://arxiv.org/abs/2509.11312v1)** | 2025-09-14 |  |
 | **[torchmil: A PyTorch-based library for deep Multiple Instance Learning](http://arxiv.org/abs/2509.08129v1)** | 2025-09-09 |  |
-| **[MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning](http://arxiv.org/abs/2408.11505v3)** | 2025-09-09 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE TMI for possible publication</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
