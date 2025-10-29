@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 28, 2025
+title: Latest 20 Papers - October 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](http://arxiv.org/abs/2510.24653v1)** | 2025-10-28 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, submitted to Nature Scientific Data</p></details> |
+| **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](http://arxiv.org/abs/2510.23224v1)** | 2025-10-27 |  |
 | **[Iris RESTful Server and IrisTileSource: An Iris implementation for existing OpenSeaDragon viewers](http://arxiv.org/abs/2508.06615v3)** | 2025-10-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
 | **[Foundation Models in Dermatopathology: Skin Tissue Classification](http://arxiv.org/abs/2510.21664v1)** | 2025-10-24 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
 | **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 | **[A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v2)** | 2025-10-06 | 15 pages, 5 figures |
-| **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
-| **[EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification](http://arxiv.org/abs/2509.23640v2)** | 2025-10-04 | Submitted to Array |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](http://arxiv.org/abs/2510.24653v1)** | 2025-10-28 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, submitted to Nature Scientific Data</p></details> |
+| **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](http://arxiv.org/abs/2510.23224v1)** | 2025-10-27 |  |
 | **[Iris RESTful Server and IrisTileSource: An Iris implementation for existing OpenSeaDragon viewers](http://arxiv.org/abs/2508.06615v3)** | 2025-10-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
 | **[Foundation Models in Dermatopathology: Skin Tissue Classification](http://arxiv.org/abs/2510.21664v1)** | 2025-10-24 |  |
@@ -49,12 +51,13 @@ labels: documentation
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
 | **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 | **[A Graph-Based Framework for Interpretable Whole Slide Image Analysis](http://arxiv.org/abs/2503.11846v2)** | 2025-10-06 | 15 pages, 5 figures |
-| **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
-| **[EfficientMIL: Efficient Linear-Complexity MIL Method for WSI Classification](http://arxiv.org/abs/2509.23640v2)** | 2025-10-04 | Submitted to Array |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
+| **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](http://arxiv.org/abs/2508.15256v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Code is available at: https://github.com/QuIIL/ICCV2025_Ano-NAViLa</p></details> |
+| **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v1)** | 2025-10-27 |  |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](http://arxiv.org/abs/2510.23224v1)** | 2025-10-27 |  |
 | **[A Novel Multi-branch ConvNeXt Architecture for Identifying Subtle Pathological Features in CT Scans](http://arxiv.org/abs/2510.09107v2)** | 2025-10-27 | <details><summary>Sourc...</summary><p>Source Code : https://github.com/Irash-Perera/MedNeXt-Branch</p></details> |
 | **[Revisiting End-to-End Learning with Slide-level Supervision in Computational Pathology](http://arxiv.org/abs/2506.02408v2)** | 2025-10-23 | <details><summary>publi...</summary><p>published on NeurIPS 2025</p></details> |
@@ -72,9 +75,6 @@ labels: documentation
 | **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
 | **[GAS-MIL: Group-Aggregative Selection Multi-Instance Learning for Ensemble of Foundation Models in Digital Pathology Image Analysis](http://arxiv.org/abs/2510.03555v1)** | 2025-10-03 |  |
 | **[Enhancing Corpus Callosum Segmentation in Fetal MRI via Pathology-Informed Domain Randomization](http://arxiv.org/abs/2508.20475v2)** | 2025-10-02 | <details><summary>Prese...</summary><p>Presented at the PIPPI Workshop of MICCAI 2025</p></details> |
-| **[Efficient Whole Slide Pathology VQA via Token Compression](http://arxiv.org/abs/2507.14497v2)** | 2025-10-02 |  |
-| **[Streamline pathology foundation model by cross-magnification distillation](http://arxiv.org/abs/2509.23097v2)** | 2025-10-01 |  |
-| **[Evaluating New AI Cell Foundation Models on Challenging Kidney Pathology Cases Unaddressed by Previous Foundation Models](http://arxiv.org/abs/2510.01287v1)** | 2025-10-01 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
