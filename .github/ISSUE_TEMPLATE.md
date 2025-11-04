@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 03, 2025
+title: Latest 20 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](http://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
+| **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 | **[Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](http://arxiv.org/abs/2510.24653v1)** | 2025-10-28 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, submitted to Nature Scientific Data</p></details> |
 | **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
 | **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
 | **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
-| **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
-| **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](http://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
+| **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 | **[Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](http://arxiv.org/abs/2510.24653v1)** | 2025-10-28 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, submitted to Nature Scientific Data</p></details> |
 | **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
@@ -49,12 +51,11 @@ labels: documentation
 | **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
 | **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
 | **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
-| **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](http://arxiv.org/abs/2510.06113v1)** | 2025-10-07 | 12 pages, 10 figures |
-| **[A Hierarchical Geometry-guided Transformer for Histological Subtyping of Primary Liver Cancer](http://arxiv.org/abs/2510.05657v1)** | 2025-10-07 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, accepted by IEEE BIBM 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 | **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
 | **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
@@ -74,7 +75,6 @@ labels: documentation
 | **[The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology](http://arxiv.org/abs/2509.16765v2)** | 2025-10-08 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Oral Presentation</p></details> |
 | **[YpathRAG:A Retrieval-Augmented Generation Framework and Benchmark for Pathology](http://arxiv.org/abs/2510.08603v1)** | 2025-10-07 |  |
 | **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
-| **[GAS-MIL: Group-Aggregative Selection Multi-Instance Learning for Ensemble of Foundation Models in Digital Pathology Image Analysis](http://arxiv.org/abs/2510.03555v1)** | 2025-10-03 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
