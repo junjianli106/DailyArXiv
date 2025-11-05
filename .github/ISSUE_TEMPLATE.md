@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 04, 2025
+title: Latest 20 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation](http://arxiv.org/abs/2511.01304v2)** | 2025-11-04 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PG-CIDL</p></details> |
 | **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](http://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
+| **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](http://arxiv.org/abs/2511.00383v1)** | 2025-11-01 | 37 pages, 18 figures |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 | **[Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](http://arxiv.org/abs/2510.24653v1)** | 2025-10-28 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, submitted to Nature Scientific Data</p></details> |
@@ -25,13 +27,13 @@ labels: documentation
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
 | **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
-| **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
-| **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation](http://arxiv.org/abs/2511.01304v2)** | 2025-11-04 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PG-CIDL</p></details> |
 | **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](http://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
+| **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](http://arxiv.org/abs/2511.00383v1)** | 2025-11-01 | 37 pages, 18 figures |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 | **[Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](http://arxiv.org/abs/2510.24653v1)** | 2025-10-28 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, submitted to Nature Scientific Data</p></details> |
@@ -49,12 +51,12 @@ labels: documentation
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
 | **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
-| **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](http://arxiv.org/abs/2510.11344v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
-| **[Generalisation of automatic tumour segmentation in histopathological whole-slide images across multiple cancer types](http://arxiv.org/abs/2510.11182v1)** | 2025-10-13 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PLUTO-4: Frontier Pathology Foundation Models](http://arxiv.org/abs/2511.02826v1)** | 2025-11-04 |  |
+| **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](http://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 | **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
@@ -73,12 +75,11 @@ labels: documentation
 | **[A Clinical-grade Universal Foundation Model for Intraoperative Pathology](http://arxiv.org/abs/2510.04861v2)** | 2025-10-12 |  |
 | **[Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use](http://arxiv.org/abs/2510.06908v2)** | 2025-10-09 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 5 tables</p></details> |
 | **[The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology](http://arxiv.org/abs/2509.16765v2)** | 2025-10-08 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Oral Presentation</p></details> |
-| **[YpathRAG:A Retrieval-Augmented Generation Framework and Benchmark for Pathology](http://arxiv.org/abs/2510.08603v1)** | 2025-10-07 |  |
-| **[DeepAf: One-Shot Spatiospectral Auto-Focus Model for Digital Pathology](http://arxiv.org/abs/2510.05315v1)** | 2025-10-06 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation](http://arxiv.org/abs/2511.01304v2)** | 2025-11-04 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PG-CIDL</p></details> |
 | **[Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning](http://arxiv.org/abs/2510.25759v1)** | 2025-10-29 |  |
 | **[Predicting symbolic ODEs from multiple trajectories](http://arxiv.org/abs/2510.23295v1)** | 2025-10-27 | <details><summary>Publi...</summary><p>Published at: 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Machine Learning and the Physical Sciences</p></details> |
 | **[Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval](http://arxiv.org/abs/2411.08590v5)** | 2025-10-26 | <details><summary>51 pa...</summary><p>51 pages, 14 figures. arXiv admin note: text overlap with arXiv:2402.13725</p></details> |
@@ -98,11 +99,11 @@ labels: documentation
 | **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](http://arxiv.org/abs/2506.00096v2)** | 2025-09-24 | <details><summary>This ...</summary><p>This submission is being withdrawn because we identified issues in the analysis that may affect the results. A corrected version will be submitted in the future. The manuscript is withdrawn as it requires substantial revision. An improved version will be submitted in the future</p></details> |
 | **[IPGPhormer: Interpretable Pathology Graph-Transformer for Survival Analysis](http://arxiv.org/abs/2508.12381v2)** | 2025-09-22 | 13 pages, 5 figures |
 | **[Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection](http://arxiv.org/abs/2509.17292v1)** | 2025-09-22 |  |
-| **[Multiple Instance Verification](http://arxiv.org/abs/2407.06544v2)** | 2025-09-17 | JMLR 2025 |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](http://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 | **[PathoHR: Hierarchical Reasoning for Vision-Language Models in Pathology](http://arxiv.org/abs/2509.06105v2)** | 2025-09-30 | Accept by EMNLP2025 |
 | **[Evaluating Foundation Models with Pathological Concept Learning for Kidney Cancer](http://arxiv.org/abs/2509.25552v1)** | 2025-09-29 | <details><summary>Best ...</summary><p>Best Paper Award at MICCAI AMAI 2025</p></details> |
 | **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](http://arxiv.org/abs/2504.16181v4)** | 2025-09-26 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Global explainability of a deep abstaining classifier](http://arxiv.org/abs/2504.01202v1)** | 2025-04-01 |  |
 | **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
 | **[Vision Language Models versus Machine Learning Models Performance on Polyp Detection and Classification in Colonoscopy Images](http://arxiv.org/abs/2503.21840v1)** | 2025-03-27 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/aminkhalafi/CML-vs-LLM-on-Polyp-Detection. CoI: AlSo serves on the advisory board and holds equity in Virgo Surgical Solutions. The other authors declare no conflicts of interest. Data</p></details> |
-| **[A Multimodal Knowledge-enhanced Whole-slide Pathology Foundation Model](http://arxiv.org/abs/2407.15362v3)** | 2025-03-25 | 62 pages |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
