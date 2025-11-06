@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 05, 2025
+title: Latest 20 Papers - November 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,7 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PLUTO-4: Frontier Pathology Foundation Models](http://arxiv.org/abs/2511.02826v1)** | 2025-11-04 |  |
+| **[PLUTO-4: Frontier Pathology Foundation Models](http://arxiv.org/abs/2511.02826v2)** | 2025-11-05 |  |
 | **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](http://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
