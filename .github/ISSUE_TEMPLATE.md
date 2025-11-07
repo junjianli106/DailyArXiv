@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 06, 2025
+title: Latest 20 Papers - November 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality](http://arxiv.org/abs/2511.04615v1)** | 2025-11-06 |  |
+| **[CORE - A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](http://arxiv.org/abs/2511.03826v1)** | 2025-11-05 |  |
 | **[Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation](http://arxiv.org/abs/2511.01304v2)** | 2025-11-04 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PG-CIDL</p></details> |
 | **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](http://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
 | **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](http://arxiv.org/abs/2511.00383v1)** | 2025-11-01 | 37 pages, 18 figures |
@@ -25,12 +27,12 @@ labels: documentation
 | **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
 | **[Morphology-Aware Prognostic model for Five-Year Survival Prediction in Colorectal Cancer from H&E Whole Slide Images](http://arxiv.org/abs/2510.14800v1)** | 2025-10-16 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
-| **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
-| **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Building Trust in Virtual Immunohistochemistry: Automated Assessment of Image Quality](http://arxiv.org/abs/2511.04615v1)** | 2025-11-06 |  |
+| **[CORE - A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](http://arxiv.org/abs/2511.03826v1)** | 2025-11-05 |  |
 | **[Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation](http://arxiv.org/abs/2511.01304v2)** | 2025-11-04 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PG-CIDL</p></details> |
 | **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](http://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
 | **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](http://arxiv.org/abs/2511.00383v1)** | 2025-11-01 | 37 pages, 18 figures |
@@ -49,17 +51,17 @@ labels: documentation
 | **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
 | **[Morphology-Aware Prognostic model for Five-Year Survival Prediction in Colorectal Cancer from H&E Whole Slide Images](http://arxiv.org/abs/2510.14800v1)** | 2025-10-16 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
-| **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
-| **[Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](http://arxiv.org/abs/2510.04587v2)** | 2025-10-13 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Clinically Grounded Foundation Models in Pathology](http://arxiv.org/abs/2510.23807v3)** | 2025-11-06 |  |
+| **[Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology](http://arxiv.org/abs/2511.04171v1)** | 2025-11-06 | 14 pages, 7 Figures |
+| **[Comparing Computational Pathology Foundation Models using Representational Similarity Analysis](http://arxiv.org/abs/2509.15482v2)** | 2025-11-05 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium</p></details> |
 | **[PLUTO-4: Frontier Pathology Foundation Models](http://arxiv.org/abs/2511.02826v2)** | 2025-11-05 |  |
 | **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](http://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](http://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](http://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
-| **[Why Foundation Models in Pathology Are Failing](http://arxiv.org/abs/2510.23807v2)** | 2025-10-29 |  |
 | **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
 | **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](http://arxiv.org/abs/2508.15256v2)** | 2025-10-28 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Code is available at: https://github.com/QuIIL/ICCV2025_Ano-NAViLa</p></details> |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](http://arxiv.org/abs/2510.23224v1)** | 2025-10-27 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[ViDRiP-LLaVA: A Dataset and Benchmark for Diagnostic Reasoning from Pathology Videos](http://arxiv.org/abs/2505.04192v2)** | 2025-10-13 |  |
 | **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](http://arxiv.org/abs/2510.11176v1)** | 2025-10-13 |  |
 | **[A Clinical-grade Universal Foundation Model for Intraoperative Pathology](http://arxiv.org/abs/2510.04861v2)** | 2025-10-12 |  |
-| **[Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use](http://arxiv.org/abs/2510.06908v2)** | 2025-10-09 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 5 tables</p></details> |
-| **[The Sound of Syntax: Finetuning and Comprehensive Evaluation of Language Models for Speech Pathology](http://arxiv.org/abs/2509.16765v2)** | 2025-10-08 | <details><summary>EMNLP...</summary><p>EMNLP 2025 Oral Presentation</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Cancer Modeling in the Age of Foundation Model Embeddings](http://arxiv.org/abs/2505.07683v3)** | 2025-11-06 | <details><summary>camer...</summary><p>camera ready version for ML4H 2025</p></details> |
 | **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](http://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 | **[PathoHR: Hierarchical Reasoning for Vision-Language Models in Pathology](http://arxiv.org/abs/2509.06105v2)** | 2025-09-30 | Accept by EMNLP2025 |
 | **[Evaluating Foundation Models with Pathological Concept Learning for Kidney Cancer](http://arxiv.org/abs/2509.25552v1)** | 2025-09-29 | <details><summary>Best ...</summary><p>Best Paper Award at MICCAI AMAI 2025</p></details> |
@@ -112,17 +113,6 @@ labels: documentation
 | **[Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation](http://arxiv.org/abs/2509.15608v1)** | 2025-09-19 |  |
 | **[Glo-UMF: A Unified Multi-model Framework for Automated Morphometry of Glomerular Ultrastructural Characterization](http://arxiv.org/abs/2508.10351v2)** | 2025-09-11 | 17 pages, 6 figures |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
-| **[A Robust BERT-Based Deep Learning Model for Automated Cancer Type Extraction from Unstructured Pathology Reports](http://arxiv.org/abs/2508.15149v1)** | 2025-08-21 |  |
-| **[Can human clinical rationales improve the performance and explainability of clinical text classification models?](http://arxiv.org/abs/2507.21302v1)** | 2025-07-28 |  |
-| **[DiagR1: A Vision-Language Model Trained via Reinforcement Learning for Digestive Pathology Diagnosis](http://arxiv.org/abs/2507.18433v1)** | 2025-07-24 |  |
-| **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
-| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
-| **[VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis](http://arxiv.org/abs/2506.02229v1)** | 2025-06-02 | <details><summary>Proce...</summary><p>Proceedings of the 9th International Workshop on Health Intelligence, in conjunction with the Annual AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, March 2025</p></details> |
-| **[Multimodal Survival Modeling in the Age of Foundation Models](http://arxiv.org/abs/2505.07683v2)** | 2025-05-28 | <details><summary>23 pa...</summary><p>23 pages, 7 figures, 8 tables, updated with acknowledgements and declarations of interest</p></details> |
-| **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
-| **[Global explainability of a deep abstaining classifier](http://arxiv.org/abs/2504.01202v1)** | 2025-04-01 |  |
-| **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
-| **[Vision Language Models versus Machine Learning Models Performance on Polyp Detection and Classification in Colonoscopy Images](http://arxiv.org/abs/2503.21840v1)** | 2025-03-27 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/aminkhalafi/CML-vs-LLM-on-Polyp-Detection. CoI: AlSo serves on the advisory board and holds equity in Virgo Surgical Solutions. The other authors declare no conflicts of interest. Data</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
