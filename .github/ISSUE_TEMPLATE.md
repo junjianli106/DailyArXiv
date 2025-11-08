@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 07, 2025
+title: Latest 20 Papers - November 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -113,6 +113,16 @@ labels: documentation
 | **[Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation](http://arxiv.org/abs/2509.15608v1)** | 2025-09-19 |  |
 | **[Glo-UMF: A Unified Multi-model Framework for Automated Morphometry of Glomerular Ultrastructural Characterization](http://arxiv.org/abs/2508.10351v2)** | 2025-09-11 | 17 pages, 6 figures |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](http://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
+| **[A Robust BERT-Based Deep Learning Model for Automated Cancer Type Extraction from Unstructured Pathology Reports](http://arxiv.org/abs/2508.15149v1)** | 2025-08-21 |  |
+| **[Can human clinical rationales improve the performance and explainability of clinical text classification models?](http://arxiv.org/abs/2507.21302v1)** | 2025-07-28 |  |
+| **[DiagR1: A Vision-Language Model Trained via Reinforcement Learning for Digestive Pathology Diagnosis](http://arxiv.org/abs/2507.18433v1)** | 2025-07-24 |  |
+| **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](http://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
+| **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](http://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
+| **[VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis](http://arxiv.org/abs/2506.02229v1)** | 2025-06-02 | <details><summary>Proce...</summary><p>Proceedings of the 9th International Workshop on Health Intelligence, in conjunction with the Annual AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, March 2025</p></details> |
+| **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](http://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
+| **[Global explainability of a deep abstaining classifier](http://arxiv.org/abs/2504.01202v1)** | 2025-04-01 |  |
+| **[CancerLLM: A Large Language Model in Cancer Domain](http://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
+| **[Vision Language Models versus Machine Learning Models Performance on Polyp Detection and Classification in Colonoscopy Images](http://arxiv.org/abs/2503.21840v1)** | 2025-03-27 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/aminkhalafi/CML-vs-LLM-on-Polyp-Detection. CoI: AlSo serves on the advisory board and holds equity in Virgo Surgical Solutions. The other authors declare no conflicts of interest. Data</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
