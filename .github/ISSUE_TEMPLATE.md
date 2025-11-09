@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 08, 2025
+title: Latest 20 Papers - November 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,16 +17,6 @@ labels: documentation
 | **[Eye-Tracking, Mouse Tracking, Stimulus Tracking,and Decision-Making Datasets in Digital Pathology](http://arxiv.org/abs/2510.24653v1)** | 2025-10-28 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, submitted to Nature Scientific Data</p></details> |
 | **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](http://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](http://arxiv.org/abs/2510.23224v1)** | 2025-10-27 |  |
-| **[Iris RESTful Server and IrisTileSource: An Iris implementation for existing OpenSeaDragon viewers](http://arxiv.org/abs/2508.06615v3)** | 2025-10-24 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 1 table</p></details> |
-| **[Foundation Models in Dermatopathology: Skin Tissue Classification](http://arxiv.org/abs/2510.21664v1)** | 2025-10-24 |  |
-| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v4)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[Interactive visualization of kidney micro-compartmental segmentations and associated pathomics on whole slide images](http://arxiv.org/abs/2510.19499v1)** | 2025-10-22 |  |
-| **[A Flow Model with Low-Rank Transformers for Incomplete Multimodal Survival Analysis](http://arxiv.org/abs/2510.21829v1)** | 2025-10-22 | 12 pages, 4 figures |
-| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
-| **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
-| **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
-| **[Morphology-Aware Prognostic model for Five-Year Survival Prediction in Colorectal Cancer from H&E Whole Slide Images](http://arxiv.org/abs/2510.14800v1)** | 2025-10-16 |  |
-| **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v3)** | 2025-10-14 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
