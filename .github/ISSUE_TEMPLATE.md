@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 10, 2025
+title: Latest 20 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from the Right Patches: A Two-Stage Wavelet-Driven Masked Autoencoder for Histopathology Representation Learning](http://arxiv.org/abs/2511.06958v1)** | 2025-11-10 |  |
+| **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v4)** | 2025-11-09 |  |
+| **[Evaluating Cell AI Foundation Models in Kidney Pathology with Human-in-the-Loop Enrichment](http://arxiv.org/abs/2411.00078v2)** | 2025-11-09 |  |
 | **[PySlyde: A Lightweight, Open-Source Toolkit for Pathology Preprocessing](http://arxiv.org/abs/2511.05183v1)** | 2025-11-07 |  |
 | **[Dynamic Residual Encoding with Slide-Level Contrastive Learning for End-to-End Whole Slide Image Representation](http://arxiv.org/abs/2511.05034v1)** | 2025-11-07 | <details><summary>8page...</summary><p>8pages, 3figures, published to ACM Digital Library</p></details> |
 | **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](http://arxiv.org/abs/2511.00383v2)** | 2025-11-07 | <details><summary>37 pa...</summary><p>37 pages, 18 figures, Accepted in NeurIPS 2025</p></details> |
@@ -24,13 +27,13 @@ labels: documentation
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v4)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Interactive visualization of kidney micro-compartmental segmentations and associated pathomics on whole slide images](http://arxiv.org/abs/2510.19499v1)** | 2025-10-22 |  |
 | **[A Flow Model with Low-Rank Transformers for Incomplete Multimodal Survival Analysis](http://arxiv.org/abs/2510.21829v1)** | 2025-10-22 | 12 pages, 4 figures |
-| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
-| **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
-| **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from the Right Patches: A Two-Stage Wavelet-Driven Masked Autoencoder for Histopathology Representation Learning](http://arxiv.org/abs/2511.06958v1)** | 2025-11-10 |  |
+| **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](http://arxiv.org/abs/2507.16476v4)** | 2025-11-09 |  |
+| **[Evaluating Cell AI Foundation Models in Kidney Pathology with Human-in-the-Loop Enrichment](http://arxiv.org/abs/2411.00078v2)** | 2025-11-09 |  |
 | **[PySlyde: A Lightweight, Open-Source Toolkit for Pathology Preprocessing](http://arxiv.org/abs/2511.05183v1)** | 2025-11-07 |  |
 | **[Dynamic Residual Encoding with Slide-Level Contrastive Learning for End-to-End Whole Slide Image Representation](http://arxiv.org/abs/2511.05034v1)** | 2025-11-07 | <details><summary>8page...</summary><p>8pages, 3figures, published to ACM Digital Library</p></details> |
 | **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](http://arxiv.org/abs/2511.00383v2)** | 2025-11-07 | <details><summary>37 pa...</summary><p>37 pages, 18 figures, Accepted in NeurIPS 2025</p></details> |
@@ -48,13 +51,12 @@ labels: documentation
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](http://arxiv.org/abs/2505.17982v4)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Interactive visualization of kidney micro-compartmental segmentations and associated pathomics on whole slide images](http://arxiv.org/abs/2510.19499v1)** | 2025-10-22 |  |
 | **[A Flow Model with Low-Rank Transformers for Incomplete Multimodal Survival Analysis](http://arxiv.org/abs/2510.21829v1)** | 2025-10-22 | 12 pages, 4 figures |
-| **[Fourier Transform Multiple Instance Learning for Whole Slide Image Classification](http://arxiv.org/abs/2510.15138v2)** | 2025-10-21 |  |
-| **[A Semiparametric Gaussian Mixture Model with Spatial Dependence and Its Application to Whole-Slide Image Clustering Analysis](http://arxiv.org/abs/2510.16421v1)** | 2025-10-18 |  |
-| **[DCMIL: A Progressive Representation Learning of Whole Slide Images for Cancer Prognosis Analysis](http://arxiv.org/abs/2510.14403v2)** | 2025-10-17 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Cell AI Foundation Models in Kidney Pathology with Human-in-the-Loop Enrichment](http://arxiv.org/abs/2411.00078v2)** | 2025-11-09 |  |
+| **[A multi-modal vision-language model for generalizable annotation-free pathology localization](http://arxiv.org/abs/2401.02044v7)** | 2025-11-08 |  |
 | **[PySlyde: A Lightweight, Open-Source Toolkit for Pathology Preprocessing](http://arxiv.org/abs/2511.05183v1)** | 2025-11-07 |  |
 | **[Toward Clinically Grounded Foundation Models in Pathology](http://arxiv.org/abs/2510.23807v3)** | 2025-11-06 |  |
 | **[Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology](http://arxiv.org/abs/2511.04171v1)** | 2025-11-06 | 14 pages, 7 Figures |
@@ -73,12 +75,11 @@ labels: documentation
 | **[MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention](http://arxiv.org/abs/2503.00374v4)** | 2025-10-20 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 10 tables. Code available at https://github.com/TianyiFranklinWang/MIRROR. Project page: https://tianyifranklinwang.github.io/MIRROR</p></details> |
 | **[Universal and Transferable Attacks on Pathology Foundation Models](http://arxiv.org/abs/2510.16660v1)** | 2025-10-18 | 38 Pages, 8 Figures |
 | **[SPADE: Spatial Transcriptomics and Pathology Alignment Using a Mixture of Data Experts for an Expressive Latent Space](http://arxiv.org/abs/2506.21857v2)** | 2025-10-13 |  |
-| **[ViDRiP-LLaVA: A Dataset and Benchmark for Diagnostic Reasoning from Pathology Videos](http://arxiv.org/abs/2505.04192v2)** | 2025-10-13 |  |
-| **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](http://arxiv.org/abs/2510.11176v1)** | 2025-10-13 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diagnose Like A REAL Pathologist: An Uncertainty-Focused Approach for Trustworthy Multi-Resolution Multiple Instance Learning](http://arxiv.org/abs/2511.06433v1)** | 2025-11-09 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 | **[Positive Semi-definite Latent Factor Grouping-Boosted Cluster-reasoning Instance Disentangled Learning for WSI Representation](http://arxiv.org/abs/2511.01304v2)** | 2025-11-04 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PG-CIDL</p></details> |
 | **[Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning](http://arxiv.org/abs/2510.25759v1)** | 2025-10-29 |  |
 | **[Predicting symbolic ODEs from multiple trajectories](http://arxiv.org/abs/2510.23295v1)** | 2025-10-27 | <details><summary>Publi...</summary><p>Published at: 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Machine Learning and the Physical Sciences</p></details> |
