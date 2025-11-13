@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 12, 2025
+title: Latest 20 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,9 +34,9 @@ labels: documentation
 | **[Deep Learning for Whole Slide Image Analysis: An Overview](https://arxiv.org/pdf/1910.11097v1)** | 2021-12-14 |  |
 | **[Whole Slide Image Classification of Salivary Gland Tumours](https://arxiv.org/pdf/2408.12275v1)** | 2024-08-23 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, 28th UK Conference on Medical Image Understanding and Analysis - clinical abstract</p></details> |
 | **[GloFlow: Global Image Alignment for Creation of Whole Slide Images for Pathology from Video](https://arxiv.org/pdf/2010.15269v2)** | 2020-11-13 | <details><summary>Machi...</summary><p>Machine Learning for Health (ML4H) at NeurIPS 2020 - Extended Abstract</p></details> |
+| **[HistomicsML2.0: Fast interactive machine learning for whole slide imaging data](https://arxiv.org/pdf/2001.11547v1)** | 2020-02-03 |  |
 | **[WISE: A Framework for Gigapixel Whole-Slide-Image Lossless Compression](https://arxiv.org/pdf/2503.18074v1)** | 2025-03-25 |  |
 | **[Ink removal from histopathology whole slide images by combining classification, detection and image generation models](https://arxiv.org/pdf/1905.04385v1)** | 2019-05-14 | <details><summary>Accep...</summary><p>Accepted paper at IEEE International Symposium on Biomedical Imaging (ISBI) 2019, Venice, Italy</p></details> |
-| **[HistomicsML2.0: Fast interactive machine learning for whole slide imaging data](https://arxiv.org/pdf/2001.11547v1)** | 2020-02-03 |  |
 | **[Federated Learning for Computational Pathology on Gigapixel Whole Slide Images](https://arxiv.org/pdf/2009.10190v2)** | 2020-09-24 |  |
 | **[Comparison of Different Methods for Tissue Segmentation in Histopathological Whole-Slide Images](https://arxiv.org/pdf/1703.05990v2)** | 2017-04-04 | <details><summary>Accep...</summary><p>Accepted for poster presentation at the IEEE International Symposium on Biomedical Imaging (ISBI) 2017</p></details> |
 | **[SparseConvMIL: Sparse Convolutional Context-Aware Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/pdf/2105.02726v2)** | 2021-08-26 |  |
@@ -62,8 +62,8 @@ labels: documentation
 | **[The Butterfly Effect in Pathology: Exploring Security in Pathology Foundation Models](https://arxiv.org/pdf/2505.24141v1)** | 2025-06-02 |  |
 | **[Normal and Abnormal Pathology Knowledge-Augmented Vision-Language Model for Anomaly Detection in Pathology Images](https://arxiv.org/pdf/2508.15256v2)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Code is available at: https://github.com/QuIIL/ICCV2025_Ano-NAViLa</p></details> |
 | **[Pathology Foundation Models](https://arxiv.org/pdf/2407.21317v2)** | 2024-08-07 | <details><summary>19 pa...</summary><p>19 pages, 1 figure, 3 tables</p></details> |
-| **[Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](https://arxiv.org/pdf/2505.15687v1)** | 2025-05-22 |  |
 | **[PathoSCOPE: Few-Shot Pathology Detection via Self-Supervised Contrastive Learning and Pathology-Informed Synthetic Embeddings](https://arxiv.org/pdf/2505.17614v1)** | 2025-05-26 |  |
+| **[Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](https://arxiv.org/pdf/2505.15687v1)** | 2025-05-22 |  |
 | **[Deep Learning for Prostate Pathology](https://arxiv.org/pdf/1910.04918v3)** | 2019-10-17 |  |
 | **[GRASPing Anatomy to Improve Pathology Segmentation](https://arxiv.org/pdf/2508.03374v1)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted at 16th MICCAI Workshop on Machine Learning in Medical Imaging (MLMI2025)</p></details> |
 | **[Towards Robust Voice Pathology Detection](https://arxiv.org/pdf/1907.06129v1)** | 2019-07-16 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 10 tables. Keywords: Voice pathology detection, deep learning, gradient boosting, anomaly detection</p></details> |
@@ -117,8 +117,8 @@ labels: documentation
 | **[Pathology Extraction from Chest X-Ray Radiology Reports: A Performance Study](https://arxiv.org/pdf/1812.02305v1)** | 2018-12-08 |  |
 | **[Cancer Type, Stage and Prognosis Assessment from Pathology Reports using LLMs](https://arxiv.org/pdf/2503.01194v1)** | 2025-03-04 |  |
 | **[See Detail Say Clear: Towards Brain CT Report Generation via Pathological Clue-driven Representation Learning](https://arxiv.org/pdf/2409.19676v2)** | 2024-10-02 | <details><summary>Our w...</summary><p>Our work has been accepted by EMNLP2024 findings</p></details> |
-| **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](https://arxiv.org/pdf/2509.20022v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Hierarchical Deep Learning Ensemble to Automate the Classification of Breast Cancer Pathology Reports by ICD-O Topography](https://arxiv.org/pdf/2008.12571v1)** | 2020-08-31 | <details><summary>Accep...</summary><p>Accepted to KDD workshop on Machine Learning for Medicine and Healthcare, August 2018, London UK</p></details> |
+| **[PS3: A Multimodal Transformer Integrating Pathology Reports with Histology Images and Biological Pathways for Cancer Survival Prediction](https://arxiv.org/pdf/2509.20022v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at ICCV 2025. Copyright 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Use of natural language processing to extract and classify papillary thyroid cancer features from surgical pathology reports](https://arxiv.org/pdf/2406.00015v1)** | 2024-06-04 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 7 tables</p></details> |
 | **[Why I'm not Answering: Understanding Determinants of Classification of an Abstaining Classifier for Cancer Pathology Reports](https://arxiv.org/pdf/2009.05094v5)** | 2022-04-22 |  |
 | **[ELM: Ensemble of Language Models for Predicting Tumor Group from Pathology Reports](https://arxiv.org/pdf/2503.21800v1)** | 2025-03-31 |  |
@@ -136,7 +136,7 @@ labels: documentation
 | **[Clinical-grade Multi-Organ Pathology Report Generation for Multi-scale Whole Slide Images via a Semantically Guided Medical Text Foundation Model](https://arxiv.org/pdf/2409.15574v1)** | 2024-09-25 |  |
 | **[PolyPath: Adapting a Large Multimodal Model for Multi-slide Pathology Report Generation](https://arxiv.org/pdf/2502.10536v1)** | 2025-02-18 | <details><summary>8 mai...</summary><p>8 main pages, 21 pages in total</p></details> |
 | **[A Personalized Diagnostic Generation Framework Based on Multi-source Heterogeneous Data](https://arxiv.org/pdf/2110.13677v1)** | 2021-10-27 | <details><summary>BIBM ...</summary><p>BIBM 2021 accepted, including 9 pages, 3 figures</p></details> |
-| **[ChexFract: From General to Specialized - Enhancing Fracture Description Generation](https://arxiv.org/pdf/2511.07983v1)** | 2025-11-12 | 13 pages, 3 figures |
+| **[ChexFract: From General to Specialized -- Enhancing Fracture Description Generation](https://arxiv.org/pdf/2511.07983v1)** | 2025-11-13 | 13 pages, 3 figures |
 | **[Large Multimodal Model based Standardisation of Pathology Reports with Confidence and their Prognostic Significance](https://arxiv.org/pdf/2405.02040v1)** | 2024-11-28 | 19 pages, 6 figures |
 | **[Multimodal Whole Slide Foundation Model for Pathology](https://arxiv.org/pdf/2411.19666v1)** | 2024-12-02 | <details><summary>The c...</summary><p>The code is accessible at https://github.com/mahmoodlab/TITAN</p></details> |
 | **[Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration](https://arxiv.org/pdf/2506.10573v1)** | 2025-06-13 | <details><summary>12 pa...</summary><p>12 pages, 10 tables and 6 figures</p></details> |
