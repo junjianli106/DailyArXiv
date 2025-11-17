@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 16, 2025
+title: Latest 20 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,13 +7,14 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
+| **[Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification](https://arxiv.org/abs/2511.08464v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations](https://arxiv.org/abs/2511.10432v1)** | 2025-11-13 | 26 pages, 6 figures |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v1)** | 2025-11-13 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 | **[CORE - A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v2)** | 2025-11-12 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](https://arxiv.org/abs/2507.16476v5)** | 2025-11-12 |  |
 | **[A Mixture-of-Experts Framework with Log-Logistic Components for Survival Analysis on Histopathology Images](https://arxiv.org/abs/2511.06266v2)** | 2025-11-12 |  |
 | **[LBMamba: Locally Bi-directional Mamba](https://arxiv.org/abs/2506.15976v2)** | 2025-11-11 | Accepted to TMLR |
-| **[Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification](https://arxiv.org/abs/2511.08464v1)** | 2025-11-11 | 10 pages |
 | **[Libra-MIL: Multimodal Prototypes Stereoscopic Infused with Task-specific Language Priors for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2511.07941v1)** | 2025-11-11 |  |
 | **[EvoPS: Evolutionary Patch Selection for Whole Slide Image Analysis in Computational Pathology](https://arxiv.org/abs/2511.07560v1)** | 2025-11-10 |  |
 | **[Learning from the Right Patches: A Two-Stage Wavelet-Driven Masked Autoencoder for Histopathology Representation Learning](https://arxiv.org/abs/2511.06958v1)** | 2025-11-10 |  |
@@ -26,18 +27,18 @@ labels: documentation
 | **[MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification](https://arxiv.org/abs/2502.07409v5)** | 2025-11-03 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (09/2025)</p></details> |
 | **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](https://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](https://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
-| **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
+| **[Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification](https://arxiv.org/abs/2511.08464v2)** | 2025-11-14 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations](https://arxiv.org/abs/2511.10432v1)** | 2025-11-13 | 26 pages, 6 figures |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v1)** | 2025-11-13 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 | **[CORE - A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v2)** | 2025-11-12 |  |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](https://arxiv.org/abs/2507.16476v5)** | 2025-11-12 |  |
 | **[A Mixture-of-Experts Framework with Log-Logistic Components for Survival Analysis on Histopathology Images](https://arxiv.org/abs/2511.06266v2)** | 2025-11-12 |  |
 | **[LBMamba: Locally Bi-directional Mamba](https://arxiv.org/abs/2506.15976v2)** | 2025-11-11 | Accepted to TMLR |
-| **[Contrastive Integrated Gradients: A Feature Attribution-Based Method for Explaining Whole Slide Image Classification](https://arxiv.org/abs/2511.08464v1)** | 2025-11-11 | 10 pages |
 | **[Libra-MIL: Multimodal Prototypes Stereoscopic Infused with Task-specific Language Priors for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2511.07941v1)** | 2025-11-11 |  |
 | **[EvoPS: Evolutionary Patch Selection for Whole Slide Image Analysis in Computational Pathology](https://arxiv.org/abs/2511.07560v1)** | 2025-11-10 |  |
 | **[Learning from the Right Patches: A Two-Stage Wavelet-Driven Masked Autoencoder for Histopathology Representation Learning](https://arxiv.org/abs/2511.06958v1)** | 2025-11-10 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification](https://arxiv.org/abs/2502.07409v5)** | 2025-11-03 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (09/2025)</p></details> |
 | **[SurGen: 1020 H&E-stained Whole Slide Images With Survival and Genetic Markers](https://arxiv.org/abs/2502.04946v2)** | 2025-11-02 | <details><summary>To do...</summary><p>To download the dataset, see https://doi.org/10.6019/S-BIAD1285. See https://github.com/CraigMyles/SurGen-Dataset for GitHub repository and additional info</p></details> |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](https://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
-| **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,8 +79,11 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SafeMIL: Learning Offline Safe Imitation Policy from Non-Preferred Trajectories](https://arxiv.org/abs/2511.08136v2)** | 2025-11-14 | <details><summary>18 pa...</summary><p>18 pages, Accepted at AAAI 2026</p></details> |
+| **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
+| **[Text-guided Weakly Supervised Framework for Dynamic Facial Expression Recognition](https://arxiv.org/abs/2511.10958v1)** | 2025-11-14 |  |
+| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560v2)** | 2025-11-14 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-official/</p></details> |
 | **[Algorithm Design and Stronger Guarantees for the Improving Multi-Armed Bandits Problem](https://arxiv.org/abs/2511.10619v1)** | 2025-11-13 | 25 pages |
-| **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/abs/2511.10560v1)** | 2025-11-13 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-offcial/</p></details> |
 | **[Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations](https://arxiv.org/abs/2511.10432v1)** | 2025-11-13 | 26 pages, 6 figures |
 | **[Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment](https://arxiv.org/abs/2511.10334v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code is available at https://github.com/lessiYin/DSANet</p></details> |
 | **[Synthetic Data Reveals Generalization Gaps in Correlated Multiple Instance Learning](https://arxiv.org/abs/2510.25759v2)** | 2025-11-12 |  |
@@ -88,7 +91,6 @@ labels: documentation
 | **[LBMamba: Locally Bi-directional Mamba](https://arxiv.org/abs/2506.15976v2)** | 2025-11-11 | Accepted to TMLR |
 | **[LPPG-RL: Lexicographically Projected Policy Gradient Reinforcement Learning with Subproblem Exploration](https://arxiv.org/abs/2511.08339v1)** | 2025-11-11 |  |
 | **[Towards Provably Unlearnable Examples via Bayes Error Optimisation](https://arxiv.org/abs/2511.08191v1)** | 2025-11-11 |  |
-| **[SafeMIL: Learning Offline Safe Imitation Policy from Non-Preferred Trajectories](https://arxiv.org/abs/2511.08136v1)** | 2025-11-11 | 18 pages, AAAI 2026 |
 | **[Harnessing Textual Semantic Priors for Knowledge Transfer and Refinement in CLIP-Driven Continual Learning](https://arxiv.org/abs/2508.01579v3)** | 2025-11-11 | AAAI-2026 Poster |
 | **[The Trilemma of Truth in Large Language Models](https://arxiv.org/abs/2506.23921v3)** | 2025-11-10 | <details><summary>Camer...</summary><p>Camera-ready (non-archival) version accepted at the Mechanistic Interpretability Workshop at NeurIPS 2025. The main text is 10 pages long (plus 3 pages of references); supplementary material (58 pages) is included in the same PDF</p></details> |
 | **[Bridging Weakly-Supervised Learning and VLM Distillation: Noisy Partial Label Learning for Efficient Downstream Adaptation](https://arxiv.org/abs/2506.03229v2)** | 2025-11-10 |  |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Explaining Bayesian Neural Networks](https://arxiv.org/abs/2108.10346v2)** | 2025-11-10 | <details><summary>25 pa...</summary><p>25 pages, 8 figures Accepted to Transactions on Machine Learning Research</p></details> |
 | **[EcoLoRA: Communication-Efficient Federated Fine-Tuning of Large Language Models](https://arxiv.org/abs/2506.02001v2)** | 2025-11-10 |  |
 | **[Loss-Guided Auxiliary Agents for Overcoming Mode Collapse in GFlowNets](https://arxiv.org/abs/2505.15251v2)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Diagnose Like A REAL Pathologist: An Uncertainty-Focused Approach for Trustworthy Multi-Resolution Multiple Instance Learning](https://arxiv.org/abs/2511.06433v1)** | 2025-11-09 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
-| **[Early Alzheimer's Disease Detection from Retinal OCT Images: A UK Biobank Study](https://arxiv.org/abs/2511.05106v1)** | 2025-11-07 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
@@ -109,6 +109,7 @@ labels: documentation
 | **[Learning to reason about rare diseases through retrieval-augmented agents](https://arxiv.org/abs/2511.04720v1)** | 2025-11-06 | <details><summary>Submi...</summary><p>Submitted on behalf of the PREDICTOM consortium</p></details> |
 | **[Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology](https://arxiv.org/abs/2511.04171v1)** | 2025-11-06 | 14 pages, 7 Figures |
 | **[Med-GLIP: Advancing Medical Language-Image Pre-training with Large-scale Grounded Dataset](https://arxiv.org/abs/2508.10528v2)** | 2025-11-05 |  |
+| **[Evaluating Open-Weight Large Language Models for Structured Data Extraction from Narrative Medical Reports Across Multiple Use Cases and Languages](https://arxiv.org/abs/2511.10658v1)** | 2025-11-03 |  |
 | **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](https://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 | **[Digitizing Spermatogenesis Lineage at Nanoscale Resolution In Tissue-Level Electron Microscopy](https://arxiv.org/abs/2511.02860v1)** | 2025-11-02 | 19 pages,4 figures |
 | **[Hyperparameter Optimization and Reproducibility in Deep Learning Model Training](https://arxiv.org/abs/2510.15164v2)** | 2025-10-31 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Scaling Artificial Intelligence for Multi-Tumor Early Detection with More Reports, Fewer Masks](https://arxiv.org/abs/2510.14803v1)** | 2025-10-16 |  |
 | **[Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review](https://arxiv.org/abs/2510.14462v1)** | 2025-10-16 |  |
 | **[Automated Glaucoma Report Generation via Dual-Attention Semantic Parallel-LSTM and Multimodal Clinical Data Integration](https://arxiv.org/abs/2510.10037v1)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted by IEEE 25th BIBE</p></details> |
-| **[Discrete Diffusion Models with MLLMs for Unified Medical Multimodal Generation](https://arxiv.org/abs/2510.06131v1)** | 2025-10-07 | 16 pages,6 figures |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
@@ -130,6 +130,7 @@ labels: documentation
 | **[ChexFract: From General to Specialized -- Enhancing Fracture Description Generation](https://arxiv.org/abs/2511.07983v1)** | 2025-11-11 | 13 pages, 3 figures |
 | **[A multi-modal vision-language model for generalizable annotation-free pathology localization](https://arxiv.org/abs/2401.02044v7)** | 2025-11-08 |  |
 | **[Med-GLIP: Advancing Medical Language-Image Pre-training with Large-scale Grounded Dataset](https://arxiv.org/abs/2508.10528v2)** | 2025-11-05 |  |
+| **[Evaluating Open-Weight Large Language Models for Structured Data Extraction from Narrative Medical Reports Across Multiple Use Cases and Languages](https://arxiv.org/abs/2511.10658v1)** | 2025-11-03 |  |
 | **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](https://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](https://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Dynamic Traceback Learning for Medical Report Generation](https://arxiv.org/abs/2401.13267v4)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia (TMM)</p></details> |
@@ -146,5 +147,4 @@ labels: documentation
 | **[Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis](https://arxiv.org/abs/2509.09254v1)** | 2025-09-11 | <details><summary>40 pa...</summary><p>40 pages, 26 figures, 9 tables</p></details> |
 | **[Glo-UMF: A Unified Multi-model Framework for Automated Morphometry of Glomerular Ultrastructural Characterization](https://arxiv.org/abs/2508.10351v2)** | 2025-09-11 | 17 pages, 6 figures |
 | **[Teaching AI Stepwise Diagnostic Reasoning with Report-Guided Chain-of-Thought Learning](https://arxiv.org/abs/2509.06409v1)** | 2025-09-08 |  |
-| **[Are the Majority of Public Computational Notebooks Pathologically Non-Executable?](https://arxiv.org/abs/2502.04184v4)** | 2025-08-28 | <details><summary>12 pa...</summary><p>12 pages, 10 figures, 3 tables, the 22nd International Conference on Mining Software Repositories (MSR 2025)</p></details> |
 
