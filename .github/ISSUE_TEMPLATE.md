@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 18, 2025
+title: Latest 20 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
 | **[Hierarchical Generalized Category Discovery for Brain Tumor Classification in Digital Pathology](https://arxiv.org/abs/2510.02760v2)** | 2025-11-17 |  |
 | **[MergeSlide: Continual Model Merging and Task-to-Class Prompt-Aligned Inference for Lifelong Learning on Whole Slide Images](https://arxiv.org/abs/2511.13099v1)** | 2025-11-17 | WACV2026 Accepted |
 | **[Spatially-Aware Mixture of Experts with Log-Logistic Survival Modeling for Whole-Slide Images](https://arxiv.org/abs/2511.06266v3)** | 2025-11-17 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Evaluating Cell AI Foundation Models in Kidney Pathology with Human-in-the-Loop Enrichment](https://arxiv.org/abs/2411.00078v2)** | 2025-11-09 |  |
 | **[PySlyde: A Lightweight, Open-Source Toolkit for Pathology Preprocessing](https://arxiv.org/abs/2511.05183v1)** | 2025-11-07 |  |
 | **[Dynamic Residual Encoding with Slide-Level Contrastive Learning for End-to-End Whole Slide Image Representation](https://arxiv.org/abs/2511.05034v1)** | 2025-11-07 | <details><summary>8page...</summary><p>8pages, 3figures, published to ACM Digital Library</p></details> |
-| **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](https://arxiv.org/abs/2511.00383v2)** | 2025-11-07 | <details><summary>37 pa...</summary><p>37 pages, 18 figures, Accepted in NeurIPS 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
 | **[Hierarchical Generalized Category Discovery for Brain Tumor Classification in Digital Pathology](https://arxiv.org/abs/2510.02760v2)** | 2025-11-17 |  |
 | **[MergeSlide: Continual Model Merging and Task-to-Class Prompt-Aligned Inference for Lifelong Learning on Whole Slide Images](https://arxiv.org/abs/2511.13099v1)** | 2025-11-17 | WACV2026 Accepted |
 | **[Spatially-Aware Mixture of Experts with Log-Logistic Survival Modeling for Whole-Slide Images](https://arxiv.org/abs/2511.06266v3)** | 2025-11-17 |  |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Evaluating Cell AI Foundation Models in Kidney Pathology with Human-in-the-Loop Enrichment](https://arxiv.org/abs/2411.00078v2)** | 2025-11-09 |  |
 | **[PySlyde: A Lightweight, Open-Source Toolkit for Pathology Preprocessing](https://arxiv.org/abs/2511.05183v1)** | 2025-11-07 |  |
 | **[Dynamic Residual Encoding with Slide-Level Contrastive Learning for End-to-End Whole Slide Image Representation](https://arxiv.org/abs/2511.05034v1)** | 2025-11-07 | <details><summary>8page...</summary><p>8pages, 3figures, published to ACM Digital Library</p></details> |
-| **[STARC-9: A Large-scale Dataset for Multi-Class Tissue Classification for CRC Histopathology](https://arxiv.org/abs/2511.00383v2)** | 2025-11-07 | <details><summary>37 pa...</summary><p>37 pages, 18 figures, Accepted in NeurIPS 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explaining Digital Pathology Models via Clustering Activations](https://arxiv.org/abs/2511.14558v1)** | 2025-11-18 |  |
 | **[Beyond H&E: Unlocking Pathological Insights with Polarization Imaging](https://arxiv.org/abs/2503.05933v2)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted as a regular paper at IEEE BIBM 2025</p></details> |
 | **[MIRROR: Multi-Modal Pathological Self-Supervised Representation Learning via Modality Alignment and Retention](https://arxiv.org/abs/2503.00374v5)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Medical Imaging (TMI). Code available at https://github.com/TianyiFranklinWang/MIRROR. Project page: https://tianyifranklinwang.github.io/MIRROR</p></details> |
 | **[Adaptive Diagnostic Reasoning Framework for Pathology with Multimodal Large Language Models](https://arxiv.org/abs/2511.12008v1)** | 2025-11-15 |  |
@@ -74,11 +75,13 @@ labels: documentation
 | **[Retrieval-Augmented Generation of Pediatric Speech-Language Pathology vignettes: A Proof-of-Concept Study](https://arxiv.org/abs/2511.08600v1)** | 2025-11-01 | 37 pages, 3 figures |
 | **[PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](https://arxiv.org/abs/2506.13063v2)** | 2025-10-31 |  |
 | **[Fusion of Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v1)** | 2025-10-31 | 22 pages, 9 figures |
-| **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](https://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
+| **[SLAM-AGS: Slide-Label Aware Multi-Task Pretraining Using Adaptive Gradient Surgery in Computational Cytology](https://arxiv.org/abs/2511.14639v1)** | 2025-11-18 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Submitted to ISBI2026</p></details> |
+| **[WARP-LUTs - Walsh-Assisted Relaxation for Probabilistic Look Up Tables](https://arxiv.org/abs/2510.15655v2)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
 | **[NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020v4)** | 2025-11-17 |  |
 | **[Computer Vision based group activity detection and action spotting](https://arxiv.org/abs/2511.13315v1)** | 2025-11-17 |  |
@@ -96,9 +99,6 @@ labels: documentation
 | **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
 | **[Text-guided Weakly Supervised Framework for Dynamic Facial Expression Recognition](https://arxiv.org/abs/2511.10958v1)** | 2025-11-14 |  |
 | **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560v2)** | 2025-11-14 | <details><summary>Proje...</summary><p>Project Page: https://livioni.github.io/OmniVGGT-official/</p></details> |
-| **[Algorithm Design and Stronger Guarantees for the Improving Multi-Armed Bandits Problem](https://arxiv.org/abs/2511.10619v1)** | 2025-11-13 | 25 pages |
-| **[Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations](https://arxiv.org/abs/2511.10432v1)** | 2025-11-13 | 26 pages, 6 figures |
-| **[Learning to Tell Apart: Weakly Supervised Video Anomaly Detection via Disentangled Semantic Alignment](https://arxiv.org/abs/2511.10334v1)** | 2025-11-13 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Code is available at https://github.com/lessiYin/DSANet</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
