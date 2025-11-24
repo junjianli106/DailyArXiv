@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 23, 2025
+title: Latest 20 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052v1)** | 2025-11-21 | 11 pages, 6 figures |
 | **[Weakly Supervised Segmentation and Classification of Alpha-Synuclein Aggregates in Brightfield Midbrain Images](https://arxiv.org/abs/2511.16268v1)** | 2025-11-20 |  |
 | **[Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v2)** | 2025-11-20 | 22 pages, 9 figures |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](https://arxiv.org/abs/2507.16476v6)** | 2025-11-19 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations](https://arxiv.org/abs/2511.10432v1)** | 2025-11-13 | 26 pages, 6 figures |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v1)** | 2025-11-13 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 | **[CORE - A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v2)** | 2025-11-12 |  |
-| **[LBMamba: Locally Bi-directional Mamba](https://arxiv.org/abs/2506.15976v2)** | 2025-11-11 | Accepted to TMLR |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052v1)** | 2025-11-21 | 11 pages, 6 figures |
 | **[Weakly Supervised Segmentation and Classification of Alpha-Synuclein Aggregates in Brightfield Midbrain Images](https://arxiv.org/abs/2511.16268v1)** | 2025-11-20 |  |
 | **[Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v2)** | 2025-11-20 | 22 pages, 9 figures |
 | **[Survival Modeling from Whole Slide Images via Patch-Level Graph Clustering and Mixture Density Experts](https://arxiv.org/abs/2507.16476v6)** | 2025-11-19 |  |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations](https://arxiv.org/abs/2511.10432v1)** | 2025-11-13 | 26 pages, 6 figures |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v1)** | 2025-11-13 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 | **[CORE - A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v2)** | 2025-11-12 |  |
-| **[LBMamba: Locally Bi-directional Mamba](https://arxiv.org/abs/2506.15976v2)** | 2025-11-11 | Accepted to TMLR |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
 | **[Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v2)** | 2025-11-20 | 22 pages, 9 figures |
 | **[Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs](https://arxiv.org/abs/2509.18015v2)** | 2025-11-19 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium</p></details> |
 | **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v1)** | 2025-11-18 | <details><summary>A con...</summary><p>A conceptual evaluation work; more studies are in progress; examples are here (https://github.com/Luoxd1996/nnMIL)</p></details> |
@@ -74,11 +75,13 @@ labels: documentation
 | **[Toward Clinically Grounded Foundation Models in Pathology](https://arxiv.org/abs/2510.23807v3)** | 2025-11-06 |  |
 | **[Systematic Evaluation of Preprocessing Techniques for Accurate Image Registration in Digital Pathology](https://arxiv.org/abs/2511.04171v1)** | 2025-11-06 | 14 pages, 7 Figures |
 | **[Comparing Computational Pathology Foundation Models using Representational Similarity Analysis](https://arxiv.org/abs/2509.15482v2)** | 2025-11-05 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium</p></details> |
-| **[Knowledge Elicitation with Large Language Models for Interpretable Cancer Stage Identification from Pathology Reports](https://arxiv.org/abs/2511.01052v1)** | 2025-11-02 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Loss-Oriented Ranking for Automated Visual Prompting in LVLMs](https://arxiv.org/abs/2506.16112v2)** | 2025-11-21 | 17 pages |
+| **[Performance of Conformal Prediction in Capturing Aleatoric Uncertainty](https://arxiv.org/abs/2509.05826v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision, WACV 2026</p></details> |
+| **[A Vector Symbolic Approach to Multiple Instance Learning](https://arxiv.org/abs/2511.16795v1)** | 2025-11-20 |  |
 | **[UniAV: Unified Audio-Visual Perception for Multi-Task Video Event Localization](https://arxiv.org/abs/2404.03179v3)** | 2025-11-19 | <details><summary>Publi...</summary><p>Published on IEEE TPAMI</p></details> |
 | **[Gene-DML: Dual-Pathway Multi-Level Discrimination for Gene Expression Prediction from Histopathology Images](https://arxiv.org/abs/2507.14670v2)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted by The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV2026). Code and data available at https://github.com/YXSong000/Gene-DML</p></details> |
 | **[Deep Pathomic Learning Defines Prognostic Subtypes and Molecular Drivers in Colorectal Cancer](https://arxiv.org/abs/2511.15067v1)** | 2025-11-19 |  |
@@ -96,9 +99,6 @@ labels: documentation
 | **[RAA-MIL: A Novel Framework for Classification of Oral Cytology](https://arxiv.org/abs/2511.12269v1)** | 2025-11-15 | <details><summary>Under...</summary><p>Under Review at IEEE ISBI 2026</p></details> |
 | **[MetaGDPO: Alleviating Catastrophic Forgetting with Metacognitive Knowledge through Group Direct Preference Optimization](https://arxiv.org/abs/2511.12113v1)** | 2025-11-15 | <details><summary>23 pa...</summary><p>23 pages, 10 figures, AAAI 2026</p></details> |
 | **[Evaluating Multiple Instance Learning Strategies for Automated Sebocyte Droplet Counting](https://arxiv.org/abs/2509.04895v2)** | 2025-11-15 | <details><summary>11 pa...</summary><p>11 pages, 3 figure, 2 tables</p></details> |
-| **[Consistency-based Abductive Reasoning over Perceptual Errors of Multiple Pre-trained Models in Novel Environments](https://arxiv.org/abs/2505.19361v3)** | 2025-11-15 |  |
-| **[The Trilemma of Truth in Large Language Models](https://arxiv.org/abs/2506.23921v4)** | 2025-11-14 | <details><summary>Camer...</summary><p>Camera-ready (non-archival) version accepted at the Mechanistic Interpretability Workshop at NeurIPS 2025. The main text is 10 pages long (plus 3 pages of references); supplementary material (58 pages) is included in the same PDF</p></details> |
-| **[DRAGON: Distributional Rewards Optimize Diffusion Generative Models](https://arxiv.org/abs/2504.15217v2)** | 2025-11-14 | Accepted to TMLR |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
