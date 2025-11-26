@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 25, 2025
+title: Latest 20 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,13 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Patch-Level Glioblastoma Subregion Classification with a Contrastive Learning-Based Encoder](https://arxiv.org/abs/2511.20221v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by the International Brain Tumor Segmentation (BraTS) challenge organized at MICCAI 2025 conference</p></details> |
+| **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v3)** | 2025-11-25 |  |
+| **[Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation](https://arxiv.org/abs/2511.18493v2)** | 2025-11-25 |  |
+| **[Leveraging Foundation Models for Histological Grading in Cutaneous Squamous Cell Carcinoma using PathFMTools](https://arxiv.org/abs/2511.19751v1)** | 2025-11-24 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium (2025)</p></details> |
+| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v1)** | 2025-11-24 |  |
 | **[Zero-shot segmentation of skin tumors in whole-slide images with vision-language foundation models](https://arxiv.org/abs/2511.18978v1)** | 2025-11-24 | <details><summary>Confe...</summary><p>Conference manuscript accepted for oral presentation at CASEIB 2025</p></details> |
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
-| **[Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation](https://arxiv.org/abs/2511.18493v1)** | 2025-11-23 |  |
 | **[Dual-Path Knowledge-Augmented Contrastive Alignment Network for Spatially Resolved Transcriptomics](https://arxiv.org/abs/2511.17685v1)** | 2025-11-21 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral, extended version</p></details> |
 | **[PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052v1)** | 2025-11-21 | 11 pages, 6 figures |
 | **[Weakly Supervised Segmentation and Classification of Alpha-Synuclein Aggregates in Brightfield Midbrain Images](https://arxiv.org/abs/2511.16268v1)** | 2025-11-20 |  |
@@ -23,17 +27,17 @@ labels: documentation
 | **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
 | **[Hierarchical Generalized Category Discovery for Brain Tumor Classification in Digital Pathology](https://arxiv.org/abs/2510.02760v2)** | 2025-11-17 |  |
 | **[MergeSlide: Continual Model Merging and Task-to-Class Prompt-Aligned Inference for Lifelong Learning on Whole Slide Images](https://arxiv.org/abs/2511.13099v1)** | 2025-11-17 | WACV2026 Accepted |
-| **[Spatially-Aware Mixture of Experts with Log-Logistic Survival Modeling for Whole-Slide Images](https://arxiv.org/abs/2511.06266v3)** | 2025-11-17 |  |
-| **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v3)** | 2025-11-16 |  |
-| **[RAA-MIL: A Novel Framework for Classification of Oral Cytology](https://arxiv.org/abs/2511.12269v1)** | 2025-11-15 | <details><summary>Under...</summary><p>Under Review at IEEE ISBI 2026</p></details> |
-| **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Patch-Level Glioblastoma Subregion Classification with a Contrastive Learning-Based Encoder](https://arxiv.org/abs/2511.20221v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by the International Brain Tumor Segmentation (BraTS) challenge organized at MICCAI 2025 conference</p></details> |
+| **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v3)** | 2025-11-25 |  |
+| **[Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation](https://arxiv.org/abs/2511.18493v2)** | 2025-11-25 |  |
+| **[Leveraging Foundation Models for Histological Grading in Cutaneous Squamous Cell Carcinoma using PathFMTools](https://arxiv.org/abs/2511.19751v1)** | 2025-11-24 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium (2025)</p></details> |
+| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v1)** | 2025-11-24 |  |
 | **[Zero-shot segmentation of skin tumors in whole-slide images with vision-language foundation models](https://arxiv.org/abs/2511.18978v1)** | 2025-11-24 | <details><summary>Confe...</summary><p>Conference manuscript accepted for oral presentation at CASEIB 2025</p></details> |
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
-| **[Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation](https://arxiv.org/abs/2511.18493v1)** | 2025-11-23 |  |
 | **[Dual-Path Knowledge-Augmented Contrastive Alignment Network for Spatially Resolved Transcriptomics](https://arxiv.org/abs/2511.17685v1)** | 2025-11-21 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral, extended version</p></details> |
 | **[PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052v1)** | 2025-11-21 | 11 pages, 6 figures |
 | **[Weakly Supervised Segmentation and Classification of Alpha-Synuclein Aggregates in Brightfield Midbrain Images](https://arxiv.org/abs/2511.16268v1)** | 2025-11-20 |  |
@@ -47,14 +51,11 @@ labels: documentation
 | **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
 | **[Hierarchical Generalized Category Discovery for Brain Tumor Classification in Digital Pathology](https://arxiv.org/abs/2510.02760v2)** | 2025-11-17 |  |
 | **[MergeSlide: Continual Model Merging and Task-to-Class Prompt-Aligned Inference for Lifelong Learning on Whole Slide Images](https://arxiv.org/abs/2511.13099v1)** | 2025-11-17 | WACV2026 Accepted |
-| **[Spatially-Aware Mixture of Experts with Log-Logistic Survival Modeling for Whole-Slide Images](https://arxiv.org/abs/2511.06266v3)** | 2025-11-17 |  |
-| **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v3)** | 2025-11-16 |  |
-| **[RAA-MIL: A Novel Framework for Classification of Oral Cytology](https://arxiv.org/abs/2511.12269v1)** | 2025-11-15 | <details><summary>Under...</summary><p>Under Review at IEEE ISBI 2026</p></details> |
-| **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v1)** | 2025-11-24 |  |
 | **[Leveraging Adversarial Learning for Pathological Fidelity in Virtual Staining](https://arxiv.org/abs/2511.18946v1)** | 2025-11-24 |  |
 | **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
 | **[TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://arxiv.org/abs/2511.17652v1)** | 2025-11-20 | 35 pages, 6 figures |
@@ -74,15 +75,18 @@ labels: documentation
 | **[The Polite Liar: Epistemic Pathology in Language Models](https://arxiv.org/abs/2511.07477v1)** | 2025-11-08 | <details><summary>17 pa...</summary><p>17 pages, 2 tables, Preprint - under review at AI & Society</p></details> |
 | **[A multi-modal vision-language model for generalizable annotation-free pathology localization](https://arxiv.org/abs/2401.02044v7)** | 2025-11-08 |  |
 | **[PySlyde: A Lightweight, Open-Source Toolkit for Pathology Preprocessing](https://arxiv.org/abs/2511.05183v1)** | 2025-11-07 |  |
-| **[Toward Clinically Grounded Foundation Models in Pathology](https://arxiv.org/abs/2510.23807v3)** | 2025-11-06 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adaptive Hopfield Network: Rethinking Similarities in Associative Memory](https://arxiv.org/abs/2511.20609v1)** | 2025-11-25 |  |
+| **[Prompt Guiding Multi-Scale Adaptive Sparse Representation-driven Network for Low-Dose CT MAR](https://arxiv.org/abs/2504.19687v3)** | 2025-11-25 |  |
+| **[Exploring State-of-the-art models for Early Detection of Forest Fires](https://arxiv.org/abs/2511.20096v1)** | 2025-11-25 |  |
+| **[Cross-Contrastive Clustering for Multimodal Attributed Graphs with Dual Graph Filtering](https://arxiv.org/abs/2511.20030v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2026. The code is available at https://github.com/HaoranZ99/DGF</p></details> |
 | **[Unsupervised and Source-Free Ranking of Biomedical Segmentation Models](https://arxiv.org/abs/2503.00450v2)** | 2025-11-24 | 24 pages, 6 figures |
 | **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v1)** | 2025-11-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
-| **[Prompt Guiding Multi-Scale Adaptive Sparse Representation-driven Network for Low-Dose CT MAR](https://arxiv.org/abs/2504.19687v2)** | 2025-11-22 |  |
+| **[Tracking and Segmenting Anything in Any Modality](https://arxiv.org/abs/2511.19475v1)** | 2025-11-22 | Accpetd by AAAI 2026 |
 | **[Classification of autoimmune diseases from Peripheral blood TCR repertoires by multimodal multi-instance learning](https://arxiv.org/abs/2507.04981v4)** | 2025-11-22 | <details><summary>4 fig...</summary><p>4 figures, 3 tabels, 8 pages</p></details> |
 | **[Loss-Oriented Ranking for Automated Visual Prompting in LVLMs](https://arxiv.org/abs/2506.16112v2)** | 2025-11-21 | 17 pages |
 | **[Performance of Conformal Prediction in Capturing Aleatoric Uncertainty](https://arxiv.org/abs/2509.05826v2)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision, WACV 2026</p></details> |
@@ -95,14 +99,11 @@ labels: documentation
 | **[SLAM-AGS: Slide-Label Aware Multi-Task Pretraining Using Adaptive Gradient Surgery in Computational Cytology](https://arxiv.org/abs/2511.14639v1)** | 2025-11-18 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, Submitted to ISBI2026</p></details> |
 | **[WARP-LUTs - Walsh-Assisted Relaxation for Probabilistic Look Up Tables](https://arxiv.org/abs/2510.15655v2)** | 2025-11-18 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
 | **[Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification](https://arxiv.org/abs/2511.13575v1)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, accepted by AAAI 2026</p></details> |
-| **[NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation](https://arxiv.org/abs/2505.21020v4)** | 2025-11-17 |  |
-| **[Computer Vision based group activity detection and action spotting](https://arxiv.org/abs/2511.13315v1)** | 2025-11-17 |  |
-| **[APT: Affine Prototype-Timestamp For Time Series Forecasting Under Distribution Shift](https://arxiv.org/abs/2511.12945v1)** | 2025-11-17 |  |
-| **[Scalable Multi-Objective and Meta Reinforcement Learning via Gradient Estimation](https://arxiv.org/abs/2511.12779v1)** | 2025-11-16 | <details><summary>17 pa...</summary><p>17 pages. To appear in AAAI'26</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](https://arxiv.org/abs/2504.16181v5)** | 2025-11-25 |  |
 | **[Design and Validation of a Modular Smart Headband with Embroidered Electrodes for Comfortable EEG Monitoring](https://arxiv.org/abs/2511.19348v1)** | 2025-11-24 |  |
 | **[Health system learning achieves generalist neuroimaging models](https://arxiv.org/abs/2511.18640v1)** | 2025-11-23 | <details><summary>53 pa...</summary><p>53 pages, 4 main figures, 10 extended data figures</p></details> |
 | **[SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635v1)** | 2025-11-20 | 20 pages |
@@ -122,7 +123,6 @@ labels: documentation
 | **[CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists' Diagnostic Logic](https://arxiv.org/abs/2505.20510v2)** | 2025-10-28 | 52 pages, 34 figures |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v1)** | 2025-10-27 |  |
 | **[A Novel Multi-branch ConvNeXt Architecture for Identifying Subtle Pathological Features in CT Scans](https://arxiv.org/abs/2510.09107v2)** | 2025-10-27 | <details><summary>Sourc...</summary><p>Source Code : https://github.com/Irash-Perera/MedNeXt-Branch</p></details> |
-| **[SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the SpineMed-450k Corpus](https://arxiv.org/abs/2510.03160v2)** | 2025-10-25 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
