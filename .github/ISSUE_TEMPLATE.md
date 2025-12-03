@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 02, 2025
+title: Latest 20 Papers - December 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](https://arxiv.org/abs/2508.13482v3)** | 2025-11-29 | <details><summary>24 pa...</summary><p>24 pages (11 figures and 10 tables)</p></details> |
+| **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](https://arxiv.org/abs/2508.13482v4)** | 2025-12-02 | <details><summary>24 pa...</summary><p>24 pages (11 figures and 10 tables)</p></details> |
 | **[Autonomous labeling of surgical resection margins using a foundation model](https://arxiv.org/abs/2511.22131v1)** | 2025-11-27 | 20 Pages, 5 Figures |
 | **[Histomorphology-Guided Prototypical Multi-Instance Learning for Breast Cancer WSI Classification](https://arxiv.org/abs/2503.17983v2)** | 2025-11-27 | 11 pages,8 figures |
 | **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](https://arxiv.org/abs/2506.00096v3)** | 2025-11-27 | <details><summary>Withd...</summary><p>Withdrawn due to issues related to data permissions/ethics</p></details> |
@@ -31,7 +31,7 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](https://arxiv.org/abs/2508.13482v3)** | 2025-11-29 | <details><summary>24 pa...</summary><p>24 pages (11 figures and 10 tables)</p></details> |
+| **[Cross-Cancer Knowledge Transfer in WSI-based Prognosis Prediction](https://arxiv.org/abs/2508.13482v4)** | 2025-12-02 | <details><summary>24 pa...</summary><p>24 pages (11 figures and 10 tables)</p></details> |
 | **[Autonomous labeling of surgical resection margins using a foundation model](https://arxiv.org/abs/2511.22131v1)** | 2025-11-27 | 20 Pages, 5 Figures |
 | **[Histomorphology-Guided Prototypical Multi-Instance Learning for Breast Cancer WSI Classification](https://arxiv.org/abs/2503.17983v2)** | 2025-11-27 | 11 pages,8 figures |
 | **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](https://arxiv.org/abs/2506.00096v3)** | 2025-11-27 | <details><summary>Withd...</summary><p>Withdrawn due to issues related to data permissions/ethics</p></details> |
@@ -64,6 +64,7 @@ labels: documentation
 | **[TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://arxiv.org/abs/2511.17652v1)** | 2025-11-20 | 35 pages, 6 figures |
 | **[Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v2)** | 2025-11-20 | 22 pages, 9 figures |
 | **[Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs](https://arxiv.org/abs/2509.18015v2)** | 2025-11-19 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium</p></details> |
+| **[Seizure-NGCLNet: Representation Learning of SEEG Spatial Pathological Patterns for Epileptic Seizure Detection via Node-Graph Dual Contrastive Learning](https://arxiv.org/abs/2512.02028v1)** | 2025-11-19 |  |
 | **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v1)** | 2025-11-18 | <details><summary>A con...</summary><p>A conceptual evaluation work; more studies are in progress; examples are here (https://github.com/Luoxd1996/nnMIL)</p></details> |
 | **[Explaining Digital Pathology Models via Clustering Activations](https://arxiv.org/abs/2511.14558v1)** | 2025-11-18 |  |
 | **[Beyond H&E: Unlocking Pathological Insights with Polarization Imaging](https://arxiv.org/abs/2503.05933v2)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted as a regular paper at IEEE BIBM 2025</p></details> |
@@ -74,11 +75,12 @@ labels: documentation
 | **[PLUTO-4: Frontier Pathology Foundation Models](https://arxiv.org/abs/2511.02826v3)** | 2025-11-11 |  |
 | **[Benchmarking Domain Generalization Algorithms in Computational Pathology](https://arxiv.org/abs/2409.17063v2)** | 2025-11-11 |  |
 | **[EvoPS: Evolutionary Patch Selection for Whole Slide Image Analysis in Computational Pathology](https://arxiv.org/abs/2511.07560v1)** | 2025-11-10 |  |
-| **[Evaluating Cell AI Foundation Models in Kidney Pathology with Human-in-the-Loop Enrichment](https://arxiv.org/abs/2411.00078v2)** | 2025-11-09 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Increasing Information Extraction in Low-Signal Regimes via Multiple Instance Learning](https://arxiv.org/abs/2508.07114v2)** | 2025-12-02 | <details><summary>Refer...</summary><p>Referenced prior work to better frame the contribution</p></details> |
+| **[From Detection to Association: Learning Discriminative Object Embeddings for Multi-Object Tracking](https://arxiv.org/abs/2512.02392v1)** | 2025-12-02 |  |
 | **[A Unified Framework for Probabilistic Dynamic-, Trajectory- and Vision-based Virtual Fixtures](https://arxiv.org/abs/2506.10239v2)** | 2025-12-01 | <details><summary>for t...</summary><p>for the supplementary video, see https://www.youtube.com/watch?v=vUXzcpMbMnY</p></details> |
 | **[The Silence that Speaks: Neural Estimation via Communication Gaps](https://arxiv.org/abs/2512.01056v1)** | 2025-11-30 |  |
 | **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](https://arxiv.org/abs/2509.23159v3)** | 2025-11-30 | Under submission |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Exploring State-of-the-art models for Early Detection of Forest Fires](https://arxiv.org/abs/2511.20096v1)** | 2025-11-25 |  |
 | **[Cross-Contrastive Clustering for Multimodal Attributed Graphs with Dual Graph Filtering](https://arxiv.org/abs/2511.20030v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by SIGKDD 2026. The code is available at https://github.com/HaoranZ99/DGF</p></details> |
 | **[Unsupervised and Source-Free Ranking of Biomedical Segmentation Models](https://arxiv.org/abs/2503.00450v2)** | 2025-11-24 | 24 pages, 6 figures |
-| **[TimePre: Bridging Accuracy, Efficiency, and Stability in Probabilistic Time-Series Forecasting](https://arxiv.org/abs/2511.18539v1)** | 2025-11-23 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 6 tables</p></details> |
-| **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
