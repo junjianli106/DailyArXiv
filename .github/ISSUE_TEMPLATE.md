@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 04, 2025
+title: Latest 20 Papers - December 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OnSight Pathology: A real-time platform-agnostic computational pathology companion for histopathology](https://arxiv.org/abs/2512.04187v1)** | 2025-12-03 |  |
 | **[Prostate biopsy whole slide image dataset from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v1)** | 2025-12-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
 | **[PixCell: A generative foundation model for digital histopathology images](https://arxiv.org/abs/2506.05127v2)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page - https://histodiffusion.github.io/docs/projects/pixcell</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Zero-shot segmentation of skin tumors in whole-slide images with vision-language foundation models](https://arxiv.org/abs/2511.18978v1)** | 2025-11-24 | <details><summary>Confe...</summary><p>Conference manuscript accepted for oral presentation at CASEIB 2025</p></details> |
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
 | **[Dual-Path Knowledge-Augmented Contrastive Alignment Network for Spatially Resolved Transcriptomics](https://arxiv.org/abs/2511.17685v1)** | 2025-11-21 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral, extended version</p></details> |
-| **[PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052v1)** | 2025-11-21 | 11 pages, 6 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OnSight Pathology: A real-time platform-agnostic computational pathology companion for histopathology](https://arxiv.org/abs/2512.04187v1)** | 2025-12-03 |  |
 | **[Prostate biopsy whole slide image dataset from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v1)** | 2025-12-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
 | **[PixCell: A generative foundation model for digital histopathology images](https://arxiv.org/abs/2506.05127v2)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page - https://histodiffusion.github.io/docs/projects/pixcell</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Zero-shot segmentation of skin tumors in whole-slide images with vision-language foundation models](https://arxiv.org/abs/2511.18978v1)** | 2025-11-24 | <details><summary>Confe...</summary><p>Conference manuscript accepted for oral presentation at CASEIB 2025</p></details> |
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
 | **[Dual-Path Knowledge-Augmented Contrastive Alignment Network for Spatially Resolved Transcriptomics](https://arxiv.org/abs/2511.17685v1)** | 2025-11-21 | <details><summary>AAAI ...</summary><p>AAAI 2026 Oral, extended version</p></details> |
-| **[PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052v1)** | 2025-11-21 | 11 pages, 6 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OnSight Pathology: A real-time platform-agnostic computational pathology companion for histopathology](https://arxiv.org/abs/2512.04187v1)** | 2025-12-03 |  |
 | **[Joint Progression Modeling (JPM): A Probabilistic Framework for Mixed-Pathology Progression](https://arxiv.org/abs/2512.03475v1)** | 2025-12-03 | <details><summary>49 pa...</summary><p>49 pages; Machine Learning for Health (ML4H) Symposium 2025</p></details> |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Training Framework](https://arxiv.org/abs/2509.20923v2)** | 2025-12-03 | 24 pages, 6 figures |
 | **[USB: Unified Synthetic Brain Framework for Bidirectional Pathology-Healthy Generation and Editing](https://arxiv.org/abs/2512.00269v1)** | 2025-11-29 | 16 pages, 17 figures |
@@ -74,12 +75,15 @@ labels: documentation
 | **[Adaptive Diagnostic Reasoning Framework for Pathology with Multimodal Large Language Models](https://arxiv.org/abs/2511.12008v1)** | 2025-11-15 |  |
 | **[From Classification to Cross-Modal Understanding: Leveraging Vision-Language Models for Fine-Grained Renal Pathology](https://arxiv.org/abs/2511.11984v1)** | 2025-11-15 |  |
 | **[GAITGen: Disentangled Motion-Pathology Impaired Gait Generative Model -- Bringing Motion Generation to the Clinical Domain](https://arxiv.org/abs/2503.22397v3)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF winter conference on applications of computer vision (WACV 2026)</p></details> |
-| **[PLUTO-4: Frontier Pathology Foundation Models](https://arxiv.org/abs/2511.02826v3)** | 2025-11-11 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v1)** | 2025-12-03 |  |
+| **[CoCoIns: Consistent Subject Generation via Contrastive Instantiated Concepts](https://arxiv.org/abs/2503.24387v2)** | 2025-12-04 | <details><summary>TMLR ...</summary><p>TMLR 2025. Project page: https://contrastive-concept-instantiation.github.io</p></details> |
+| **[The Autonomy-Alignment Problem in Open-Ended Learning Robots: Formalising the Purpose Framework](https://arxiv.org/abs/2403.02514v3)** | 2025-12-04 | 33 pages, 5 figures |
+| **[Explainable Graph Representation Learning via Graph Pattern Analysis](https://arxiv.org/abs/2512.04530v1)** | 2025-12-04 | <details><summary>Full ...</summary><p>Full version with appendix of the paper published in the Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence (IJCAI-25), Main Track</p></details> |
+| **[TempR1: Improving Temporal Understanding of MLLMs via Temporal-Aware Multi-Task Reinforcement Learning](https://arxiv.org/abs/2512.03963v2)** | 2025-12-04 |  |
+| **[Consistency-based Abductive Reasoning over Perceptual Errors of Multiple Pre-trained Models in Novel Environments](https://arxiv.org/abs/2505.19361v4)** | 2025-12-03 |  |
 | **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Training Framework](https://arxiv.org/abs/2509.20923v2)** | 2025-12-03 | 24 pages, 6 figures |
 | **[AugMapNet: Improving Spatial Latent Structure via BEV Grid Augmentation for Enhanced Vectorized Online HD Map Construction](https://arxiv.org/abs/2503.13430v2)** | 2025-12-03 | <details><summary>Accep...</summary><p>Accepted to 2026 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)</p></details> |
@@ -95,10 +99,6 @@ labels: documentation
 | **[THCRL: Trusted Hierarchical Contrastive Representation Learning for Multi-View Clustering](https://arxiv.org/abs/2512.00368v1)** | 2025-11-29 |  |
 | **[Bridging Modalities via Progressive Re-alignment for Multimodal Test-Time Adaptation](https://arxiv.org/abs/2511.22862v1)** | 2025-11-28 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (Oral)</p></details> |
 | **[Unraveling the Rainbow: can value-based methods schedule?](https://arxiv.org/abs/2505.03323v2)** | 2025-11-27 |  |
-| **[WARP-LUTs -- Walsh-Assisted Relaxation for Probabilistic Look Up Tables](https://arxiv.org/abs/2510.15655v3)** | 2025-11-27 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](https://arxiv.org/abs/2506.00096v3)** | 2025-11-27 | <details><summary>Withd...</summary><p>Withdrawn due to issues related to data permissions/ethics</p></details> |
-| **[Unlabeled Data Improves Fine-Grained Image Zero-shot Classification with Multimodal LLMs](https://arxiv.org/abs/2506.03195v2)** | 2025-11-27 |  |
-| **[Characterizing Pattern Matching and Its Limits on Compositional Task Structures](https://arxiv.org/abs/2505.20278v2)** | 2025-11-26 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
