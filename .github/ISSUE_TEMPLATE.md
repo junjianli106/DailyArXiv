@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 09, 2025
+title: Latest 20 Papers - December 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
 | **[When normalization hallucinates: unseen risks in AI-powered whole slide image processing](https://arxiv.org/abs/2512.07426v1)** | 2025-12-08 | <details><summary>4 pag...</summary><p>4 pages, accepted for oral presentation at SPIE Medical Imaging, 2026</p></details> |
 | **[From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](https://arxiv.org/abs/2408.09449v3)** | 2025-12-05 |  |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v1)** | 2025-12-05 | 20 pages |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Patch-Level Glioblastoma Subregion Classification with a Contrastive Learning-Based Encoder](https://arxiv.org/abs/2511.20221v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by the International Brain Tumor Segmentation (BraTS) challenge organized at MICCAI 2025 conference</p></details> |
 | **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v3)** | 2025-11-25 |  |
 | **[Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation](https://arxiv.org/abs/2511.18493v2)** | 2025-11-25 |  |
-| **[Leveraging Foundation Models for Histological Grading in Cutaneous Squamous Cell Carcinoma using PathFMTools](https://arxiv.org/abs/2511.19751v1)** | 2025-11-24 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium (2025)</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
 | **[When normalization hallucinates: unseen risks in AI-powered whole slide image processing](https://arxiv.org/abs/2512.07426v1)** | 2025-12-08 | <details><summary>4 pag...</summary><p>4 pages, accepted for oral presentation at SPIE Medical Imaging, 2026</p></details> |
 | **[From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](https://arxiv.org/abs/2408.09449v3)** | 2025-12-05 |  |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v1)** | 2025-12-05 | 20 pages |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Patch-Level Glioblastoma Subregion Classification with a Contrastive Learning-Based Encoder](https://arxiv.org/abs/2511.20221v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by the International Brain Tumor Segmentation (BraTS) challenge organized at MICCAI 2025 conference</p></details> |
 | **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v3)** | 2025-11-25 |  |
 | **[Shape-Adapting Gated Experts: Dynamic Expert Routing for Colonoscopic Lesion Segmentation](https://arxiv.org/abs/2511.18493v2)** | 2025-11-25 |  |
-| **[Leveraging Foundation Models for Histological Grading in Cutaneous Squamous Cell Carcinoma using PathFMTools](https://arxiv.org/abs/2511.19751v1)** | 2025-11-24 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium (2025)</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
 | **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Training Framework](https://arxiv.org/abs/2509.20923v2)** | 2025-12-03 | 24 pages, 6 figures |
 | **[Increasing Information Extraction in Low-Signal Regimes via Multiple Instance Learning](https://arxiv.org/abs/2508.07114v2)** | 2025-12-02 | <details><summary>Refer...</summary><p>Referenced prior work to better frame the contribution</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[SafeMIL: Learning Offline Safe Imitation Policy from Non-Preferred Trajectories](https://arxiv.org/abs/2511.08136v2)** | 2025-11-14 | <details><summary>18 pa...</summary><p>18 pages, Accepted at AAAI 2026</p></details> |
 | **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
 | **[Text-guided Weakly Supervised Framework for Dynamic Facial Expression Recognition](https://arxiv.org/abs/2511.10958v1)** | 2025-11-14 |  |
-| **[Histology-informed tiling of whole tissue sections improves the interpretability and predictability of cancer relapse and genetic alterations](https://arxiv.org/abs/2511.10432v1)** | 2025-11-13 | 26 pages, 6 figures |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
