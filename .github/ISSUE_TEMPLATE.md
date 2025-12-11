@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 10, 2025
+title: Latest 20 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,8 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathCo-LatticE: Pathology-Constrained Lattice-Of Experts Framework for Fully-supervised Few-Shot Cardiac MRI Segmentation](https://arxiv.org/abs/2512.09779v1)** | 2025-12-10 |  |
+| **[Beyond the Failures: Rethinking Foundation Models in Pathology](https://arxiv.org/abs/2510.23807v4)** | 2025-12-10 |  |
 | **[Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration](https://arxiv.org/abs/2506.10573v2)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Journal of Biomedical and Health Informatics (JBHI).Code: https://github.com/Markin-Wang/PLACE</p></details> |
 | **[Learning Relative Gene Expression Trends from Pathology Images in Spatial Transcriptomics](https://arxiv.org/abs/2512.06612v1)** | 2025-12-07 | Neurips 2025 |
 | **[MetaChest: Generalized few-shot learning of pathologies from chest X-rays](https://arxiv.org/abs/2509.25590v2)** | 2025-12-07 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Beyond Diagnosis: Evaluating Multimodal LLMs for Pathology Localization in Chest Radiographs](https://arxiv.org/abs/2509.18015v2)** | 2025-11-19 | <details><summary>Proce...</summary><p>Proceedings of the 5th Machine Learning for Health (ML4H) Symposium</p></details> |
 | **[Seizure-NGCLNet: Representation Learning of SEEG Spatial Pathological Patterns for Epileptic Seizure Detection via Node-Graph Dual Contrastive Learning](https://arxiv.org/abs/2512.02028v1)** | 2025-11-19 |  |
 | **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v1)** | 2025-11-18 | <details><summary>A con...</summary><p>A conceptual evaluation work; more studies are in progress; examples are here (https://github.com/Luoxd1996/nnMIL)</p></details> |
-| **[Explaining Digital Pathology Models via Clustering Activations](https://arxiv.org/abs/2511.14558v1)** | 2025-11-18 |  |
-| **[Beyond H&E: Unlocking Pathological Insights with Polarization Imaging](https://arxiv.org/abs/2503.05933v2)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted as a regular paper at IEEE BIBM 2025</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
