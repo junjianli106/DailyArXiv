@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 14, 2025
+title: Latest 20 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weak-to-Strong Generalization Enables Fully Automated De Novo Training of Multi-head Mask-RCNN Model for Segmenting Densely Overlapping Cell Nuclei in Multiplex Whole-slice Brain Images](https://arxiv.org/abs/2512.11722v1)** | 2025-12-12 |  |
+| **[Multimodal Learning for Scalable Representation of High-Dimensional Medical Data](https://arxiv.org/abs/2409.13115v2)** | 2025-12-12 |  |
+| **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](https://arxiv.org/abs/2510.11344v2)** | 2025-12-12 | <details><summary>Recei...</summary><p>Received Best Paper Award at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
+| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Information-driven Fusion of Pathology Foundation Models for Enhanced Disease Characterization](https://arxiv.org/abs/2512.11104v1)** | 2025-12-11 | 29 Pages, 10 figures |
 | **[Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading](https://arxiv.org/abs/2512.10808v1)** | 2025-12-11 | <details><summary>Inter...</summary><p>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2025</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
@@ -22,15 +27,15 @@ labels: documentation
 | **[Domain-Specific Foundation Model Improves AI-Based Analysis of Neuropathology](https://arxiv.org/abs/2512.05993v1)** | 2025-11-30 |  |
 | **[Autonomous labeling of surgical resection margins using a foundation model](https://arxiv.org/abs/2511.22131v1)** | 2025-11-27 | 20 Pages, 5 Figures |
 | **[Histomorphology-Guided Prototypical Multi-Instance Learning for Breast Cancer WSI Classification](https://arxiv.org/abs/2503.17983v2)** | 2025-11-27 | 11 pages,8 figures |
-| **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](https://arxiv.org/abs/2506.00096v3)** | 2025-11-27 | <details><summary>Withd...</summary><p>Withdrawn due to issues related to data permissions/ethics</p></details> |
-| **[Interpretable Multimodal Cancer Prototyping with Whole Slide Images and Incompletely Paired Genomics](https://arxiv.org/abs/2511.21937v1)** | 2025-11-26 |  |
-| **[PathReasoning: A multimodal reasoning agent for query-based ROI navigation on whole-slide images](https://arxiv.org/abs/2511.21902v1)** | 2025-11-26 |  |
-| **[Automated Histopathologic Assessment of Hirschsprung Disease Using a Multi-Stage Vision Transformer Framework](https://arxiv.org/abs/2511.20734v1)** | 2025-11-25 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 6 tables</p></details> |
-| **[Patch-Level Glioblastoma Subregion Classification with a Contrastive Learning-Based Encoder](https://arxiv.org/abs/2511.20221v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by the International Brain Tumor Segmentation (BraTS) challenge organized at MICCAI 2025 conference</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weak-to-Strong Generalization Enables Fully Automated De Novo Training of Multi-head Mask-RCNN Model for Segmenting Densely Overlapping Cell Nuclei in Multiplex Whole-slice Brain Images](https://arxiv.org/abs/2512.11722v1)** | 2025-12-12 |  |
+| **[Multimodal Learning for Scalable Representation of High-Dimensional Medical Data](https://arxiv.org/abs/2409.13115v2)** | 2025-12-12 |  |
+| **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](https://arxiv.org/abs/2510.11344v2)** | 2025-12-12 | <details><summary>Recei...</summary><p>Received Best Paper Award at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
+| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
+| **[Information-driven Fusion of Pathology Foundation Models for Enhanced Disease Characterization](https://arxiv.org/abs/2512.11104v1)** | 2025-12-11 | 29 Pages, 10 figures |
 | **[Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading](https://arxiv.org/abs/2512.10808v1)** | 2025-12-11 | <details><summary>Inter...</summary><p>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2025</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
@@ -46,15 +51,12 @@ labels: documentation
 | **[Domain-Specific Foundation Model Improves AI-Based Analysis of Neuropathology](https://arxiv.org/abs/2512.05993v1)** | 2025-11-30 |  |
 | **[Autonomous labeling of surgical resection margins using a foundation model](https://arxiv.org/abs/2511.22131v1)** | 2025-11-27 | 20 Pages, 5 Figures |
 | **[Histomorphology-Guided Prototypical Multi-Instance Learning for Breast Cancer WSI Classification](https://arxiv.org/abs/2503.17983v2)** | 2025-11-27 | 11 pages,8 figures |
-| **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](https://arxiv.org/abs/2506.00096v3)** | 2025-11-27 | <details><summary>Withd...</summary><p>Withdrawn due to issues related to data permissions/ethics</p></details> |
-| **[Interpretable Multimodal Cancer Prototyping with Whole Slide Images and Incompletely Paired Genomics](https://arxiv.org/abs/2511.21937v1)** | 2025-11-26 |  |
-| **[PathReasoning: A multimodal reasoning agent for query-based ROI navigation on whole-slide images](https://arxiv.org/abs/2511.21902v1)** | 2025-11-26 |  |
-| **[Automated Histopathologic Assessment of Hirschsprung Disease Using a Multi-Stage Vision Transformer Framework](https://arxiv.org/abs/2511.20734v1)** | 2025-11-25 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 6 tables</p></details> |
-| **[Patch-Level Glioblastoma Subregion Classification with a Contrastive Learning-Based Encoder](https://arxiv.org/abs/2511.20221v1)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted by the International Brain Tumor Segmentation (BraTS) challenge organized at MICCAI 2025 conference</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Information-driven Fusion of Pathology Foundation Models for Enhanced Disease Characterization](https://arxiv.org/abs/2512.11104v1)** | 2025-12-11 | 29 Pages, 10 figures |
+| **[Synthetic Vasculature and Pathology Enhance Vision-Language Model Reasoning](https://arxiv.org/abs/2512.11060v1)** | 2025-12-11 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, 6 tables. Full paper under review for MIDL 2026 (Medical Imaging with Deep Learning)</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
 | **[Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations](https://arxiv.org/abs/2505.21356v4)** | 2025-12-11 |  |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
@@ -73,12 +75,11 @@ labels: documentation
 | **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v1)** | 2025-11-24 |  |
 | **[Leveraging Adversarial Learning for Pathological Fidelity in Virtual Staining](https://arxiv.org/abs/2511.18946v1)** | 2025-11-24 |  |
 | **[Exploring the added value of pretherapeutic MR descriptors in predicting breast cancer pathologic complete response to neoadjuvant chemotherapy](https://arxiv.org/abs/2511.17158v1)** | 2025-11-21 |  |
-| **[TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://arxiv.org/abs/2511.17652v1)** | 2025-11-20 | 35 pages, 6 figures |
-| **[Fusion of Multi-scale Heterogeneous Pathology Foundation Models for Whole Slide Image Analysis](https://arxiv.org/abs/2510.27237v2)** | 2025-11-20 | 22 pages, 9 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
 | **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
 | **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Evaluating Multiple Instance Learning Strategies for Automated Sebocyte Droplet Counting](https://arxiv.org/abs/2509.04895v2)** | 2025-11-15 | <details><summary>11 pa...</summary><p>11 pages, 3 figure, 2 tables</p></details> |
 | **[The Trilemma of Truth in Large Language Models](https://arxiv.org/abs/2506.23921v4)** | 2025-11-14 | <details><summary>Camer...</summary><p>Camera-ready (non-archival) version accepted at the Mechanistic Interpretability Workshop at NeurIPS 2025. The main text is 10 pages long (plus 3 pages of references); supplementary material (58 pages) is included in the same PDF</p></details> |
 | **[SafeMIL: Learning Offline Safe Imitation Policy from Non-Preferred Trajectories](https://arxiv.org/abs/2511.08136v2)** | 2025-11-14 | <details><summary>18 pa...</summary><p>18 pages, Accepted at AAAI 2026</p></details> |
-| **[MeCaMIL: Causality-Aware Multiple Instance Learning for Fair and Interpretable Whole Slide Image Diagnosis](https://arxiv.org/abs/2511.11004v1)** | 2025-11-14 | <details><summary>15pag...</summary><p>15page,5 figures,8 tables</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
