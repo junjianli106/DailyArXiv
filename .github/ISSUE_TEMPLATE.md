@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 17, 2025
+title: Latest 20 Papers - December 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
+| **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
 | **[Renal Cell Carcinoma subtyping: learning from multi-resolution localization](https://arxiv.org/abs/2411.09471v2)** | 2025-12-16 |  |
 | **[IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images](https://arxiv.org/abs/2512.13440v1)** | 2025-12-15 |  |
 | **[Automated Histopathologic Assessment of Hirschsprung Disease Using a Multi-Stage Vision Transformer Framework](https://arxiv.org/abs/2511.20734v2)** | 2025-12-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 3 tables</p></details> |
@@ -25,13 +27,13 @@ labels: documentation
 | **[From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](https://arxiv.org/abs/2408.09449v3)** | 2025-12-05 |  |
 | **[OnSight Pathology: A real-time platform-agnostic computational pathology companion for histopathology](https://arxiv.org/abs/2512.04187v1)** | 2025-12-03 |  |
 | **[Prostate biopsy whole slide image dataset from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v1)** | 2025-12-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
-| **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
-| **[PixCell: A generative foundation model for digital histopathology images](https://arxiv.org/abs/2506.05127v2)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page - https://histodiffusion.github.io/docs/projects/pixcell</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
+| **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
 | **[Renal Cell Carcinoma subtyping: learning from multi-resolution localization](https://arxiv.org/abs/2411.09471v2)** | 2025-12-16 |  |
 | **[IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images](https://arxiv.org/abs/2512.13440v1)** | 2025-12-15 |  |
 | **[Automated Histopathologic Assessment of Hirschsprung Disease Using a Multi-Stage Vision Transformer Framework](https://arxiv.org/abs/2511.20734v2)** | 2025-12-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 3 tables</p></details> |
@@ -49,14 +51,13 @@ labels: documentation
 | **[From Correlation to Causation: Max-Pooling-Based Multi-Instance Learning Leads to More Robust Whole Slide Image Classification](https://arxiv.org/abs/2408.09449v3)** | 2025-12-05 |  |
 | **[OnSight Pathology: A real-time platform-agnostic computational pathology companion for histopathology](https://arxiv.org/abs/2512.04187v1)** | 2025-12-03 |  |
 | **[Prostate biopsy whole slide image dataset from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v1)** | 2025-12-03 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
-| **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
-| **[PixCell: A generative foundation model for digital histopathology images](https://arxiv.org/abs/2506.05127v2)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project page - https://histodiffusion.github.io/docs/projects/pixcell</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis](https://arxiv.org/abs/2512.13164v2)** | 2025-12-16 | <details><summary>68 pa...</summary><p>68 pages, 9 figures, 16 tables</p></details> |
 | **[EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment](https://arxiv.org/abs/2512.14019v1)** | 2025-12-16 |  |
+| **[Multiscale Cross-Modal Mapping of Molecular, Pathologic, and Radiologic Phenotypes in Lipid-Deficient Clear Cell Renal CellCarcinoma](https://arxiv.org/abs/2512.14750v1)** | 2025-12-13 |  |
 | **[Information-driven Fusion of Pathology Foundation Models for Enhanced Disease Characterization](https://arxiv.org/abs/2512.11104v1)** | 2025-12-11 | 29 Pages, 10 figures |
 | **[Synthetic Vasculature and Pathology Enhance Vision-Language Model Reasoning](https://arxiv.org/abs/2512.11060v1)** | 2025-12-11 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, 6 tables. Full paper under review for MIDL 2026 (Medical Imaging with Deep Learning)</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Training Framework](https://arxiv.org/abs/2509.20923v2)** | 2025-12-03 | 24 pages, 6 figures |
 | **[USB: Unified Synthetic Brain Framework for Bidirectional Pathology-Healthy Generation and Editing](https://arxiv.org/abs/2512.00269v1)** | 2025-11-29 | 16 pages, 17 figures |
 | **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v1)** | 2025-11-28 |  |
-| **[Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis](https://arxiv.org/abs/2511.22033v1)** | 2025-11-27 | ACMMM 2025 |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
