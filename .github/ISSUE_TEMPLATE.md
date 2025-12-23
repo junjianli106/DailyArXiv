@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 22, 2025
+title: Latest 20 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
+| **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
+| **[Weakly Supervised Segmentation and Classification of Alpha-Synuclein Aggregates in Brightfield Midbrain Images](https://arxiv.org/abs/2511.16268v2)** | 2025-12-19 |  |
 | **[MambaMIL+: Modeling Long-Term Contextual Patterns for Gigapixel Whole Slide Image](https://arxiv.org/abs/2512.17726v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 11 figures, 10 tables</p></details> |
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
 | **[Democratizing Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v1)** | 2025-12-19 | 10 pages, 4 figures |
@@ -24,13 +27,13 @@ labels: documentation
 | **[Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading](https://arxiv.org/abs/2512.10808v1)** | 2025-12-11 | <details><summary>Inter...</summary><p>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2025</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
-| **[MPath: Multimodal Pathology Report Generation from Whole Slide Images](https://arxiv.org/abs/2512.11906v1)** | 2025-12-10 | <details><summary>Pages...</summary><p>Pages 4, Figures 1, Table 1</p></details> |
-| **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
-| **[When normalization hallucinates: unseen risks in AI-powered whole slide image processing](https://arxiv.org/abs/2512.07426v1)** | 2025-12-08 | <details><summary>4 pag...</summary><p>4 pages, accepted for oral presentation at SPIE Medical Imaging, 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
+| **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
+| **[Weakly Supervised Segmentation and Classification of Alpha-Synuclein Aggregates in Brightfield Midbrain Images](https://arxiv.org/abs/2511.16268v2)** | 2025-12-19 |  |
 | **[MambaMIL+: Modeling Long-Term Contextual Patterns for Gigapixel Whole Slide Image](https://arxiv.org/abs/2512.17726v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 11 figures, 10 tables</p></details> |
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
 | **[Democratizing Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v1)** | 2025-12-19 | 10 pages, 4 figures |
@@ -48,9 +51,6 @@ labels: documentation
 | **[Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading](https://arxiv.org/abs/2512.10808v1)** | 2025-12-11 | <details><summary>Inter...</summary><p>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2025</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
-| **[MPath: Multimodal Pathology Report Generation from Whole Slide Images](https://arxiv.org/abs/2512.11906v1)** | 2025-12-10 | <details><summary>Pages...</summary><p>Pages 4, Figures 1, Table 1</p></details> |
-| **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
-| **[When normalization hallucinates: unseen risks in AI-powered whole slide image processing](https://arxiv.org/abs/2512.07426v1)** | 2025-12-08 | <details><summary>4 pag...</summary><p>4 pages, accepted for oral presentation at SPIE Medical Imaging, 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,8 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
+| **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
 | **[MambaMIL+: Modeling Long-Term Contextual Patterns for Gigapixel Whole Slide Image](https://arxiv.org/abs/2512.17726v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 11 figures, 10 tables</p></details> |
 | **[PathBench-MIL: A Comprehensive AutoML and Benchmarking Framework for Multiple Instance Learning in Histopathology](https://arxiv.org/abs/2512.17517v1)** | 2025-12-19 | <details><summary>14 Pa...</summary><p>14 Pages, 3 Figures, 2 Appendices</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
@@ -97,8 +99,6 @@ labels: documentation
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
 | **[A Vector Symbolic Approach to Multiple Instance Learning](https://arxiv.org/abs/2511.16795v1)** | 2025-11-20 |  |
 | **[Deep Pathomic Learning Defines Prognostic Subtypes and Molecular Drivers in Colorectal Cancer](https://arxiv.org/abs/2511.15067v1)** | 2025-11-19 |  |
-| **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v1)** | 2025-11-18 | <details><summary>A con...</summary><p>A conceptual evaluation work; more studies are in progress; examples are here (https://github.com/Luoxd1996/nnMIL)</p></details> |
-| **[GMAT: Grounded Multi-Agent Clinical Description Generation for Text Encoder in Vision-Language MIL for Whole Slide Image Classification](https://arxiv.org/abs/2508.01293v2)** | 2025-11-18 | <details><summary>Accce...</summary><p>Acccepted in MICCAI Workshop 2025</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
