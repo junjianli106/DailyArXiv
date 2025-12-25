@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 24, 2025
+title: Latest 20 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v1)** | 2025-12-24 |  |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
 | **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
 | **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](https://arxiv.org/abs/2510.11344v2)** | 2025-12-12 | <details><summary>Recei...</summary><p>Received Best Paper Award at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Information-driven Fusion of Pathology Foundation Models for Enhanced Disease Characterization](https://arxiv.org/abs/2512.11104v1)** | 2025-12-11 | 29 Pages, 10 figures |
-| **[Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading](https://arxiv.org/abs/2512.10808v1)** | 2025-12-11 | <details><summary>Inter...</summary><p>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2025</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v1)** | 2025-12-24 |  |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
 | **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
 | **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[MMAP: A Multi-Magnification and Prototype-Aware Architecture for Predicting Spatial Gene Expression](https://arxiv.org/abs/2510.11344v2)** | 2025-12-12 | <details><summary>Recei...</summary><p>Received Best Paper Award at the 2025 Pacific Rim International Conference on Artificial Intelligence (PRICAI 2025)</p></details> |
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Information-driven Fusion of Pathology Foundation Models for Enhanced Disease Characterization](https://arxiv.org/abs/2512.11104v1)** | 2025-12-11 | 29 Pages, 10 figures |
-| **[Graph Laplacian Transformer with Progressive Sampling for Prostate Cancer Grading](https://arxiv.org/abs/2512.10808v1)** | 2025-12-11 | <details><summary>Inter...</summary><p>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2025</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
 | **[Validation of Diagnostic Artificial Intelligence Models for Prostate Pathology in a Middle Eastern Cohort](https://arxiv.org/abs/2512.17499v1)** | 2025-12-19 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, 11 tables</p></details> |
 | **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](https://arxiv.org/abs/2510.11176v2)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted in AAAI 2024 workshop in Health Intelligence Special Theme on Foundation Models and AI Agents</p></details> |
@@ -74,11 +75,11 @@ labels: documentation
 | **[Beyond the Failures: Rethinking Foundation Models in Pathology](https://arxiv.org/abs/2510.23807v4)** | 2025-12-10 |  |
 | **[Improving Medical Visual Representation Learning with Pathological-level Cross-Modal Alignment and Correlation Exploration](https://arxiv.org/abs/2506.10573v2)** | 2025-12-07 | <details><summary>Accep...</summary><p>Accepted to IEEE Journal of Biomedical and Health Informatics (JBHI).Code: https://github.com/Markin-Wang/PLACE</p></details> |
 | **[Learning Relative Gene Expression Trends from Pathology Images in Spatial Transcriptomics](https://arxiv.org/abs/2512.06612v1)** | 2025-12-07 | Neurips 2025 |
-| **[MetaChest: Generalized few-shot learning of pathologies from chest X-rays](https://arxiv.org/abs/2509.25590v2)** | 2025-12-07 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Diagnose Like A REAL Pathologist: An Uncertainty-Focused Approach for Trustworthy Multi-Resolution Multiple Instance Learning](https://arxiv.org/abs/2511.06433v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
 | **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
 | **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](https://arxiv.org/abs/2506.00096v3)** | 2025-11-27 | <details><summary>Withd...</summary><p>Withdrawn due to issues related to data permissions/ethics</p></details> |
 | **[Adaptive Hopfield Network: Rethinking Similarities in Associative Memory](https://arxiv.org/abs/2511.20609v1)** | 2025-11-25 |  |
 | **[PSA-MIL: A Probabilistic Spatial Attention-Based Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2503.16284v2)** | 2025-11-23 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026</p></details> |
-| **[A Vector Symbolic Approach to Multiple Instance Learning](https://arxiv.org/abs/2511.16795v1)** | 2025-11-20 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
