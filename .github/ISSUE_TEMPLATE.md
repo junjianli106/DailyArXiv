@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - December 31, 2025
+title: Latest 20 Papers - January 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology Context Recalibration Network for Ocular Disease Recognition](https://arxiv.org/abs/2512.24066v1)** | 2025-12-30 | <details><summary>The a...</summary><p>The article has been accepted for publication at Machine Intelligence Research (MIR)</p></details> |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
 | **[PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion](https://arxiv.org/abs/2512.23130v1)** | 2025-12-29 |  |
 | **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations](https://arxiv.org/abs/2505.21356v4)** | 2025-12-11 |  |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
 | **[Unifying Multiple Foundation Models for Advanced Computational Pathology](https://arxiv.org/abs/2503.00736v3)** | 2025-12-11 | 37 pages, 5 figures |
-| **[MPath: Multimodal Pathology Report Generation from Whole Slide Images](https://arxiv.org/abs/2512.11906v1)** | 2025-12-10 | <details><summary>Pages...</summary><p>Pages 4, Figures 1, Table 1</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
