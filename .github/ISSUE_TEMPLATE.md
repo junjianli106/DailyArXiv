@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 04, 2026
+title: Latest 20 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,8 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Detecting Performance Degradation under Data Shift in Pathology Vision-Language Model](https://arxiv.org/abs/2601.00716v1)** | 2026-01-02 | 8 pages, 6 figures |
+| **[Real-Time Forecasting of Pathological Gait via IMU Navigation: A Few-Shot and Generative Learning Framework for Wearable Devices](https://arxiv.org/abs/2405.09569v2)** | 2026-01-02 |  |
 | **[Pathology Context Recalibration Network for Ocular Disease Recognition](https://arxiv.org/abs/2512.24066v1)** | 2025-12-30 | <details><summary>The a...</summary><p>The article has been accepted for publication at Machine Intelligence Research (MIR)</p></details> |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
 | **[PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion](https://arxiv.org/abs/2512.23130v1)** | 2025-12-29 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Synthetic Vasculature and Pathology Enhance Vision-Language Model Reasoning](https://arxiv.org/abs/2512.11060v1)** | 2025-12-11 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, 6 tables. Full paper under review for MIDL 2026 (Medical Imaging with Deep Learning)</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
 | **[Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations](https://arxiv.org/abs/2505.21356v4)** | 2025-12-11 |  |
-| **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
-| **[Unifying Multiple Foundation Models for Advanced Computational Pathology](https://arxiv.org/abs/2503.00736v3)** | 2025-12-11 | 37 pages, 5 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adapting Natural Language Processing Models Across Jurisdictions: A pilot Study in Canadian Cancer Registries](https://arxiv.org/abs/2601.00787v1)** | 2026-01-02 |  |
 | **[MPath: Multimodal Pathology Report Generation from Whole Slide Images](https://arxiv.org/abs/2512.11906v1)** | 2025-12-10 | <details><summary>Pages...</summary><p>Pages 4, Figures 1, Table 1</p></details> |
 | **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](https://arxiv.org/abs/2504.16181v5)** | 2025-11-25 |  |
 | **[Multimodal Cancer Modeling in the Age of Foundation Model Embeddings](https://arxiv.org/abs/2505.07683v3)** | 2025-11-06 | <details><summary>camer...</summary><p>camera ready version for ML4H 2025</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis](https://arxiv.org/abs/2506.02229v1)** | 2025-06-02 | <details><summary>Proce...</summary><p>Proceedings of the 9th International Workshop on Health Intelligence, in conjunction with the Annual AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, March 2025</p></details> |
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](https://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
 | **[Global explainability of a deep abstaining classifier](https://arxiv.org/abs/2504.01202v1)** | 2025-04-01 |  |
-| **[CancerLLM: A Large Language Model in Cancer Domain](https://arxiv.org/abs/2406.10459v3)** | 2025-04-01 | <details><summary>new v...</summary><p>new version, add the RAG version of cancerLLM</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
