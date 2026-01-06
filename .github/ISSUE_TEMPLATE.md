@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 05, 2026
+title: Latest 20 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,10 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mind the Gap: Continuous Magnification Sampling for Pathology Foundation Models](https://arxiv.org/abs/2601.02198v1)** | 2026-01-05 |  |
+| **[Toward Auditable Neuro-Symbolic Reasoning in Pathology: SQL as an Explicit Trace of Evidence](https://arxiv.org/abs/2601.01875v1)** | 2026-01-05 |  |
+| **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](https://arxiv.org/abs/2510.11176v3)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 workshop in Health Intelligence Special Theme on Foundation Models and AI Agents</p></details> |
+| **[CTIS-QA: Clinical Template-Informed Slide-level Question Answering for Pathology](https://arxiv.org/abs/2601.01769v1)** | 2026-01-05 | <details><summary>The p...</summary><p>The paper has been accepted by BIBM 2025</p></details> |
 | **[Detecting Performance Degradation under Data Shift in Pathology Vision-Language Model](https://arxiv.org/abs/2601.00716v1)** | 2026-01-02 | 8 pages, 6 figures |
 | **[Real-Time Forecasting of Pathological Gait via IMU Navigation: A Few-Shot and Generative Learning Framework for Wearable Devices](https://arxiv.org/abs/2405.09569v2)** | 2026-01-02 |  |
 | **[Pathology Context Recalibration Network for Ocular Disease Recognition](https://arxiv.org/abs/2512.24066v1)** | 2025-12-30 | <details><summary>The a...</summary><p>The article has been accepted for publication at Machine Intelligence Research (MIR)</p></details> |
@@ -65,16 +69,12 @@ labels: documentation
 | **[HookMIL: Revisiting Context Modeling in Multiple Instance Learning for Computational Pathology](https://arxiv.org/abs/2512.22188v1)** | 2025-12-20 |  |
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
 | **[Validation of Diagnostic Artificial Intelligence Models for Prostate Pathology in a Middle Eastern Cohort](https://arxiv.org/abs/2512.17499v1)** | 2025-12-19 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, 11 tables</p></details> |
-| **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](https://arxiv.org/abs/2510.11176v2)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted in AAAI 2024 workshop in Health Intelligence Special Theme on Foundation Models and AI Agents</p></details> |
 | **[CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies](https://arxiv.org/abs/2512.16700v1)** | 2025-12-18 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, submitted to Medical Image Analysis</p></details> |
 | **[Pathological Cases for a Class of Reachability-Based Garbage Collectors](https://arxiv.org/abs/2504.11654v2)** | 2025-12-17 | <details><summary>OOPSL...</summary><p>OOPSLA 2025. This version corrects misuse of connectedness vs. reachability terminology</p></details> |
 | **[A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis](https://arxiv.org/abs/2512.13164v2)** | 2025-12-16 | <details><summary>68 pa...</summary><p>68 pages, 9 figures, 16 tables</p></details> |
 | **[EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment](https://arxiv.org/abs/2512.14019v1)** | 2025-12-16 |  |
 | **[Multiscale Cross-Modal Mapping of Molecular, Pathologic, and Radiologic Phenotypes in Lipid-Deficient Clear Cell Renal CellCarcinoma](https://arxiv.org/abs/2512.14750v1)** | 2025-12-13 |  |
 | **[Information-driven Fusion of Pathology Foundation Models for Enhanced Disease Characterization](https://arxiv.org/abs/2512.11104v1)** | 2025-12-11 | 29 Pages, 10 figures |
-| **[Synthetic Vasculature and Pathology Enhance Vision-Language Model Reasoning](https://arxiv.org/abs/2512.11060v1)** | 2025-12-11 | <details><summary>23 pa...</summary><p>23 pages, 8 figures, 6 tables. Full paper under review for MIDL 2026 (Medical Imaging with Deep Learning)</p></details> |
-| **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v2)** | 2025-12-11 | 20 pages |
-| **[Towards Robust Assessment of Pathological Voices via Combined Low-Level Descriptors and Foundation Model Representations](https://arxiv.org/abs/2505.21356v4)** | 2025-12-11 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CTIS-QA: Clinical Template-Informed Slide-level Question Answering for Pathology](https://arxiv.org/abs/2601.01769v1)** | 2026-01-05 | <details><summary>The p...</summary><p>The paper has been accepted by BIBM 2025</p></details> |
 | **[Adapting Natural Language Processing Models Across Jurisdictions: A pilot Study in Canadian Cancer Registries](https://arxiv.org/abs/2601.00787v1)** | 2026-01-02 |  |
 | **[MPath: Multimodal Pathology Report Generation from Whole Slide Images](https://arxiv.org/abs/2512.11906v1)** | 2025-12-10 | <details><summary>Pages...</summary><p>Pages 4, Figures 1, Table 1</p></details> |
 | **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](https://arxiv.org/abs/2504.16181v5)** | 2025-11-25 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](https://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
 | **[VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis](https://arxiv.org/abs/2506.02229v1)** | 2025-06-02 | <details><summary>Proce...</summary><p>Proceedings of the 9th International Workshop on Health Intelligence, in conjunction with the Annual AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, March 2025</p></details> |
 | **[Any-to-Any Learning in Computational Pathology via Triplet Multimodal Pretraining](https://arxiv.org/abs/2505.12711v2)** | 2025-05-20 |  |
-| **[Global explainability of a deep abstaining classifier](https://arxiv.org/abs/2504.01202v1)** | 2025-04-01 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
