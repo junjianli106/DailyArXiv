@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 07, 2026
+title: Latest 20 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images](https://arxiv.org/abs/2601.03163v1)** | 2026-01-06 |  |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v1)** | 2026-01-05 | 8 pages, 4 figures |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
 | **[Renal Cell Carcinoma subtyping: learning from multi-resolution localization](https://arxiv.org/abs/2411.09471v2)** | 2025-12-16 |  |
 | **[IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images](https://arxiv.org/abs/2512.13440v1)** | 2025-12-15 |  |
-| **[Automated Histopathologic Assessment of Hirschsprung Disease Using a Multi-Stage Vision Transformer Framework](https://arxiv.org/abs/2511.20734v2)** | 2025-12-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 3 tables</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images](https://arxiv.org/abs/2601.03163v1)** | 2026-01-06 |  |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v1)** | 2026-01-05 | 8 pages, 4 figures |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
 | **[Renal Cell Carcinoma subtyping: learning from multi-resolution localization](https://arxiv.org/abs/2411.09471v2)** | 2025-12-16 |  |
 | **[IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images](https://arxiv.org/abs/2512.13440v1)** | 2025-12-15 |  |
-| **[Automated Histopathologic Assessment of Hirschsprung Disease Using a Multi-Stage Vision Transformer Framework](https://arxiv.org/abs/2511.20734v2)** | 2025-12-12 | <details><summary>14 pa...</summary><p>14 pages, 10 figures, 3 tables</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[Topology-aware Pathological Consistency Matching for Weakly-Paired IHC Virtual Staining](https://arxiv.org/abs/2601.02806v1)** | 2026-01-06 |  |
 | **[Mind the Gap: Continuous Magnification Sampling for Pathology Foundation Models](https://arxiv.org/abs/2601.02198v1)** | 2026-01-05 |  |
 | **[Toward Auditable Neuro-Symbolic Reasoning in Pathology: SQL as an Explicit Trace of Evidence](https://arxiv.org/abs/2601.01875v1)** | 2026-01-05 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Pathological Cases for a Class of Reachability-Based Garbage Collectors](https://arxiv.org/abs/2504.11654v2)** | 2025-12-17 | <details><summary>OOPSL...</summary><p>OOPSLA 2025. This version corrects misuse of connectedness vs. reachability terminology</p></details> |
 | **[A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis](https://arxiv.org/abs/2512.13164v2)** | 2025-12-16 | <details><summary>68 pa...</summary><p>68 pages, 9 figures, 16 tables</p></details> |
 | **[EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment](https://arxiv.org/abs/2512.14019v1)** | 2025-12-16 |  |
-| **[Multiscale Cross-Modal Mapping of Molecular, Pathologic, and Radiologic Phenotypes in Lipid-Deficient Clear Cell Renal CellCarcinoma](https://arxiv.org/abs/2512.14750v1)** | 2025-12-13 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
