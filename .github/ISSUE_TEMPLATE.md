@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 11, 2026
+title: Latest 20 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images](https://arxiv.org/abs/2601.03163v1)** | 2026-01-06 |  |
-| **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v1)** | 2026-01-05 | 8 pages, 4 figures |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
 | **[Feature Learning with Multi-Stage Vision Transformers on Inter-Modality HER2 Status Scoring and Tumor Classification on Whole Slides](https://arxiv.org/abs/2512.22335v1)** | 2025-12-26 |  |
 | **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
@@ -31,10 +31,10 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images](https://arxiv.org/abs/2601.03163v1)** | 2026-01-06 |  |
-| **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v1)** | 2026-01-05 | 8 pages, 4 figures |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
 | **[Feature Learning with Multi-Stage Vision Transformers on Inter-Modality HER2 Status Scoring and Tumor Classification on Whole Slides](https://arxiv.org/abs/2512.22335v1)** | 2025-12-26 |  |
 | **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
