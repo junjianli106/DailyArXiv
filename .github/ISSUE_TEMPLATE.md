@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 12, 2026
+title: Latest 20 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
 | **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
-| **[Renal Cell Carcinoma subtyping: learning from multi-resolution localization](https://arxiv.org/abs/2411.09471v2)** | 2025-12-16 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
 | **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
-| **[Renal Cell Carcinoma subtyping: learning from multi-resolution localization](https://arxiv.org/abs/2411.09471v2)** | 2025-12-16 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Cross-Language Speaker Attribute Prediction Using MIL and RL](https://arxiv.org/abs/2601.04257v1)** | 2026-01-06 |  |
 | **[Diagnose Like A REAL Pathologist: An Uncertainty-Focused Approach for Trustworthy Multi-Resolution Multiple Instance Learning](https://arxiv.org/abs/2511.06433v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Training Framework](https://arxiv.org/abs/2509.20923v2)** | 2025-12-03 | 24 pages, 6 figures |
 | **[Increasing Information Extraction in Low-Signal Regimes via Multiple Instance Learning](https://arxiv.org/abs/2508.07114v2)** | 2025-12-02 | <details><summary>Refer...</summary><p>Referenced prior work to better frame the contribution</p></details> |
 | **[RECTor: Robust and Efficient Correlation Attack on Tor](https://arxiv.org/abs/2512.00436v1)** | 2025-11-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
-| **[PathGene: Benchmarking Driver Gene Mutations and Exon Prediction Using Multicenter Lung Cancer Histopathology Image Dataset](https://arxiv.org/abs/2506.00096v3)** | 2025-11-27 | <details><summary>Withd...</summary><p>Withdrawn due to issues related to data permissions/ethics</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
