@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 13, 2026
+title: Latest 20 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tissue Classification and Whole-Slide Images Analysis via Modeling of the Tumor Microenvironment and Biological Pathways](https://arxiv.org/abs/2601.08336v1)** | 2026-01-13 | <details><summary>19 pa...</summary><p>19 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Democratizing Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v1)** | 2025-12-19 | 10 pages, 4 figures |
 | **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
-| **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tissue Classification and Whole-Slide Images Analysis via Modeling of the Tumor Microenvironment and Biological Pathways](https://arxiv.org/abs/2601.08336v1)** | 2026-01-13 | <details><summary>19 pa...</summary><p>19 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
@@ -50,11 +51,12 @@ labels: documentation
 | **[Democratizing Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v1)** | 2025-12-19 | 10 pages, 4 figures |
 | **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
-| **[Magnification-Aware Distillation (MAD): A Self-Supervised Framework for Unified Representation Learning in Gigapixel Whole-Slide Images](https://arxiv.org/abs/2512.14796v1)** | 2025-12-16 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, submitted to AMIA 2026 Informatics Summit</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion](https://arxiv.org/abs/2512.23130v2)** | 2026-01-13 |  |
+| **[Joint Progression Modeling (JPM): A Probabilistic Framework for Mixed-Pathology Progression](https://arxiv.org/abs/2512.03475v2)** | 2026-01-13 | <details><summary>49 pa...</summary><p>49 pages; Machine Learning for Health (ML4H) Symposium 2025</p></details> |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[Topology-aware Pathological Consistency Matching for Weakly-Paired IHC Virtual Staining](https://arxiv.org/abs/2601.02806v1)** | 2026-01-06 |  |
 | **[Mind the Gap: Continuous Magnification Sampling for Pathology Foundation Models](https://arxiv.org/abs/2601.02198v1)** | 2026-01-05 |  |
@@ -65,7 +67,6 @@ labels: documentation
 | **[Real-Time Forecasting of Pathological Gait via IMU Navigation: A Few-Shot and Generative Learning Framework for Wearable Devices](https://arxiv.org/abs/2405.09569v2)** | 2026-01-02 |  |
 | **[Pathology Context Recalibration Network for Ocular Disease Recognition](https://arxiv.org/abs/2512.24066v1)** | 2025-12-30 | <details><summary>The a...</summary><p>The article has been accepted for publication at Machine Intelligence Research (MIR)</p></details> |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
-| **[PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion](https://arxiv.org/abs/2512.23130v1)** | 2025-12-29 |  |
 | **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
 | **[HOMIE: Histopathology Omni-modal Embedding for Pathology Composed Retrieval](https://arxiv.org/abs/2502.07221v3)** | 2025-12-21 |  |
 | **[HookMIL: Revisiting Context Modeling in Multiple Instance Learning for Computational Pathology](https://arxiv.org/abs/2512.22188v1)** | 2025-12-20 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies](https://arxiv.org/abs/2512.16700v1)** | 2025-12-18 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, submitted to Medical Image Analysis</p></details> |
 | **[Pathological Cases for a Class of Reachability-Based Garbage Collectors](https://arxiv.org/abs/2504.11654v2)** | 2025-12-17 | <details><summary>OOPSL...</summary><p>OOPSLA 2025. This version corrects misuse of connectedness vs. reachability terminology</p></details> |
 | **[A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis](https://arxiv.org/abs/2512.13164v2)** | 2025-12-16 | <details><summary>68 pa...</summary><p>68 pages, 9 figures, 16 tables</p></details> |
-| **[EXAONE Path 2.5: Pathology Foundation Model with Multi-Omics Alignment](https://arxiv.org/abs/2512.14019v1)** | 2025-12-16 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
