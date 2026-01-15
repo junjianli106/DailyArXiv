@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 14, 2026
+title: Latest 20 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[POWDR: Pathology-preserving Outpainting with Wavelet Diffusion for 3D MRI](https://arxiv.org/abs/2601.09044v1)** | 2026-01-14 |  |
 | **[PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion](https://arxiv.org/abs/2512.23130v2)** | 2026-01-13 |  |
 | **[Joint Progression Modeling (JPM): A Probabilistic Framework for Mixed-Pathology Progression](https://arxiv.org/abs/2512.03475v2)** | 2026-01-13 | <details><summary>49 pa...</summary><p>49 pages; Machine Learning for Health (ML4H) Symposium 2025</p></details> |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Validation of Diagnostic Artificial Intelligence Models for Prostate Pathology in a Middle Eastern Cohort](https://arxiv.org/abs/2512.17499v1)** | 2025-12-19 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, 11 tables</p></details> |
 | **[CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies](https://arxiv.org/abs/2512.16700v1)** | 2025-12-18 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, submitted to Medical Image Analysis</p></details> |
 | **[Pathological Cases for a Class of Reachability-Based Garbage Collectors](https://arxiv.org/abs/2504.11654v2)** | 2025-12-17 | <details><summary>OOPSL...</summary><p>OOPSLA 2025. This version corrects misuse of connectedness vs. reachability terminology</p></details> |
-| **[A Semantically Enhanced Generative Foundation Model Improves Pathological Image Synthesis](https://arxiv.org/abs/2512.13164v2)** | 2025-12-16 | <details><summary>68 pa...</summary><p>68 pages, 9 figures, 16 tables</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
