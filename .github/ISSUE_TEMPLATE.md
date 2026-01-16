@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 15, 2026
+title: Latest 20 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReaMIL: Reasoning- and Evidence-Aware Multiple Instance Learning for Whole-Slide Histopathology](https://arxiv.org/abs/2601.10073v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at LFMBio Workshop, WACV 2026. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Cross-Language Speaker Attribute Prediction Using MIL and RL](https://arxiv.org/abs/2601.04257v1)** | 2026-01-06 |  |
 | **[Diagnose Like A REAL Pathologist: An Uncertainty-Focused Approach for Trustworthy Multi-Resolution Multiple Instance Learning](https://arxiv.org/abs/2511.06433v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
 | **[Revisiting Data Challenges of Computational Pathology: A Pack-based Multiple Instance Learning Training Framework](https://arxiv.org/abs/2509.20923v2)** | 2025-12-03 | 24 pages, 6 figures |
 | **[Increasing Information Extraction in Low-Signal Regimes via Multiple Instance Learning](https://arxiv.org/abs/2508.07114v2)** | 2025-12-02 | <details><summary>Refer...</summary><p>Referenced prior work to better frame the contribution</p></details> |
-| **[RECTor: Robust and Efficient Correlation Attack on Tor](https://arxiv.org/abs/2512.00436v1)** | 2025-11-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
