@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 18, 2026
+title: Latest 20 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beer-Lambert Autoencoder for Unsupervised Stain Representation Learning and Deconvolution in Multi-immunohistochemical Brightfield Histology Images](https://arxiv.org/abs/2601.11336v1)** | 2026-01-16 |  |
 | **[Tissue Classification and Whole-Slide Images Analysis via Modeling of the Tumor Microenvironment and Biological Pathways](https://arxiv.org/abs/2601.08336v1)** | 2026-01-13 | <details><summary>19 pa...</summary><p>19 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
@@ -26,11 +27,11 @@ labels: documentation
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
 | **[Democratizing Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v1)** | 2025-12-19 | 10 pages, 4 figures |
 | **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
-| **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beer-Lambert Autoencoder for Unsupervised Stain Representation Learning and Deconvolution in Multi-immunohistochemical Brightfield Histology Images](https://arxiv.org/abs/2601.11336v1)** | 2026-01-16 |  |
 | **[Tissue Classification and Whole-Slide Images Analysis via Modeling of the Tumor Microenvironment and Biological Pathways](https://arxiv.org/abs/2601.08336v1)** | 2026-01-13 | <details><summary>19 pa...</summary><p>19 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v2)** | 2026-01-08 | 8 pages, 4 figures |
@@ -50,11 +51,11 @@ labels: documentation
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
 | **[Democratizing Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v1)** | 2025-12-19 | 10 pages, 4 figures |
 | **[PANDA-PLUS-Bench: A Clinical Benchmark for Evaluating Robustness of AI Foundation Models in Prostate Cancer Diagnosis](https://arxiv.org/abs/2512.14922v1)** | 2025-12-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 6 Tables</p></details> |
-| **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Meta-Learning Guided Pruning for Few-Shot Plant Pathology on Edge Devices](https://arxiv.org/abs/2601.02353v2)** | 2026-01-16 |  |
 | **[POWDR: Pathology-preserving Outpainting with Wavelet Diffusion for 3D MRI](https://arxiv.org/abs/2601.09044v1)** | 2026-01-14 |  |
 | **[PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion](https://arxiv.org/abs/2512.23130v2)** | 2026-01-13 |  |
 | **[Joint Progression Modeling (JPM): A Probabilistic Framework for Mixed-Pathology Progression](https://arxiv.org/abs/2512.03475v2)** | 2026-01-13 | <details><summary>49 pa...</summary><p>49 pages; Machine Learning for Health (ML4H) Symposium 2025</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v1)** | 2025-12-19 |  |
 | **[Validation of Diagnostic Artificial Intelligence Models for Prostate Pathology in a Middle Eastern Cohort](https://arxiv.org/abs/2512.17499v1)** | 2025-12-19 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, 11 tables</p></details> |
 | **[CLARiTy: A Vision Transformer for Multi-Label Classification and Weakly-Supervised Localization of Chest X-ray Pathologies](https://arxiv.org/abs/2512.16700v1)** | 2025-12-18 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, submitted to Medical Image Analysis</p></details> |
-| **[Pathological Cases for a Class of Reachability-Based Garbage Collectors](https://arxiv.org/abs/2504.11654v2)** | 2025-12-17 | <details><summary>OOPSL...</summary><p>OOPSLA 2025. This version corrects misuse of connectedness vs. reachability terminology</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
