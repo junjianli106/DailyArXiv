@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 22, 2026
+title: Latest 20 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PAINT: Pathology-Aware Integrated Next-Scale Transformation for Virtual Immunohistochemistry](https://arxiv.org/abs/2601.16024v1)** | 2026-01-22 |  |
 | **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v2)** | 2026-01-21 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
 | **[ReinPath: A Multimodal Reinforcement Learning Approach for Pathology](https://arxiv.org/abs/2601.14757v1)** | 2026-01-21 |  |
 | **[Enhanced Diagnostic Performance via Large-Resolution Inference Optimization for Pathology Foundation Models](https://arxiv.org/abs/2601.12150v1)** | 2026-01-17 | 8 pages |
@@ -74,11 +75,11 @@ labels: documentation
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
 | **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
 | **[HOMIE: Histopathology Omni-modal Embedding for Pathology Composed Retrieval](https://arxiv.org/abs/2502.07221v3)** | 2025-12-21 |  |
-| **[HookMIL: Revisiting Context Modeling in Multiple Instance Learning for Computational Pathology](https://arxiv.org/abs/2512.22188v1)** | 2025-12-20 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection](https://arxiv.org/abs/2601.15453v1)** | 2026-01-21 | 8 pages |
 | **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](https://arxiv.org/abs/2507.08711v2)** | 2026-01-17 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables. Accepted to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v1)** | 2026-01-16 |  |
 | **[ReaMIL: Reasoning- and Evidence-Aware Multiple Instance Learning for Whole-Slide Histopathology](https://arxiv.org/abs/2601.10073v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at LFMBio Workshop, WACV 2026. This work has been submitted to the IEEE for possible publication</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
 | **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
-| **[Cross-Stain Contrastive Learning for Paired Immunohistochemistry and Histopathology Slide Representation Learning](https://arxiv.org/abs/2512.03577v1)** | 2025-12-03 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Camera-ready version accepted for IEEE BIBM 2025</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
