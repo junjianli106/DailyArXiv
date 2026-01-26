@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 25, 2026
+title: Latest 20 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,8 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VISTA-PATH: An interactive foundation model for pathology image segmentation and quantitative analysis in computational pathology](https://arxiv.org/abs/2601.16451v1)** | 2026-01-23 |  |
+| **[Towards contrast- and pathology-agnostic clinical fetal brain MRI segmentation using SynthSeg](https://arxiv.org/abs/2504.10244v2)** | 2026-01-23 | 29 pages, 12 figures |
 | **[PAINT: Pathology-Aware Integrated Next-Scale Transformation for Virtual Immunohistochemistry](https://arxiv.org/abs/2601.16024v1)** | 2026-01-22 |  |
 | **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v2)** | 2026-01-21 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
 | **[ReinPath: A Multimodal Reinforcement Learning Approach for Pathology](https://arxiv.org/abs/2601.14757v1)** | 2026-01-21 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Real-Time Forecasting of Pathological Gait via IMU Navigation: A Few-Shot and Generative Learning Framework for Wearable Devices](https://arxiv.org/abs/2405.09569v2)** | 2026-01-02 |  |
 | **[Pathology Context Recalibration Network for Ocular Disease Recognition](https://arxiv.org/abs/2512.24066v1)** | 2025-12-30 | <details><summary>The a...</summary><p>The article has been accepted for publication at Machine Intelligence Research (MIR)</p></details> |
 | **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
-| **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v1)** | 2025-12-24 | <details><summary>32 pa...</summary><p>32 pages, 17 figures, and 6 tables</p></details> |
-| **[HOMIE: Histopathology Omni-modal Embedding for Pathology Composed Retrieval](https://arxiv.org/abs/2502.07221v3)** | 2025-12-21 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
