@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 27, 2026
+title: Latest 20 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v3)** | 2026-01-18 | 8 pages, 4 figures |
@@ -26,11 +27,11 @@ labels: documentation
 | **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
 | **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
 | **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
-| **[HookMIL: Revisiting Context Modeling in Multiple Instance Learning for Computational Pathology](https://arxiv.org/abs/2512.22188v1)** | 2025-12-20 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 | **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v3)** | 2026-01-18 | 8 pages, 4 figures |
@@ -50,11 +51,12 @@ labels: documentation
 | **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
 | **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
 | **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
-| **[HookMIL: Revisiting Context Modeling in Multiple Instance Learning for Computational Pathology](https://arxiv.org/abs/2512.22188v1)** | 2025-12-20 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v3)** | 2026-01-27 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
+| **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[A multimodal vision foundation model for generalizable knee pathology](https://arxiv.org/abs/2601.18250v1)** | 2026-01-26 |  |
 | **[HAAF: Hierarchical Adaptation and Alignment of Foundation Models for Few-Shot Pathology Anomaly Detection](https://arxiv.org/abs/2601.17405v1)** | 2026-01-24 |  |
@@ -62,7 +64,6 @@ labels: documentation
 | **[VISTA-PATH: An interactive foundation model for pathology image segmentation and quantitative analysis in computational pathology](https://arxiv.org/abs/2601.16451v1)** | 2026-01-23 |  |
 | **[Towards contrast- and pathology-agnostic clinical fetal brain MRI segmentation using SynthSeg](https://arxiv.org/abs/2504.10244v2)** | 2026-01-23 | 29 pages, 12 figures |
 | **[PAINT: Pathology-Aware Integrated Next-Scale Transformation for Virtual Immunohistochemistry](https://arxiv.org/abs/2601.16024v1)** | 2026-01-22 |  |
-| **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v2)** | 2026-01-21 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
 | **[ReinPath: A Multimodal Reinforcement Learning Approach for Pathology](https://arxiv.org/abs/2601.14757v1)** | 2026-01-21 |  |
 | **[Enhanced Diagnostic Performance via Large-Resolution Inference Optimization for Pathology Foundation Models](https://arxiv.org/abs/2601.12150v1)** | 2026-01-17 | 8 pages |
 | **[Meta-Learning Guided Pruning for Few-Shot Plant Pathology on Edge Devices](https://arxiv.org/abs/2601.02353v2)** | 2026-01-16 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Mind the Gap: Continuous Magnification Sampling for Pathology Foundation Models](https://arxiv.org/abs/2601.02198v1)** | 2026-01-05 |  |
 | **[Toward Auditable Neuro-Symbolic Reasoning in Pathology: SQL as an Explicit Trace of Evidence](https://arxiv.org/abs/2601.01875v1)** | 2026-01-05 |  |
 | **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](https://arxiv.org/abs/2510.11176v3)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 workshop in Health Intelligence Special Theme on Foundation Models and AI Agents</p></details> |
-| **[CTIS-QA: Clinical Template-Informed Slide-level Question Answering for Pathology](https://arxiv.org/abs/2601.01769v1)** | 2026-01-05 | <details><summary>The p...</summary><p>The paper has been accepted by BIBM 2025</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
