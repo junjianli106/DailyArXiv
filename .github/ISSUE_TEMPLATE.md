@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 28, 2026
+title: Latest 20 Papers - January 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
+| **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
@@ -25,12 +27,12 @@ labels: documentation
 | **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
 | **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
-| **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
-| **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
+| **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
@@ -49,8 +51,6 @@ labels: documentation
 | **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
 | **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
-| **[DeltaMIL: Gated Memory Integration for Efficient and Discriminative Whole Slide Image Analysis](https://arxiv.org/abs/2512.19331v1)** | 2025-12-22 | <details><summary>11 pa...</summary><p>11 pages,7 figures,8 tables</p></details> |
-| **[Breast Cancer Recurrence Risk Prediction Based on Multiple Instance Learning](https://arxiv.org/abs/2512.18734v1)** | 2025-12-21 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
