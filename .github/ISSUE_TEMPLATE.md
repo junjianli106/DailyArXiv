@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 29, 2026
+title: Latest 20 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Feature Learning with Multi-Stage Vision Transformers on Inter-Modality HER2 Status Scoring and Tumor Classification on Whole Slides](https://arxiv.org/abs/2512.22335v1)** | 2025-12-26 |  |
 | **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
-| **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
@@ -50,11 +51,12 @@ labels: documentation
 | **[Feature Learning with Multi-Stage Vision Transformers on Inter-Modality HER2 Status Scoring and Tumor Classification on Whole Slides](https://arxiv.org/abs/2512.22335v1)** | 2025-12-26 |  |
 | **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
 | **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
-| **[HistoWAS: A Pathomics Framework for Large-Scale Feature-Wide Association Studies of Tissue Topology and Patient Outcomes](https://arxiv.org/abs/2512.19954v1)** | 2025-12-23 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
+| **[Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations](https://arxiv.org/abs/2601.21334v1)** | 2026-01-29 | <details><summary>21 pa...</summary><p>21 pages, 17 figures. Appendix included</p></details> |
 | **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v3)** | 2026-01-27 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
@@ -73,12 +75,12 @@ labels: documentation
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[Topology-aware Pathological Consistency Matching for Weakly-Paired IHC Virtual Staining](https://arxiv.org/abs/2601.02806v1)** | 2026-01-06 |  |
 | **[Mind the Gap: Continuous Magnification Sampling for Pathology Foundation Models](https://arxiv.org/abs/2601.02198v1)** | 2026-01-05 |  |
-| **[Toward Auditable Neuro-Symbolic Reasoning in Pathology: SQL as an Explicit Trace of Evidence](https://arxiv.org/abs/2601.01875v1)** | 2026-01-05 |  |
-| **[G2L:From Giga-Scale to Cancer-Specific Large-Scale Pathology Foundation Models via Knowledge Distillation](https://arxiv.org/abs/2510.11176v3)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted in AAAI 2026 workshop in Health Intelligence Special Theme on Foundation Models and AI Agents</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking](https://arxiv.org/abs/2601.21479v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
+| **[AI-based Prediction of Biochemical Recurrence from Biopsy and Prostatectomy Samples](https://arxiv.org/abs/2601.21022v1)** | 2026-01-28 | <details><summary>39 pa...</summary><p>39 pages, 6 tables, 11 figures</p></details> |
 | **[DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection](https://arxiv.org/abs/2601.15453v1)** | 2026-01-21 | 8 pages |
 | **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](https://arxiv.org/abs/2507.08711v2)** | 2026-01-17 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables. Accepted to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v1)** | 2026-01-16 |  |
@@ -97,8 +99,6 @@ labels: documentation
 | **[DA-SSL: self-supervised domain adaptor to leverage foundational models in turbt histopathology slides](https://arxiv.org/abs/2512.13600v1)** | 2025-12-15 |  |
 | **[IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images](https://arxiv.org/abs/2512.13440v1)** | 2025-12-15 |  |
 | **[Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling](https://arxiv.org/abs/2505.17982v5)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
-| **[StainNet: A Special Staining Self-Supervised Vision Transformer for Computational Pathology](https://arxiv.org/abs/2512.10326v1)** | 2025-12-11 | 15 pages, 6 figures |
-| **[Beyond accuracy: quantifying the reliability of Multiple Instance Learning for Whole Slide Image classification](https://arxiv.org/abs/2409.11110v3)** | 2025-12-09 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
