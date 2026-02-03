@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 02, 2026
+title: Latest 20 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v1)** | 2026-02-02 |  |
+| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v1)** | 2026-02-02 |  |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](https://arxiv.org/abs/2412.00678v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
+| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v1)** | 2026-01-29 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables. Initialy submitted for IJCAI 2026</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
@@ -24,15 +27,15 @@ labels: documentation
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images](https://arxiv.org/abs/2601.03163v1)** | 2026-01-06 |  |
-| **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
-| **[Feature Learning with Multi-Stage Vision Transformers on Inter-Modality HER2 Status Scoring and Tumor Classification on Whole Slides](https://arxiv.org/abs/2512.22335v1)** | 2025-12-26 |  |
-| **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v1)** | 2026-02-02 |  |
+| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v1)** | 2026-02-02 |  |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](https://arxiv.org/abs/2412.00678v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
+| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v1)** | 2026-01-29 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables. Initialy submitted for IJCAI 2026</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v1)** | 2026-01-28 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
@@ -48,16 +51,16 @@ labels: documentation
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v1)** | 2026-01-08 |  |
 | **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole Slide Images](https://arxiv.org/abs/2601.03163v1)** | 2026-01-06 |  |
-| **[PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545v1)** | 2025-12-29 |  |
-| **[Feature Learning with Multi-Stage Vision Transformers on Inter-Modality HER2 Status Scoring and Tumor Classification on Whole Slides](https://arxiv.org/abs/2512.22335v1)** | 2025-12-26 |  |
-| **[TICON: A Slide-Level Tile Contextualizer for Histopathology Representation Learning](https://arxiv.org/abs/2512.21331v2)** | 2025-12-25 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hospital-Specific Bias in Patch-Based Pathology Models](https://arxiv.org/abs/2508.14779v2)** | 2026-02-02 | 4 pages,3 figures |
+| **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v4)** | 2026-02-02 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
+| **[SAGE: Agentic Framework for Interpretable and Clinically Translatable Computational Pathology Biomarker Discovery](https://arxiv.org/abs/2602.00953v1)** | 2026-02-01 |  |
+| **[ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154v1)** | 2026-01-29 | <details><summary>Pre-p...</summary><p>Pre-print. Code is available at https://github.com/SaFo-Lab/ReasoningBomb</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations](https://arxiv.org/abs/2601.21334v1)** | 2026-01-29 | <details><summary>21 pa...</summary><p>21 pages, 17 figures. Appendix included</p></details> |
-| **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v3)** | 2026-01-27 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[A multimodal vision foundation model for generalizable knee pathology](https://arxiv.org/abs/2601.18250v1)** | 2026-01-26 |  |
@@ -72,15 +75,15 @@ labels: documentation
 | **[POWDR: Pathology-preserving Outpainting with Wavelet Diffusion for 3D MRI](https://arxiv.org/abs/2601.09044v1)** | 2026-01-14 |  |
 | **[PathoSyn: Imaging-Pathology MRI Synthesis via Disentangled Deviation Diffusion](https://arxiv.org/abs/2512.23130v2)** | 2026-01-13 |  |
 | **[Joint Progression Modeling (JPM): A Probabilistic Framework for Mixed-Pathology Progression](https://arxiv.org/abs/2512.03475v2)** | 2026-01-13 | <details><summary>49 pa...</summary><p>49 pages; Machine Learning for Health (ML4H) Symposium 2025</p></details> |
-| **[Scanner-Induced Domain Shifts Undermine the Robustness of Pathology Foundation Models](https://arxiv.org/abs/2601.04163v1)** | 2026-01-07 |  |
-| **[Topology-aware Pathological Consistency Matching for Weakly-Paired IHC Virtual Staining](https://arxiv.org/abs/2601.02806v1)** | 2026-01-06 |  |
-| **[Mind the Gap: Continuous Magnification Sampling for Pathology Foundation Models](https://arxiv.org/abs/2601.02198v1)** | 2026-01-05 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-View Stenosis Classification Leveraging Transformer-Based Multiple-Instance Learning Using Real-World Clinical Data](https://arxiv.org/abs/2602.02067v1)** | 2026-02-02 |  |
+| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v1)** | 2026-02-02 |  |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[ExpAlign: Expectation-Guided Vision-Language Alignment for Open-Vocabulary Grounding](https://arxiv.org/abs/2601.22666v1)** | 2026-01-30 | 20 pages, 6 figures |
+| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v1)** | 2026-01-29 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables. Initialy submitted for IJCAI 2026</p></details> |
 | **[Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking](https://arxiv.org/abs/2601.21479v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
 | **[AI-based Prediction of Biochemical Recurrence from Biopsy and Prostatectomy Samples](https://arxiv.org/abs/2601.21022v1)** | 2026-01-28 | <details><summary>39 pa...</summary><p>39 pages, 6 tables, 11 figures</p></details> |
 | **[DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection](https://arxiv.org/abs/2601.15453v1)** | 2026-01-21 | 8 pages |
@@ -96,9 +99,6 @@ labels: documentation
 | **[MambaMIL+: Modeling Long-Term Contextual Patterns for Gigapixel Whole Slide Image](https://arxiv.org/abs/2512.17726v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 11 figures, 10 tables</p></details> |
 | **[PathBench-MIL: A Comprehensive AutoML and Benchmarking Framework for Multiple Instance Learning in Histopathology](https://arxiv.org/abs/2512.17517v1)** | 2025-12-19 | <details><summary>14 Pa...</summary><p>14 Pages, 3 Figures, 2 Appendices</p></details> |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v1)** | 2025-12-16 | 17 pages |
-| **[CAPRMIL: Context-Aware Patch Representations for Multiple Instance Learning](https://arxiv.org/abs/2512.14540v1)** | 2025-12-16 | <details><summary>24 pa...</summary><p>24 pages, 12 Figures, 4 Tables</p></details> |
-| **[DA-SSL: self-supervised domain adaptor to leverage foundational models in turbt histopathology slides](https://arxiv.org/abs/2512.13600v1)** | 2025-12-15 |  |
-| **[IMILIA: interpretable multiple instance learning for inflammation prediction in IBD from H&E whole slide images](https://arxiv.org/abs/2512.13440v1)** | 2025-12-15 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
