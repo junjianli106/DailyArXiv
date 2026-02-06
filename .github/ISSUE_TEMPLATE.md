@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 05, 2026
+title: Latest 20 Papers - February 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Histo-Miner: Deep learning based tissue features extraction pipeline from H&E whole slide images of cutaneous squamous cell carcinoma](https://arxiv.org/abs/2505.04672v3)** | 2026-02-05 | <details><summary>37 pa...</summary><p>37 pages including supplement, 5 core figures. Version 2: change sections order, add new supplementary sections, minor text updates. Version 3: Author addition and update of author contributions, increase font on 2 figures, minor text updates</p></details> |
+| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v1)** | 2026-02-04 | 13 pages, 8 figures |
 | **[StainNet: Scaling Self-Supervised Foundation Models on Immunohistochemistry and Special Stains for Computational Pathology](https://arxiv.org/abs/2512.10326v2)** | 2026-02-04 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables</p></details> |
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v2)** | 2026-02-04 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
@@ -20,17 +22,17 @@ labels: documentation
 | **[PA-MIL: Phenotype-Aware Multiple Instance Learning Guided by Language Prompting and Genotype-to-Phenotype Relationships](https://arxiv.org/abs/2602.02558v1)** | 2026-01-30 |  |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](https://arxiv.org/abs/2412.00678v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
-| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v1)** | 2026-01-29 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables. Initialy submitted for IJCAI 2026</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
-| **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v3)** | 2026-01-18 | 8 pages, 4 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Histo-Miner: Deep learning based tissue features extraction pipeline from H&E whole slide images of cutaneous squamous cell carcinoma](https://arxiv.org/abs/2505.04672v3)** | 2026-02-05 | <details><summary>37 pa...</summary><p>37 pages including supplement, 5 core figures. Version 2: change sections order, add new supplementary sections, minor text updates. Version 3: Author addition and update of author contributions, increase font on 2 figures, minor text updates</p></details> |
+| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v1)** | 2026-02-04 | 13 pages, 8 figures |
 | **[StainNet: Scaling Self-Supervised Foundation Models on Immunohistochemistry and Special Stains for Computational Pathology](https://arxiv.org/abs/2512.10326v2)** | 2026-02-04 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables</p></details> |
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v2)** | 2026-02-04 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
@@ -44,13 +46,11 @@ labels: documentation
 | **[PA-MIL: Phenotype-Aware Multiple Instance Learning Guided by Language Prompting and Genotype-to-Phenotype Relationships](https://arxiv.org/abs/2602.02558v1)** | 2026-01-30 |  |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](https://arxiv.org/abs/2412.00678v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
-| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v1)** | 2026-01-29 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables. Initialy submitted for IJCAI 2026</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
-| **[Normalized Conditional Mutual Information Surrogate Loss for Deep Neural Classifiers](https://arxiv.org/abs/2601.02543v3)** | 2026-01-18 | 8 pages, 4 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,9 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
+| **[Context-Aware Asymmetric Ensembling for Interpretable Retinopathy of Prematurity Screening via Active Query and Vascular Attention](https://arxiv.org/abs/2602.05208v1)** | 2026-02-05 | 16 pages, 6 figures |
+| **[CLEAR-HPV: Interpretable Concept Discovery for HPV-Associated Morphology in Whole-Slide Histology](https://arxiv.org/abs/2602.05126v1)** | 2026-02-04 |  |
 | **[StainNet: Scaling Self-Supervised Foundation Models on Immunohistochemistry and Special Stains for Computational Pathology](https://arxiv.org/abs/2512.10326v2)** | 2026-02-04 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables</p></details> |
 | **[AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology](https://arxiv.org/abs/2602.03998v1)** | 2026-02-03 | Under review |
 | **[Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms](https://arxiv.org/abs/2602.03520v1)** | 2026-02-03 |  |
@@ -89,7 +92,6 @@ labels: documentation
 | **[PA-MIL: Phenotype-Aware Multiple Instance Learning Guided by Language Prompting and Genotype-to-Phenotype Relationships](https://arxiv.org/abs/2602.02558v1)** | 2026-01-30 |  |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[ExpAlign: Expectation-Guided Vision-Language Alignment for Open-Vocabulary Grounding](https://arxiv.org/abs/2601.22666v1)** | 2026-01-30 | 20 pages, 6 figures |
-| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v1)** | 2026-01-29 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables. Initialy submitted for IJCAI 2026</p></details> |
 | **[Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking](https://arxiv.org/abs/2601.21479v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
 | **[AI-based Prediction of Biochemical Recurrence from Biopsy and Prostatectomy Samples](https://arxiv.org/abs/2601.21022v1)** | 2026-01-28 | <details><summary>39 pa...</summary><p>39 pages, 6 tables, 11 figures</p></details> |
 | **[DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection](https://arxiv.org/abs/2601.15453v1)** | 2026-01-21 | 8 pages |
@@ -97,8 +99,6 @@ labels: documentation
 | **[ReaMIL: Reasoning- and Evidence-Aware Multiple Instance Learning for Whole-Slide Histopathology](https://arxiv.org/abs/2601.10073v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at LFMBio Workshop, WACV 2026. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
 | **[Cross-Language Speaker Attribute Prediction Using MIL and RL](https://arxiv.org/abs/2601.04257v1)** | 2026-01-06 |  |
-| **[Diagnose Like A REAL Pathologist: An Uncertainty-Focused Approach for Trustworthy Multi-Resolution Multiple Instance Learning](https://arxiv.org/abs/2511.06433v2)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
-| **[WSD-MIL: Window Scale Decay Multiple Instance Learning for Whole Slide Image Classification](https://arxiv.org/abs/2512.19982v1)** | 2025-12-23 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
