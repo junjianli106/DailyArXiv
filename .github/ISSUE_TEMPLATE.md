@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 07, 2026
+title: Latest 20 Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology](https://arxiv.org/abs/2602.08652v1)** | 2026-02-09 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 7 tables</p></details> |
+| **[HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology](https://arxiv.org/abs/2602.07608v1)** | 2026-02-07 |  |
+| **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v4)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
+| **[Towards Effective and Efficient Context-aware Nucleus Detection in Histopathology Whole Slide Images](https://arxiv.org/abs/2503.05678v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Histo-Miner: Deep learning based tissue features extraction pipeline from H&E whole slide images of cutaneous squamous cell carcinoma](https://arxiv.org/abs/2505.04672v3)** | 2026-02-05 | <details><summary>37 pa...</summary><p>37 pages including supplement, 5 core figures. Version 2: change sections order, add new supplementary sections, minor text updates. Version 3: Author addition and update of author contributions, increase font on 2 figures, minor text updates</p></details> |
 | **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v1)** | 2026-02-04 | 13 pages, 8 figures |
@@ -23,14 +27,14 @@ labels: documentation
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](https://arxiv.org/abs/2412.00678v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
-| **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
-| **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
-| **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
-| **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology](https://arxiv.org/abs/2602.08652v1)** | 2026-02-09 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 7 tables</p></details> |
+| **[HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology](https://arxiv.org/abs/2602.07608v1)** | 2026-02-07 |  |
+| **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v4)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
+| **[Towards Effective and Efficient Context-aware Nucleus Detection in Histopathology Whole Slide Images](https://arxiv.org/abs/2503.05678v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Histo-Miner: Deep learning based tissue features extraction pipeline from H&E whole slide images of cutaneous squamous cell carcinoma](https://arxiv.org/abs/2505.04672v3)** | 2026-02-05 | <details><summary>37 pa...</summary><p>37 pages including supplement, 5 core figures. Version 2: change sections order, add new supplementary sections, minor text updates. Version 3: Author addition and update of author contributions, increase font on 2 figures, minor text updates</p></details> |
 | **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v1)** | 2026-02-04 | 13 pages, 8 figures |
@@ -47,14 +51,11 @@ labels: documentation
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v2)** | 2026-01-30 |  |
 | **[2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification](https://arxiv.org/abs/2412.00678v3)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted in CVPR 2025 Main Conference</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
-| **[Deep Semi-Supervised Survival Analysis for Predicting Cancer Prognosis](https://arxiv.org/abs/2601.20729v1)** | 2026-01-28 |  |
-| **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
-| **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
-| **[ConSurv: Multimodal Continual Learning for Survival Analysis](https://arxiv.org/abs/2511.09853v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 4 figures. This is the extended version of the paper accepted at AAAI 2026, which includes all technical appendices and additional experimental details</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology](https://arxiv.org/abs/2602.08652v1)** | 2026-02-09 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 7 tables</p></details> |
 | **[StainNet: Scaling Self-Supervised Foundation Models on Immunohistochemistry and Special Stains for Computational Pathology](https://arxiv.org/abs/2512.10326v2)** | 2026-02-04 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables</p></details> |
 | **[AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology](https://arxiv.org/abs/2602.03998v1)** | 2026-02-03 | Under review |
 | **[To What Extent Do Token-Level Representations from Pathology Foundation Models Improve Dense Prediction?](https://arxiv.org/abs/2602.03887v1)** | 2026-02-03 |  |
@@ -65,6 +66,7 @@ labels: documentation
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
 | **[Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations](https://arxiv.org/abs/2601.21334v1)** | 2026-01-29 | <details><summary>21 pa...</summary><p>21 pages, 17 figures. Appendix included</p></details> |
 | **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
+| **[Potential Role of Agentic Artificial Intelligence in Toxicologic Pathology](https://arxiv.org/abs/2602.06980v1)** | 2026-01-26 |  |
 | **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
 | **[A multimodal vision foundation model for generalizable knee pathology](https://arxiv.org/abs/2601.18250v1)** | 2026-01-26 |  |
 | **[HAAF: Hierarchical Adaptation and Alignment of Foundation Models for Few-Shot Pathology Anomaly Detection](https://arxiv.org/abs/2601.17405v1)** | 2026-01-24 |  |
@@ -73,12 +75,11 @@ labels: documentation
 | **[Towards contrast- and pathology-agnostic clinical fetal brain MRI segmentation using SynthSeg](https://arxiv.org/abs/2504.10244v2)** | 2026-01-23 | 29 pages, 12 figures |
 | **[PAINT: Pathology-Aware Integrated Next-Scale Transformation for Virtual Immunohistochemistry](https://arxiv.org/abs/2601.16024v1)** | 2026-01-22 |  |
 | **[ReinPath: A Multimodal Reinforcement Learning Approach for Pathology](https://arxiv.org/abs/2601.14757v1)** | 2026-01-21 |  |
-| **[Enhanced Diagnostic Performance via Large-Resolution Inference Optimization for Pathology Foundation Models](https://arxiv.org/abs/2601.12150v1)** | 2026-01-17 | 8 pages |
-| **[Meta-Learning Guided Pruning for Few-Shot Plant Pathology on Edge Devices](https://arxiv.org/abs/2601.02353v2)** | 2026-01-16 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v4)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
 | **[Context-Aware Asymmetric Ensembling for Interpretable Retinopathy of Prematurity Screening via Active Query and Vascular Attention](https://arxiv.org/abs/2602.05208v1)** | 2026-02-05 | 16 pages, 6 figures |
 | **[CLEAR-HPV: Interpretable Concept Discovery for HPV-Associated Morphology in Whole-Slide Histology](https://arxiv.org/abs/2602.05126v1)** | 2026-02-04 |  |
@@ -98,11 +99,11 @@ labels: documentation
 | **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](https://arxiv.org/abs/2507.08711v2)** | 2026-01-17 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables. Accepted to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 | **[ReaMIL: Reasoning- and Evidence-Aware Multiple Instance Learning for Whole-Slide Histopathology](https://arxiv.org/abs/2601.10073v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted at LFMBio Workshop, WACV 2026. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[MiCo: Multiple Instance Learning with Context-Aware Clustering for Whole Slide Image Analysis](https://arxiv.org/abs/2506.18028v3)** | 2026-01-12 | MICCAI 2025 |
-| **[Cross-Language Speaker Attribute Prediction Using MIL and RL](https://arxiv.org/abs/2601.04257v1)** | 2026-01-06 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Potential Role of Agentic Artificial Intelligence in Toxicologic Pathology](https://arxiv.org/abs/2602.06980v1)** | 2026-01-26 |  |
 | **[Multimodal Cancer Modeling in the Age of Foundation Model Embeddings](https://arxiv.org/abs/2505.07683v4)** | 2026-01-24 | <details><summary>camer...</summary><p>camera ready version for ML4H 2025, typo corrected</p></details> |
 | **[CTIS-QA: Clinical Template-Informed Slide-level Question Answering for Pathology](https://arxiv.org/abs/2601.01769v1)** | 2026-01-05 | <details><summary>The p...</summary><p>The paper has been accepted by BIBM 2025</p></details> |
 | **[Adapting Natural Language Processing Models Across Jurisdictions: A pilot Study in Canadian Cancer Registries](https://arxiv.org/abs/2601.00787v1)** | 2026-01-02 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[DiagR1: A Vision-Language Model Trained via Reinforcement Learning for Digestive Pathology Diagnosis](https://arxiv.org/abs/2507.18433v1)** | 2025-07-24 |  |
 | **[Historical Report Guided Bi-modal Concurrent Learning for Pathology Report Generation](https://arxiv.org/abs/2506.18658v1)** | 2025-06-23 |  |
 | **[On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation](https://arxiv.org/abs/2502.19285v3)** | 2025-06-06 | 11 pages, 1 figure |
-| **[VLCD: Vision-Language Contrastive Distillation for Accurate and Efficient Automatic Placenta Analysis](https://arxiv.org/abs/2506.02229v1)** | 2025-06-02 | <details><summary>Proce...</summary><p>Proceedings of the 9th International Workshop on Health Intelligence, in conjunction with the Annual AAAI Conference on Artificial Intelligence, Philadelphia, Pennsylvania, March 2025</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
