@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 16, 2026
+title: Latest 20 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MacNet: An End-to-End Manifold-Constrained Adaptive Clustering Network for Interpretable Whole Slide Image Classification](https://arxiv.org/abs/2602.14509v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/MacNet</p></details> |
+| **[Prototype Instance-semantic Disentanglement with Low-rank Regularized Subspace Clustering for WSIs Explainable Recognition](https://arxiv.org/abs/2602.14501v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PID-LRSC</p></details> |
+| **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v1)** | 2026-02-15 |  |
 | **[Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology](https://arxiv.org/abs/2602.08652v2)** | 2026-02-13 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
 | **[From slides to AI-ready maps: Standardized multi-layer tissue maps as metadata for artificial intelligence in digital pathology](https://arxiv.org/abs/2508.21418v2)** | 2026-02-13 |  |
 | **[Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction](https://arxiv.org/abs/2602.12441v1)** | 2026-02-12 |  |
@@ -24,13 +27,13 @@ labels: documentation
 | **[iSight: Towards expert-AI co-assessment for improved immunohistochemistry staining interpretation](https://arxiv.org/abs/2602.04063v1)** | 2026-02-03 |  |
 | **[Fast, Unsupervised Framework for Registration Quality Assessment of Multi-stain Histological Whole Slide Pairs](https://arxiv.org/abs/2602.04046v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to IEEE ISBI 2026</p></details> |
 | **[AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology](https://arxiv.org/abs/2602.03998v1)** | 2026-02-03 | Under review |
-| **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v2)** | 2026-02-03 | 19 pages |
-| **[A Multi-scale Linear-time Encoder for Whole-Slide Image Analysis](https://arxiv.org/abs/2602.02918v1)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026, 4 pages with 2 figures</p></details> |
-| **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v1)** | 2026-02-02 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MacNet: An End-to-End Manifold-Constrained Adaptive Clustering Network for Interpretable Whole Slide Image Classification](https://arxiv.org/abs/2602.14509v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/MacNet</p></details> |
+| **[Prototype Instance-semantic Disentanglement with Low-rank Regularized Subspace Clustering for WSIs Explainable Recognition](https://arxiv.org/abs/2602.14501v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PID-LRSC</p></details> |
+| **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v1)** | 2026-02-15 |  |
 | **[Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology](https://arxiv.org/abs/2602.08652v2)** | 2026-02-13 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
 | **[From slides to AI-ready maps: Standardized multi-layer tissue maps as metadata for artificial intelligence in digital pathology](https://arxiv.org/abs/2508.21418v2)** | 2026-02-13 |  |
 | **[Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction](https://arxiv.org/abs/2602.12441v1)** | 2026-02-12 |  |
@@ -48,18 +51,19 @@ labels: documentation
 | **[iSight: Towards expert-AI co-assessment for improved immunohistochemistry staining interpretation](https://arxiv.org/abs/2602.04063v1)** | 2026-02-03 |  |
 | **[Fast, Unsupervised Framework for Registration Quality Assessment of Multi-stain Histological Whole Slide Pairs](https://arxiv.org/abs/2602.04046v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to IEEE ISBI 2026</p></details> |
 | **[AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology](https://arxiv.org/abs/2602.03998v1)** | 2026-02-03 | Under review |
-| **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v2)** | 2026-02-03 | 19 pages |
-| **[A Multi-scale Linear-time Encoder for Whole-Slide Image Analysis](https://arxiv.org/abs/2602.02918v1)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026, 4 pages with 2 figures</p></details> |
-| **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v1)** | 2026-02-02 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards explainable reference-free speech intelligibility evaluation of people with pathological speech](https://arxiv.org/abs/2602.12723v2)** | 2026-02-16 | <details><summary>Plan ...</summary><p>Plan to be submited to Interspeech 2026</p></details> |
+| **[Towards Spatial Transcriptomics-driven Pathology Foundation Models](https://arxiv.org/abs/2602.14177v1)** | 2026-02-15 |  |
+| **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v1)** | 2026-02-15 |  |
+| **[Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology](https://arxiv.org/abs/2602.13944v1)** | 2026-02-15 | <details><summary>accep...</summary><p>accepted by ICLR 2026, 34 pages, 10 figures, 7tables</p></details> |
+| **[Diagnosing Pathological Chain-of-Thought in Reasoning Models](https://arxiv.org/abs/2602.13904v1)** | 2026-02-14 |  |
 | **[Potential Role of Agentic Artificial Intelligence in Toxicologic Pathology](https://arxiv.org/abs/2602.06980v2)** | 2026-02-13 |  |
 | **[Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology](https://arxiv.org/abs/2602.08652v2)** | 2026-02-13 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
 | **[Deep-Learning Atlas Registration for Melanoma Brain Metastases: Preserving Pathology While Enabling Cohort-Level Analyses](https://arxiv.org/abs/2602.12933v1)** | 2026-02-13 |  |
 | **[From slides to AI-ready maps: Standardized multi-layer tissue maps as metadata for artificial intelligence in digital pathology](https://arxiv.org/abs/2508.21418v2)** | 2026-02-13 |  |
-| **[Towards explainable reference-free speech intelligibility evaluation of people with pathological speech](https://arxiv.org/abs/2602.12723v1)** | 2026-02-13 | <details><summary>Plan ...</summary><p>Plan to be submited to Interspeech 2026</p></details> |
 | **[Unifying Multiple Foundation Models for Advanced Computational Pathology](https://arxiv.org/abs/2503.00736v4)** | 2026-02-13 | <details><summary>50 pa...</summary><p>50 pages, 5 main figures</p></details> |
 | **[Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction](https://arxiv.org/abs/2602.12441v1)** | 2026-02-12 |  |
 | **[Beyond Calibration: Confounding Pathology Limits Foundation Model Specificity in Abdominal Trauma CT](https://arxiv.org/abs/2602.10359v1)** | 2026-02-10 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 4 tables</p></details> |
@@ -71,14 +75,11 @@ labels: documentation
 | **[SAGE: Agentic Framework for Interpretable and Clinically Translatable Computational Pathology Biomarker Discovery](https://arxiv.org/abs/2602.00953v1)** | 2026-02-01 |  |
 | **[ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154v1)** | 2026-01-29 | <details><summary>Pre-p...</summary><p>Pre-print. Code is available at https://github.com/SaFo-Lab/ReasoningBomb</p></details> |
 | **[PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617v1)** | 2026-01-29 |  |
-| **[Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations](https://arxiv.org/abs/2601.21334v1)** | 2026-01-29 | <details><summary>21 pa...</summary><p>21 pages, 17 figures. Appendix included</p></details> |
-| **[Knowledge-enhanced Pretraining for Vision-language Pathology Foundation Model on Cancer Diagnosis](https://arxiv.org/abs/2412.13126v2)** | 2026-01-27 | <details><summary>V2: f...</summary><p>V2: fixed typos, updated experimental results, added ablation</p></details> |
-| **[Whole Slide Concepts: A Supervised Foundation Model For Pathological Images](https://arxiv.org/abs/2507.05742v3)** | 2026-01-26 |  |
-| **[A multimodal vision foundation model for generalizable knee pathology](https://arxiv.org/abs/2601.18250v1)** | 2026-01-26 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MacNet: An End-to-End Manifold-Constrained Adaptive Clustering Network for Interpretable Whole Slide Image Classification](https://arxiv.org/abs/2602.14509v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/MacNet</p></details> |
 | **[Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction](https://arxiv.org/abs/2602.12441v1)** | 2026-02-12 |  |
 | **[Weakly Supervised Contrastive Learning for Histopathology Patch Embeddings](https://arxiv.org/abs/2602.09477v2)** | 2026-02-12 |  |
 | **[Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms](https://arxiv.org/abs/2602.03520v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by KDD'26 August Track</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking](https://arxiv.org/abs/2601.21479v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
 | **[AI-based Prediction of Biochemical Recurrence from Biopsy and Prostatectomy Samples](https://arxiv.org/abs/2601.21022v1)** | 2026-01-28 | <details><summary>39 pa...</summary><p>39 pages, 6 tables, 11 figures</p></details> |
 | **[DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection](https://arxiv.org/abs/2601.15453v1)** | 2026-01-21 | 8 pages |
-| **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](https://arxiv.org/abs/2507.08711v2)** | 2026-01-17 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables. Accepted to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
