@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 17, 2026
+title: Latest 20 Papers - February 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers](https://arxiv.org/abs/2602.15783v1)** | 2026-02-17 | 17 pages, 2 figures |
 | **[MacNet: An End-to-End Manifold-Constrained Adaptive Clustering Network for Interpretable Whole Slide Image Classification](https://arxiv.org/abs/2602.14509v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/MacNet</p></details> |
 | **[Prototype Instance-semantic Disentanglement with Low-rank Regularized Subspace Clustering for WSIs Explainable Recognition](https://arxiv.org/abs/2602.14501v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PID-LRSC</p></details> |
 | **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v1)** | 2026-02-15 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v2)** | 2026-02-04 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
 | **[iSight: Towards expert-AI co-assessment for improved immunohistochemistry staining interpretation](https://arxiv.org/abs/2602.04063v1)** | 2026-02-03 |  |
 | **[Fast, Unsupervised Framework for Registration Quality Assessment of Multi-stain Histological Whole Slide Pairs](https://arxiv.org/abs/2602.04046v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to IEEE ISBI 2026</p></details> |
-| **[AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology](https://arxiv.org/abs/2602.03998v1)** | 2026-02-03 | Under review |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers](https://arxiv.org/abs/2602.15783v1)** | 2026-02-17 | 17 pages, 2 figures |
 | **[MacNet: An End-to-End Manifold-Constrained Adaptive Clustering Network for Interpretable Whole Slide Image Classification](https://arxiv.org/abs/2602.14509v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/MacNet</p></details> |
 | **[Prototype Instance-semantic Disentanglement with Low-rank Regularized Subspace Clustering for WSIs Explainable Recognition](https://arxiv.org/abs/2602.14501v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/PID-LRSC</p></details> |
 | **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v1)** | 2026-02-15 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[MMSF: Multitask and Multimodal Supervised Framework for WSI Classification and Survival Analysis](https://arxiv.org/abs/2601.20347v2)** | 2026-02-04 | <details><summary>Submi...</summary><p>Submitted to "Biomedical Signal Processing and Control"</p></details> |
 | **[iSight: Towards expert-AI co-assessment for improved immunohistochemistry staining interpretation](https://arxiv.org/abs/2602.04063v1)** | 2026-02-03 |  |
 | **[Fast, Unsupervised Framework for Registration Quality Assessment of Multi-stain Histological Whole Slide Pairs](https://arxiv.org/abs/2602.04046v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to IEEE ISBI 2026</p></details> |
-| **[AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology](https://arxiv.org/abs/2602.03998v1)** | 2026-02-03 | Under review |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
