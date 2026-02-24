@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 23, 2026
+title: Latest 20 Papers - February 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploiting Label-Independent Regularization from Spatial Dependencies for Whole Slide Image Analysis](https://arxiv.org/abs/2602.19487v1)** | 2026-02-23 |  |
+| **[Hepato-LLaVA: An Expert MLLM with Sparse Topo-Pack Attention for Hepatocellular Pathology Analysis on Whole Slide Images](https://arxiv.org/abs/2602.19424v1)** | 2026-02-23 | 10 pages, 3 figures |
+| **[Initialization matters in few-shot adaptation of vision-language models for histopathological image classification](https://arxiv.org/abs/2602.18766v1)** | 2026-02-21 | <details><summary>Accep...</summary><p>Accepted as oral presentation at CASEIB 2024 held in Sevilla, Spain</p></details> |
 | **[A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities](https://arxiv.org/abs/2602.17402v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at The 13th IEEE International Conference on Big Data (IEEE BigData 2025)</p></details> |
 | **[AtlasPatch: Efficient Tissue Detection and High-throughput Patch Extraction for Computational Pathology at Scale](https://arxiv.org/abs/2602.03998v2)** | 2026-02-18 | Under review |
 | **[Automated Histopathology Report Generation via Pyramidal Feature Extraction and the UNI Foundation Model](https://arxiv.org/abs/2602.16422v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages. Equal contribution: Ahmet Halici, Ece Tugba Cebeci, Musa Balci</p></details> |
@@ -24,13 +27,13 @@ labels: documentation
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v4)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[Towards Effective and Efficient Context-aware Nucleus Detection in Histopathology Whole Slide Images](https://arxiv.org/abs/2503.05678v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Histo-Miner: Deep learning based tissue features extraction pipeline from H&E whole slide images of cutaneous squamous cell carcinoma](https://arxiv.org/abs/2505.04672v3)** | 2026-02-05 | <details><summary>37 pa...</summary><p>37 pages including supplement, 5 core figures. Version 2: change sections order, add new supplementary sections, minor text updates. Version 3: Author addition and update of author contributions, increase font on 2 figures, minor text updates</p></details> |
-| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
-| **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v1)** | 2026-02-04 | 13 pages, 8 figures |
-| **[StainNet: Scaling Self-Supervised Foundation Models on Immunohistochemistry and Special Stains for Computational Pathology](https://arxiv.org/abs/2512.10326v2)** | 2026-02-04 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploiting Label-Independent Regularization from Spatial Dependencies for Whole Slide Image Analysis](https://arxiv.org/abs/2602.19487v1)** | 2026-02-23 |  |
+| **[Hepato-LLaVA: An Expert MLLM with Sparse Topo-Pack Attention for Hepatocellular Pathology Analysis on Whole Slide Images](https://arxiv.org/abs/2602.19424v1)** | 2026-02-23 | 10 pages, 3 figures |
+| **[Initialization matters in few-shot adaptation of vision-language models for histopathological image classification](https://arxiv.org/abs/2602.18766v1)** | 2026-02-21 | <details><summary>Accep...</summary><p>Accepted as oral presentation at CASEIB 2024 held in Sevilla, Spain</p></details> |
 | **[A Contrastive Variational AutoEncoder for NSCLC Survival Prediction with Missing Modalities](https://arxiv.org/abs/2602.17402v1)** | 2026-02-19 | <details><summary>Accep...</summary><p>Accepted at The 13th IEEE International Conference on Big Data (IEEE BigData 2025)</p></details> |
 | **[AtlasPatch: Efficient Tissue Detection and High-throughput Patch Extraction for Computational Pathology at Scale](https://arxiv.org/abs/2602.03998v2)** | 2026-02-18 | Under review |
 | **[Automated Histopathology Report Generation via Pyramidal Feature Extraction and the UNI Foundation Model](https://arxiv.org/abs/2602.16422v1)** | 2026-02-18 | <details><summary>9 pag...</summary><p>9 pages. Equal contribution: Ahmet Halici, Ece Tugba Cebeci, Musa Balci</p></details> |
@@ -48,13 +51,12 @@ labels: documentation
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v4)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[Towards Effective and Efficient Context-aware Nucleus Detection in Histopathology Whole Slide Images](https://arxiv.org/abs/2503.05678v2)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Histo-Miner: Deep learning based tissue features extraction pipeline from H&E whole slide images of cutaneous squamous cell carcinoma](https://arxiv.org/abs/2505.04672v3)** | 2026-02-05 | <details><summary>37 pa...</summary><p>37 pages including supplement, 5 core figures. Version 2: change sections order, add new supplementary sections, minor text updates. Version 3: Author addition and update of author contributions, increase font on 2 figures, minor text updates</p></details> |
-| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
-| **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v1)** | 2026-02-04 | 13 pages, 8 figures |
-| **[StainNet: Scaling Self-Supervised Foundation Models on Immunohistochemistry and Special Stains for Computational Pathology](https://arxiv.org/abs/2512.10326v2)** | 2026-02-04 | <details><summary>26 pa...</summary><p>26 pages, 7 figures, 10 tables</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hepato-LLaVA: An Expert MLLM with Sparse Topo-Pack Attention for Hepatocellular Pathology Analysis on Whole Slide Images](https://arxiv.org/abs/2602.19424v1)** | 2026-02-23 | 10 pages, 3 figures |
+| **[LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology](https://arxiv.org/abs/2602.18773v1)** | 2026-02-21 |  |
 | **[Demographic-aware fine-grained visual recognition of pediatric wrist pathologies](https://arxiv.org/abs/2507.12964v7)** | 2026-02-19 |  |
 | **[AtlasPatch: Efficient Tissue Detection and High-throughput Patch Extraction for Computational Pathology at Scale](https://arxiv.org/abs/2602.03998v2)** | 2026-02-18 | Under review |
 | **[Towards explainable reference-free speech intelligibility evaluation of people with pathological speech](https://arxiv.org/abs/2602.12723v2)** | 2026-02-16 | <details><summary>Plan ...</summary><p>Plan to be submited to Interspeech 2026</p></details> |
@@ -73,12 +75,11 @@ labels: documentation
 | **[To What Extent Do Token-Level Representations from Pathology Foundation Models Improve Dense Prediction?](https://arxiv.org/abs/2602.03887v1)** | 2026-02-03 |  |
 | **[Hospital-Specific Bias in Patch-Based Pathology Models](https://arxiv.org/abs/2508.14779v2)** | 2026-02-02 | 4 pages,3 figures |
 | **[AI-generated data contamination erodes pathological variability and diagnostic reliability](https://arxiv.org/abs/2601.12946v4)** | 2026-02-02 | <details><summary>*Corr...</summary><p>*Corresponding author: Dianbo Liu (dianbo@nus.edu.sg)</p></details> |
-| **[SAGE: Agentic Framework for Interpretable and Clinically Translatable Computational Pathology Biomarker Discovery](https://arxiv.org/abs/2602.00953v1)** | 2026-02-01 |  |
-| **[ReasoningBomb: A Stealthy Denial-of-Service Attack by Inducing Pathologically Long Reasoning in Large Reasoning Models](https://arxiv.org/abs/2602.00154v1)** | 2026-01-29 | <details><summary>Pre-p...</summary><p>Pre-print. Code is available at https://github.com/SaFo-Lab/ReasoningBomb</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Initialization matters in few-shot adaptation of vision-language models for histopathological image classification](https://arxiv.org/abs/2602.18766v1)** | 2026-02-21 | <details><summary>Accep...</summary><p>Accepted as oral presentation at CASEIB 2024 held in Sevilla, Spain</p></details> |
 | **[Context-Aware Asymmetric Ensembling for Interpretable Retinopathy of Prematurity Screening via Active Query and Vascular Attention](https://arxiv.org/abs/2602.05208v2)** | 2026-02-19 | 16 pages, 6 figures |
 | **[MacNet: An End-to-End Manifold-Constrained Adaptive Clustering Network for Interpretable Whole Slide Image Classification](https://arxiv.org/abs/2602.14509v1)** | 2026-02-16 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/Prince-Lee-PathAI/MacNet</p></details> |
 | **[Prototype-driven fusion of pathology and spatial transcriptomics for interpretable survival prediction](https://arxiv.org/abs/2602.12441v1)** | 2026-02-12 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Hypernetwork-Based Adaptive Aggregation for Multimodal Multiple-Instance Learning in Predicting Coronary Calcium Debulking](https://arxiv.org/abs/2601.21479v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted to ISBI 2026</p></details> |
 | **[AI-based Prediction of Biochemical Recurrence from Biopsy and Prostatectomy Samples](https://arxiv.org/abs/2601.21022v1)** | 2026-01-28 | <details><summary>39 pa...</summary><p>39 pages, 6 tables, 11 figures</p></details> |
 | **[DevPrompt: Deviation-Based Prompt Learning for One-Normal ShotImage Anomaly Detection](https://arxiv.org/abs/2601.15453v1)** | 2026-01-21 | 8 pages |
-| **[SGPMIL: Sparse Gaussian Process Multiple Instance Learning](https://arxiv.org/abs/2507.08711v2)** | 2026-01-17 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables. Accepted to IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
