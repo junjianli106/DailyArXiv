@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 03, 2026
+title: Latest 20 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
 | **[Bridging the gap between Performance and Interpretability: An Explainable Disentangled Multimodal Framework for Cancer Survival Prediction](https://arxiv.org/abs/2603.02162v1)** | 2026-03-02 |  |
 | **[MMNavAgent: Multi-Magnification WSI Navigation Agent for Clinically Consistent Whole-Slide Analysis](https://arxiv.org/abs/2603.02079v1)** | 2026-03-02 |  |
 | **[Exploiting Low-Dimensional Manifold of Features for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2505.15504v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2602.20873v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[A deep learning framework for efficient pathology image analysis](https://arxiv.org/abs/2502.13027v2)** | 2026-02-24 |  |
 | **[Exploiting Label-Independent Regularization from Spatial Dependencies for Whole Slide Image Analysis](https://arxiv.org/abs/2602.19487v1)** | 2026-02-23 |  |
-| **[AINet: Anchor Instances Learning for Regional Heterogeneity in Whole Slide Image](https://arxiv.org/abs/2602.20187v1)** | 2026-02-21 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
 | **[Bridging the gap between Performance and Interpretability: An Explainable Disentangled Multimodal Framework for Cancer Survival Prediction](https://arxiv.org/abs/2603.02162v1)** | 2026-03-02 |  |
 | **[MMNavAgent: Multi-Magnification WSI Navigation Agent for Clinically Consistent Whole-Slide Analysis](https://arxiv.org/abs/2603.02079v1)** | 2026-03-02 |  |
 | **[Exploiting Low-Dimensional Manifold of Features for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2505.15504v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
@@ -50,11 +51,12 @@ labels: documentation
 | **[MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2602.20873v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[A deep learning framework for efficient pathology image analysis](https://arxiv.org/abs/2502.13027v2)** | 2026-02-24 |  |
 | **[Exploiting Label-Independent Regularization from Spatial Dependencies for Whole Slide Image Analysis](https://arxiv.org/abs/2602.19487v1)** | 2026-02-23 |  |
-| **[AINet: Anchor Instances Learning for Regional Heterogeneity in Whole Slide Image](https://arxiv.org/abs/2602.20187v1)** | 2026-02-21 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
+| **[Intelligent Pathological Diagnosis of Gestational Trophoblastic Diseases via Visual-Language Deep Learning Model](https://arxiv.org/abs/2603.02704v1)** | 2026-03-03 | 29 pages, 3 figures |
 | **[QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647v1)** | 2026-03-02 |  |
 | **[Hepato-LLaVA: An Expert MLLM with Sparse Topo-Pack Attention for Hepatocellular Pathology Analysis on Whole Slide Images](https://arxiv.org/abs/2602.19424v3)** | 2026-03-01 | 10 pages, 3 figures |
 | **[TC-SSA: Token Compression via Semantic Slot Aggregation for Gigapixel Pathology Reasoning](https://arxiv.org/abs/2603.01143v1)** | 2026-03-01 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 2 tables</p></details> |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology](https://arxiv.org/abs/2602.13944v1)** | 2026-02-15 | <details><summary>accep...</summary><p>accepted by ICLR 2026, 34 pages, 10 figures, 7tables</p></details> |
 | **[Diagnosing Pathological Chain-of-Thought in Reasoning Models](https://arxiv.org/abs/2602.13904v1)** | 2026-02-14 |  |
 | **[Potential Role of Agentic Artificial Intelligence in Toxicologic Pathology](https://arxiv.org/abs/2602.06980v2)** | 2026-02-13 |  |
-| **[Deep Learning-Based Fixation Type Prediction for Quality Assurance in Digital Pathology](https://arxiv.org/abs/2602.08652v2)** | 2026-02-13 | <details><summary>11 pa...</summary><p>11 pages, 6 figures, 7 tables</p></details> |
-| **[Deep-Learning Atlas Registration for Melanoma Brain Metastases: Preserving Pathology While Enabling Cohort-Level Analyses](https://arxiv.org/abs/2602.12933v1)** | 2026-02-13 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
