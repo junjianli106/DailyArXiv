@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 04, 2026
+title: Latest 20 Papers - March 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
+| **[WSI-INR: Implicit Neural Representations for Lesion Segmentation in Whole-Slide Images](https://arxiv.org/abs/2603.03749v1)** | 2026-03-04 | 11 page, 4 figures |
 | **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
 | **[Bridging the gap between Performance and Interpretability: An Explainable Disentangled Multimodal Framework for Cancer Survival Prediction](https://arxiv.org/abs/2603.02162v1)** | 2026-03-02 |  |
 | **[MMNavAgent: Multi-Magnification WSI Navigation Agent for Clinically Consistent Whole-Slide Analysis](https://arxiv.org/abs/2603.02079v1)** | 2026-03-02 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v1)** | 2026-02-25 |  |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v3)** | 2026-02-25 | 14 pages, 8 figures |
 | **[MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2602.20873v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[A deep learning framework for efficient pathology image analysis](https://arxiv.org/abs/2502.13027v2)** | 2026-02-24 |  |
-| **[Exploiting Label-Independent Regularization from Spatial Dependencies for Whole Slide Image Analysis](https://arxiv.org/abs/2602.19487v1)** | 2026-02-23 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
+| **[WSI-INR: Implicit Neural Representations for Lesion Segmentation in Whole-Slide Images](https://arxiv.org/abs/2603.03749v1)** | 2026-03-04 | 11 page, 4 figures |
 | **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
 | **[Bridging the gap between Performance and Interpretability: An Explainable Disentangled Multimodal Framework for Cancer Survival Prediction](https://arxiv.org/abs/2603.02162v1)** | 2026-03-02 |  |
 | **[MMNavAgent: Multi-Magnification WSI Navigation Agent for Clinically Consistent Whole-Slide Analysis](https://arxiv.org/abs/2603.02079v1)** | 2026-03-02 |  |
@@ -49,12 +51,13 @@ labels: documentation
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v1)** | 2026-02-25 |  |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v3)** | 2026-02-25 | 14 pages, 8 figures |
 | **[MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2602.20873v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[A deep learning framework for efficient pathology image analysis](https://arxiv.org/abs/2502.13027v2)** | 2026-02-24 |  |
-| **[Exploiting Label-Independent Regularization from Spatial Dependencies for Whole Slide Image Analysis](https://arxiv.org/abs/2602.19487v1)** | 2026-02-23 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
+| **[Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Code: https://github.com/CAIR-LAB-WFUSM/MoMKD</p></details> |
+| **[CoRe-BT: A Multimodal Radiology-Pathology-Text Benchmark for Robust Brain Tumor Typing](https://arxiv.org/abs/2603.03618v1)** | 2026-03-04 | <details><summary>Under...</summary><p>Under review, MICCAI 2026</p></details> |
 | **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
 | **[Intelligent Pathological Diagnosis of Gestational Trophoblastic Diseases via Visual-Language Deep Learning Model](https://arxiv.org/abs/2603.02704v1)** | 2026-03-03 | 29 pages, 3 figures |
 | **[QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647v1)** | 2026-03-02 |  |
@@ -64,7 +67,6 @@ labels: documentation
 | **[Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control](https://arxiv.org/abs/2512.21058v2)** | 2026-02-26 | <details><summary>accep...</summary><p>accepted by CVPR 2026; 32 pages, 17 figures, and 6 tables</p></details> |
 | **[Mixed Magnification Aggregation for Generalizable Region-Level Representations in Computational Pathology](https://arxiv.org/abs/2602.22176v1)** | 2026-02-25 |  |
 | **[Beyond Calibration: Confounding Pathology Limits Foundation Model Specificity in Abdominal Trauma CT](https://arxiv.org/abs/2602.10359v2)** | 2026-02-25 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 4 tables</p></details> |
-| **[Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 | **[A deep learning framework for efficient pathology image analysis](https://arxiv.org/abs/2502.13027v2)** | 2026-02-24 |  |
 | **[LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology](https://arxiv.org/abs/2602.18773v1)** | 2026-02-21 |  |
 | **[Demographic-aware fine-grained visual recognition of pediatric wrist pathologies](https://arxiv.org/abs/2507.12964v7)** | 2026-02-19 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Towards Spatial Transcriptomics-driven Pathology Foundation Models](https://arxiv.org/abs/2602.14177v1)** | 2026-02-15 |  |
 | **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v1)** | 2026-02-15 |  |
 | **[Fusing Pixels and Genes: Spatially-Aware Learning in Computational Pathology](https://arxiv.org/abs/2602.13944v1)** | 2026-02-15 | <details><summary>accep...</summary><p>accepted by ICLR 2026, 34 pages, 10 figures, 7tables</p></details> |
-| **[Diagnosing Pathological Chain-of-Thought in Reasoning Models](https://arxiv.org/abs/2602.13904v1)** | 2026-02-14 |  |
-| **[Potential Role of Agentic Artificial Intelligence in Toxicologic Pathology](https://arxiv.org/abs/2602.06980v2)** | 2026-02-13 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,8 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
+| **[CoRe-BT: A Multimodal Radiology-Pathology-Text Benchmark for Robust Brain Tumor Typing](https://arxiv.org/abs/2603.03618v1)** | 2026-03-04 | <details><summary>Under...</summary><p>Under review, MICCAI 2026</p></details> |
 | **[QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647v1)** | 2026-03-02 |  |
 | **[PathMoE: Interpretable Multimodal Interaction Experts for Pediatric Brain Tumor Classification](https://arxiv.org/abs/2603.01547v1)** | 2026-03-02 |  |
 | **[Footprint-Guided Exemplar-Free Continual Histopathology Report Generation](https://arxiv.org/abs/2602.23817v1)** | 2026-02-27 |  |
@@ -121,12 +123,11 @@ labels: documentation
 | **[Enhancing WSI-Based Survival Analysis with Report-Auxiliary Self-Distillation](https://arxiv.org/abs/2509.15608v1)** | 2025-09-19 |  |
 | **[Glo-UMF: A Unified Multi-model Framework for Automated Morphometry of Glomerular Ultrastructural Characterization](https://arxiv.org/abs/2508.10351v2)** | 2025-09-11 | 17 pages, 6 figures |
 | **[HoneyBee: A Scalable Modular Framework for Creating Multimodal Oncology Datasets with Foundational Embedding Models](https://arxiv.org/abs/2405.07460v5)** | 2025-08-27 |  |
-| **[A Robust BERT-Based Deep Learning Model for Automated Cancer Type Extraction from Unstructured Pathology Reports](https://arxiv.org/abs/2508.15149v1)** | 2025-08-21 |  |
-| **[Can human clinical rationales improve the performance and explainability of clinical text classification models?](https://arxiv.org/abs/2507.21302v1)** | 2025-07-28 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
 | **[QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647v1)** | 2026-03-02 |  |
 | **[Footprint-Guided Exemplar-Free Continual Histopathology Report Generation](https://arxiv.org/abs/2602.23817v1)** | 2026-02-27 |  |
 | **[MPath: Multimodal Pathology Report Generation from Whole Slide Images](https://arxiv.org/abs/2512.11906v1)** | 2025-12-10 | <details><summary>Pages...</summary><p>Pages 4, Figures 1, Table 1</p></details> |
