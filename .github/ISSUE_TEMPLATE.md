@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 08, 2026
+title: Latest 20 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis](https://arxiv.org/abs/2603.06378v1)** | 2026-03-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 6 tables</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
 | **[WSI-INR: Implicit Neural Representations for Lesion Segmentation in Whole-Slide Images](https://arxiv.org/abs/2603.03749v1)** | 2026-03-04 | 11 page, 4 figures |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Beyond the Monitor: Mixed Reality Visualization and Multimodal AI for Enhanced Digital Pathology Workflow](https://arxiv.org/abs/2505.02780v2)** | 2026-02-26 |  |
 | **[Mixed Magnification Aggregation for Generalizable Region-Level Representations in Computational Pathology](https://arxiv.org/abs/2602.22176v1)** | 2026-02-25 |  |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v3)** | 2026-02-25 | 14 pages, 8 figures |
-| **[MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2602.20873v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis](https://arxiv.org/abs/2603.06378v1)** | 2026-03-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 6 tables</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v2)** | 2026-03-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
 | **[WSI-INR: Implicit Neural Representations for Lesion Segmentation in Whole-Slide Images](https://arxiv.org/abs/2603.03749v1)** | 2026-03-04 | 11 page, 4 figures |
@@ -50,11 +51,12 @@ labels: documentation
 | **[Beyond the Monitor: Mixed Reality Visualization and Multimodal AI for Enhanced Digital Pathology Workflow](https://arxiv.org/abs/2505.02780v2)** | 2026-02-26 |  |
 | **[Mixed Magnification Aggregation for Generalizable Region-Level Representations in Computational Pathology](https://arxiv.org/abs/2602.22176v1)** | 2026-02-25 |  |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v3)** | 2026-02-25 | 14 pages, 8 figures |
-| **[MUSE: Harnessing Precise and Diverse Semantics for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2602.20873v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analyzing the Performance of ChatGPT in Cardiology and Vascular Pathologies](https://arxiv.org/abs/2307.02518v2)** | 2026-03-06 |  |
+| **[Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives on Clinical Integration and Translational Readiness](https://arxiv.org/abs/2603.05884v1)** | 2026-03-06 |  |
 | **[SAMPO-Path: Segmentation Intent-Aligned Preference Optimization for Pathology Foundation Model Segmentation](https://arxiv.org/abs/2508.02464v2)** | 2026-03-05 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 8 figures</p></details> |
 | **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
 | **[Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Code: https://github.com/CAIR-LAB-WFUSM/MoMKD</p></details> |
@@ -73,12 +75,11 @@ labels: documentation
 | **[Demographic-aware fine-grained visual recognition of pediatric wrist pathologies](https://arxiv.org/abs/2507.12964v7)** | 2026-02-19 |  |
 | **[AtlasPatch: Efficient Tissue Detection and High-throughput Patch Extraction for Computational Pathology at Scale](https://arxiv.org/abs/2602.03998v2)** | 2026-02-18 | Under review |
 | **[Towards explainable reference-free speech intelligibility evaluation of people with pathological speech](https://arxiv.org/abs/2602.12723v2)** | 2026-02-16 | <details><summary>Plan ...</summary><p>Plan to be submited to Interspeech 2026</p></details> |
-| **[Towards Spatial Transcriptomics-driven Pathology Foundation Models](https://arxiv.org/abs/2602.14177v1)** | 2026-02-15 |  |
-| **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v1)** | 2026-02-15 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis](https://arxiv.org/abs/2603.06378v1)** | 2026-03-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 6 tables</p></details> |
 | **[Exploiting Low-Dimensional Manifold of Features for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2505.15504v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 | **[Topological Inductive Bias fosters Multiple Instance Learning in Data-Scarce Scenarios](https://arxiv.org/abs/2307.14025v3)** | 2026-03-02 |  |
 | **[Hierarchical Classification for Improved Histopathology Image Analysis](https://arxiv.org/abs/2603.00504v1)** | 2026-02-28 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Multi-View Stenosis Classification Leveraging Transformer-Based Multiple-Instance Learning Using Real-World Clinical Data](https://arxiv.org/abs/2602.02067v1)** | 2026-02-02 |  |
 | **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v1)** | 2026-02-02 |  |
 | **[EQ-5D Classification Using Biomedical Entity-Enriched Pre-trained Language Models and Multiple Instance Learning](https://arxiv.org/abs/2602.21216v1)** | 2026-01-30 | 12 tables |
-| **[PA-MIL: Phenotype-Aware Multiple Instance Learning Guided by Language Prompting and Genotype-to-Phenotype Relationships](https://arxiv.org/abs/2602.02558v1)** | 2026-01-30 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
