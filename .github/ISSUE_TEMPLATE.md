@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 15, 2026
+title: Latest 20 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v3)** | 2026-03-13 |  |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
-| **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v2)** | 2026-03-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v3)** | 2026-03-11 |  |
 | **[Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/abs/2603.10526v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
@@ -31,8 +31,8 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v3)** | 2026-03-13 |  |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
-| **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v2)** | 2026-03-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v3)** | 2026-03-11 |  |
 | **[Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/abs/2603.10526v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
@@ -55,8 +55,11 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stuck on Suggestions: Automation Bias, the Anchoring Effect, and the Factors That Shape Them in Computational Pathology](https://arxiv.org/abs/2603.11821v2)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2026:007</p></details> |
+| **[A protocol for evaluating robustness to H&E staining variation in computational pathology models](https://arxiv.org/abs/2603.12886v1)** | 2026-03-13 |  |
+| **[Scaling Laws and Pathologies of Single-Layer PINNs: Network Width and PDE Nonlinearity](https://arxiv.org/abs/2603.12556v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at the Machine Learning and Physical Sciences Workshop (NeurIPS 2025)</p></details> |
+| **[Unmasking Biases and Reliability Concerns in Convolutional Neural Networks Analysis of Cancer Pathology Images](https://arxiv.org/abs/2603.12445v1)** | 2026-03-12 | <details><summary>Elect...</summary><p>Electronics, published</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
-| **[Stuck on Suggestions: Automation Bias, the Anchoring Effect, and the Factors That Shape Them in Computational Pathology](https://arxiv.org/abs/2603.11821v1)** | 2026-03-12 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA)</p></details> |
 | **[Performance Evaluation of Open-Source Large Language Models for Assisting Pathology Report Writing in Japanese](https://arxiv.org/abs/2603.11597v1)** | 2026-03-12 | <details><summary>9 pag...</summary><p>9 pages (including bibliography), 2 figures, 6 tables</p></details> |
 | **[Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives on Clinical Integration and Translational Readiness](https://arxiv.org/abs/2603.05884v2)** | 2026-03-11 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v3)** | 2026-03-11 |  |
@@ -72,13 +75,12 @@ labels: documentation
 | **[SAMPO-Path: Segmentation Intent-Aligned Preference Optimization for Pathology Foundation Model Segmentation](https://arxiv.org/abs/2508.02464v2)** | 2026-03-05 | <details><summary>15 pa...</summary><p>15 pages, 9 tables, 8 figures</p></details> |
 | **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
 | **[Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395v2)** | 2026-03-04 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Code: https://github.com/CAIR-LAB-WFUSM/MoMKD</p></details> |
-| **[CoRe-BT: A Multimodal Radiology-Pathology-Text Benchmark for Robust Brain Tumor Typing](https://arxiv.org/abs/2603.03618v1)** | 2026-03-04 | <details><summary>Under...</summary><p>Under review, MICCAI 2026</p></details> |
-| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v1)** | 2026-03-03 |  |
-| **[Intelligent Pathological Diagnosis of Gestational Trophoblastic Diseases via Visual-Language Deep Learning Model](https://arxiv.org/abs/2603.02704v1)** | 2026-03-03 | 29 pages, 3 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fair Lung Disease Diagnosis from Chest CT via Gender-Adversarial Attention Multiple Instance Learning](https://arxiv.org/abs/2603.12988v1)** | 2026-03-13 |  |
+| **[A protocol for evaluating robustness to H&E staining variation in computational pathology models](https://arxiv.org/abs/2603.12886v1)** | 2026-03-13 |  |
 | **[PPGuide: Steering Diffusion Policies with Performance Predictive Guidance](https://arxiv.org/abs/2603.10980v1)** | 2026-03-11 | Accepted by ICRA'26 |
 | **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
 | **[Leveraging whole slide difficulty in Multiple Instance Learning to improve prostate cancer grading](https://arxiv.org/abs/2603.09953v1)** | 2026-03-10 | ISBI 2026 |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Weakly Supervised Contrastive Learning for Histopathology Patch Embeddings](https://arxiv.org/abs/2602.09477v2)** | 2026-02-12 |  |
 | **[Live or Lie: Action-Aware Capsule Multiple Instance Learning for Risk Assessment in Live Streaming Platforms](https://arxiv.org/abs/2602.03520v2)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted by KDD'26 August Track</p></details> |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v4)** | 2026-02-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
-| **[Investigating the Impact of Histopathological Foundation Models on Regressive Prediction of Homologous Recombination Deficiency](https://arxiv.org/abs/2602.00151v2)** | 2026-02-05 | <details><summary>9 pag...</summary><p>9 pages, 7 figures and 5 tables</p></details> |
-| **[CLEAR-HPV: Interpretable Concept Discovery for HPV-Associated Morphology in Whole-Slide Histology](https://arxiv.org/abs/2602.05126v1)** | 2026-02-04 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
