@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 18, 2026
+title: Latest 20 Papers - March 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
+| **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 | **[Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2603.15774v1)** | 2026-03-16 |  |
@@ -31,7 +31,7 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v1)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
+| **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 | **[Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2603.15774v1)** | 2026-03-16 |  |
@@ -55,6 +55,8 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Comprehensive Benchmark of Histopathology Foundation Models for Kidney Digital Pathology Images](https://arxiv.org/abs/2603.15967v2)** | 2026-03-18 | <details><summary>31 Pa...</summary><p>31 Pages, 14 Tables, 12 figures, Co-correspondence to jhodgin@med.umich.edu and pinaki.sarder@ufl.edu</p></details> |
+| **[Pathology-Aware Multi-View Contrastive Learning for Patient-Independent ECG Reconstruction](https://arxiv.org/abs/2603.17248v1)** | 2026-03-18 |  |
 | **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 | **[Learning from Limited and Incomplete Data: A Multimodal Framework for Predicting Pathological Response in NSCLC](https://arxiv.org/abs/2603.15100v1)** | 2026-03-16 |  |
 | **[BiTro: Bidirectional Transfer Learning Enhances Bulk and Spatial Transcriptomics Prediction in Cancer Pathological Images](https://arxiv.org/abs/2603.14897v1)** | 2026-03-16 |  |
@@ -73,8 +75,6 @@ labels: documentation
 | **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v1)** | 2026-03-10 |  |
 | **[Class Visualizations and Activation Atlases for Enhancing Interpretability in Deep Learning-Based Computational Pathology](https://arxiv.org/abs/2603.07170v2)** | 2026-03-10 |  |
 | **[A Lightweight Multi-Cancer Tumor Localization Framework for Deployable Digital Pathology](https://arxiv.org/abs/2603.08844v1)** | 2026-03-09 | 9 pages, 2 figures |
-| **[PathBench: Speech Intelligibility Benchmark for Automatic Pathological Speech Assessment](https://arxiv.org/abs/2603.08097v1)** | 2026-03-09 | <details><summary>5 pag...</summary><p>5 pages, 1 table. Submitted to Interspeech 2026</p></details> |
-| **[MINT: Molecularly Informed Training with Spatial Transcriptomics Supervision for Pathology Foundation Models](https://arxiv.org/abs/2603.07895v1)** | 2026-03-09 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
