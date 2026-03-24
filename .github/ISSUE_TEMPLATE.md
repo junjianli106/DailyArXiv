@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 23, 2026
+title: Latest 20 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
+| **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v3)** | 2026-03-23 |  |
+| **[Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2603.21504v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 Workshop on Medical Reasoning with Vision Language Foundation Models (Med-Reasoner)</p></details> |
+| **[GOLDMARK: Governed Outcome-Linked Diagnostic Model Assessment Reference Kit](https://arxiv.org/abs/2603.20848v1)** | 2026-03-21 |  |
+| **[Jigsaw Regularization in Whole-Slide Image Classification](https://arxiv.org/abs/2603.20386v1)** | 2026-03-20 |  |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v1)** | 2026-03-20 |  |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v3)** | 2026-03-19 | 19 pages |
 | **[Multimodal Model for Computational Pathology:Representation Learning and Image Compression](https://arxiv.org/abs/2603.18660v1)** | 2026-03-19 |  |
@@ -14,6 +19,7 @@ labels: documentation
 | **[CytoSyn: a Foundation Diffusion Model for Histopathology -- Tech Report](https://arxiv.org/abs/2603.18089v1)** | 2026-03-18 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, tech report, model page: https://huggingface.co/Owkin-Bioptimus/CytoSyn</p></details> |
 | **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2603.20273v1)** | 2026-03-17 |  |
 | **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 | **[Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2603.15774v1)** | 2026-03-16 |  |
 | **[BiTro: Bidirectional Transfer Learning Enhances Bulk and Spatial Transcriptomics Prediction in Cancer Pathological Images](https://arxiv.org/abs/2603.14897v1)** | 2026-03-16 |  |
@@ -21,16 +27,15 @@ labels: documentation
 | **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v3)** | 2026-03-13 |  |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v3)** | 2026-03-11 |  |
-| **[Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/abs/2603.10526v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
-| **[Layout-Guided Controllable Pathology Image Generation with In-Context Diffusion Transformers](https://arxiv.org/abs/2603.13386v1)** | 2026-03-11 | 19 pages |
-| **[Leveraging whole slide difficulty in Multiple Instance Learning to improve prostate cancer grading](https://arxiv.org/abs/2603.09953v1)** | 2026-03-10 | ISBI 2026 |
-| **[Class Visualizations and Activation Atlases for Enhancing Interpretability in Deep Learning-Based Computational Pathology](https://arxiv.org/abs/2603.07170v2)** | 2026-03-10 |  |
-| **[A Lightweight Multi-Cancer Tumor Localization Framework for Deployable Digital Pathology](https://arxiv.org/abs/2603.08844v1)** | 2026-03-09 | 9 pages, 2 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
+| **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v3)** | 2026-03-23 |  |
+| **[Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2603.21504v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 Workshop on Medical Reasoning with Vision Language Foundation Models (Med-Reasoner)</p></details> |
+| **[GOLDMARK: Governed Outcome-Linked Diagnostic Model Assessment Reference Kit](https://arxiv.org/abs/2603.20848v1)** | 2026-03-21 |  |
+| **[Jigsaw Regularization in Whole-Slide Image Classification](https://arxiv.org/abs/2603.20386v1)** | 2026-03-20 |  |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v1)** | 2026-03-20 |  |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v3)** | 2026-03-19 | 19 pages |
 | **[Multimodal Model for Computational Pathology:Representation Learning and Image Compression](https://arxiv.org/abs/2603.18660v1)** | 2026-03-19 |  |
@@ -38,6 +43,7 @@ labels: documentation
 | **[CytoSyn: a Foundation Diffusion Model for Histopathology -- Tech Report](https://arxiv.org/abs/2603.18089v1)** | 2026-03-18 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, tech report, model page: https://huggingface.co/Owkin-Bioptimus/CytoSyn</p></details> |
 | **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2603.20273v1)** | 2026-03-17 |  |
 | **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 | **[Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2603.15774v1)** | 2026-03-16 |  |
 | **[BiTro: Bidirectional Transfer Learning Enhances Bulk and Spatial Transcriptomics Prediction in Cancer Pathological Images](https://arxiv.org/abs/2603.14897v1)** | 2026-03-16 |  |
@@ -45,12 +51,6 @@ labels: documentation
 | **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v3)** | 2026-03-13 |  |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v3)** | 2026-03-11 |  |
-| **[Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/abs/2603.10526v1)** | 2026-03-11 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
-| **[Layout-Guided Controllable Pathology Image Generation with In-Context Diffusion Transformers](https://arxiv.org/abs/2603.13386v1)** | 2026-03-11 | 19 pages |
-| **[Leveraging whole slide difficulty in Multiple Instance Learning to improve prostate cancer grading](https://arxiv.org/abs/2603.09953v1)** | 2026-03-10 | ISBI 2026 |
-| **[Class Visualizations and Activation Atlases for Enhancing Interpretability in Deep Learning-Based Computational Pathology](https://arxiv.org/abs/2603.07170v2)** | 2026-03-10 |  |
-| **[A Lightweight Multi-Cancer Tumor Localization Framework for Deployable Digital Pathology](https://arxiv.org/abs/2603.08844v1)** | 2026-03-09 | 9 pages, 2 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,10 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
+| **[MIHT: A Hoeffding Tree for Time Series Classification using Multiple Instance Learning](https://arxiv.org/abs/2603.22074v1)** | 2026-03-23 |  |
+| **[GOLDMARK: Governed Outcome-Linked Diagnostic Model Assessment Reference Kit](https://arxiv.org/abs/2603.20848v1)** | 2026-03-21 |  |
+| **[Jigsaw Regularization in Whole-Slide Image Classification](https://arxiv.org/abs/2603.20386v1)** | 2026-03-20 |  |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v1)** | 2026-03-20 |  |
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v3)** | 2026-03-19 | 19 pages |
 | **[Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2603.15774v1)** | 2026-03-16 |  |
@@ -95,10 +99,6 @@ labels: documentation
 | **[Beyond Attention Heatmaps: How to Get Better Explanations for Multiple Instance Learning Models in Histopathology](https://arxiv.org/abs/2603.08328v1)** | 2026-03-09 |  |
 | **[MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis](https://arxiv.org/abs/2603.06378v1)** | 2026-03-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 6 tables</p></details> |
 | **[Exploiting Low-Dimensional Manifold of Features for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2505.15504v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Topological Inductive Bias fosters Multiple Instance Learning in Data-Scarce Scenarios](https://arxiv.org/abs/2307.14025v3)** | 2026-03-02 |  |
-| **[ASMIL: Attention-Stabilized Multiple Instance Learning for Whole Slide Imaging](https://arxiv.org/abs/2603.06658v1)** | 2026-03-01 | 39 pages, 26 figures |
-| **[Hierarchical Classification for Improved Histopathology Image Analysis](https://arxiv.org/abs/2603.00504v1)** | 2026-02-28 |  |
-| **[SAPNet++: Evolving Point-Prompted Instance Segmentation with Semantic and Spatial Awareness](https://arxiv.org/abs/2602.21762v1)** | 2026-02-25 | 18 pages |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
