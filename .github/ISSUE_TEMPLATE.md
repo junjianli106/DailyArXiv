@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 25, 2026
+title: Latest 20 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](https://arxiv.org/abs/2603.23067v1)** | 2026-03-24 |  |
+| **[MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](https://arxiv.org/abs/2603.23067v2)** | 2026-03-25 |  |
 | **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v3)** | 2026-03-23 |  |
 | **[Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2603.21504v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 Workshop on Medical Reasoning with Vision Language Foundation Models (Med-Reasoner)</p></details> |
@@ -31,7 +31,7 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](https://arxiv.org/abs/2603.23067v1)** | 2026-03-24 |  |
+| **[MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](https://arxiv.org/abs/2603.23067v2)** | 2026-03-25 |  |
 | **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v3)** | 2026-03-23 |  |
 | **[Parameter-efficient Prompt Tuning and Hierarchical Textual Guidance for Few-shot Whole Slide Image Classification](https://arxiv.org/abs/2603.21504v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted for publication at CVPR 2026 Workshop on Medical Reasoning with Vision Language Foundation Models (Med-Reasoner)</p></details> |
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resolving gradient pathology in physics-informed epidemiological models](https://arxiv.org/abs/2603.23799v1)** | 2026-03-25 | <details><summary>16 pa...</summary><p>16 pages, 4 figures. Submitted to Neural Networks</p></details> |
 | **[Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395v3)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Code: https://github.com/CAIR-LAB-WFUSM/MoMKD</p></details> |
 | **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 | **[Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness](https://arxiv.org/abs/2603.18896v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by Medical Image Analysis</p></details> |
@@ -74,11 +75,11 @@ labels: documentation
 | **[Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives on Clinical Integration and Translational Readiness](https://arxiv.org/abs/2603.05884v2)** | 2026-03-11 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v3)** | 2026-03-11 |  |
 | **[PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration](https://arxiv.org/abs/2603.08935v2)** | 2026-03-11 |  |
-| **[Layout-Guided Controllable Pathology Image Generation with In-Context Diffusion Transformers](https://arxiv.org/abs/2603.13386v1)** | 2026-03-11 | 19 pages |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Set2Seq Transformer: Temporal and Position-Aware Set Representations for Sequential Multiple-Instance Learning](https://arxiv.org/abs/2408.03404v3)** | 2026-03-24 |  |
 | **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
 | **[MIHT: A Hoeffding Tree for Time Series Classification using Multiple Instance Learning](https://arxiv.org/abs/2603.22074v1)** | 2026-03-23 |  |
 | **[GOLDMARK: Governed Outcome-Linked Diagnostic Model Assessment Reference Kit](https://arxiv.org/abs/2603.20848v1)** | 2026-03-21 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[MIL-PF: Multiple Instance Learning on Precomputed Features for Mammography Classification](https://arxiv.org/abs/2603.09374v1)** | 2026-03-10 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code will be released</p></details> |
 | **[Beyond Attention Heatmaps: How to Get Better Explanations for Multiple Instance Learning Models in Histopathology](https://arxiv.org/abs/2603.08328v1)** | 2026-03-09 |  |
 | **[MoEMambaMIL: Structure-Aware Selective State Space Modeling for Whole-Slide Image Analysis](https://arxiv.org/abs/2603.06378v1)** | 2026-03-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 6 tables</p></details> |
-| **[Exploiting Low-Dimensional Manifold of Features for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2505.15504v2)** | 2026-03-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
