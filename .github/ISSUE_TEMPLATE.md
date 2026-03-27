@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 26, 2026
+title: Latest 20 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics](https://arxiv.org/abs/2603.25247v1)** | 2026-03-26 |  |
+| **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v4)** | 2026-03-25 | 18 pages, 11 figures |
+| **[Graph Memory: A Structured and Interpretable Framework for Modality-Agnostic Embedding-Based Inference](https://arxiv.org/abs/2511.14961v2)** | 2026-03-25 | <details><summary>This ...</summary><p>This version expands the published conference paper (VISAPP 2026) with additional methodological details, experiments, and analysis that were omitted due to page limits. The final published version is available via DOI: 10.5220/0014578800004084</p></details> |
 | **[MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](https://arxiv.org/abs/2603.23067v2)** | 2026-03-25 |  |
 | **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v3)** | 2026-03-23 |  |
@@ -24,13 +27,13 @@ labels: documentation
 | **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 | **[Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2603.15774v1)** | 2026-03-16 |  |
 | **[BiTro: Bidirectional Transfer Learning Enhances Bulk and Spatial Transcriptomics Prediction in Cancer Pathological Images](https://arxiv.org/abs/2603.14897v1)** | 2026-03-16 |  |
-| **[Every Error has Its Magnitude: Asymmetric Mistake Severity Training for Multiclass Multiple Instance Learning](https://arxiv.org/abs/2603.13682v1)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v3)** | 2026-03-13 |  |
-| **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics](https://arxiv.org/abs/2603.25247v1)** | 2026-03-26 |  |
+| **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v4)** | 2026-03-25 | 18 pages, 11 figures |
+| **[Graph Memory: A Structured and Interpretable Framework for Modality-Agnostic Embedding-Based Inference](https://arxiv.org/abs/2511.14961v2)** | 2026-03-25 | <details><summary>This ...</summary><p>This version expands the published conference paper (VISAPP 2026) with additional methodological details, experiments, and analysis that were omitted due to page limits. The final published version is available via DOI: 10.5220/0014578800004084</p></details> |
 | **[MLLM-HWSI: A Multimodal Large Language Model for Hierarchical Whole Slide Image Understanding](https://arxiv.org/abs/2603.23067v2)** | 2026-03-25 |  |
 | **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v3)** | 2026-03-23 |  |
@@ -48,13 +51,11 @@ labels: documentation
 | **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 | **[Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2603.15774v1)** | 2026-03-16 |  |
 | **[BiTro: Bidirectional Transfer Learning Enhances Bulk and Spatial Transcriptomics Prediction in Cancer Pathological Images](https://arxiv.org/abs/2603.14897v1)** | 2026-03-16 |  |
-| **[Every Error has Its Magnitude: Asymmetric Mistake Severity Training for Multiclass Multiple Instance Learning](https://arxiv.org/abs/2603.13682v1)** | 2026-03-14 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[Weakly Supervised Teacher-Student Framework with Progressive Pseudo-mask Refinement for Gland Segmentation](https://arxiv.org/abs/2603.08605v3)** | 2026-03-13 |  |
-| **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment](https://arxiv.org/abs/2603.24847v1)** | 2026-03-25 |  |
 | **[Resolving gradient pathology in physics-informed epidemiological models](https://arxiv.org/abs/2603.23799v1)** | 2026-03-25 | <details><summary>16 pa...</summary><p>16 pages, 4 figures. Submitted to Neural Networks</p></details> |
 | **[Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395v3)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Code: https://github.com/CAIR-LAB-WFUSM/MoMKD</p></details> |
 | **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Performance Evaluation of Open-Source Large Language Models for Assisting Pathology Report Writing in Japanese](https://arxiv.org/abs/2603.11597v1)** | 2026-03-12 | <details><summary>9 pag...</summary><p>9 pages (including bibliography), 2 figures, 6 tables</p></details> |
 | **[Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives on Clinical Integration and Translational Readiness](https://arxiv.org/abs/2603.05884v2)** | 2026-03-11 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v3)** | 2026-03-11 |  |
-| **[PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration](https://arxiv.org/abs/2603.08935v2)** | 2026-03-11 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
