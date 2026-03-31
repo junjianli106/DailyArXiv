@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 30, 2026
+title: Latest 20 Papers - March 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://arxiv.org/abs/2603.00667v2)** | 2026-03-28 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Accepted by CVPR'26</p></details> |
+| **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v1)** | 2026-03-27 |  |
 | **[LEMON: a foundation model for nuclear morphology in Computational Pathology](https://arxiv.org/abs/2603.25802v1)** | 2026-03-26 |  |
 | **[Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964v2)** | 2026-03-26 |  |
 | **[FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics](https://arxiv.org/abs/2603.25247v1)** | 2026-03-26 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[CytoSyn: a Foundation Diffusion Model for Histopathology -- Tech Report](https://arxiv.org/abs/2603.18089v1)** | 2026-03-18 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, tech report, model page: https://huggingface.co/Owkin-Bioptimus/CytoSyn</p></details> |
 | **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2603.20273v1)** | 2026-03-17 |  |
-| **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://arxiv.org/abs/2603.00667v2)** | 2026-03-28 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Accepted by CVPR'26</p></details> |
+| **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v1)** | 2026-03-27 |  |
 | **[LEMON: a foundation model for nuclear morphology in Computational Pathology](https://arxiv.org/abs/2603.25802v1)** | 2026-03-26 |  |
 | **[Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964v2)** | 2026-03-26 |  |
 | **[FEAST: Fully Connected Expressive Attention for Spatial Transcriptomics](https://arxiv.org/abs/2603.25247v1)** | 2026-03-26 |  |
@@ -49,14 +51,15 @@ labels: documentation
 | **[CytoSyn: a Foundation Diffusion Model for Histopathology -- Tech Report](https://arxiv.org/abs/2603.18089v1)** | 2026-03-18 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, tech report, model page: https://huggingface.co/Owkin-Bioptimus/CytoSyn</p></details> |
 | **[HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction](https://arxiv.org/abs/2603.16421v2)** | 2026-03-18 | <details><summary>Accep...</summary><p>Accepted at IEEE ICME 2026. This arXiv version includes additional supplementary experiments and extended discussions beyond the conference version</p></details> |
 | **[CARE: A Molecular-Guided Foundation Model with Adaptive Region Modeling for Whole Slide Image Analysis](https://arxiv.org/abs/2602.21637v3)** | 2026-03-17 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Efficient AI-Driven Multi-Section Whole Slide Image Analysis for Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2603.20273v1)** | 2026-03-17 |  |
-| **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Clore: Interactive Pathology Image Segmentation with Click-based Local Refinement](https://arxiv.org/abs/2603.27625v1)** | 2026-03-29 |  |
+| **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v1)** | 2026-03-27 |  |
 | **[LEMON: a foundation model for nuclear morphology in Computational Pathology](https://arxiv.org/abs/2603.25802v1)** | 2026-03-26 |  |
 | **[Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964v2)** | 2026-03-26 |  |
+| **[Dictionary-based Pathology Mining with Hard-instance-assisted Classifier Debiasing for Genetic Biomarker Prediction from WSIs](https://arxiv.org/abs/2603.26809v1)** | 2026-03-26 | 13 pages, 13 figures |
 | **[CORA: A Pathology Synthesis Driven Foundation Model for Coronary CT Angiography Analysis and MACE Risk Assessment](https://arxiv.org/abs/2603.24847v1)** | 2026-03-25 |  |
 | **[Resolving gradient pathology in physics-informed epidemiological models](https://arxiv.org/abs/2603.23799v1)** | 2026-03-25 | <details><summary>16 pa...</summary><p>16 pages, 4 figures. Submitted to Neural Networks</p></details> |
 | **[Momentum Memory for Knowledge Distillation in Computational Pathology](https://arxiv.org/abs/2602.21395v3)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Code: https://github.com/CAIR-LAB-WFUSM/MoMKD</p></details> |
@@ -72,13 +75,11 @@ labels: documentation
 | **[Stuck on Suggestions: Automation Bias, the Anchoring Effect, and the Factors That Shape Them in Computational Pathology](https://arxiv.org/abs/2603.11821v2)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2026:007</p></details> |
 | **[A protocol for evaluating robustness to H&E staining variation in computational pathology models](https://arxiv.org/abs/2603.12886v1)** | 2026-03-13 |  |
 | **[Scaling Laws and Pathologies of Single-Layer PINNs: Network Width and PDE Nonlinearity](https://arxiv.org/abs/2603.12556v1)** | 2026-03-13 | <details><summary>Accep...</summary><p>Accepted at the Machine Learning and Physical Sciences Workshop (NeurIPS 2025)</p></details> |
-| **[Unmasking Biases and Reliability Concerns in Convolutional Neural Networks Analysis of Cancer Pathology Images](https://arxiv.org/abs/2603.12445v1)** | 2026-03-12 | <details><summary>Elect...</summary><p>Electronics, published</p></details> |
-| **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v3)** | 2026-03-12 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
-| **[Performance Evaluation of Open-Source Large Language Models for Assisting Pathology Report Writing in Japanese](https://arxiv.org/abs/2603.11597v1)** | 2026-03-12 | <details><summary>9 pag...</summary><p>9 pages (including bibliography), 2 figures, 6 tables</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection](https://arxiv.org/abs/2509.17292v2)** | 2026-03-29 |  |
 | **[Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets](https://arxiv.org/abs/2603.25946v1)** | 2026-03-26 | 33 pages, 11 figures |
 | **[Set2Seq Transformer: Temporal and Position-Aware Set Representations for Sequential Multiple-Instance Learning](https://arxiv.org/abs/2408.03404v3)** | 2026-03-24 |  |
 | **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Leveraging Spatial Context for Positive Pair Sampling in Histopathology Image Representation Learning](https://arxiv.org/abs/2503.05170v3)** | 2026-03-11 |  |
 | **[Leveraging whole slide difficulty in Multiple Instance Learning to improve prostate cancer grading](https://arxiv.org/abs/2603.09953v1)** | 2026-03-10 | ISBI 2026 |
 | **[MIL-PF: Multiple Instance Learning on Precomputed Features for Mammography Classification](https://arxiv.org/abs/2603.09374v1)** | 2026-03-10 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 4 tables. Code will be released</p></details> |
-| **[Beyond Attention Heatmaps: How to Get Better Explanations for Multiple Instance Learning Models in Histopathology](https://arxiv.org/abs/2603.08328v1)** | 2026-03-09 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
