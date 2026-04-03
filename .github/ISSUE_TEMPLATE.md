@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 02, 2026
+title: Latest 20 Papers - April 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v1)** | 2026-04-02 |  |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v2)** | 2026-03-31 |  |
 | **[Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration](https://arxiv.org/abs/2603.29977v1)** | 2026-03-31 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, under review at XAI 2026 LBW</p></details> |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v3)** | 2026-03-31 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v3)** | 2026-03-19 | 19 pages |
 | **[Multimodal Model for Computational Pathology:Representation Learning and Image Compression](https://arxiv.org/abs/2603.18660v1)** | 2026-03-19 |  |
 | **[CAFlow: Adaptive-Depth Single-Step Flow Matching for Efficient Histopathology Super-Resolution](https://arxiv.org/abs/2603.18513v1)** | 2026-03-19 |  |
-| **[CytoSyn: a Foundation Diffusion Model for Histopathology -- Tech Report](https://arxiv.org/abs/2603.18089v1)** | 2026-03-18 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, tech report, model page: https://huggingface.co/Owkin-Bioptimus/CytoSyn</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v1)** | 2026-04-02 |  |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v2)** | 2026-03-31 |  |
 | **[Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration](https://arxiv.org/abs/2603.29977v1)** | 2026-03-31 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, under review at XAI 2026 LBW</p></details> |
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v3)** | 2026-03-31 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[A Multicenter Benchmark of Multiple Instance Learning Models for Lymphoma Subtyping from HE-stained Whole Slide Images](https://arxiv.org/abs/2512.14640v3)** | 2026-03-19 | 19 pages |
 | **[Multimodal Model for Computational Pathology:Representation Learning and Image Compression](https://arxiv.org/abs/2603.18660v1)** | 2026-03-19 |  |
 | **[CAFlow: Adaptive-Depth Single-Step Flow Matching for Efficient Histopathology Super-Resolution](https://arxiv.org/abs/2603.18513v1)** | 2026-03-19 |  |
-| **[CytoSyn: a Foundation Diffusion Model for Histopathology -- Tech Report](https://arxiv.org/abs/2603.18089v1)** | 2026-03-18 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, tech report, model page: https://huggingface.co/Owkin-Bioptimus/CytoSyn</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
