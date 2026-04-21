@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 20, 2026
+title: Latest 20 Papers - April 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v2)** | 2026-04-19 |  |
+| **[PBSBench: A Multi-Level Vision-Language Framework and Benchmark for Hematopathology Whole Slide Image Interpretation](https://arxiv.org/abs/2604.17570v1)** | 2026-04-19 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, Accepted by CVPR Findings 2026</p></details> |
+| **[Multi-Beholder: Biomarker Prediction for Low-Grade Glioma with Multiple Instance Learning and One-Class Classification](https://arxiv.org/abs/2310.07464v2)** | 2026-04-19 | 14 pages, 5 figures |
+| **[Detecting Breast Carcinoma Metastasis on Whole-Slide Images by Partially Subsampled Multiple Instance Learning](https://arxiv.org/abs/2604.17254v1)** | 2026-04-19 |  |
+| **[Region-Affinity Attention for Whole-Slide Breast Cancer Classification in Deep Ultraviolet Imaging](https://arxiv.org/abs/2604.17222v1)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted at the IEEE Engineering in Medicine and Biology Society Annual International Conference (Proceedings of the 48th International Conference), 2026</p></details> |
 | **[MambaBack: Bridging Local Features and Global Contexts in Whole Slide Image Analysis](https://arxiv.org/abs/2604.15729v1)** | 2026-04-17 |  |
 | **[SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification](https://arxiv.org/abs/2604.15711v1)** | 2026-04-17 |  |
 | **[Democratising Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v2)** | 2026-04-15 | 12 pages, 4 figures |
@@ -22,15 +27,15 @@ labels: documentation
 | **[Learning Spatial-Preserving Hierarchical Representations for Digital Pathology](https://arxiv.org/abs/2406.09333v3)** | 2026-04-08 |  |
 | **[MedGemma 1.5 Technical Report](https://arxiv.org/abs/2604.05081v1)** | 2026-04-06 |  |
 | **[PRIME: Prototype-Driven Multimodal Pretraining for Cancer Prognosis with Missing Modalities](https://arxiv.org/abs/2604.04999v1)** | 2026-04-05 |  |
-| **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v1)** | 2026-04-02 |  |
-| **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v2)** | 2026-03-31 |  |
-| **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v3)** | 2026-03-31 |  |
-| **[Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://arxiv.org/abs/2603.00667v2)** | 2026-03-28 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Accepted by CVPR'26</p></details> |
-| **[LEMON: a foundation model for nuclear morphology in Computational Pathology](https://arxiv.org/abs/2603.25802v1)** | 2026-03-26 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v2)** | 2026-04-19 |  |
+| **[PBSBench: A Multi-Level Vision-Language Framework and Benchmark for Hematopathology Whole Slide Image Interpretation](https://arxiv.org/abs/2604.17570v1)** | 2026-04-19 | <details><summary>19 pa...</summary><p>19 pages, 12 figures, Accepted by CVPR Findings 2026</p></details> |
+| **[Multi-Beholder: Biomarker Prediction for Low-Grade Glioma with Multiple Instance Learning and One-Class Classification](https://arxiv.org/abs/2310.07464v2)** | 2026-04-19 | 14 pages, 5 figures |
+| **[Detecting Breast Carcinoma Metastasis on Whole-Slide Images by Partially Subsampled Multiple Instance Learning](https://arxiv.org/abs/2604.17254v1)** | 2026-04-19 |  |
+| **[Region-Affinity Attention for Whole-Slide Breast Cancer Classification in Deep Ultraviolet Imaging](https://arxiv.org/abs/2604.17222v1)** | 2026-04-19 | <details><summary>Accep...</summary><p>Accepted at the IEEE Engineering in Medicine and Biology Society Annual International Conference (Proceedings of the 48th International Conference), 2026</p></details> |
 | **[MambaBack: Bridging Local Features and Global Contexts in Whole Slide Image Analysis](https://arxiv.org/abs/2604.15729v1)** | 2026-04-17 |  |
 | **[SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification](https://arxiv.org/abs/2604.15711v1)** | 2026-04-17 |  |
 | **[Democratising Pathology Co-Pilots: An Open Pipeline and Dataset for Whole-Slide Vision-Language Modelling](https://arxiv.org/abs/2512.17326v2)** | 2026-04-15 | 12 pages, 4 figures |
@@ -46,15 +51,13 @@ labels: documentation
 | **[Learning Spatial-Preserving Hierarchical Representations for Digital Pathology](https://arxiv.org/abs/2406.09333v3)** | 2026-04-08 |  |
 | **[MedGemma 1.5 Technical Report](https://arxiv.org/abs/2604.05081v1)** | 2026-04-06 |  |
 | **[PRIME: Prototype-Driven Multimodal Pretraining for Cancer Prognosis with Missing Modalities](https://arxiv.org/abs/2604.04999v1)** | 2026-04-05 |  |
-| **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v1)** | 2026-04-02 |  |
-| **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v2)** | 2026-03-31 |  |
-| **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v3)** | 2026-03-31 |  |
-| **[Act Like a Pathologist: Tissue-Aware Whole Slide Image Reasoning](https://arxiv.org/abs/2603.00667v2)** | 2026-03-28 | <details><summary>14 pa...</summary><p>14 pages, 8 figures. Accepted by CVPR'26</p></details> |
-| **[LEMON: a foundation model for nuclear morphology in Computational Pathology](https://arxiv.org/abs/2603.25802v1)** | 2026-03-26 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is SAM3 ready for pathology segmentation?](https://arxiv.org/abs/2604.18225v1)** | 2026-04-20 |  |
+| **[Beyond the Failures: Rethinking Foundation Models in Pathology](https://arxiv.org/abs/2510.23807v5)** | 2026-04-20 |  |
+| **[PA-TCNet: Pathology-Aware Temporal Calibration with Physiology-Guided Target Refinement for Cross-Subject Motor Imagery EEG Decoding in Stroke Patients](https://arxiv.org/abs/2604.16554v1)** | 2026-04-17 |  |
 | **[SegMix:Shuffle-based Feedback Learning for Semantic Segmentation of Pathology Images](https://arxiv.org/abs/2604.15777v1)** | 2026-04-17 |  |
 | **[SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification](https://arxiv.org/abs/2604.15711v1)** | 2026-04-17 |  |
 | **[MorphDistill: Distilling Unified Morphological Knowledge from Pathology Foundation Models for Colorectal Cancer Survival Prediction](https://arxiv.org/abs/2604.06390v2)** | 2026-04-13 |  |
@@ -72,13 +75,12 @@ labels: documentation
 | **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 | **[Translating MRI to PET through Conditional Diffusion Models with Enhanced Pathology Awareness](https://arxiv.org/abs/2603.18896v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by Medical Image Analysis</p></details> |
 | **[Cell-Type Prototype-Informed Neural Network for Gene Expression Estimation from Pathology Images](https://arxiv.org/abs/2603.18461v1)** | 2026-03-19 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[A Comprehensive Benchmark of Histopathology Foundation Models for Kidney Digital Pathology Images](https://arxiv.org/abs/2603.15967v2)** | 2026-03-18 | <details><summary>31 Pa...</summary><p>31 Pages, 14 Tables, 12 figures, Co-correspondence to jhodgin@med.umich.edu and pinaki.sarder@ufl.edu</p></details> |
-| **[Pathology-Aware Multi-View Contrastive Learning for Patient-Independent ECG Reconstruction](https://arxiv.org/abs/2603.17248v1)** | 2026-03-18 |  |
-| **[PathGLS: Evaluating Pathology Vision-Language Models without Ground Truth through Multi-Dimensional Consistency](https://arxiv.org/abs/2603.16113v1)** | 2026-03-17 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-Beholder: Biomarker Prediction for Low-Grade Glioma with Multiple Instance Learning and One-Class Classification](https://arxiv.org/abs/2310.07464v2)** | 2026-04-19 | 14 pages, 5 figures |
+| **[Detecting Breast Carcinoma Metastasis on Whole-Slide Images by Partially Subsampled Multiple Instance Learning](https://arxiv.org/abs/2604.17254v1)** | 2026-04-19 |  |
 | **[MambaBack: Bridging Local Features and Global Contexts in Whole Slide Image Analysis](https://arxiv.org/abs/2604.15729v1)** | 2026-04-17 |  |
 | **[Multi-View Attention Multiple-Instance Learning Enhanced by LLM Reasoning for Cognitive Distortion Detection](https://arxiv.org/abs/2509.17292v3)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to the main conference of ACL 2026</p></details> |
 | **[PC-MIL: Decoupling Feature Resolution from Supervision Scale in Whole-Slide Learning](https://arxiv.org/abs/2604.12100v1)** | 2026-04-13 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables. Under review at MICCAI 2026</p></details> |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Explainable histomorphology-based survival prediction of glioblastoma, IDH-wildtype](https://arxiv.org/abs/2601.11691v3)** | 2026-03-31 |  |
 | **[Collision-Aware Vision-Language Learning for End-to-End Driving with Multimodal Infraction Datasets](https://arxiv.org/abs/2603.25946v1)** | 2026-03-26 | 33 pages, 11 figures |
 | **[Set2Seq Transformer: Temporal and Position-Aware Set Representations for Sequential Multiple-Instance Learning](https://arxiv.org/abs/2408.03404v3)** | 2026-03-24 |  |
-| **[Mixture of Mini Experts: Overcoming the Linear Layer Bottleneck in Multiple Instance Learning](https://arxiv.org/abs/2603.22198v1)** | 2026-03-23 | <details><summary>Publi...</summary><p>Published in ICLR 2026 (37 pages, 16 figures)</p></details> |
-| **[MIHT: A Hoeffding Tree for Time Series Classification using Multiple Instance Learning](https://arxiv.org/abs/2603.22074v1)** | 2026-03-23 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
