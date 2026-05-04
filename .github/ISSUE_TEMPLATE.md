@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 03, 2026
+title: Latest 20 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts](https://arxiv.org/abs/2410.06723v2)** | 2026-04-28 |  |
 | **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v4)** | 2026-04-28 |  |
 | **[Hierarchical Prototype-based Domain Priors for Multiple Instance Learning in Multimodal Histopathology Analysis](https://arxiv.org/abs/2604.23982v1)** | 2026-04-27 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[MorphDistill: Distilling Unified Morphological Knowledge from Pathology Foundation Models for Colorectal Cancer Survival Prediction](https://arxiv.org/abs/2604.06390v2)** | 2026-04-13 |  |
 | **[OpenTME: An Open Dataset of AI-powered H&E Tumor Microenvironment Profiles from TCGA](https://arxiv.org/abs/2604.12075v1)** | 2026-04-13 |  |
 | **[Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration](https://arxiv.org/abs/2603.29977v2)** | 2026-04-13 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, under review at XAI 2026 LBW</p></details> |
-| **[AdvDINO: Domain-Adversarial Self-Supervised Representation Learning for Spatial Proteomics](https://arxiv.org/abs/2508.04955v2)** | 2026-04-13 | <details><summary>Proce...</summary><p>Proceedings of the Medical Imaging with Deep Learning (MIDL) Conference 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts](https://arxiv.org/abs/2410.06723v2)** | 2026-04-28 |  |
 | **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v4)** | 2026-04-28 |  |
 | **[Hierarchical Prototype-based Domain Priors for Multiple Instance Learning in Multimodal Histopathology Analysis](https://arxiv.org/abs/2604.23982v1)** | 2026-04-27 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[MorphDistill: Distilling Unified Morphological Knowledge from Pathology Foundation Models for Colorectal Cancer Survival Prediction](https://arxiv.org/abs/2604.06390v2)** | 2026-04-13 |  |
 | **[OpenTME: An Open Dataset of AI-powered H&E Tumor Microenvironment Profiles from TCGA](https://arxiv.org/abs/2604.12075v1)** | 2026-04-13 |  |
 | **[Quantifying Cross-Modal Interactions in Multimodal Glioma Survival Prediction via InterSHAP: Evidence for Additive Signal Integration](https://arxiv.org/abs/2603.29977v2)** | 2026-04-13 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, under review at XAI 2026 LBW</p></details> |
-| **[AdvDINO: Domain-Adversarial Self-Supervised Representation Learning for Spatial Proteomics](https://arxiv.org/abs/2508.04955v2)** | 2026-04-13 | <details><summary>Proce...</summary><p>Proceedings of the Medical Imaging with Deep Learning (MIDL) Conference 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification](https://arxiv.org/abs/2604.26807v1)** | 2026-04-29 |  |
 | **[SIMPLER: H&E-Informed Representation Learning for Structured Illumination Microscopy](https://arxiv.org/abs/2604.10334v2)** | 2026-04-27 |  |
 | **[Component-Adaptive and Lesion-Level Supervision for Improved Small Structure Segmentation in Brain MRI](https://arxiv.org/abs/2604.08015v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This version includes additional false-negative and false-positive error analysis in the Results</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Needle in a Haystack: One-Class Representation Learning for Detecting Rare Malignant Cells in Computational Cytology](https://arxiv.org/abs/2604.07722v2)** | 2026-04-10 | 15 pages, 7 figures |
 | **[Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification](https://arxiv.org/abs/2604.07298v1)** | 2026-04-08 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables</p></details> |
 | **[Stress Estimation in Elderly Oncology Patients Using Visual Wearable Representations and Multi-Instance Learning](https://arxiv.org/abs/2604.06990v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, under review for IEEE EMBC 2026</p></details> |
-| **[Frailty Estimation in Elderly Oncology Patients Using Multimodal Wearable Data and Multi-Instance Learning](https://arxiv.org/abs/2604.06985v1)** | 2026-04-08 | <details><summary>7 pag...</summary><p>7 pages, 1 figure, under review for IEEE EMBC 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
