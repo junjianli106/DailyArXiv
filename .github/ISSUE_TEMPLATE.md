@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 10, 2026
+title: Latest 20 Papers - May 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Stepwise Clinically-Guided Attention Learning for Pathological Complete Response Prediction in Breast Cancer](https://arxiv.org/abs/2605.07561v1)** | 2026-05-08 |  |
 | **[A Detection-Gated Pipeline for Robust Glottal Area Waveform Extraction and Clinical Pathology Assessment](https://arxiv.org/abs/2603.02087v3)** | 2026-05-06 | <details><summary>for a...</summary><p>for associated code see: https://github.com/hari-krishnan/openglottal</p></details> |
 | **[SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification](https://arxiv.org/abs/2604.15711v2)** | 2026-05-06 |  |
 | **[SegMix:Shuffle-based Feedback Learning for Semantic Segmentation of Pathology Images](https://arxiv.org/abs/2604.15777v2)** | 2026-05-06 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Learning Spatial-Preserving Hierarchical Representations for Digital Pathology](https://arxiv.org/abs/2406.09333v3)** | 2026-04-08 |  |
 | **[TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://arxiv.org/abs/2511.17652v2)** | 2026-04-06 | 45 pages, 6 figures |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v2)** | 2026-03-31 |  |
-| **[Clore: Interactive Pathology Image Segmentation with Click-based Local Refinement](https://arxiv.org/abs/2603.27625v1)** | 2026-03-29 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
