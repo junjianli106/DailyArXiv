@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 14, 2026
+title: Latest 20 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
+| **[Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images](https://arxiv.org/abs/2605.14251v1)** | 2026-05-14 |  |
 | **[Enabling clinical use of foundation models for computational pathology](https://arxiv.org/abs/2602.22347v2)** | 2026-05-12 |  |
 | **[Are Compact Rationales Free? Measuring Tile Selection Headroom in Frozen WSI-MIL](https://arxiv.org/abs/2605.12575v1)** | 2026-05-12 |  |
 | **[RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction](https://arxiv.org/abs/2605.11622v1)** | 2026-05-12 | <details><summary>15 pa...</summary><p>15 pages, 13 tables, 3 figures. Accepted by the Forty-Third International Conference on Machine Learning (ICML2026). Code is available at https://github.com/YXSong000/RNA-FM</p></details> |
@@ -25,12 +27,12 @@ labels: documentation
 | **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v4)** | 2026-04-28 |  |
 | **[Hierarchical Prototype-based Domain Priors for Multiple Instance Learning in Multimodal Histopathology Analysis](https://arxiv.org/abs/2604.23982v1)** | 2026-04-27 |  |
 | **[Weakly Supervised Multicenter Nancy Index Scoring in Ulcerative Colitis Using Foundation Models](https://arxiv.org/abs/2604.23706v1)** | 2026-04-26 |  |
-| **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
-| **[A Digital Pathology Resource for Liver Cancer Quantification with Datasets, Benchmarks, and Tools](https://arxiv.org/abs/2604.22858v1)** | 2026-04-22 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
+| **[Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images](https://arxiv.org/abs/2605.14251v1)** | 2026-05-14 |  |
 | **[Enabling clinical use of foundation models for computational pathology](https://arxiv.org/abs/2602.22347v2)** | 2026-05-12 |  |
 | **[Are Compact Rationales Free? Measuring Tile Selection Headroom in Frozen WSI-MIL](https://arxiv.org/abs/2605.12575v1)** | 2026-05-12 |  |
 | **[RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction](https://arxiv.org/abs/2605.11622v1)** | 2026-05-12 | <details><summary>15 pa...</summary><p>15 pages, 13 tables, 3 figures. Accepted by the Forty-Third International Conference on Machine Learning (ICML2026). Code is available at https://github.com/YXSong000/RNA-FM</p></details> |
@@ -49,12 +51,13 @@ labels: documentation
 | **[A deep learning pipeline for PAM50 subtype classification using histopathology images and multi-objective patch selection](https://arxiv.org/abs/2604.01798v4)** | 2026-04-28 |  |
 | **[Hierarchical Prototype-based Domain Priors for Multiple Instance Learning in Multimodal Histopathology Analysis](https://arxiv.org/abs/2604.23982v1)** | 2026-04-27 |  |
 | **[Weakly Supervised Multicenter Nancy Index Scoring in Ulcerative Colitis Using Foundation Models](https://arxiv.org/abs/2604.23706v1)** | 2026-04-26 |  |
-| **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
-| **[A Digital Pathology Resource for Liver Cancer Quantification with Datasets, Benchmarks, and Tools](https://arxiv.org/abs/2604.22858v1)** | 2026-04-22 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
+| **[Heuristic Pathologies and Further Variance Reduction via Uncertainty Propagation in the AIVAT Family of Techniques](https://arxiv.org/abs/2605.14261v1)** | 2026-05-14 |  |
+| **[Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images](https://arxiv.org/abs/2605.14251v1)** | 2026-05-14 |  |
 | **[Is SAM3 ready for pathology segmentation?](https://arxiv.org/abs/2604.18225v2)** | 2026-05-12 | accept to icip2026 |
 | **[Enabling clinical use of foundation models for computational pathology](https://arxiv.org/abs/2602.22347v2)** | 2026-05-12 |  |
 | **[DiffSegLung: Diffusion Radiomic Distillation for Unsupervised Lung Pathology Segmentation](https://arxiv.org/abs/2605.11758v1)** | 2026-05-12 |  |
@@ -72,9 +75,6 @@ labels: documentation
 | **[Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology](https://arxiv.org/abs/2605.03352v1)** | 2026-05-05 |  |
 | **[Validation of an AI-based end-to-end model for prostate pathology using long-term archived routine samples](https://arxiv.org/abs/2605.02614v1)** | 2026-05-04 | <details><summary>47 pa...</summary><p>47 pages, 10 figures, 9 tables</p></details> |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
-| **[Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts](https://arxiv.org/abs/2410.06723v2)** | 2026-04-28 |  |
-| **[Dino-NestedUNet: Unlocking Foundation Vision Encoders for Pathology Tumor Bulk Segmentation via Dense Decoding](https://arxiv.org/abs/2605.00894v1)** | 2026-04-27 |  |
-| **[Benchmarking Pathology Foundation Models for Breast Cancer Survival Prediction](https://arxiv.org/abs/2604.24679v1)** | 2026-04-27 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
