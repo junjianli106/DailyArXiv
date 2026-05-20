@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 19, 2026
+title: Latest 20 Papers - May 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Camera-Ready version updated</p></details> |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Deep learning-based compression of giga-resolution whole slide images](https://arxiv.org/abs/2605.17668v1)** | 2026-05-17 |  |
 | **[GCE-MIL: Faithful and Recoverable Evidence for Multiple Instance Learning in Whole-Slide Imaging](https://arxiv.org/abs/2605.17456v1)** | 2026-05-17 | <details><summary>10 pa...</summary><p>10 pages, 17 figures, 24 table</p></details> |
 | **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
@@ -24,13 +26,13 @@ labels: documentation
 | **[Biological Spatial Priors Regularize Foundation Model Representations for Cross-Site MSI Generalization in Colorectal Cancer](https://arxiv.org/abs/2605.02660v1)** | 2026-05-04 |  |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[MedGemma 1.5 Technical Report](https://arxiv.org/abs/2604.05081v2)** | 2026-05-01 |  |
-| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data](https://arxiv.org/abs/2605.00902v1)** | 2026-04-28 |  |
-| **[Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts](https://arxiv.org/abs/2410.06723v2)** | 2026-04-28 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Camera-Ready version updated</p></details> |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Deep learning-based compression of giga-resolution whole slide images](https://arxiv.org/abs/2605.17668v1)** | 2026-05-17 |  |
 | **[GCE-MIL: Faithful and Recoverable Evidence for Multiple Instance Learning in Whole-Slide Imaging](https://arxiv.org/abs/2605.17456v1)** | 2026-05-17 | <details><summary>10 pa...</summary><p>10 pages, 17 figures, 24 table</p></details> |
 | **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
@@ -48,18 +50,18 @@ labels: documentation
 | **[Biological Spatial Priors Regularize Foundation Model Representations for Cross-Site MSI Generalization in Colorectal Cancer](https://arxiv.org/abs/2605.02660v1)** | 2026-05-04 |  |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[MedGemma 1.5 Technical Report](https://arxiv.org/abs/2604.05081v2)** | 2026-05-01 |  |
-| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data](https://arxiv.org/abs/2605.00902v1)** | 2026-04-28 |  |
-| **[Evaluating Computational Pathology Foundation Models for Prostate Cancer Grading under Distribution Shifts](https://arxiv.org/abs/2410.06723v2)** | 2026-04-28 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Is SAM3 ready for pathology segmentation?](https://arxiv.org/abs/2604.18225v3)** | 2026-05-19 | accept to icip2026 |
+| **[CLIC: Contextual Language-Informed Cardiac Pathology Classification](https://arxiv.org/abs/2605.19132v1)** | 2026-05-18 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, accepted at the ICLR 2026 Workshop on Time Series in the Age of Large Models (TSALM)</p></details> |
 | **[Perceptual implications of automatic anonymization in pathological speech](https://arxiv.org/abs/2505.00409v3)** | 2026-05-17 |  |
 | **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
 | **[Heuristic Pathologies and Further Variance Reduction via Uncertainty Propagation in the AIVAT Family of Techniques](https://arxiv.org/abs/2605.14261v1)** | 2026-05-14 |  |
 | **[Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images](https://arxiv.org/abs/2605.14251v1)** | 2026-05-14 |  |
-| **[Is SAM3 ready for pathology segmentation?](https://arxiv.org/abs/2604.18225v2)** | 2026-05-12 | accept to icip2026 |
 | **[Enabling clinical use of foundation models for computational pathology](https://arxiv.org/abs/2602.22347v2)** | 2026-05-12 |  |
 | **[DiffSegLung: Diffusion Radiomic Distillation for Unsupervised Lung Pathology Segmentation](https://arxiv.org/abs/2605.11758v1)** | 2026-05-12 |  |
 | **[Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://arxiv.org/abs/2605.16392v1)** | 2026-05-12 |  |
@@ -73,12 +75,12 @@ labels: documentation
 | **[SSMamba: A Self-Supervised Hybrid State Space Model for Pathological Image Classification](https://arxiv.org/abs/2604.15711v2)** | 2026-05-06 |  |
 | **[SegMix:Shuffle-based Feedback Learning for Semantic Segmentation of Pathology Images](https://arxiv.org/abs/2604.15777v2)** | 2026-05-06 |  |
 | **[A Breast Vision Pathology Foundation Model for Real-world Clinical Utility](https://arxiv.org/abs/2605.08207v1)** | 2026-05-06 | 60 pages |
-| **[DALPHIN: Benchmarking Digital Pathology AI Copilots Against Pathologists on an Open Multicentric Dataset](https://arxiv.org/abs/2605.03544v1)** | 2026-05-05 | <details><summary>Our d...</summary><p>Our dataset is available at https://zenodo.org/records/18609450 , our code is available at https://github.com/computationalpathologygroup/DALPHIN , and our benchmark is available at https://dalphin.grand-challenge.org/</p></details> |
-| **[Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology](https://arxiv.org/abs/2605.03352v1)** | 2026-05-05 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Camera-Ready version updated</p></details> |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[CLEAR-HPV: Interpretable Concept Discovery for HPV-Associated Morphology in Whole-Slide Histologyhttps://arxiv.org/submit/7596892/preview](https://arxiv.org/abs/2602.05126v2)** | 2026-05-17 |  |
 | **[GCE-MIL: Faithful and Recoverable Evidence for Multiple Instance Learning in Whole-Slide Imaging](https://arxiv.org/abs/2605.17456v1)** | 2026-05-17 | <details><summary>10 pa...</summary><p>10 pages, 17 figures, 24 table</p></details> |
 | **[Spatial Blindness in Whole-Slide Multiple Instance Learning](https://arxiv.org/abs/2605.17449v1)** | 2026-05-17 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 16 tables</p></details> |
@@ -89,7 +91,6 @@ labels: documentation
 | **[MambaBack: Bridging Local Features and Global Contexts in Whole Slide Image Analysis](https://arxiv.org/abs/2604.15729v2)** | 2026-05-06 |  |
 | **[Geometry-Aware State Space Model: A New Paradigm for Whole-Slide Image Representation](https://arxiv.org/abs/2605.05164v1)** | 2026-05-06 |  |
 | **[Validation of an AI-based end-to-end model for prostate pathology using long-term archived routine samples](https://arxiv.org/abs/2605.02614v1)** | 2026-05-04 | <details><summary>47 pa...</summary><p>47 pages, 10 figures, 9 tables</p></details> |
-| **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v1)** | 2026-05-01 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
 | **[A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification](https://arxiv.org/abs/2604.26807v1)** | 2026-04-29 |  |
 | **[Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data](https://arxiv.org/abs/2605.00902v1)** | 2026-04-28 |  |
 | **[SIMPLER: H&E-Informed Representation Learning for Structured Illumination Microscopy](https://arxiv.org/abs/2604.10334v2)** | 2026-04-27 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Weakly Supervised Multicenter Nancy Index Scoring in Ulcerative Colitis Using Foundation Models](https://arxiv.org/abs/2604.23706v1)** | 2026-04-26 |  |
 | **[Attention-based multiple instance learning for predominant growth pattern prediction in lung adenocarcinoma wsi using foundation models](https://arxiv.org/abs/2604.21530v1)** | 2026-04-23 |  |
 | **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
-| **[Multi-Beholder: Biomarker Prediction for Low-Grade Glioma with Multiple Instance Learning and One-Class Classification](https://arxiv.org/abs/2310.07464v2)** | 2026-04-19 | 14 pages, 5 figures |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
