@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 20, 2026
+title: Latest 20 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProtoPathway: Biologically Structured Prototype-Pathway Fusion for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.21454v1)** | 2026-05-20 | <details><summary>Curre...</summary><p>Currently under peer review</p></details> |
+| **[HDMoE: A Hierarchical Decoupling-Fusion Mixture-of-Experts Framework for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.20891v1)** | 2026-05-20 | <details><summary>12 pa...</summary><p>12 pages, HDMoE has been accepted by KDD 2026 AI for Sciences Track</p></details> |
+| **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
 | **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Camera-Ready version updated</p></details> |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Deep learning-based compression of giga-resolution whole slide images](https://arxiv.org/abs/2605.17668v1)** | 2026-05-17 |  |
@@ -24,13 +27,13 @@ labels: documentation
 | **[A Breast Vision Pathology Foundation Model for Real-world Clinical Utility](https://arxiv.org/abs/2605.08207v1)** | 2026-05-06 | 60 pages |
 | **[HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology](https://arxiv.org/abs/2602.07608v2)** | 2026-05-05 | <details><summary>Withd...</summary><p>Withdrawn due to dataset issues identified</p></details> |
 | **[Biological Spatial Priors Regularize Foundation Model Representations for Cross-Site MSI Generalization in Colorectal Cancer](https://arxiv.org/abs/2605.02660v1)** | 2026-05-04 |  |
-| **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
-| **[MedGemma 1.5 Technical Report](https://arxiv.org/abs/2604.05081v2)** | 2026-05-01 |  |
-| **[Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data](https://arxiv.org/abs/2605.00902v1)** | 2026-04-28 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProtoPathway: Biologically Structured Prototype-Pathway Fusion for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.21454v1)** | 2026-05-20 | <details><summary>Curre...</summary><p>Currently under peer review</p></details> |
+| **[HDMoE: A Hierarchical Decoupling-Fusion Mixture-of-Experts Framework for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.20891v1)** | 2026-05-20 | <details><summary>12 pa...</summary><p>12 pages, HDMoE has been accepted by KDD 2026 AI for Sciences Track</p></details> |
+| **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
 | **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Camera-Ready version updated</p></details> |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Deep learning-based compression of giga-resolution whole slide images](https://arxiv.org/abs/2605.17668v1)** | 2026-05-17 |  |
@@ -48,9 +51,6 @@ labels: documentation
 | **[A Breast Vision Pathology Foundation Model for Real-world Clinical Utility](https://arxiv.org/abs/2605.08207v1)** | 2026-05-06 | 60 pages |
 | **[HistoMet: A Pan-Cancer Deep Learning Framework for Prognostic Prediction of Metastatic Progression and Site Tropism from Primary Tumor Histopathology](https://arxiv.org/abs/2602.07608v2)** | 2026-05-05 | <details><summary>Withd...</summary><p>Withdrawn due to dataset issues identified</p></details> |
 | **[Biological Spatial Priors Regularize Foundation Model Representations for Cross-Site MSI Generalization in Colorectal Cancer](https://arxiv.org/abs/2605.02660v1)** | 2026-05-04 |  |
-| **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
-| **[MedGemma 1.5 Technical Report](https://arxiv.org/abs/2604.05081v2)** | 2026-05-01 |  |
-| **[Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data](https://arxiv.org/abs/2605.00902v1)** | 2026-04-28 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
 | **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Camera-Ready version updated</p></details> |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[CLEAR-HPV: Interpretable Concept Discovery for HPV-Associated Morphology in Whole-Slide Histologyhttps://arxiv.org/submit/7596892/preview](https://arxiv.org/abs/2602.05126v2)** | 2026-05-17 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Hierarchical Prototype-based Domain Priors for Multiple Instance Learning in Multimodal Histopathology Analysis](https://arxiv.org/abs/2604.23982v1)** | 2026-04-27 |  |
 | **[Weakly Supervised Multicenter Nancy Index Scoring in Ulcerative Colitis Using Foundation Models](https://arxiv.org/abs/2604.23706v1)** | 2026-04-26 |  |
 | **[Attention-based multiple instance learning for predominant growth pattern prediction in lung adenocarcinoma wsi using foundation models](https://arxiv.org/abs/2604.21530v1)** | 2026-04-23 |  |
-| **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
