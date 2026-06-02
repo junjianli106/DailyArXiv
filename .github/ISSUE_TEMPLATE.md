@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 31, 2026
+title: Latest 20 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,16 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning for Generating Computational PIN-4 Immunohistochemistry Staining from Prostate Biopsy H&E Images](https://arxiv.org/abs/2606.01871v1)** | 2026-06-01 |  |
+| **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v2)** | 2026-06-01 |  |
+| **[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053v2)** | 2026-05-29 |  |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[ConceptM$^3$oE: Concept-Guided Multimodal Mixture of Experts for Interpretable Computational Pathology](https://arxiv.org/abs/2605.24399v2)** | 2026-05-27 |  |
 | **[A Clinically Validated Foundation Model for Comprehensive Lung Pathology Interpretation](https://arxiv.org/abs/2605.25878v1)** | 2026-05-25 |  |
 | **[Benchmarking Pathology Foundation Models for Spatial Domain Understanding](https://arxiv.org/abs/2605.25764v1)** | 2026-05-25 | MICCAI2026 |
 | **[Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778v6)** | 2026-05-25 |  |
+| **[Aligning Cellular Sheaves with Classifier Attention for Interpretable Weakly-Supervised Pathology Localization](https://arxiv.org/abs/2606.00092v1)** | 2026-05-24 |  |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v1)** | 2026-05-22 |  |
 | **[PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA](https://arxiv.org/abs/2605.23559v1)** | 2026-05-22 |  |
 | **[ProtoPathway: Biologically Structured Prototype-Pathway Fusion for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.21454v1)** | 2026-05-20 | <details><summary>Curre...</summary><p>Currently under peer review</p></details> |
 | **[HDMoE: A Hierarchical Decoupling-Fusion Mixture-of-Experts Framework for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.20891v1)** | 2026-05-20 | <details><summary>12 pa...</summary><p>12 pages, HDMoE has been accepted by KDD 2026 AI for Sciences Track</p></details> |
@@ -23,20 +27,20 @@ labels: documentation
 | **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
 | **[Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images](https://arxiv.org/abs/2605.14251v1)** | 2026-05-14 |  |
 | **[Enabling clinical use of foundation models for computational pathology](https://arxiv.org/abs/2602.22347v2)** | 2026-05-12 |  |
-| **[Are Compact Rationales Free? Measuring Tile Selection Headroom in Frozen WSI-MIL](https://arxiv.org/abs/2605.12575v1)** | 2026-05-12 |  |
-| **[Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://arxiv.org/abs/2605.16392v1)** | 2026-05-12 |  |
-| **[RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction](https://arxiv.org/abs/2605.11622v1)** | 2026-05-12 | <details><summary>15 pa...</summary><p>15 pages, 13 tables, 3 figures. Accepted by the Forty-Third International Conference on Machine Learning (ICML2026). Code is available at https://github.com/YXSong000/RNA-FM</p></details> |
-| **[CellDX AI Autopilot: Agent-Guided Training and Deployment of Pathology Classifiers](https://arxiv.org/abs/2605.10362v1)** | 2026-05-11 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deep Learning for Generating Computational PIN-4 Immunohistochemistry Staining from Prostate Biopsy H&E Images](https://arxiv.org/abs/2606.01871v1)** | 2026-06-01 |  |
+| **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v2)** | 2026-06-01 |  |
+| **[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053v2)** | 2026-05-29 |  |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[ConceptM$^3$oE: Concept-Guided Multimodal Mixture of Experts for Interpretable Computational Pathology](https://arxiv.org/abs/2605.24399v2)** | 2026-05-27 |  |
 | **[A Clinically Validated Foundation Model for Comprehensive Lung Pathology Interpretation](https://arxiv.org/abs/2605.25878v1)** | 2026-05-25 |  |
 | **[Benchmarking Pathology Foundation Models for Spatial Domain Understanding](https://arxiv.org/abs/2605.25764v1)** | 2026-05-25 | MICCAI2026 |
 | **[Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778v6)** | 2026-05-25 |  |
+| **[Aligning Cellular Sheaves with Classifier Attention for Interpretable Weakly-Supervised Pathology Localization](https://arxiv.org/abs/2606.00092v1)** | 2026-05-24 |  |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v1)** | 2026-05-22 |  |
 | **[PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA](https://arxiv.org/abs/2605.23559v1)** | 2026-05-22 |  |
 | **[ProtoPathway: Biologically Structured Prototype-Pathway Fusion for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.21454v1)** | 2026-05-20 | <details><summary>Curre...</summary><p>Currently under peer review</p></details> |
 | **[HDMoE: A Hierarchical Decoupling-Fusion Mixture-of-Experts Framework for Multimodal Cancer Survival Prediction](https://arxiv.org/abs/2605.20891v1)** | 2026-05-20 | <details><summary>12 pa...</summary><p>12 pages, HDMoE has been accepted by KDD 2026 AI for Sciences Track</p></details> |
@@ -47,14 +51,14 @@ labels: documentation
 | **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
 | **[Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images](https://arxiv.org/abs/2605.14251v1)** | 2026-05-14 |  |
 | **[Enabling clinical use of foundation models for computational pathology](https://arxiv.org/abs/2602.22347v2)** | 2026-05-12 |  |
-| **[Are Compact Rationales Free? Measuring Tile Selection Headroom in Frozen WSI-MIL](https://arxiv.org/abs/2605.12575v1)** | 2026-05-12 |  |
-| **[Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://arxiv.org/abs/2605.16392v1)** | 2026-05-12 |  |
-| **[RNA-FM: Flow-Matching Generative Model for Genome-wide RNA-Seq Prediction](https://arxiv.org/abs/2605.11622v1)** | 2026-05-12 | <details><summary>15 pa...</summary><p>15 pages, 13 tables, 3 figures. Accepted by the Forty-Third International Conference on Machine Learning (ICML2026). Code is available at https://github.com/YXSong000/RNA-FM</p></details> |
-| **[CellDX AI Autopilot: Agent-Guided Training and Deployment of Pathology Classifiers](https://arxiv.org/abs/2605.10362v1)** | 2026-05-11 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathAR: Structure-First Autoregressive Synthesis of Multimodal Pathology Images](https://arxiv.org/abs/2606.01543v1)** | 2026-06-01 | 12 pages, 7 figures |
+| **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v2)** | 2026-06-01 |  |
+| **[Beyond Augmentation: Score-Guided Pathological Prior for EEG-based Depression Detection](https://arxiv.org/abs/2606.00180v1)** | 2026-05-29 |  |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[ConceptM$^3$oE: Concept-Guided Multimodal Mixture of Experts for Interpretable Computational Pathology](https://arxiv.org/abs/2605.24399v2)** | 2026-05-27 |  |
 | **[Explaining Digital Pathology Models via Clustering Activations](https://arxiv.org/abs/2511.14558v2)** | 2026-05-27 |  |
 | **[A Clinically Validated Foundation Model for Comprehensive Lung Pathology Interpretation](https://arxiv.org/abs/2605.25878v1)** | 2026-05-25 |  |
@@ -64,7 +68,6 @@ labels: documentation
 | **[Discrepancy Minimization Improves Cross-Hospital Robustness in Digital Pathology](https://arxiv.org/abs/2605.25175v1)** | 2026-05-24 |  |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Mitigating Gradient Pathology in PINNs through Aligned Constraint](https://arxiv.org/abs/2605.25001v1)** | 2026-05-24 |  |
-| **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v1)** | 2026-05-22 |  |
 | **[PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA](https://arxiv.org/abs/2605.23559v1)** | 2026-05-22 |  |
 | **[Discontinuous Galerkin Neural Operator for Pathology Defocus Deblurring](https://arxiv.org/abs/2605.23282v1)** | 2026-05-22 | <details><summary>17 pa...</summary><p>17 pages, 9 figures. Accepted by ICML 2026</p></details> |
 | **[Is SAM3 ready for pathology segmentation?](https://arxiv.org/abs/2604.18225v3)** | 2026-05-19 | accept to icip2026 |
@@ -72,16 +75,14 @@ labels: documentation
 | **[Perceptual implications of automatic anonymization in pathological speech](https://arxiv.org/abs/2505.00409v3)** | 2026-05-17 |  |
 | **[FedStain: Modeling Higher-Order Stain Statistics for Federated Domain Generalization in Computational Pathology](https://arxiv.org/abs/2605.14590v1)** | 2026-05-14 |  |
 | **[Heuristic Pathologies and Further Variance Reduction via Uncertainty Propagation in the AIVAT Family of Techniques](https://arxiv.org/abs/2605.14261v1)** | 2026-05-14 |  |
-| **[Generative Deep Learning for Computational Destaining and Restaining of Unregistered Digital Pathology Images](https://arxiv.org/abs/2605.14251v1)** | 2026-05-14 |  |
-| **[Enabling clinical use of foundation models for computational pathology](https://arxiv.org/abs/2602.22347v2)** | 2026-05-12 |  |
-| **[DiffSegLung: Diffusion Radiomic Distillation for Unsupervised Lung Pathology Segmentation](https://arxiv.org/abs/2605.11758v1)** | 2026-05-12 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conveyance: A Versatile Framework for Learning in Structured Class Spaces](https://arxiv.org/abs/2605.28420v2)** | 2026-05-29 |  |
 | **[Weakly Supervised Detection and Temporal Localization of Whale Calls in Long-Duration Bioacoustic Data](https://arxiv.org/abs/2502.20838v3)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted in European Signal Processing Conference (EUSIPCO) 2026</p></details> |
-| **[Conveyance: A Versatile Framework for Learning in Structured Class Spaces](https://arxiv.org/abs/2605.28420v1)** | 2026-05-27 |  |
 | **[Normal Guidance is what Attention Needs](https://arxiv.org/abs/2605.27306v1)** | 2026-05-26 |  |
+| **[Aligning Cellular Sheaves with Classifier Attention for Interpretable Weakly-Supervised Pathology Localization](https://arxiv.org/abs/2606.00092v1)** | 2026-05-24 |  |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[CLEAR-HPV: Interpretable concept discovery for human-papillomavirus-associated morphology in whole-slide histology](https://arxiv.org/abs/2602.05126v3)** | 2026-05-22 |  |
 | **[Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images](https://arxiv.org/abs/2604.21060v2)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted at the IEEE International Conference on Healthcare Informatics (ICHI), 2026</p></details> |
@@ -98,11 +99,11 @@ labels: documentation
 | **[A Multi-Dataset Benchmark of Multiple Instance Learning for 3D Neuroimage Classification](https://arxiv.org/abs/2604.26807v1)** | 2026-04-29 |  |
 | **[Validation of Whole-Slide Foundation Models for Image Retrieval in TCGA Data](https://arxiv.org/abs/2605.00902v1)** | 2026-04-28 |  |
 | **[SIMPLER: H&E-Informed Representation Learning for Structured Illumination Microscopy](https://arxiv.org/abs/2604.10334v2)** | 2026-04-27 |  |
-| **[Component-Adaptive and Lesion-Level Supervision for Improved Small Structure Segmentation in Brain MRI](https://arxiv.org/abs/2604.08015v2)** | 2026-04-27 | <details><summary>This ...</summary><p>This version includes additional false-negative and false-positive error analysis in the Results</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[ConceptM$^3$oE: Concept-Guided Multimodal Mixture of Experts for Interpretable Computational Pathology](https://arxiv.org/abs/2605.24399v2)** | 2026-05-27 |  |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[Multi-Task LLM with LoRA Fine-Tuning for Automated Cancer Staging and Biomarker Extraction](https://arxiv.org/abs/2604.13328v1)** | 2026-04-14 | <details><summary>11 pa...</summary><p>11 pages, 3 figures and 4 tables in the main manuscript. Additional content, figures and tables are in supplementary material section. 17 pages in total</p></details> |
@@ -122,11 +123,11 @@ labels: documentation
 | **[Adapting Natural Language Processing Models Across Jurisdictions: A pilot Study in Canadian Cancer Registries](https://arxiv.org/abs/2601.00787v1)** | 2026-01-02 |  |
 | **[MPath: Multimodal Pathology Report Generation from Whole Slide Images](https://arxiv.org/abs/2512.11906v1)** | 2025-12-10 | <details><summary>Pages...</summary><p>Pages 4, Figures 1, Table 1</p></details> |
 | **[Exploring General-Purpose Autonomous Multimodal Agents for Pathology Report Generation](https://arxiv.org/abs/2601.11540v1)** | 2025-11-30 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, accepted paper for BVM 2026</p></details> |
-| **[CLIP-IT: CLIP-based Pairing for Histology Images Classification](https://arxiv.org/abs/2504.16181v5)** | 2025-11-25 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
 | **[QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647v1)** | 2026-03-02 |  |
