@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 05, 2026
+title: Latest 20 Papers - June 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
