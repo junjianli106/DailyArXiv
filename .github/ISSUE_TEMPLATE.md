@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 09, 2026
+title: Latest 20 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
+| **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
+| **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
 | **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
 | **[Learnable Token Sparsification for Efficient Gigapixel Whole Slide Image Reasoning](https://arxiv.org/abs/2606.08641v1)** | 2026-06-07 |  |
 | **[A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093v1)** | 2026-06-06 |  |
@@ -24,13 +27,13 @@ labels: documentation
 | **[ConceptM$^3$oE: Concept-Guided Multimodal Mixture of Experts for Interpretable Computational Pathology](https://arxiv.org/abs/2605.24399v2)** | 2026-05-27 |  |
 | **[A Clinically Validated Foundation Model for Comprehensive Lung Pathology Interpretation](https://arxiv.org/abs/2605.25878v1)** | 2026-05-25 |  |
 | **[Benchmarking Pathology Foundation Models for Spatial Domain Understanding](https://arxiv.org/abs/2605.25764v1)** | 2026-05-25 | MICCAI2026 |
-| **[Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778v6)** | 2026-05-25 |  |
-| **[Aligning Cellular Sheaves with Classifier Attention for Interpretable Weakly-Supervised Pathology Localization](https://arxiv.org/abs/2606.00092v1)** | 2026-05-24 |  |
-| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
+| **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
+| **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
 | **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
 | **[Learnable Token Sparsification for Efficient Gigapixel Whole Slide Image Reasoning](https://arxiv.org/abs/2606.08641v1)** | 2026-06-07 |  |
 | **[A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093v1)** | 2026-06-06 |  |
@@ -48,9 +51,6 @@ labels: documentation
 | **[ConceptM$^3$oE: Concept-Guided Multimodal Mixture of Experts for Interpretable Computational Pathology](https://arxiv.org/abs/2605.24399v2)** | 2026-05-27 |  |
 | **[A Clinically Validated Foundation Model for Comprehensive Lung Pathology Interpretation](https://arxiv.org/abs/2605.25878v1)** | 2026-05-25 |  |
 | **[Benchmarking Pathology Foundation Models for Spatial Domain Understanding](https://arxiv.org/abs/2605.25764v1)** | 2026-05-25 | MICCAI2026 |
-| **[Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778v6)** | 2026-05-25 |  |
-| **[Aligning Cellular Sheaves with Classifier Attention for Interpretable Weakly-Supervised Pathology Localization](https://arxiv.org/abs/2606.00092v1)** | 2026-05-24 |  |
-| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v2)** | 2026-05-24 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,9 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
+| **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
+| **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
 | **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
 | **[Self-Supervised Vision Transformers for CBCT-Based Detection of Temporomandibular Joint Osteoarthritis](https://arxiv.org/abs/2606.08364v1)** | 2026-06-06 |  |
 | **[DALE-CT: Depth-Aware Foundation Models for Computed Tomography](https://arxiv.org/abs/2606.07775v1)** | 2026-06-05 | 9 pages, 2 figures |
@@ -96,9 +99,6 @@ labels: documentation
 | **[Federated Distillation for Whole Slide Image via Gaussian-Mixture Feature Alignment and Curriculum Integration](https://arxiv.org/abs/2605.00578v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by ICML 2026, Camera-Ready version updated</p></details> |
 | **[GCE-MIL: Faithful and Recoverable Evidence for Multiple Instance Learning in Whole-Slide Imaging](https://arxiv.org/abs/2605.17456v1)** | 2026-05-17 | <details><summary>10 pa...</summary><p>10 pages, 17 figures, 24 table</p></details> |
 | **[Spatial Blindness in Whole-Slide Multiple Instance Learning](https://arxiv.org/abs/2605.17449v1)** | 2026-05-17 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, 16 tables</p></details> |
-| **[Max-pooling Network Revisited: Analyzing the Role of Semantic Probability in Multiple Instance Learning for Hallucination Detection](https://arxiv.org/abs/2605.08863v2)** | 2026-05-13 |  |
-| **[Are Compact Rationales Free? Measuring Tile Selection Headroom in Frozen WSI-MIL](https://arxiv.org/abs/2605.12575v1)** | 2026-05-12 |  |
-| **[Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://arxiv.org/abs/2605.16392v1)** | 2026-05-12 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
