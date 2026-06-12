@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 11, 2026
+title: Latest 20 Papers - June 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
 | **[Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](https://arxiv.org/abs/2606.12346v1)** | 2026-06-10 |  |
 | **[AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction](https://arxiv.org/abs/2606.12126v1)** | 2026-06-10 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, MICCAI early accepted</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v1)** | 2026-06-01 |  |
 | **[Deep Learning for Generating Computational PIN-4 Immunohistochemistry Staining from Prostate Biopsy H&E Images](https://arxiv.org/abs/2606.01871v1)** | 2026-06-01 |  |
 | **[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053v2)** | 2026-05-29 |  |
-| **[Spatial Transcriptomics-Guided Alignment Enhances Molecular Profiling in Pathology Foundation Model](https://arxiv.org/abs/2606.03644v1)** | 2026-05-29 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
 | **[Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](https://arxiv.org/abs/2606.12346v1)** | 2026-06-10 |  |
 | **[AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction](https://arxiv.org/abs/2606.12126v1)** | 2026-06-10 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, MICCAI early accepted</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v1)** | 2026-06-01 |  |
 | **[Deep Learning for Generating Computational PIN-4 Immunohistochemistry Staining from Prostate Biopsy H&E Images](https://arxiv.org/abs/2606.01871v1)** | 2026-06-01 |  |
 | **[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053v2)** | 2026-05-29 |  |
-| **[Spatial Transcriptomics-Guided Alignment Enhances Molecular Profiling in Pathology Foundation Model](https://arxiv.org/abs/2606.03644v1)** | 2026-05-29 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
 | **[A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093v1)** | 2026-06-06 |  |
 | **[LLM-Conditioned Synthesis of Pathological Gaits via Structured Gait-Language Representations](https://arxiv.org/abs/2606.06048v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted at CVPR MOMA Workshop 2026 and selected for spotlight presentation at the workshop</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Benchmarking Pathology Foundation Models for Spatial Domain Understanding](https://arxiv.org/abs/2605.25764v1)** | 2026-05-25 | MICCAI2026 |
 | **[PathMem: Toward Cognition-Aligned Memory Transformation for Pathology MLLMs](https://arxiv.org/abs/2603.09943v2)** | 2026-05-25 |  |
 | **[Which Anatomy Matters Under Limited Labels? A Data-Efficient Anatomy-Aware Benchmark for Cardiac Pathology Prediction](https://arxiv.org/abs/2606.06509v1)** | 2026-05-25 | <details><summary>ACCEP...</summary><p>ACCEPTED at ICML 2026 Workshop GlobalSouthML (Seoul, South Korea; PMLR 306, 2026)</p></details> |
-| **[Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778v6)** | 2026-05-25 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
