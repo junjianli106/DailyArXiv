@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 17, 2026
+title: Latest 20 Papers - June 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v2)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v1)** | 2026-06-16 | 5 figures |
 | **[Vision-Language Models as Zero-Annotation Oracles in Histopathology](https://arxiv.org/abs/2606.16658v1)** | 2026-06-15 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 6 tables. Code available at https://github.com/VishalJ99/vlm-wsi-auto-context</p></details> |
 | **[Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis](https://arxiv.org/abs/2606.17115v1)** | 2026-06-15 |  |
-| **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
 | **[Trimodal Glioma Representation Alignment via Volumetric Contrastive Learning](https://arxiv.org/abs/2606.14568v1)** | 2026-06-12 |  |
 | **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
@@ -31,10 +31,10 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v2)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v1)** | 2026-06-16 | 5 figures |
 | **[Vision-Language Models as Zero-Annotation Oracles in Histopathology](https://arxiv.org/abs/2606.16658v1)** | 2026-06-15 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 6 tables. Code available at https://github.com/VishalJ99/vlm-wsi-auto-context</p></details> |
 | **[Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis](https://arxiv.org/abs/2606.17115v1)** | 2026-06-15 |  |
-| **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
 | **[Trimodal Glioma Representation Alignment via Volumetric Contrastive Learning](https://arxiv.org/abs/2606.14568v1)** | 2026-06-12 |  |
 | **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
@@ -55,8 +55,8 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Pathological VLMs with Cross-scale Reasoning](https://arxiv.org/abs/2606.17412v2)** | 2026-06-17 |  |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v1)** | 2026-06-16 | 5 figures |
-| **[Enhancing Pathological VLMs with Cross-scale Reasoning](https://arxiv.org/abs/2606.17412v1)** | 2026-06-16 |  |
 | **[In-Domain Supervised Pathology Report Classification: A Reproducible Pipeline from Data Curation to Production-Matched Evaluation](https://arxiv.org/abs/2606.16026v1)** | 2026-06-14 |  |
 | **[AP-GRPO: Anchor-Gated Phonetic Alignment with Policy Optimization for Pathological Speech Reconstruction](https://arxiv.org/abs/2606.15540v1)** | 2026-06-14 |  |
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
@@ -79,7 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v1)** | 2026-06-14 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
+| **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v2)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Rethinking Global Average Pooling: Your Classifier Is Secretly a Multi-Instance Learner](https://arxiv.org/abs/2606.14555v1)** | 2026-06-12 |  |
 | **[AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction](https://arxiv.org/abs/2606.12126v1)** | 2026-06-10 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, MICCAI early accepted</p></details> |
 | **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
