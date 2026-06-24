@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 23, 2026
+title: Latest 20 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](https://arxiv.org/abs/2503.02064v2)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MIDL 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors due to identified issues in the evaluation protocol in Section Exp. , which may affect the interpretation of the experimental results. The authors are preparing a substantially revised version addressing these issues</p></details> |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
@@ -26,11 +27,11 @@ labels: documentation
 | **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
 | **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
-| **[Learnable Token Sparsification for Efficient Gigapixel Whole Slide Image Reasoning](https://arxiv.org/abs/2606.08641v1)** | 2026-06-07 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](https://arxiv.org/abs/2503.02064v2)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MIDL 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors due to identified issues in the evaluation protocol in Section Exp. , which may affect the interpretation of the experimental results. The authors are preparing a substantially revised version addressing these issues</p></details> |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
@@ -50,11 +51,12 @@ labels: documentation
 | **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
 | **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
-| **[Learnable Token Sparsification for Efficient Gigapixel Whole Slide Image Reasoning](https://arxiv.org/abs/2606.08641v1)** | 2026-06-07 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v2)** | 2026-06-23 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
+| **[PathBench: Speech Intelligibility Benchmark for Automatic Pathological Speech Assessment](https://arxiv.org/abs/2603.08097v2)** | 2026-06-23 | <details><summary>5 pag...</summary><p>5 pages, 1 table. Accepted to Interspeech 2026. https://github.com/karkirowle/pathbench</p></details> |
 | **[Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies](https://arxiv.org/abs/2606.23494v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
@@ -73,12 +75,11 @@ labels: documentation
 | **[A Pathology Foundation Model for Gastric Cancer with Real-World Validation](https://arxiv.org/abs/2606.04792v1)** | 2026-06-03 |  |
 | **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v3)** | 2026-06-02 |  |
 | **[PathAR: Structure-First Autoregressive Synthesis of Multimodal Pathology Images](https://arxiv.org/abs/2606.01543v1)** | 2026-06-01 | 12 pages, 7 figures |
-| **[Spatial Transcriptomics-Guided Alignment Enhances Molecular Profiling in Pathology Foundation Model](https://arxiv.org/abs/2606.03644v1)** | 2026-05-29 |  |
-| **[Beyond Augmentation: Score-Guided Pathological Prior for EEG-based Depression Detection](https://arxiv.org/abs/2606.00180v1)** | 2026-05-29 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Foundation Models See Biology? Evaluating Attention Coherence with Spatial Transcriptomics in Glioblastoma](https://arxiv.org/abs/2606.04764v2)** | 2026-06-23 |  |
 | **[The Trilemma of Truth in Large Language Models](https://arxiv.org/abs/2506.23921v5)** | 2026-06-22 | <details><summary>The m...</summary><p>The main text is 9 pages long (plus 3 pages of references); supplementary material (60 pages) is included in the same PDF</p></details> |
 | **[Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies](https://arxiv.org/abs/2606.23494v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[From Point Estimates to Distributions: GMM Pooling for MIL in Preterm Birth Prediction](https://arxiv.org/abs/2606.23005v1)** | 2026-06-22 | MICCAI 2026 |
@@ -97,12 +98,12 @@ labels: documentation
 | **[Symb-xMIL: Symbolic Explanations for Multiple Instance Learning in Digital Pathology](https://arxiv.org/abs/2606.06224v2)** | 2026-06-05 | 23 pages, 18 figures |
 | **[LRMIL: Efficient Low-Resolution Multiple Instance Learning via High-Resolution Knowledge Distillation for Whole Slide Image Classification](https://arxiv.org/abs/2606.06864v1)** | 2026-06-05 |  |
 | **[In-Context Multiple Instance Learning](https://arxiv.org/abs/2606.06458v1)** | 2026-06-04 |  |
-| **[Do Foundation Models See Biology? Evaluating Attention Coherence with Spatial Transcriptomics in Glioblastoma](https://arxiv.org/abs/2606.04764v1)** | 2026-06-03 |  |
 | **[VigilFormer: Deformable Attention for Video Anomaly Detection with Causal Risk Inference](https://arxiv.org/abs/2606.14724v1)** | 2026-05-31 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v2)** | 2026-06-23 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
 | **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v1)** | 2026-06-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA; (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA; (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
 | **[In-Domain Supervised Pathology Report Classification: A Reproducible Pipeline from Data Curation to Production-Matched Evaluation](https://arxiv.org/abs/2606.16026v1)** | 2026-06-14 |  |
@@ -112,7 +113,6 @@ labels: documentation
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[Multi-Task LLM with LoRA Fine-Tuning for Automated Cancer Staging and Biomarker Extraction](https://arxiv.org/abs/2604.13328v1)** | 2026-04-14 | <details><summary>11 pa...</summary><p>11 pages, 3 figures and 4 tables in the main manuscript. Additional content, figures and tables are in supplementary material section. 17 pages in total</p></details> |
 | **[PRIME: Prototype-Driven Multimodal Pretraining for Cancer Prognosis with Missing Modalities](https://arxiv.org/abs/2604.04999v1)** | 2026-04-05 |  |
-| **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v1)** | 2026-03-20 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 | **[ELM: A Hybrid Ensemble of Language Models for Automated Tumor Group Classification in Population-Based Cancer Registries](https://arxiv.org/abs/2503.21800v2)** | 2026-03-19 |  |
 | **[Performance Evaluation of Open-Source Large Language Models for Assisting Pathology Report Writing in Japanese](https://arxiv.org/abs/2603.11597v1)** | 2026-03-12 | <details><summary>9 pag...</summary><p>9 pages (including bibliography), 2 figures, 6 tables</p></details> |
 | **[PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration](https://arxiv.org/abs/2603.08935v2)** | 2026-03-11 |  |
