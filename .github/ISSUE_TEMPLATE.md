@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 25, 2026
+title: Latest 20 Papers - June 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v2)** | 2026-06-25 |  |
+| **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](https://arxiv.org/abs/2503.02064v2)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MIDL 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors due to identified issues in the evaluation protocol in Section Exp. , which may affect the interpretation of the experimental results. The authors are preparing a substantially revised version addressing these issues</p></details> |
@@ -25,12 +27,12 @@ labels: documentation
 | **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v1)** | 2026-06-10 | 32 pages |
 | **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
 | **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
-| **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
-| **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v2)** | 2026-06-25 |  |
+| **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](https://arxiv.org/abs/2503.02064v2)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MIDL 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors due to identified issues in the evaluation protocol in Section Exp. , which may affect the interpretation of the experimental results. The authors are preparing a substantially revised version addressing these issues</p></details> |
@@ -49,12 +51,12 @@ labels: documentation
 | **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v1)** | 2026-06-10 | 32 pages |
 | **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
 | **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
-| **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
-| **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v2)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
+| **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v2)** | 2026-06-25 |  |
 | **[Enhancing Pathological VLMs with Cross-scale Reasoning](https://arxiv.org/abs/2606.17412v3)** | 2026-06-24 |  |
 | **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v2)** | 2026-06-23 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 | **[What Does a Pathological Speech Assessment Model Know about Acoustic Features? A Case Study on Oral and Oropharyngeal Cancer Patients](https://arxiv.org/abs/2606.24949v1)** | 2026-06-23 |  |
@@ -62,7 +64,6 @@ labels: documentation
 | **[Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies](https://arxiv.org/abs/2606.23494v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
-| **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v1)** | 2026-06-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA; (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA; (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
 | **[In-Domain Supervised Pathology Report Classification: A Reproducible Pipeline from Data Curation to Production-Matched Evaluation](https://arxiv.org/abs/2606.16026v1)** | 2026-06-14 |  |
 | **[AP-GRPO: Anchor-Gated Phonetic Alignment with Policy Optimization for Pathological Speech Reconstruction](https://arxiv.org/abs/2606.15540v1)** | 2026-06-14 |  |
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[DaX: Learning General Pathology Representations Across Scales](https://arxiv.org/abs/2606.06983v1)** | 2026-06-05 |  |
 | **[FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition](https://arxiv.org/abs/2606.06211v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted in Odyssey 2026: The Speaker and Language Recognition Workshop</p></details> |
 | **[A Pathology Foundation Model for Gastric Cancer with Real-World Validation](https://arxiv.org/abs/2606.04792v1)** | 2026-06-03 |  |
-| **[CRISP -- Clustering-Based Redundancy-Reduced Instance Sampling for Pathology Case Representation and Retrieval](https://arxiv.org/abs/2605.24253v3)** | 2026-06-02 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,9 +103,9 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v2)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
 | **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v2)** | 2026-06-23 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
-| **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v1)** | 2026-06-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA; (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA; (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
 | **[In-Domain Supervised Pathology Report Classification: A Reproducible Pipeline from Data Curation to Production-Matched Evaluation](https://arxiv.org/abs/2606.16026v1)** | 2026-06-14 |  |
 | **[Multi-Modal Machine Learning for Breast Cancer Recurrence Prediction](https://arxiv.org/abs/2606.02892v1)** | 2026-06-01 | 33 pages, 10 figures |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
