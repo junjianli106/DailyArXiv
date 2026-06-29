@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 28, 2026
+title: Latest 20 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,8 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](https://arxiv.org/abs/2508.12410v3)** | 2026-06-26 | 10 pages, 4 figures |
+| **[Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](https://arxiv.org/abs/2606.27596v1)** | 2026-06-25 | <details><summary>29 pa...</summary><p>29 pages, 25 figures. Accepted by ICML 2026</p></details> |
 | **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v2)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v2)** | 2026-06-25 |  |
 | **[Enhancing Pathological VLMs with Cross-scale Reasoning](https://arxiv.org/abs/2606.17412v3)** | 2026-06-24 |  |
@@ -73,12 +75,13 @@ labels: documentation
 | **[A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093v1)** | 2026-06-06 |  |
 | **[LLM-Conditioned Synthesis of Pathological Gaits via Structured Gait-Language Representations](https://arxiv.org/abs/2606.06048v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted at CVPR MOMA Workshop 2026 and selected for spotlight presentation at the workshop</p></details> |
 | **[DaX: Learning General Pathology Representations Across Scales](https://arxiv.org/abs/2606.06983v1)** | 2026-06-05 |  |
-| **[FiLM-Based Speaker Conditioning of a SpeechLLM for Pathological Speech Recognition](https://arxiv.org/abs/2606.06211v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted in Odyssey 2026: The Speaker and Language Recognition Workshop</p></details> |
-| **[A Pathology Foundation Model for Gastric Cancer with Real-World Validation](https://arxiv.org/abs/2606.04792v1)** | 2026-06-03 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Every Step of the Way: Video-based Parkinsonian Turning Step Counting](https://arxiv.org/abs/2606.27918v1)** | 2026-06-26 |  |
+| **[The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](https://arxiv.org/abs/2606.27739v1)** | 2026-06-26 |  |
+| **[Distribution-based deep multiple instance learning for tumor proportion scoring in NSCLC](https://arxiv.org/abs/2606.27579v1)** | 2026-06-25 |  |
 | **[Re-mixing Embeddings for Patient Augmentation in Data Scarce Multiple Instance Learning](https://arxiv.org/abs/2606.25770v1)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted for publication at the 29th International Conference on Medical Image Computing and Computer Assisted Intervention - MICCAI 2026</p></details> |
 | **[Do Foundation Models See Biology? Evaluating Attention Coherence with Spatial Transcriptomics in Glioblastoma](https://arxiv.org/abs/2606.04764v2)** | 2026-06-23 |  |
 | **[The Trilemma of Truth in Large Language Models](https://arxiv.org/abs/2506.23921v5)** | 2026-06-22 | <details><summary>The m...</summary><p>The main text is 9 pages long (plus 3 pages of references); supplementary material (60 pages) is included in the same PDF</p></details> |
@@ -96,9 +99,6 @@ labels: documentation
 | **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
 | **[Self-Supervised Vision Transformers for CBCT-Based Detection of Temporomandibular Joint Osteoarthritis](https://arxiv.org/abs/2606.08364v1)** | 2026-06-06 |  |
 | **[DALE-CT: Depth-Aware Foundation Models for Computed Tomography](https://arxiv.org/abs/2606.07775v1)** | 2026-06-05 | 9 pages, 2 figures |
-| **[Symb-xMIL: Symbolic Explanations for Multiple Instance Learning in Digital Pathology](https://arxiv.org/abs/2606.06224v2)** | 2026-06-05 | 23 pages, 18 figures |
-| **[LRMIL: Efficient Low-Resolution Multiple Instance Learning via High-Resolution Knowledge Distillation for Whole Slide Image Classification](https://arxiv.org/abs/2606.06864v1)** | 2026-06-05 |  |
-| **[In-Context Multiple Instance Learning](https://arxiv.org/abs/2606.06458v1)** | 2026-06-04 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
