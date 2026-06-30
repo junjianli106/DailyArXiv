@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 29, 2026
+title: Latest 20 Papers - June 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,12 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
+| **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v1)** | 2026-06-29 |  |
+| **[Data-Efficient Multimodal Alignment for Histopathology-based Molecular Prediction](https://arxiv.org/abs/2606.29949v1)** | 2026-06-29 | 10 pages, 4 figures |
+| **[CellDETR: A Detection-Guided Framework for Scalable Cell Representation Learning from Histopathology Images](https://arxiv.org/abs/2606.29463v1)** | 2026-06-28 | 12pages, 5 figures |
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v2)** | 2026-06-25 |  |
+| **[JASPR: Joint Spatial Representation learning of histology and spatial genomics for improved virtual genomic screening and clinical prognostication](https://arxiv.org/abs/2606.28395v1)** | 2026-06-24 |  |
 | **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](https://arxiv.org/abs/2503.02064v2)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MIDL 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
@@ -22,16 +27,16 @@ labels: documentation
 | **[Trimodal Glioma Representation Alignment via Volumetric Contrastive Learning](https://arxiv.org/abs/2606.14568v1)** | 2026-06-12 |  |
 | **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](https://arxiv.org/abs/2606.12346v1)** | 2026-06-10 |  |
-| **[AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction](https://arxiv.org/abs/2606.12126v1)** | 2026-06-10 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, MICCAI early accepted</p></details> |
-| **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v1)** | 2026-06-10 | 32 pages |
-| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
-| **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
+| **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v1)** | 2026-06-29 |  |
+| **[Data-Efficient Multimodal Alignment for Histopathology-based Molecular Prediction](https://arxiv.org/abs/2606.29949v1)** | 2026-06-29 | 10 pages, 4 figures |
+| **[CellDETR: A Detection-Guided Framework for Scalable Cell Representation Learning from Histopathology Images](https://arxiv.org/abs/2606.29463v1)** | 2026-06-28 | 12pages, 5 figures |
 | **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v2)** | 2026-06-25 |  |
+| **[JASPR: Joint Spatial Representation learning of histology and spatial genomics for improved virtual genomic screening and clinical prognostication](https://arxiv.org/abs/2606.28395v1)** | 2026-06-24 |  |
 | **[Reducing Redundancy in Whole-Slide Image Patching for Scalable Indexing and Retrieval](https://arxiv.org/abs/2606.26157v1)** | 2026-06-23 |  |
 | **[CrossFusion: A Multi-Scale Cross-Attention Convolutional Fusion Model for Cancer Survival Prediction](https://arxiv.org/abs/2503.02064v2)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted at MIDL 2026</p></details> |
 | **[MOOZY: A Patient-First Foundation Model for Computational Pathology](https://arxiv.org/abs/2603.27048v3)** | 2026-06-22 |  |
@@ -46,15 +51,11 @@ labels: documentation
 | **[Trimodal Glioma Representation Alignment via Volumetric Contrastive Learning](https://arxiv.org/abs/2606.14568v1)** | 2026-06-12 |  |
 | **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
-| **[Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](https://arxiv.org/abs/2606.12346v1)** | 2026-06-10 |  |
-| **[AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction](https://arxiv.org/abs/2606.12126v1)** | 2026-06-10 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, MICCAI early accepted</p></details> |
-| **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v1)** | 2026-06-10 | 32 pages |
-| **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
-| **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v1)** | 2026-06-29 |  |
 | **[SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](https://arxiv.org/abs/2508.12410v3)** | 2026-06-26 | 10 pages, 4 figures |
 | **[Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](https://arxiv.org/abs/2606.27596v1)** | 2026-06-25 | <details><summary>29 pa...</summary><p>29 pages, 25 figures. Accepted by ICML 2026</p></details> |
 | **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v2)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
@@ -74,11 +75,12 @@ labels: documentation
 | **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
 | **[A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093v1)** | 2026-06-06 |  |
 | **[LLM-Conditioned Synthesis of Pathological Gaits via Structured Gait-Language Representations](https://arxiv.org/abs/2606.06048v2)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted at CVPR MOMA Workshop 2026 and selected for spotlight presentation at the workshop</p></details> |
-| **[DaX: Learning General Pathology Representations Across Scales](https://arxiv.org/abs/2606.06983v1)** | 2026-06-05 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Where and When: Patch-Based Spatiotemporal Localization in Weakly Supervised Video Anomaly Detection](https://arxiv.org/abs/2606.29498v1)** | 2026-06-28 |  |
+| **[Predicting Metastatic Risk from Primary Tissue Architecture via Distance-Aware Spatial Modeling](https://arxiv.org/abs/2606.28676v1)** | 2026-06-27 |  |
 | **[Every Step of the Way: Video-based Parkinsonian Turning Step Counting](https://arxiv.org/abs/2606.27918v1)** | 2026-06-26 |  |
 | **[The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](https://arxiv.org/abs/2606.27739v1)** | 2026-06-26 |  |
 | **[Distribution-based deep multiple instance learning for tumor proportion scoring in NSCLC](https://arxiv.org/abs/2606.27579v1)** | 2026-06-25 |  |
@@ -97,8 +99,6 @@ labels: documentation
 | **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
 | **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
-| **[Self-Supervised Vision Transformers for CBCT-Based Detection of Temporomandibular Joint Osteoarthritis](https://arxiv.org/abs/2606.08364v1)** | 2026-06-06 |  |
-| **[DALE-CT: Depth-Aware Foundation Models for Computed Tomography](https://arxiv.org/abs/2606.07775v1)** | 2026-06-05 | 9 pages, 2 figures |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
