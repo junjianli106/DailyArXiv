@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 30, 2026
+title: Latest 20 Papers - July 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v2)** | 2026-06-30 |  |
 | **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
 | **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v1)** | 2026-06-29 |  |
 | **[Data-Efficient Multimodal Alignment for Histopathology-based Molecular Prediction](https://arxiv.org/abs/2606.29949v1)** | 2026-06-29 | 10 pages, 4 figures |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
 | **[Democratizing and accelerating AI-driven pathology research through agentic intelligence](https://arxiv.org/abs/2606.20677v1)** | 2026-06-12 | 29 pages, 4 figures |
 | **[Trimodal Glioma Representation Alignment via Volumetric Contrastive Learning](https://arxiv.org/abs/2606.14568v1)** | 2026-06-12 |  |
-| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v2)** | 2026-06-30 |  |
 | **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
 | **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v1)** | 2026-06-29 |  |
 | **[Data-Efficient Multimodal Alignment for Histopathology-based Molecular Prediction](https://arxiv.org/abs/2606.29949v1)** | 2026-06-29 | 10 pages, 4 figures |
@@ -49,8 +51,6 @@ labels: documentation
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
 | **[Democratizing and accelerating AI-driven pathology research through agentic intelligence](https://arxiv.org/abs/2606.20677v1)** | 2026-06-12 | 29 pages, 4 figures |
 | **[Trimodal Glioma Representation Alignment via Volumetric Contrastive Learning](https://arxiv.org/abs/2606.14568v1)** | 2026-06-12 |  |
-| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,9 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition](https://arxiv.org/abs/2606.31249v1)** | 2026-06-30 |  |
+| **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates](https://arxiv.org/abs/2512.06845v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[Learning Where and When: Patch-Based Spatiotemporal Localization in Weakly Supervised Video Anomaly Detection](https://arxiv.org/abs/2606.29498v1)** | 2026-06-28 |  |
 | **[Predicting Metastatic Risk from Primary Tissue Architecture via Distance-Aware Spatial Modeling](https://arxiv.org/abs/2606.28676v1)** | 2026-06-27 |  |
 | **[Every Step of the Way: Video-based Parkinsonian Turning Step Counting](https://arxiv.org/abs/2606.27918v1)** | 2026-06-26 |  |
@@ -96,9 +99,6 @@ labels: documentation
 | **[Rethinking Global Average Pooling: Your Classifier Is Secretly a Multi-Instance Learner](https://arxiv.org/abs/2606.14555v1)** | 2026-06-12 |  |
 | **[AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction](https://arxiv.org/abs/2606.12126v1)** | 2026-06-10 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, MICCAI early accepted</p></details> |
 | **[Enabling Progressive Whole-slide Image Analysis with Multi-scale Pyramidal Network](https://arxiv.org/abs/2602.01951v2)** | 2026-06-09 |  |
-| **[From Patches to Patients: A study of the tile-to-slide performance transferability in Digital Pathology](https://arxiv.org/abs/2606.10778v1)** | 2026-06-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
-| **[Dual-stream attention-guided learning for weakly supervised whole slide image classification](https://arxiv.org/abs/2505.23341v3)** | 2026-06-09 |  |
-| **[GD-MIL: Grade-Disentangled Multiple Instance Learning for Multimodal Biochemical Recurrence Prediction in Prostate Cancer](https://arxiv.org/abs/2606.09453v1)** | 2026-06-08 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
