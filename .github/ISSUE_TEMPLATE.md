@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 02, 2026
+title: Latest 20 Papers - July 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Cellular-Scale Interpretability in Pathology Foundation Models for Biomarker Assessment](https://arxiv.org/abs/2511.05150v2)** | 2026-07-02 |  |
+| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
+| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v2)** | 2026-07-02 |  |
 | **[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images](https://arxiv.org/abs/2607.00802v1)** | 2026-07-01 | <details><summary>Submi...</summary><p>Submitted to Intelligence-Based Medicine Journal</p></details> |
-| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v1)** | 2026-07-01 |  |
 | **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v2)** | 2026-06-30 |  |
 | **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
@@ -25,14 +27,14 @@ labels: documentation
 | **[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966v1)** | 2026-06-18 |  |
 | **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v2)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Vision-Language Models as Zero-Annotation Oracles in Histopathology](https://arxiv.org/abs/2606.16658v1)** | 2026-06-15 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 6 tables. Code available at https://github.com/VishalJ99/vlm-wsi-auto-context</p></details> |
-| **[Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis](https://arxiv.org/abs/2606.17115v1)** | 2026-06-15 |  |
-| **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Cellular-Scale Interpretability in Pathology Foundation Models for Biomarker Assessment](https://arxiv.org/abs/2511.05150v2)** | 2026-07-02 |  |
+| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
+| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v2)** | 2026-07-02 |  |
 | **[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images](https://arxiv.org/abs/2607.00802v1)** | 2026-07-01 | <details><summary>Submi...</summary><p>Submitted to Intelligence-Based Medicine Journal</p></details> |
-| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v1)** | 2026-07-01 |  |
 | **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v2)** | 2026-06-30 |  |
 | **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
@@ -49,13 +51,14 @@ labels: documentation
 | **[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966v1)** | 2026-06-18 |  |
 | **[RaLMPH: Reliability-aware Learning for Multi-Pathologist Harmonization in Whole-Slide Image Classification](https://arxiv.org/abs/2606.15554v2)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[Vision-Language Models as Zero-Annotation Oracles in Histopathology](https://arxiv.org/abs/2606.16658v1)** | 2026-06-15 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 6 tables. Code available at https://github.com/VishalJ99/vlm-wsi-auto-context</p></details> |
-| **[Probing, Fusion, and Trustworthiness: A Systematic Evaluation of Foundation Model Representations for Multimodal Cancer Analysis](https://arxiv.org/abs/2606.17115v1)** | 2026-06-15 |  |
-| **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v1)** | 2026-07-01 |  |
+| **[Self-Auditing Residual Drifting for Pathology-Preserving Accelerated Knee MRI](https://arxiv.org/abs/2607.02428v1)** | 2026-07-02 |  |
+| **[Towards Cellular-Scale Interpretability in Pathology Foundation Models for Biomarker Assessment](https://arxiv.org/abs/2511.05150v2)** | 2026-07-02 |  |
+| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
+| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v2)** | 2026-07-02 |  |
 | **[Histopathology Multi-modal Embedding for Pathology Composed Retrieval](https://arxiv.org/abs/2502.07221v4)** | 2026-07-01 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 | **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v1)** | 2026-06-29 |  |
 | **[SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](https://arxiv.org/abs/2508.12410v3)** | 2026-06-26 | 10 pages, 4 figures |
@@ -72,9 +75,6 @@ labels: documentation
 | **[In-Domain Supervised Pathology Report Classification: A Reproducible Pipeline from Data Curation to Production-Matched Evaluation](https://arxiv.org/abs/2606.16026v1)** | 2026-06-14 |  |
 | **[AP-GRPO: Anchor-Gated Phonetic Alignment with Policy Optimization for Pathological Speech Reconstruction](https://arxiv.org/abs/2606.15540v1)** | 2026-06-14 |  |
 | **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v2)** | 2026-06-12 |  |
-| **[Democratizing and accelerating AI-driven pathology research through agentic intelligence](https://arxiv.org/abs/2606.20677v1)** | 2026-06-12 | 29 pages, 4 figures |
-| **[Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/abs/2511.19652v2)** | 2026-06-11 |  |
-| **[How Seemingly Inconsequential Design Choices Dictate Performance of LLMs in Pathology](https://arxiv.org/abs/2606.12407v1)** | 2026-06-10 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,7 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v1)** | 2026-07-01 |  |
+| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
 | **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v2)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
 | **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v2)** | 2026-06-23 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
@@ -127,7 +127,7 @@ labels: documentation
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v1)** | 2026-07-01 |  |
+| **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
