@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 16, 2026
+title: Latest 20 Papers - July 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models](https://arxiv.org/abs/2607.14703v1)** | 2026-07-16 |  |
 | **[Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](https://arxiv.org/abs/2606.12346v2)** | 2026-07-14 |  |
 | **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
 | **[Demonstration of the common dual-channel feature decoupling characteristic of front-door mediation causal inference methods in whole-slice image classification](https://arxiv.org/abs/2607.12376v1)** | 2026-07-14 | <details><summary>The m...</summary><p>The manuscript is being submitted for publication to a journal</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images](https://arxiv.org/abs/2607.00802v1)** | 2026-07-01 | <details><summary>Submi...</summary><p>Submitted to Intelligence-Based Medicine Journal</p></details> |
 | **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v2)** | 2026-06-30 |  |
-| **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models](https://arxiv.org/abs/2607.14703v1)** | 2026-07-16 |  |
 | **[Atlas H&E-TME: Scalable AI-Based Tissue Profiling at Expert Pathologist-Level Accuracy](https://arxiv.org/abs/2606.12346v2)** | 2026-07-14 |  |
 | **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
 | **[Demonstration of the common dual-channel feature decoupling characteristic of front-door mediation causal inference methods in whole-slice image classification](https://arxiv.org/abs/2607.12376v1)** | 2026-07-14 | <details><summary>The m...</summary><p>The manuscript is being submitted for publication to a journal</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[CellPrior-Net: Prior-Guided Nuclei Detection and Classification for H&E Whole-Slide Images](https://arxiv.org/abs/2607.00802v1)** | 2026-07-01 | <details><summary>Submi...</summary><p>Submitted to Intelligence-Based Medicine Journal</p></details> |
 | **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Toxicity Assessment in Preclinical Histopathology via Class-Aware Mahalanobis Distance for Known and Novel Anomalies](https://arxiv.org/abs/2602.02124v2)** | 2026-06-30 |  |
-| **[A Multi Center Breast FNAC Whole-Slide Cytology Dataset for AI-Assisted Patch-Wise Classification Using C1 to C5 Reporting Categories](https://arxiv.org/abs/2606.30209v1)** | 2026-06-29 | 9 pages, 1 figure |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models](https://arxiv.org/abs/2607.14703v1)** | 2026-07-16 |  |
 | **[Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations](https://arxiv.org/abs/2607.13399v1)** | 2026-07-15 |  |
 | **[MLPTR-CC: Multi-label Pathology Test Recommendation using Classifier Chains and SHAP](https://arxiv.org/abs/2607.08299v2)** | 2026-07-14 |  |
 | **[LaGuadia: Language-Guided Adaptive Distillation from Pathology Foundation Models](https://arxiv.org/abs/2607.11257v1)** | 2026-07-13 |  |
@@ -74,11 +75,11 @@ labels: documentation
 | **[SRMA-Mamba: Spatial Reverse Mamba Attention Network for Pathological Liver Segmentation in MRI Volumes](https://arxiv.org/abs/2508.12410v3)** | 2026-06-26 | 10 pages, 4 figures |
 | **[Dismantling Pathological Shortcuts: A Causal Framework for Faithful LVLM Decoding](https://arxiv.org/abs/2606.27596v1)** | 2026-06-25 | <details><summary>29 pa...</summary><p>29 pages, 25 figures. Accepted by ICML 2026</p></details> |
 | **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v2)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
-| **[PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/abs/2512.17621v2)** | 2026-06-25 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models](https://arxiv.org/abs/2607.14703v1)** | 2026-07-16 |  |
 | **[Audio-Text Cross-Attention with Psycholinguistic Support Features for Ambivalence/Hesitancy Recognition](https://arxiv.org/abs/2607.13345v1)** | 2026-07-15 |  |
 | **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
 | **[Learning from Lost Provenance: Multiple Instance Learning for Cancer Registry Tumor Group Classification](https://arxiv.org/abs/2607.03481v2)** | 2026-07-11 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Brain-Adapter: A Dual-Stream Vision-Language MIL Framework for Comprehensive 3D CT Diagnosis of Acute Intracranial Pathologies](https://arxiv.org/abs/2606.23494v1)** | 2026-06-22 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[From Point Estimates to Distributions: GMM Pooling for MIL in Preterm Birth Prediction](https://arxiv.org/abs/2606.23005v1)** | 2026-06-22 | MICCAI 2026 |
 | **[ReconMIL: Synergizing Latent Space Reconstruction with Bi-Stream Mamba for Whole Slide Image Analysis](https://arxiv.org/abs/2603.19925v2)** | 2026-06-22 | <details><summary>This ...</summary><p>This paper has been withdrawn by the authors due to identified issues in the evaluation protocol in Section Exp. , which may affect the interpretation of the experimental results. The authors are preparing a substantially revised version addressing these issues</p></details> |
-| **[Embedded Polygon Symbolic Transfer Entropy (EPSTE): A Geometric Token and Deep Learning Approach to Estimating Transfer Entropy in Neuroimaging Time Series](https://arxiv.org/abs/2606.21754v1)** | 2026-06-19 | <details><summary>45 pa...</summary><p>45 pages, 13 figures, 2 tables</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
