@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 22, 2026
+title: Latest 20 Papers - July 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
+| **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
 | **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v1)** | 2026-07-21 |  |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Slide-Level Active Learning Reduces Annotation Burden in H&E images](https://arxiv.org/abs/2607.09831v1)** | 2026-07-10 |  |
 | **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 | **[Multi-Teacher Contrastive Distillation for Edge-Efficient Pathology Foundation Models](https://arxiv.org/abs/2607.05533v1)** | 2026-07-06 |  |
-| **[Continual Model Merging with Test-Time Adaptation for Whole-Slide Image Analysis](https://arxiv.org/abs/2607.04755v1)** | 2026-07-06 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 2 figures</p></details> |
-| **[MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images](https://arxiv.org/abs/2607.04747v1)** | 2026-07-06 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 1 table</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
+| **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
 | **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v1)** | 2026-07-21 |  |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
@@ -49,12 +51,11 @@ labels: documentation
 | **[Slide-Level Active Learning Reduces Annotation Burden in H&E images](https://arxiv.org/abs/2607.09831v1)** | 2026-07-10 |  |
 | **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 | **[Multi-Teacher Contrastive Distillation for Edge-Efficient Pathology Foundation Models](https://arxiv.org/abs/2607.05533v1)** | 2026-07-06 |  |
-| **[Continual Model Merging with Test-Time Adaptation for Whole-Slide Image Analysis](https://arxiv.org/abs/2607.04755v1)** | 2026-07-06 | <details><summary>11 pa...</summary><p>11 pages, 4 tables, 2 figures</p></details> |
-| **[MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images](https://arxiv.org/abs/2607.04747v1)** | 2026-07-06 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 1 table</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PhenSPINE: A Standardized Benchmark for Spine Pathology Diagnosis](https://arxiv.org/abs/2607.19696v1)** | 2026-07-22 | <details><summary>12 pa...</summary><p>12 pages, figures, Accepted at CITA 2026 (The 15th Conference on Information Technology and its Applications, Scopus)</p></details> |
 | **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v1)** | 2026-07-21 |  |
 | **[Weakly Supervised Pathology-Informed Representation Learning for PET-Based Content Retrieval of Intra-Tumour Heterogeneity](https://arxiv.org/abs/2607.18762v1)** | 2026-07-21 |  |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Self-Auditing Residual Drifting for Pathology-Preserving Accelerated Knee MRI](https://arxiv.org/abs/2607.02428v1)** | 2026-07-02 |  |
 | **[Towards Cellular-Scale Interpretability in Pathology Foundation Models for Biomarker Assessment](https://arxiv.org/abs/2511.05150v2)** | 2026-07-02 |  |
 | **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
-| **[BRIGHT: A Collaborative Generalist-Specialist Foundation Model for Breast Pathology](https://arxiv.org/abs/2603.03030v2)** | 2026-07-02 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
