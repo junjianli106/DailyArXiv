@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 26, 2026
+title: Latest 20 Papers - July 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v2)** | 2026-07-24 |  |
 | **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
 | **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images](https://arxiv.org/abs/2607.10783v1)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted at MAPR 2026</p></details> |
 | **[TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification](https://arxiv.org/abs/2607.10406v1)** | 2026-07-11 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 10 tables</p></details> |
 | **[Slide-Level Active Learning Reduces Annotation Burden in H&E images](https://arxiv.org/abs/2607.09831v1)** | 2026-07-10 |  |
-| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v2)** | 2026-07-24 |  |
 | **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
 | **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Toward Efficient Weakly Supervised Semantic Segmentation Using Only Low-Magnification Histopathological Images](https://arxiv.org/abs/2607.10783v1)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted at MAPR 2026</p></details> |
 | **[TVT-PAPD: Pathology-Aware Prototype Distillation for Self-Supervised Whole Slide Image Classification](https://arxiv.org/abs/2607.10406v1)** | 2026-07-11 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 10 tables</p></details> |
 | **[Slide-Level Active Learning Reduces Annotation Burden in H&E images](https://arxiv.org/abs/2607.09831v1)** | 2026-07-10 |  |
-| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
