@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 30, 2026
+title: Latest 20 Papers - July 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v3)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 | **[PathSelect: Sequential Token Selection for Whole Slide Pathology](https://arxiv.org/abs/2607.23631v1)** | 2026-07-26 |  |
 | **[Weakly Supervised Instance-Level Gleason Pattern Estimation Using Primary and Secondary Labels](https://arxiv.org/abs/2607.23594v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to MICCAI workshop 2026 (AMAI)</p></details> |
@@ -14,7 +16,6 @@ labels: documentation
 | **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
 | **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
-| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v1)** | 2026-07-21 |  |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v4)** | 2026-07-20 |  |
@@ -26,11 +27,12 @@ labels: documentation
 | **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
 | **[Demonstration of the common dual-channel feature decoupling characteristic of front-door mediation causal inference methods in whole-slice image classification](https://arxiv.org/abs/2607.12376v1)** | 2026-07-14 | <details><summary>The m...</summary><p>The manuscript is being submitted for publication to a journal</p></details> |
 | **[Auditing Data Leakage in Whole-Slide Image Multimodal Benchmarks](https://arxiv.org/abs/2607.12278v1)** | 2026-07-14 |  |
-| **[LaGuadia: Language-Guided Adaptive Distillation from Pathology Foundation Models](https://arxiv.org/abs/2607.11257v1)** | 2026-07-13 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v3)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 | **[PathSelect: Sequential Token Selection for Whole Slide Pathology](https://arxiv.org/abs/2607.23631v1)** | 2026-07-26 |  |
 | **[Weakly Supervised Instance-Level Gleason Pattern Estimation Using Primary and Secondary Labels](https://arxiv.org/abs/2607.23594v1)** | 2026-07-26 | <details><summary>Accep...</summary><p>Accepted to MICCAI workshop 2026 (AMAI)</p></details> |
@@ -38,7 +40,6 @@ labels: documentation
 | **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
 | **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
-| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v1)** | 2026-07-21 |  |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v4)** | 2026-07-20 |  |
@@ -50,11 +51,14 @@ labels: documentation
 | **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
 | **[Demonstration of the common dual-channel feature decoupling characteristic of front-door mediation causal inference methods in whole-slice image classification](https://arxiv.org/abs/2607.12376v1)** | 2026-07-14 | <details><summary>The m...</summary><p>The manuscript is being submitted for publication to a journal</p></details> |
 | **[Auditing Data Leakage in Whole-Slide Image Multimodal Benchmarks](https://arxiv.org/abs/2607.12278v1)** | 2026-07-14 |  |
-| **[LaGuadia: Language-Guided Adaptive Distillation from Pathology Foundation Models](https://arxiv.org/abs/2607.11257v1)** | 2026-07-13 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v3)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[PathView-Bench: Can Multimodal Large Language Models Achieve Fine-grained Multiscale Understanding of Pathology Images?](https://arxiv.org/abs/2607.28318v1)** | 2026-07-30 |  |
+| **[Beyond Classification: Pathology Foundation Models as Detection Encoders for Mitotic Figures](https://arxiv.org/abs/2607.28007v1)** | 2026-07-30 |  |
+| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
 | **[Beyond Counts: A Distributional Robustness Margin For Pathology Foundation Models](https://arxiv.org/abs/2607.25497v1)** | 2026-07-28 | Preprint |
 | **[Enhancing Pathological VLMs with Cross-scale Reasoning](https://arxiv.org/abs/2606.17412v4)** | 2026-07-27 | MICCAI 2026 |
 | **[Disentangling Acoustic Cues in Alzheimer's Pathology and Perception: The Roles of Language and Gender](https://arxiv.org/abs/2607.23977v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
@@ -65,20 +69,18 @@ labels: documentation
 | **[Diagnosing Pathological Chain-of-Thought in Reasoning Models](https://arxiv.org/abs/2602.13904v2)** | 2026-07-23 |  |
 | **[GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis](https://arxiv.org/abs/2607.18218v2)** | 2026-07-22 | <details><summary>Model...</summary><p>Models: https://aka.ms/gigapath-flash (GigaPath-Flash) and https://aka.ms/gigatime-flash (GigaTIME-Flash)</p></details> |
 | **[PhenSPINE: A Standardized Benchmark for Spine Pathology Diagnosis](https://arxiv.org/abs/2607.19696v1)** | 2026-07-22 | <details><summary>12 pa...</summary><p>12 pages, figures, Accepted at CITA 2026 (The 15th Conference on Information Technology and its Applications, Scopus)</p></details> |
-| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v1)** | 2026-07-21 |  |
 | **[Weakly Supervised Pathology-Informed Representation Learning for PET-Based Content Retrieval of Intra-Tumour Heterogeneity](https://arxiv.org/abs/2607.18762v1)** | 2026-07-21 |  |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Prompt-Guided Foundation Model Tuning for Pathology Image Classification](https://arxiv.org/abs/2403.12537v2)** | 2026-07-17 |  |
 | **[Paired Uterine Whole-Slide Images and Pathology Reports for Multimodal Computational Pathology](https://arxiv.org/abs/2607.04020v2)** | 2026-07-17 |  |
 | **[A Clinically Validated Foundation Model for Comprehensive Lung Pathology Interpretation](https://arxiv.org/abs/2605.25878v2)** | 2026-07-17 |  |
 | **[Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models](https://arxiv.org/abs/2607.14703v1)** | 2026-07-16 |  |
-| **[Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations](https://arxiv.org/abs/2607.13399v1)** | 2026-07-15 |  |
-| **[MLPTR-CC: Multi-label Pathology Test Recommendation using Classifier Chains and SHAP](https://arxiv.org/abs/2607.08299v2)** | 2026-07-14 |  |
-| **[LaGuadia: Language-Guided Adaptive Distillation from Pathology Foundation Models](https://arxiv.org/abs/2607.11257v1)** | 2026-07-13 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v3)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Rethinking EEG-Based Disease Diagnosis: Decoupling Instance Representation Learning from Subject-Level Supervision](https://arxiv.org/abs/2607.27274v1)** | 2026-07-29 |  |
 | **[DINOv3-MIL: Per-Kidney Multi-Label Tumour and Cyst Detection from Foundation-Model Patch Tokens on KiTS23](https://arxiv.org/abs/2607.22687v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at MIUA 2026 (poster). To appear in Frontiers in Medical Technology. Added the MIUA 2026 conference poster as ancillary material; source changed from PDF-only to LaTeX; no substantive manuscript changes</p></details> |
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 | **[Explainable graph attention network for stress recognition (StressGAT) via differential action units](https://arxiv.org/abs/2607.20819v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the 14th International Conference on Affective Computing and Intelligent Interaction (ACII 2026)</p></details> |
@@ -97,8 +99,6 @@ labels: documentation
 | **[PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates](https://arxiv.org/abs/2512.06845v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 | **[Learning Where and When: Patch-Based Spatiotemporal Localization in Weakly Supervised Video Anomaly Detection](https://arxiv.org/abs/2606.29498v1)** | 2026-06-28 |  |
 | **[Predicting Metastatic Risk from Primary Tissue Architecture via Distance-Aware Spatial Modeling](https://arxiv.org/abs/2606.28676v1)** | 2026-06-27 |  |
-| **[Every Step of the Way: Video-based Parkinsonian Turning Step Counting](https://arxiv.org/abs/2606.27918v1)** | 2026-06-26 |  |
-| **[The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](https://arxiv.org/abs/2606.27739v1)** | 2026-06-26 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
