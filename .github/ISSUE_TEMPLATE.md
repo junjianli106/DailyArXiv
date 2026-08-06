@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 05, 2026
+title: Latest 20 Papers - August 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns](https://arxiv.org/abs/2608.05074v1)** | 2026-08-05 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at the 7th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2026)</p></details> |
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v1)** | 2026-08-04 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v4)** | 2026-07-20 |  |
-| **[Prompt-Guided Foundation Model Tuning for Pathology Image Classification](https://arxiv.org/abs/2403.12537v2)** | 2026-07-17 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns](https://arxiv.org/abs/2608.05074v1)** | 2026-08-05 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at the 7th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2026)</p></details> |
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v1)** | 2026-08-04 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v4)** | 2026-07-20 |  |
-| **[Prompt-Guided Foundation Model Tuning for Pathology Image Classification](https://arxiv.org/abs/2403.12537v2)** | 2026-07-17 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes](https://arxiv.org/abs/2608.05101v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ACM Multimedia 2026 (MM '26)</p></details> |
 | **[SAGE: Semantic Explainability of Attention-Based Survival Models in Computational Pathology](https://arxiv.org/abs/2608.02803v1)** | 2026-08-03 | <details><summary>Proce...</summary><p>Proceedings of the MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC)</p></details> |
 | **[Weakly Supervised Instance-Level Gleason Pattern Estimation Using Primary and Secondary Labels](https://arxiv.org/abs/2607.23594v2)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted to MICCAI workshop 2026 (AMAI)</p></details> |
 | **[Representation Transfer of Foundation Models for Ultra-Widefield Retinal Imaging](https://arxiv.org/abs/2608.00586v1)** | 2026-08-01 | 15 pages, 7 figures |
@@ -87,6 +88,7 @@ labels: documentation
 | **[DINOv3-MIL: Per-Kidney Multi-Label Tumour and Cyst Detection from Foundation-Model Patch Tokens on KiTS23](https://arxiv.org/abs/2607.22687v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at MIUA 2026 (poster). To appear in Frontiers in Medical Technology. Added the MIUA 2026 conference poster as ancillary material; source changed from PDF-only to LaTeX; no substantive manuscript changes</p></details> |
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 | **[Explainable graph attention network for stress recognition (StressGAT) via differential action units](https://arxiv.org/abs/2607.20819v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at the 14th International Conference on Affective Computing and Intelligent Interaction (ACII 2026)</p></details> |
+| **[A Multi-Cohort Validation of Censoring-Aware Conformal Lower Predictive Bounds for Pathology Survival Models](https://arxiv.org/abs/2608.04025v1)** | 2026-07-23 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 2 main tables, and supplementary material. Preprint</p></details> |
 | **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
 | **[TellTale: Blending Multi-Instance LoRA Text Encoders and a Zero-Shot LLM Judge for Ambivalence/Hesitancy Recognition in Videos](https://arxiv.org/abs/2607.16635v1)** | 2026-07-18 |  |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Complementary Roles of Image Classification and Vessel Segmentation in AI-Based Screening for Retinopathy of Prematurity Plus Disease in a Kenyan Preterm Cohort](https://arxiv.org/abs/2607.05825v1)** | 2026-07-07 |  |
 | **[Latent Clarity: Bridging World-Model Kinematics to Semantic Manifolds for Video Anomaly Anticipation](https://arxiv.org/abs/2607.03558v1)** | 2026-07-03 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 5 tables</p></details> |
 | **[Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition](https://arxiv.org/abs/2606.31249v1)** | 2026-06-30 |  |
-| **[TaxoMIL: Taxonomy-Constrained Learning for Hierarchical Whole Slide Image Analysis](https://arxiv.org/abs/2606.31100v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[PA-VAD: Diffusion-Based Pseudo-Only Video Anomaly Detection via Domain-Aligned Memory Updates](https://arxiv.org/abs/2512.06845v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
