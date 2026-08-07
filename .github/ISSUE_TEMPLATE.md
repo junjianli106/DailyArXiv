@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 06, 2026
+title: Latest 20 Papers - August 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757v1)** | 2026-08-06 |  |
+| **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns](https://arxiv.org/abs/2608.05074v1)** | 2026-08-05 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at the 7th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2026)</p></details> |
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
-| **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
-| **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v4)** | 2026-07-20 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757v1)** | 2026-08-06 |  |
+| **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns](https://arxiv.org/abs/2608.05074v1)** | 2026-08-05 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at the 7th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2026)</p></details> |
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
@@ -49,12 +51,11 @@ labels: documentation
 | **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
 | **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
-| **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
-| **[CORE -- A Cell-Level Coarse-to-Fine Image Registration Engine for Multi-stain Image Alignment](https://arxiv.org/abs/2511.03826v4)** | 2026-07-20 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v1)** | 2026-08-04 |  |
@@ -74,11 +75,12 @@ labels: documentation
 | **[Beyond Counts: A Distributional Robustness Margin For Pathology Foundation Models](https://arxiv.org/abs/2607.25497v1)** | 2026-07-28 | Preprint |
 | **[Enhancing Pathological VLMs with Cross-scale Reasoning](https://arxiv.org/abs/2606.17412v4)** | 2026-07-27 | MICCAI 2026 |
 | **[Disentangling Acoustic Cues in Alzheimer's Pathology and Perception: The Roles of Language and Gender](https://arxiv.org/abs/2607.23977v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at Interspeech 2026</p></details> |
-| **[PathScale-R1: Cross-scale Reasoning for Pathological Image Analysis](https://arxiv.org/abs/2607.23794v1)** | 2026-07-26 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrating Implicit and Explicit Relational Biases through Graph-Based Multiple Instance Learning: A Case Study in Skin Lesion Diagnosis](https://arxiv.org/abs/2608.06037v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted as a short paper for presentation at the 21st International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB 2026)</p></details> |
+| **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes](https://arxiv.org/abs/2608.05101v1)** | 2026-08-05 | <details><summary>Accep...</summary><p>Accepted at ACM Multimedia 2026 (MM '26)</p></details> |
 | **[SAGE: Semantic Explainability of Attention-Based Survival Models in Computational Pathology](https://arxiv.org/abs/2608.02803v1)** | 2026-08-03 | <details><summary>Proce...</summary><p>Proceedings of the MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC)</p></details> |
 | **[Weakly Supervised Instance-Level Gleason Pattern Estimation Using Primary and Secondary Labels](https://arxiv.org/abs/2607.23594v2)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted to MICCAI workshop 2026 (AMAI)</p></details> |
@@ -97,8 +99,6 @@ labels: documentation
 | **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
 | **[Learning from Lost Provenance: Multiple Instance Learning for Cancer Registry Tumor Group Classification](https://arxiv.org/abs/2607.03481v2)** | 2026-07-11 |  |
 | **[Complementary Roles of Image Classification and Vessel Segmentation in AI-Based Screening for Retinopathy of Prematurity Plus Disease in a Kenyan Preterm Cohort](https://arxiv.org/abs/2607.05825v1)** | 2026-07-07 |  |
-| **[Latent Clarity: Bridging World-Model Kinematics to Semantic Manifolds for Video Anomaly Anticipation](https://arxiv.org/abs/2607.03558v1)** | 2026-07-03 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 5 tables</p></details> |
-| **[Rethinking the Role of Feature Engineering and Learning Strategies in Few-Shot Hidden Emotion Recognition](https://arxiv.org/abs/2606.31249v1)** | 2026-06-30 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
