@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 10, 2026
+title: Latest 20 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
+| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v1)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026 Conference</p></details> |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
+| **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757v1)** | 2026-08-06 |  |
 | **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
@@ -23,14 +27,14 @@ labels: documentation
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 | **[PathSelect: Sequential Token Selection for Whole Slide Pathology](https://arxiv.org/abs/2607.23631v1)** | 2026-07-26 |  |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v2)** | 2026-07-24 |  |
-| **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
-| **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
-| **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
-| **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
+| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v1)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026 Conference</p></details> |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
+| **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757v1)** | 2026-08-06 |  |
 | **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
@@ -47,14 +51,16 @@ labels: documentation
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 | **[PathSelect: Sequential Token Selection for Whole Slide Pathology](https://arxiv.org/abs/2607.23631v1)** | 2026-07-26 |  |
 | **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v2)** | 2026-07-24 |  |
-| **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
-| **[The PAR dataset: Prostate biopsy whole slide images from an underrepresented Middle Eastern population](https://arxiv.org/abs/2512.03854v2)** | 2026-07-22 | <details><summary>13 pa...</summary><p>13 pages, 2 figures and 1 table</p></details> |
-| **[Pathologist Attention-Aligned Report Generation for Prostate Histopathology](https://arxiv.org/abs/2607.19624v1)** | 2026-07-21 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, accepted for publication at the 29th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</p></details> |
-| **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Disentangling Co-Occurring Retinal Pathologies with Saliency-Guided Sparse Expert Routing](https://arxiv.org/abs/2608.09752v1)** | 2026-08-10 | <details><summary>Accep...</summary><p>Accepted at 2026 IEEE International Workshop on Machine Learning for Signal Processing</p></details> |
+| **[Agentic Visual Reasoning in Whole-Slide Pathology Images via Active Perception](https://arxiv.org/abs/2608.08648v1)** | 2026-08-09 | 14 pages, 5 figures |
+| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v1)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026 Conference</p></details> |
+| **[PARAGraph: Pathology-Anatomy-Aware Hierarchical Graph for Diabetic Retinopathy Grading](https://arxiv.org/abs/2608.08368v1)** | 2026-08-08 |  |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
+| **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v2)** | 2026-08-07 |  |
 | **[Explanation Stability of Test-Time Adaptation in Computational Pathology: A Large-Scale Benchmark](https://arxiv.org/abs/2608.07062v1)** | 2026-08-07 |  |
@@ -69,12 +75,6 @@ labels: documentation
 | **[Training-Free Out-of-Distribution Detection for Pathology Whole-Slide Images](https://arxiv.org/abs/2608.01407v1)** | 2026-08-02 | <details><summary>Under...</summary><p>Under review. The code is available in https://github.com/muskahya/ZIO</p></details> |
 | **[Understanding Synergistic Interactions among Pathology Foundation Models via Adaptive Fusion](https://arxiv.org/abs/2608.01370v1)** | 2026-08-02 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
 | **[Harnessing Adversarial Distillation to Customise Debiased, Disease-Specific Pathology Foundation Models for Breast Cancer](https://arxiv.org/abs/2608.01356v1)** | 2026-08-02 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 2 tables. Accepted to MICCAI 2026 (early accept)</p></details> |
-| **[Trust but Verify:Evidence-Linked Multi-Agent Clinical Information Extraction in Pathology](https://arxiv.org/abs/2607.06435v2)** | 2026-08-01 |  |
-| **[Learning to See Locally and Align Clinically with Pathology Semantics for Radiology Report Generation](https://arxiv.org/abs/2608.00279v1)** | 2026-07-31 |  |
-| **[What Carries the Signal in Pathology Foundation-Model Atlases? A Patient-Level Controlled Benchmark in Breast Cancer](https://arxiv.org/abs/2608.00105v1)** | 2026-07-31 | <details><summary>40 pa...</summary><p>40 pages, 7 figures, 10 tables. Supplementary Information (16 pages) included as an ancillary file. Segmentation outputs obtained under the Aignostics Research Access Programme; OpenTME data at https://huggingface.co/datasets/Aignostics/OpenTME</p></details> |
-| **[PathView-Bench: Can Multimodal Large Language Models Achieve Fine-grained Multiscale Understanding of Pathology Images?](https://arxiv.org/abs/2607.28318v1)** | 2026-07-30 |  |
-| **[Beyond Classification: Pathology Foundation Models as Detection Encoders for Mitotic Figures](https://arxiv.org/abs/2607.28007v1)** | 2026-07-30 |  |
-| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Trust but Verify:Evidence-Linked Multi-Agent Clinical Information Extraction in Pathology](https://arxiv.org/abs/2607.06435v2)** | 2026-08-01 |  |
 | **[DS@GT ARC at MEDIQA-CORE-Task-1 2026: Trimodal Model Fusion with Task-Specific Gates for Brain Tumor Subtype Classification](https://arxiv.org/abs/2608.00086v1)** | 2026-07-30 | <details><summary>CLEF ...</summary><p>CLEF 2026 Working Notes, 21 - 24 September 2026, Jena, Germany</p></details> |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
@@ -117,7 +118,6 @@ labels: documentation
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
 | **[In-Domain Supervised Pathology Report Classification: A Reproducible Pipeline from Data Curation to Production-Matched Evaluation](https://arxiv.org/abs/2606.16026v1)** | 2026-06-14 |  |
 | **[Multi-Modal Machine Learning for Breast Cancer Recurrence Prediction](https://arxiv.org/abs/2606.02892v1)** | 2026-06-01 | 33 pages, 10 figures |
-| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[ConceptM$^3$oE: Concept-Guided Multimodal Mixture of Experts for Interpretable Computational Pathology](https://arxiv.org/abs/2605.24399v2)** | 2026-05-27 |  |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[Multi-Task LLM with LoRA Fine-Tuning for Automated Cancer Staging and Biomarker Extraction](https://arxiv.org/abs/2604.13328v1)** | 2026-04-14 | <details><summary>11 pa...</summary><p>11 pages, 3 figures and 4 tables in the main manuscript. Additional content, figures and tables are in supplementary material section. 17 pages in total</p></details> |
@@ -127,11 +127,11 @@ labels: documentation
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[PathReportEval: A Systematic Benchmark for Pathology Report Generation](https://arxiv.org/abs/2607.18448v1)** | 2026-07-20 |  |
 | **[Paired Uterine Whole-Slide Images and Pathology Reports for Multimodal Computational Pathology](https://arxiv.org/abs/2607.04020v2)** | 2026-07-17 |  |
 | **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
 | **[Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](https://arxiv.org/abs/2606.18123v2)** | 2026-06-20 | 5 figures |
-| **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by the DeLTA 2026 conference</p></details> |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[RANGER: Sparsely-Gated Mixture-of-Experts with Adaptive Retrieval Re-ranking for Pathology Report Generation](https://arxiv.org/abs/2603.04348v1)** | 2026-03-04 |  |
 | **[QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647v1)** | 2026-03-02 |  |
