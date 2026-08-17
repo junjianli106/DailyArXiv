@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 16, 2026
+title: Latest 20 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
+| **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v5)** | 2026-08-13 | 18 pages, 11 figures |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v2)** | 2026-08-13 |  |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026 Conference</p></details> |
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2608.01104v1)** | 2026-08-02 |  |
 | **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
-| **[PathSelect: Sequential Token Selection for Whole Slide Pathology](https://arxiv.org/abs/2607.23631v1)** | 2026-07-26 |  |
-| **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v2)** | 2026-07-24 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
+| **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v5)** | 2026-08-13 | 18 pages, 11 figures |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v2)** | 2026-08-13 |  |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026 Conference</p></details> |
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
@@ -49,12 +51,11 @@ labels: documentation
 | **[From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2608.01104v1)** | 2026-08-02 |  |
 | **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
 | **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
-| **[PathSelect: Sequential Token Selection for Whole Slide Pathology](https://arxiv.org/abs/2607.23631v1)** | 2026-07-26 |  |
-| **[Atlas 2 -- Foundation models for clinical deployment](https://arxiv.org/abs/2601.05148v2)** | 2026-07-24 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
 | **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v3)** | 2026-08-13 | <details><summary>Autho...</summary><p>Author list in metadata corrected to match the paper</p></details> |
 | **[A Distributional Robustness Margin For Pathology Foundation Models](https://arxiv.org/abs/2607.25497v2)** | 2026-08-13 | Preprint |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v2)** | 2026-08-13 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v1)** | 2026-08-04 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
 | **[SAGE: Semantic Explainability of Attention-Based Survival Models in Computational Pathology](https://arxiv.org/abs/2608.02803v1)** | 2026-08-03 | <details><summary>Proce...</summary><p>Proceedings of the MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC)</p></details> |
 | **[Training-Free Out-of-Distribution Detection for Pathology Whole-Slide Images](https://arxiv.org/abs/2608.01407v1)** | 2026-08-02 | <details><summary>Under...</summary><p>Under review. The code is available in https://github.com/muskahya/ZIO</p></details> |
-| **[Understanding Synergistic Interactions among Pathology Foundation Models via Adaptive Fusion](https://arxiv.org/abs/2608.01370v1)** | 2026-08-02 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 3 tables</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
