@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 17, 2026
+title: Latest 20 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,16 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interactive Whole Slide Images for RL-based Tumour Segmentation](https://arxiv.org/abs/2608.16607v1)** | 2026-08-17 |  |
+| **[CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction](https://arxiv.org/abs/2608.16594v1)** | 2026-08-17 |  |
+| **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
 | **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
+| **[Test-Time Instance Selection for Improved Whole Slide Image Analysis](https://arxiv.org/abs/2608.14759v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at The 2nd MICCAI Workshop on Efficient Medical AI (EMA4MICCAI 2026)</p></details> |
+| **[KHiM-Mamba: Injecting Pathology Knowledge into Mamba via Hidden-State Modulation for Whole Slide Image Analysis](https://arxiv.org/abs/2608.14757v1)** | 2026-08-14 |  |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v5)** | 2026-08-13 | 18 pages, 11 figures |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v2)** | 2026-08-13 |  |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026 Conference</p></details> |
+| **[DeCo-MIL: Debiased Counterfactual Reasoning for Long-Tailed Whole Slide Image Analysis](https://arxiv.org/abs/2608.14719v1)** | 2026-08-12 |  |
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
@@ -21,20 +27,20 @@ labels: documentation
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
 | **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v2)** | 2026-08-04 |  |
-| **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v1)** | 2026-08-04 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
-| **[Training-Free Out-of-Distribution Detection for Pathology Whole-Slide Images](https://arxiv.org/abs/2608.01407v1)** | 2026-08-02 | <details><summary>Under...</summary><p>Under review. The code is available in https://github.com/muskahya/ZIO</p></details> |
-| **[Weakly Supervised Instance-Level Gleason Pattern Estimation Using Primary and Secondary Labels](https://arxiv.org/abs/2607.23594v2)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted to MICCAI workshop 2026 (AMAI)</p></details> |
-| **[From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2608.01104v1)** | 2026-08-02 |  |
-| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
-| **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interactive Whole Slide Images for RL-based Tumour Segmentation](https://arxiv.org/abs/2608.16607v1)** | 2026-08-17 |  |
+| **[CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction](https://arxiv.org/abs/2608.16594v1)** | 2026-08-17 |  |
+| **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
 | **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
+| **[Test-Time Instance Selection for Improved Whole Slide Image Analysis](https://arxiv.org/abs/2608.14759v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at The 2nd MICCAI Workshop on Efficient Medical AI (EMA4MICCAI 2026)</p></details> |
+| **[KHiM-Mamba: Injecting Pathology Knowledge into Mamba via Hidden-State Modulation for Whole Slide Image Analysis](https://arxiv.org/abs/2608.14757v1)** | 2026-08-14 |  |
 | **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v5)** | 2026-08-13 | 18 pages, 11 figures |
 | **[From Multi-Resolution Cells to Gigapixel Whole Slide Images Foundation Model for Computational Pathology](https://arxiv.org/abs/2608.03508v2)** | 2026-08-13 |  |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026 Conference</p></details> |
+| **[DeCo-MIL: Debiased Counterfactual Reasoning for Long-Tailed Whole Slide Image Analysis](https://arxiv.org/abs/2608.14719v1)** | 2026-08-12 |  |
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
@@ -45,16 +51,11 @@ labels: documentation
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
 | **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v2)** | 2026-08-04 |  |
-| **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v1)** | 2026-08-04 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
-| **[Training-Free Out-of-Distribution Detection for Pathology Whole-Slide Images](https://arxiv.org/abs/2608.01407v1)** | 2026-08-02 | <details><summary>Under...</summary><p>Under review. The code is available in https://github.com/muskahya/ZIO</p></details> |
-| **[Weakly Supervised Instance-Level Gleason Pattern Estimation Using Primary and Secondary Labels](https://arxiv.org/abs/2607.23594v2)** | 2026-08-02 | <details><summary>Accep...</summary><p>Accepted to MICCAI workshop 2026 (AMAI)</p></details> |
-| **[From Patches to Evidence Balls: Class-Conditioned Evidence Retrieval for Few-Shot Whole Slide Image Classification](https://arxiv.org/abs/2608.01104v1)** | 2026-08-02 |  |
-| **[PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261v2)** | 2026-07-30 |  |
-| **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Automated Fetal Brain MRI Biometry in Healthy and Pathological Cases](https://arxiv.org/abs/2608.15692v1)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at the PIPPI Workshop of MICCAI 2026</p></details> |
 | **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
 | **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v3)** | 2026-08-13 | <details><summary>Autho...</summary><p>Author list in metadata corrected to match the paper</p></details> |
 | **[A Distributional Robustness Margin For Pathology Foundation Models](https://arxiv.org/abs/2607.25497v2)** | 2026-08-13 | Preprint |
@@ -74,11 +75,15 @@ labels: documentation
 | **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v2)** | 2026-08-04 |  |
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v1)** | 2026-08-04 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
 | **[SAGE: Semantic Explainability of Attention-Based Survival Models in Computational Pathology](https://arxiv.org/abs/2608.02803v1)** | 2026-08-03 | <details><summary>Proce...</summary><p>Proceedings of the MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC)</p></details> |
-| **[Training-Free Out-of-Distribution Detection for Pathology Whole-Slide Images](https://arxiv.org/abs/2608.01407v1)** | 2026-08-02 | <details><summary>Under...</summary><p>Under review. The code is available in https://github.com/muskahya/ZIO</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BagShift: Measuring How Patch Selection Changes the Evidence Seen by Whole-Slide MIL](https://arxiv.org/abs/2608.15970v1)** | 2026-08-16 | <details><summary>18 pa...</summary><p>18 pages include Supplementary Material. 8 figures</p></details> |
+| **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
+| **[Test-Time Instance Selection for Improved Whole Slide Image Analysis](https://arxiv.org/abs/2608.14759v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at The 2nd MICCAI Workshop on Efficient Medical AI (EMA4MICCAI 2026)</p></details> |
+| **[KHiM-Mamba: Injecting Pathology Knowledge into Mamba via Hidden-State Modulation for Whole Slide Image Analysis](https://arxiv.org/abs/2608.14757v1)** | 2026-08-14 |  |
+| **[DeCo-MIL: Debiased Counterfactual Reasoning for Long-Tailed Whole Slide Image Analysis](https://arxiv.org/abs/2608.14719v1)** | 2026-08-12 |  |
 | **[Foundation Models Adaptation for Multi-View Multi-modal Cardiac MRI Segmentation and Direct Ejection Fraction Estimation](https://arxiv.org/abs/2608.07291v1)** | 2026-08-07 |  |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 | **[Integrating Implicit and Explicit Relational Biases through Graph-Based Multiple Instance Learning: A Case Study in Skin Lesion Diagnosis](https://arxiv.org/abs/2608.06037v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted as a short paper for presentation at the 21st International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB 2026)</p></details> |
@@ -94,15 +99,11 @@ labels: documentation
 | **[A Multi-Cohort Validation of Censoring-Aware Conformal Lower Predictive Bounds for Pathology Survival Models](https://arxiv.org/abs/2608.04025v1)** | 2026-07-23 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 2 main tables, and supplementary material. Preprint</p></details> |
 | **[Evaluation and Prognostic Validation of Deep Regression Models for WSI-Based Gene-Expression Prediction](https://arxiv.org/abs/2410.00945v2)** | 2026-07-23 |  |
 | **[Sequential Attention-based Sampling for Histopathological Analysis](https://arxiv.org/abs/2507.05077v5)** | 2026-07-20 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025. This version matches the camera-ready copy</p></details> |
-| **[TellTale: Blending Multi-Instance LoRA Text Encoders and a Zero-Shot LLM Judge for Ambivalence/Hesitancy Recognition in Videos](https://arxiv.org/abs/2607.16635v1)** | 2026-07-18 |  |
-| **[Pretraining Multiple Instance Learning Networks with Multi-Teacher Distillation from Pathology Slide Foundation Models](https://arxiv.org/abs/2607.14703v1)** | 2026-07-16 |  |
-| **[Audio-Text Cross-Attention with Psycholinguistic Support Features for Ambivalence/Hesitancy Recognition](https://arxiv.org/abs/2607.13345v1)** | 2026-07-15 |  |
-| **[CGRL: Concept-Guided Pruning and Representation Learning for Whole-Slide Image Classification](https://arxiv.org/abs/2607.12556v1)** | 2026-07-14 | <details><summary>6 pag...</summary><p>6 pages, 2 figures. Accepted at MAPR 2026. Code: https://github.com/ThucHuynh44/CGRL</p></details> |
-| **[Learning from Lost Provenance: Multiple Instance Learning for Cancer Registry Tumor Group Classification](https://arxiv.org/abs/2607.03481v2)** | 2026-07-11 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Trust but Verify:Evidence-Linked Multi-Agent Clinical Information Extraction in Pathology](https://arxiv.org/abs/2607.06435v2)** | 2026-08-01 |  |
 | **[DS@GT ARC at MEDIQA-CORE-Task-1 2026: Trimodal Model Fusion with Task-Specific Gates for Brain Tumor Subtype Classification](https://arxiv.org/abs/2608.00086v1)** | 2026-07-30 | <details><summary>CLEF ...</summary><p>CLEF 2026 Working Notes, 21 - 24 September 2026, Jena, Germany</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v1)** | 2026-05-01 |  |
 | **[Multi-Task LLM with LoRA Fine-Tuning for Automated Cancer Staging and Biomarker Extraction](https://arxiv.org/abs/2604.13328v1)** | 2026-04-14 | <details><summary>11 pa...</summary><p>11 pages, 3 figures and 4 tables in the main manuscript. Additional content, figures and tables are in supplementary material section. 17 pages in total</p></details> |
 | **[PRIME: Prototype-Driven Multimodal Pretraining for Cancer Prognosis with Missing Modalities](https://arxiv.org/abs/2604.04999v1)** | 2026-04-05 |  |
-| **[ELM: A Hybrid Ensemble of Language Models for Automated Tumor Group Classification in Population-Based Cancer Registries](https://arxiv.org/abs/2503.21800v2)** | 2026-03-19 |  |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
