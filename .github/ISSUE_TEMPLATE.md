@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 18, 2026
+title: Latest 20 Papers - August 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DistillPath: An Efficient 22M Distilled Pathology Encoder Approaching Large Foundation Model Performance](https://arxiv.org/abs/2608.17872v1)** | 2026-08-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench)</p></details> |
+| **[Learning latent progression states from spatial heterogeneity in uterine histopathology](https://arxiv.org/abs/2608.17337v1)** | 2026-08-18 |  |
+| **[A Multimodal Agentic Pathology Co-pilot via Evidence Grounded Reasoning](https://arxiv.org/abs/2606.08093v2)** | 2026-08-18 |  |
 | **[Interactive Whole Slide Images for RL-based Tumour Segmentation](https://arxiv.org/abs/2608.16607v1)** | 2026-08-17 |  |
 | **[CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction](https://arxiv.org/abs/2608.16594v1)** | 2026-08-17 |  |
 | **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
@@ -24,13 +27,13 @@ labels: documentation
 | **[Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757v1)** | 2026-08-06 |  |
 | **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns](https://arxiv.org/abs/2608.05074v1)** | 2026-08-05 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at the 7th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2026)</p></details> |
-| **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
-| **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
-| **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v2)** | 2026-08-04 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DistillPath: An Efficient 22M Distilled Pathology Encoder Approaching Large Foundation Model Performance](https://arxiv.org/abs/2608.17872v1)** | 2026-08-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench)</p></details> |
+| **[Learning latent progression states from spatial heterogeneity in uterine histopathology](https://arxiv.org/abs/2608.17337v1)** | 2026-08-18 |  |
+| **[A Multimodal Agentic Pathology Co-pilot via Evidence Grounded Reasoning](https://arxiv.org/abs/2606.08093v2)** | 2026-08-18 |  |
 | **[Interactive Whole Slide Images for RL-based Tumour Segmentation](https://arxiv.org/abs/2608.16607v1)** | 2026-08-17 |  |
 | **[CACSurv: Concordance-Aligned Comparative Learning with Large Language Models for Cancer Survival Prediction](https://arxiv.org/abs/2608.16594v1)** | 2026-08-17 |  |
 | **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
@@ -48,13 +51,12 @@ labels: documentation
 | **[Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757v1)** | 2026-08-06 |  |
 | **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns](https://arxiv.org/abs/2608.05074v1)** | 2026-08-05 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Accepted at the 7th International Conference on Medical Imaging and Computer-Aided Diagnosis (MICAD 2026)</p></details> |
-| **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
-| **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
-| **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v2)** | 2026-08-04 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DistillPath: An Efficient 22M Distilled Pathology Encoder Approaching Large Foundation Model Performance](https://arxiv.org/abs/2608.17872v1)** | 2026-08-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench)</p></details> |
+| **[A Multimodal Agentic Pathology Co-pilot via Evidence Grounded Reasoning](https://arxiv.org/abs/2606.08093v2)** | 2026-08-18 |  |
 | **[Automated Fetal Brain MRI Biometry in Healthy and Pathological Cases](https://arxiv.org/abs/2608.15692v1)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at the PIPPI Workshop of MICCAI 2026</p></details> |
 | **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
 | **[Pathryoshka: Compressing Pathology Foundation Models via Multi-Teacher Knowledge Distillation with Nested Embeddings](https://arxiv.org/abs/2511.23204v3)** | 2026-08-13 | <details><summary>Autho...</summary><p>Author list in metadata corrected to match the paper</p></details> |
@@ -73,8 +75,6 @@ labels: documentation
 | **[Morphology-Aware Implicit Super-Resolution Network for Pathological Images](https://arxiv.org/abs/2608.03664v1)** | 2026-08-04 |  |
 | **[S$^3$-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images](https://arxiv.org/abs/2608.03540v1)** | 2026-08-04 |  |
 | **[A Deployment-Friendly Foundational Framework for Efficient Computational Pathology](https://arxiv.org/abs/2602.14010v2)** | 2026-08-04 |  |
-| **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v1)** | 2026-08-04 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
-| **[SAGE: Semantic Explainability of Attention-Based Survival Models in Computational Pathology](https://arxiv.org/abs/2608.02803v1)** | 2026-08-03 | <details><summary>Proce...</summary><p>Proceedings of the MICCAI Workshop on Interpretability of Machine Intelligence in Medical Image Computing (iMIMIC)</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
