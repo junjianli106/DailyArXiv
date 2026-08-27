@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 26, 2026
+title: Latest 20 Papers - August 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology](https://arxiv.org/abs/2608.25970v1)** | 2026-08-26 |  |
 | **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 | **[RACR-MIL: Rank-aware contextual reasoning for weakly supervised grading of squamous cell carcinoma using whole slide images](https://arxiv.org/abs/2308.15618v3)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to Medical Image Analysis</p></details> |
 | **[LanGuSTE: Language-Guided Coarse-to-Fine Patch Selection for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2508.14537v2)** | 2026-08-24 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
-| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology](https://arxiv.org/abs/2608.25970v1)** | 2026-08-26 |  |
 | **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 | **[RACR-MIL: Rank-aware contextual reasoning for weakly supervised grading of squamous cell carcinoma using whole slide images](https://arxiv.org/abs/2308.15618v3)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to Medical Image Analysis</p></details> |
 | **[LanGuSTE: Language-Guided Coarse-to-Fine Patch Selection for Efficient Whole Slide Image Analysis](https://arxiv.org/abs/2508.14537v2)** | 2026-08-24 |  |
@@ -50,7 +51,6 @@ labels: documentation
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
-| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
