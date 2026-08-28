@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 28, 2026
+title: Latest 20 Papers - August 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction](https://arxiv.org/abs/2608.27278v1)** | 2026-08-27 |  |
 | **[PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology](https://arxiv.org/abs/2608.25970v1)** | 2026-08-26 |  |
 | **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 | **[RACR-MIL: Rank-aware contextual reasoning for weakly supervised grading of squamous cell carcinoma using whole slide images](https://arxiv.org/abs/2308.15618v3)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to Medical Image Analysis</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[DeCo-MIL: Debiased Counterfactual Reasoning for Long-Tailed Whole Slide Image Analysis](https://arxiv.org/abs/2608.14719v1)** | 2026-08-12 |  |
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
-| **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction](https://arxiv.org/abs/2608.27278v1)** | 2026-08-27 |  |
 | **[PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology](https://arxiv.org/abs/2608.25970v1)** | 2026-08-26 |  |
 | **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 | **[RACR-MIL: Rank-aware contextual reasoning for weakly supervised grading of squamous cell carcinoma using whole slide images](https://arxiv.org/abs/2308.15618v3)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to Medical Image Analysis</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[DeCo-MIL: Debiased Counterfactual Reasoning for Long-Tailed Whole Slide Image Analysis](https://arxiv.org/abs/2608.14719v1)** | 2026-08-12 |  |
 | **[One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training](https://arxiv.org/abs/2608.09403v1)** | 2026-08-10 |  |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
-| **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology](https://arxiv.org/abs/2608.26382v1)** | 2026-08-26 |  |
 | **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 | **[LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology](https://arxiv.org/abs/2608.23803v1)** | 2026-08-24 |  |
 | **[Pretreatment DCE-MRI Resolves Response Quality Within Pathologic Endpoints in Neoadjuvant Breast Cancer](https://arxiv.org/abs/2608.22097v1)** | 2026-08-22 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Explanation Stability of Test-Time Adaptation in Computational Pathology: A Large-Scale Benchmark](https://arxiv.org/abs/2608.07062v1)** | 2026-08-07 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
