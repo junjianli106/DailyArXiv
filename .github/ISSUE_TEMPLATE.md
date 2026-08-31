@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 30, 2026
+title: Latest 20 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EXPOSE: Explainable and Domain-Robust Embeddings from Pathology Vision Foundation Models using Sparse Autoencoders](https://arxiv.org/abs/2608.28191v1)** | 2026-08-28 |  |
 | **[VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology](https://arxiv.org/abs/2608.26382v1)** | 2026-08-26 |  |
 | **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 | **[LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology](https://arxiv.org/abs/2608.23803v1)** | 2026-08-24 |  |
@@ -74,11 +75,11 @@ labels: documentation
 | **[PARAGraph: Pathology-Anatomy-Aware Hierarchical Graph for Diabetic Retinopathy Grading](https://arxiv.org/abs/2608.08368v1)** | 2026-08-08 |  |
 | **[Simple Token-Efficient Vision-Language Model for Case-level Pathology Synoptic Report Generation](https://arxiv.org/abs/2605.30716v2)** | 2026-08-07 | <details><summary>DeLTA...</summary><p>DeLTA 2026 Conference Best Paper Award</p></details> |
 | **[Ensemble learning of pathology foundation models for precision oncology](https://arxiv.org/abs/2508.16085v2)** | 2026-08-07 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
-| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Under-Mattress Temporal Sensing for Next-Day Agitation Risk Scoring in Dementia Wards](https://arxiv.org/abs/2608.28152v1)** | 2026-08-28 |  |
 | **[RACR-MIL: Rank-aware contextual reasoning for weakly supervised grading of squamous cell carcinoma using whole slide images](https://arxiv.org/abs/2308.15618v3)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted to Medical Image Analysis</p></details> |
 | **[ADMIL: Attention-Distilled Multiple Instance Learning for Selective Foundation Model Inference in Pathology](https://arxiv.org/abs/2608.22066v1)** | 2026-08-22 |  |
 | **[MIL-BERT: Classification of Arbitrarily Large Text with Performance and Explanatory Guarantees](https://arxiv.org/abs/2608.20636v1)** | 2026-08-21 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Representation Transfer of Foundation Models for Ultra-Widefield Retinal Imaging](https://arxiv.org/abs/2608.00586v1)** | 2026-08-01 | 15 pages, 7 figures |
 | **[Rethinking EEG-Based Disease Diagnosis: Decoupling Instance Representation Learning from Subject-Level Supervision](https://arxiv.org/abs/2607.27274v2)** | 2026-07-31 |  |
 | **[DINOv3-MIL: Per-Kidney Multi-Label Tumour and Cyst Detection from Foundation-Model Patch Tokens on KiTS23](https://arxiv.org/abs/2607.22687v2)** | 2026-07-28 | <details><summary>Accep...</summary><p>Accepted at MIUA 2026 (poster). To appear in Frontiers in Medical Technology. Added the MIUA 2026 conference poster as ancillary material; source changed from PDF-only to LaTeX; no substantive manuscript changes</p></details> |
-| **[Group Equivariant Diffusion for Anomaly Detection in Computational Cytology](https://arxiv.org/abs/2607.25503v1)** | 2026-07-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 1 table, 1 algorithm. Accepted for publication in MICCAI 2026</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
