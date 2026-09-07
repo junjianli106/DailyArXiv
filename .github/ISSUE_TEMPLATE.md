@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 06, 2026
+title: Latest 20 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,12 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images](https://arxiv.org/abs/2609.05323v1)** | 2026-09-04 |  |
+| **[Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](https://arxiv.org/abs/2609.05202v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026 Workshop on Data Curation & Augmentation in Medical Imaging</p></details> |
+| **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v2)** | 2026-09-04 | <details><summary>Needs...</summary><p>Needs further revision</p></details> |
 | **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 | **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
-| **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v1)** | 2026-09-02 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Early accepted by MICCAI 2026 (Oral Presentation)</p></details> |
 | **[Morphology signal in whole slide image foundation models can automatically triage slides](https://arxiv.org/abs/2609.01987v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 4 tables</p></details> |
 | **[Benchmarking Vision-Language Models for Automated Pathology Diagnosis and Report Generation](https://arxiv.org/abs/2609.00866v1)** | 2026-09-01 |  |
 | **[FTU-Seek: Foundation Model-Guided Hard-Negative Learning for Sparse Functional Tissue Unit Segmentation](https://arxiv.org/abs/2609.00704v1)** | 2026-09-01 |  |
@@ -25,16 +27,16 @@ labels: documentation
 | **[Explainable Artificial Intelligence (XAI) in Computational Pathology: Definitions, Taxonomy, and Recommendations](https://arxiv.org/abs/2608.28820v1)** | 2026-08-28 | <details><summary>On be...</summary><p>On behalf of MICCAI SIG-CompPath. More information: https://miccai.org/index.php/special-interest-groups/sig-comppath/</p></details> |
 | **[STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital Pathology AI in Routine Workflow](https://arxiv.org/abs/2608.28708v1)** | 2026-08-27 |  |
 | **[Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction](https://arxiv.org/abs/2608.27278v1)** | 2026-08-27 |  |
-| **[PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology](https://arxiv.org/abs/2608.25970v1)** | 2026-08-26 |  |
-| **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images](https://arxiv.org/abs/2609.05323v1)** | 2026-09-04 |  |
+| **[Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](https://arxiv.org/abs/2609.05202v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026 Workshop on Data Curation & Augmentation in Medical Imaging</p></details> |
+| **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v2)** | 2026-09-04 | <details><summary>Needs...</summary><p>Needs further revision</p></details> |
 | **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 | **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
-| **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v1)** | 2026-09-02 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Early accepted by MICCAI 2026 (Oral Presentation)</p></details> |
 | **[Morphology signal in whole slide image foundation models can automatically triage slides](https://arxiv.org/abs/2609.01987v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 4 tables</p></details> |
 | **[Benchmarking Vision-Language Models for Automated Pathology Diagnosis and Report Generation](https://arxiv.org/abs/2609.00866v1)** | 2026-09-01 |  |
 | **[FTU-Seek: Foundation Model-Guided Hard-Negative Learning for Sparse Functional Tissue Unit Segmentation](https://arxiv.org/abs/2609.00704v1)** | 2026-09-01 |  |
@@ -49,15 +51,14 @@ labels: documentation
 | **[Explainable Artificial Intelligence (XAI) in Computational Pathology: Definitions, Taxonomy, and Recommendations](https://arxiv.org/abs/2608.28820v1)** | 2026-08-28 | <details><summary>On be...</summary><p>On behalf of MICCAI SIG-CompPath. More information: https://miccai.org/index.php/special-interest-groups/sig-comppath/</p></details> |
 | **[STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital Pathology AI in Routine Workflow](https://arxiv.org/abs/2608.28708v1)** | 2026-08-27 |  |
 | **[Decoupled I/O-Dominant Pipelines for Large-Scale Whole-Slide Image Embedding Extraction](https://arxiv.org/abs/2608.27278v1)** | 2026-08-27 |  |
-| **[PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology](https://arxiv.org/abs/2608.25970v1)** | 2026-08-26 |  |
-| **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conserved Immune Topology Improves Pathology Foundation Model Generalization for Cross-Cancer MSI-H Prediction](https://arxiv.org/abs/2609.05182v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench). 15 pages, 2 figures</p></details> |
+| **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v2)** | 2026-09-04 | <details><summary>Needs...</summary><p>Needs further revision</p></details> |
 | **[TAP-Path: Task-Adaptive Structural and Token Pruning for Efficient and Trustworthy Pathology Foundation Models](https://arxiv.org/abs/2609.04071v1)** | 2026-09-03 |  |
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
-| **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v1)** | 2026-09-02 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Early accepted by MICCAI 2026 (Oral Presentation)</p></details> |
 | **[Benchmarking Vision-Language Models for Automated Pathology Diagnosis and Report Generation](https://arxiv.org/abs/2609.00866v1)** | 2026-09-01 |  |
 | **[MUFASA: An Information Utility-Aware Preprocessing Framework for Reliable Model Reasoning in Computational Pathology](https://arxiv.org/abs/2609.00424v1)** | 2026-08-31 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 7 tables</p></details> |
 | **[LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology](https://arxiv.org/abs/2608.23803v2)** | 2026-08-31 |  |
@@ -74,11 +75,12 @@ labels: documentation
 | **[DistillPath: An Efficient 22M Distilled Pathology Encoder Approaching Large Foundation Model Performance](https://arxiv.org/abs/2608.17872v1)** | 2026-08-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench)</p></details> |
 | **[A Multimodal Agentic Pathology Co-pilot via Evidence Grounded Reasoning](https://arxiv.org/abs/2606.08093v2)** | 2026-08-18 |  |
 | **[Automated Fetal Brain MRI Biometry in Healthy and Pathological Cases](https://arxiv.org/abs/2608.15692v1)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at the PIPPI Workshop of MICCAI 2026</p></details> |
-| **[Spatial Message Passing in Language Space for Pathology Image Interpretation](https://arxiv.org/abs/2608.14309v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026 Workshop (Oral)</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conserved Immune Topology Improves Pathology Foundation Model Generalization for Cross-Cancer MSI-H Prediction](https://arxiv.org/abs/2609.05182v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench). 15 pages, 2 figures</p></details> |
+| **[Adaptive Multi-Granularity Temporal Modeling for Weakly Supervised Video Anomaly Detection](https://arxiv.org/abs/2609.05066v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted by PRCV 2026</p></details> |
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 | **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
 | **[Audio-Text Cross-Attention with Psycholinguistic Support Features for Ambivalence/Hesitancy Recognition](https://arxiv.org/abs/2607.13345v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 European Conference on Computer Vision (ECCV) - ABAW Workshop</p></details> |
@@ -97,8 +99,6 @@ labels: documentation
 | **[DeCo-MIL: Debiased Counterfactual Reasoning for Long-Tailed Whole Slide Image Analysis](https://arxiv.org/abs/2608.14719v1)** | 2026-08-12 |  |
 | **[Foundation Models Adaptation for Multi-View Multi-modal Cardiac MRI Segmentation and Direct Ejection Fraction Estimation](https://arxiv.org/abs/2608.07291v1)** | 2026-08-07 |  |
 | **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v4)** | 2026-08-07 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Integrating Implicit and Explicit Relational Biases through Graph-Based Multiple Instance Learning: A Case Study in Skin Lesion Diagnosis](https://arxiv.org/abs/2608.06037v1)** | 2026-08-06 | <details><summary>Accep...</summary><p>Accepted as a short paper for presentation at the 21st International Conference on Computational Intelligence Methods for Bioinformatics and Biostatistics (CIBB 2026)</p></details> |
-| **[nnMIL: A generalizable multiple instance learning framework for computational pathology](https://arxiv.org/abs/2511.14907v2)** | 2026-08-05 | <details><summary>In th...</summary><p>In this version, we fixed some issues and updated some results</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
