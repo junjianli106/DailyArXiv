@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 09, 2026
+title: Latest 20 Papers - September 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole-Slide Images](https://arxiv.org/abs/2601.03163v2)** | 2026-09-09 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/RationAI/lsp-detr</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v5)** | 2026-09-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings Track). Project Page: https://oxyzgiahuy.github.io/sage/</p></details> |
 | **[Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images](https://arxiv.org/abs/2609.05323v1)** | 2026-09-04 |  |
 | **[Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](https://arxiv.org/abs/2609.05202v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026 Workshop on Data Curation & Augmentation in Medical Imaging</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Towards Accurate and Lightweight Peripheral Neuroblastic Tumor Diagnosis via Contrastive Multi-scale Pathological Image Analysis](https://arxiv.org/abs/2504.13754v4)** | 2026-08-31 | 14pages, 10 figures |
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](https://arxiv.org/abs/2510.06113v2)** | 2026-08-31 | 12 pages, 8 figures |
 | **[Explainable Artificial Intelligence (XAI) in Computational Pathology: Definitions, Taxonomy, and Recommendations](https://arxiv.org/abs/2608.28820v1)** | 2026-08-28 | <details><summary>On be...</summary><p>On behalf of MICCAI SIG-CompPath. More information: https://miccai.org/index.php/special-interest-groups/sig-comppath/</p></details> |
-| **[STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital Pathology AI in Routine Workflow](https://arxiv.org/abs/2608.28708v1)** | 2026-08-27 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole-Slide Images](https://arxiv.org/abs/2601.03163v2)** | 2026-09-09 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/RationAI/lsp-detr</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v5)** | 2026-09-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings Track). Project Page: https://oxyzgiahuy.github.io/sage/</p></details> |
 | **[Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images](https://arxiv.org/abs/2609.05323v1)** | 2026-09-04 |  |
 | **[Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](https://arxiv.org/abs/2609.05202v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026 Workshop on Data Curation & Augmentation in Medical Imaging</p></details> |
@@ -50,11 +51,11 @@ labels: documentation
 | **[Towards Accurate and Lightweight Peripheral Neuroblastic Tumor Diagnosis via Contrastive Multi-scale Pathological Image Analysis](https://arxiv.org/abs/2504.13754v4)** | 2026-08-31 | 14pages, 10 figures |
 | **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](https://arxiv.org/abs/2510.06113v2)** | 2026-08-31 | 12 pages, 8 figures |
 | **[Explainable Artificial Intelligence (XAI) in Computational Pathology: Definitions, Taxonomy, and Recommendations](https://arxiv.org/abs/2608.28820v1)** | 2026-08-28 | <details><summary>On be...</summary><p>On behalf of MICCAI SIG-CompPath. More information: https://miccai.org/index.php/special-interest-groups/sig-comppath/</p></details> |
-| **[STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital Pathology AI in Routine Workflow](https://arxiv.org/abs/2608.28708v1)** | 2026-08-27 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Semi-Supervised Domain Adaptation with Latent Diffusion for Pathology Image Classification](https://arxiv.org/abs/2601.17228v2)** | 2026-09-08 |  |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v2)** | 2026-09-04 |  |
 | **[Conserved Immune Topology Improves Pathology Foundation Model Generalization for Cross-Cancer MSI-H Prediction](https://arxiv.org/abs/2609.05182v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench). 15 pages, 2 figures</p></details> |
 | **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v2)** | 2026-09-04 | <details><summary>Needs...</summary><p>Needs further revision</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[CellPath-Bench: A Multidimensional Benchmark for Whole-Slide Cellular Representations in Pathology Foundation Models](https://arxiv.org/abs/2608.21060v1)** | 2026-08-21 |  |
 | **[A Distributional Robustness Margin For Pathology Foundation Models](https://arxiv.org/abs/2607.25497v4)** | 2026-08-21 | Preprint |
 | **[DistillPath: An Efficient 22M Distilled Pathology Encoder Approaching Large Foundation Model Performance](https://arxiv.org/abs/2608.17872v1)** | 2026-08-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench)</p></details> |
-| **[A Multimodal Agentic Pathology Co-pilot via Evidence Grounded Reasoning](https://arxiv.org/abs/2606.08093v2)** | 2026-08-18 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
