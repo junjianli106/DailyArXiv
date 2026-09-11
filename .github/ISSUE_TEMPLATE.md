@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 10, 2026
+title: Latest 20 Papers - September 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
+| **[Seamless Whole Slide Label-Free Virtual Staining](https://arxiv.org/abs/2609.10914v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
+| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole-Slide Images](https://arxiv.org/abs/2601.03163v2)** | 2026-09-09 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/RationAI/lsp-detr</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v5)** | 2026-09-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings Track). Project Page: https://oxyzgiahuy.github.io/sage/</p></details> |
 | **[Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images](https://arxiv.org/abs/2609.05323v1)** | 2026-09-04 |  |
@@ -24,13 +27,13 @@ labels: documentation
 | **[Reliable Benchmarking of Artifact Detection in Computational Pathology: A Reproducibility and Uncertainty Analysis](https://arxiv.org/abs/2608.30835v1)** | 2026-08-31 | 5 figures |
 | **[Predicting Metastatic Risk from Primary Cancer Tissue Architecture via Distance-Aware Spatial Modeling](https://arxiv.org/abs/2606.28676v2)** | 2026-08-31 |  |
 | **[Whole-Slide Image Analysis under Realistic Few-Shot Annotation Protocols](https://arxiv.org/abs/2608.30420v1)** | 2026-08-31 | <details><summary>Prepr...</summary><p>Preprint under review</p></details> |
-| **[Towards Accurate and Lightweight Peripheral Neuroblastic Tumor Diagnosis via Contrastive Multi-scale Pathological Image Analysis](https://arxiv.org/abs/2504.13754v4)** | 2026-08-31 | 14pages, 10 figures |
-| **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](https://arxiv.org/abs/2510.06113v2)** | 2026-08-31 | 12 pages, 8 figures |
-| **[Explainable Artificial Intelligence (XAI) in Computational Pathology: Definitions, Taxonomy, and Recommendations](https://arxiv.org/abs/2608.28820v1)** | 2026-08-28 | <details><summary>On be...</summary><p>On behalf of MICCAI SIG-CompPath. More information: https://miccai.org/index.php/special-interest-groups/sig-comppath/</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
+| **[Seamless Whole Slide Label-Free Virtual Staining](https://arxiv.org/abs/2609.10914v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
+| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
 | **[LSP-DETR: Efficient and Scalable Nuclei Segmentation in Whole-Slide Images](https://arxiv.org/abs/2601.03163v2)** | 2026-09-09 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/RationAI/lsp-detr</p></details> |
 | **[SAGE: Shape-Adapting Gated Experts for Adaptive Histopathology Image Segmentation](https://arxiv.org/abs/2511.18493v5)** | 2026-09-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Findings Track). Project Page: https://oxyzgiahuy.github.io/sage/</p></details> |
 | **[Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images](https://arxiv.org/abs/2609.05323v1)** | 2026-09-04 |  |
@@ -48,13 +51,12 @@ labels: documentation
 | **[Reliable Benchmarking of Artifact Detection in Computational Pathology: A Reproducibility and Uncertainty Analysis](https://arxiv.org/abs/2608.30835v1)** | 2026-08-31 | 5 figures |
 | **[Predicting Metastatic Risk from Primary Cancer Tissue Architecture via Distance-Aware Spatial Modeling](https://arxiv.org/abs/2606.28676v2)** | 2026-08-31 |  |
 | **[Whole-Slide Image Analysis under Realistic Few-Shot Annotation Protocols](https://arxiv.org/abs/2608.30420v1)** | 2026-08-31 | <details><summary>Prepr...</summary><p>Preprint under review</p></details> |
-| **[Towards Accurate and Lightweight Peripheral Neuroblastic Tumor Diagnosis via Contrastive Multi-scale Pathological Image Analysis](https://arxiv.org/abs/2504.13754v4)** | 2026-08-31 | 14pages, 10 figures |
-| **[Multimodal Feature Prototype Learning for Interpretable and Discriminative Cancer Survival Prediction](https://arxiv.org/abs/2510.06113v2)** | 2026-08-31 | 12 pages, 8 figures |
-| **[Explainable Artificial Intelligence (XAI) in Computational Pathology: Definitions, Taxonomy, and Recommendations](https://arxiv.org/abs/2608.28820v1)** | 2026-08-28 | <details><summary>On be...</summary><p>On behalf of MICCAI SIG-CompPath. More information: https://miccai.org/index.php/special-interest-groups/sig-comppath/</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEACON: A Versatile Accelerator for Computational Pathology Applications](https://arxiv.org/abs/2609.11044v1)** | 2026-09-10 |  |
+| **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
 | **[Semi-Supervised Domain Adaptation with Latent Diffusion for Pathology Image Classification](https://arxiv.org/abs/2601.17228v2)** | 2026-09-08 |  |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v2)** | 2026-09-04 |  |
 | **[Conserved Immune Topology Improves Pathology Foundation Model Generalization for Cross-Cancer MSI-H Prediction](https://arxiv.org/abs/2609.05182v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench). 15 pages, 2 figures</p></details> |
@@ -73,12 +75,11 @@ labels: documentation
 | **[Pretreatment DCE-MRI Resolves Response Quality Within Pathologic Endpoints in Neoadjuvant Breast Cancer](https://arxiv.org/abs/2608.22097v1)** | 2026-08-22 |  |
 | **[ADMIL: Attention-Distilled Multiple Instance Learning for Selective Foundation Model Inference in Pathology](https://arxiv.org/abs/2608.22066v1)** | 2026-08-22 |  |
 | **[CellPath-Bench: A Multidimensional Benchmark for Whole-Slide Cellular Representations in Pathology Foundation Models](https://arxiv.org/abs/2608.21060v1)** | 2026-08-21 |  |
-| **[A Distributional Robustness Margin For Pathology Foundation Models](https://arxiv.org/abs/2607.25497v4)** | 2026-08-21 | Preprint |
-| **[DistillPath: An Efficient 22M Distilled Pathology Encoder Approaching Large Foundation Model Performance](https://arxiv.org/abs/2608.17872v1)** | 2026-08-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures. Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench)</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Order-Aware 2.5D Multiple Instance Learning for Preoperative MRI-Based Perineural Invasion Risk Assessment in Intrahepatic Cholangiocarcinoma](https://arxiv.org/abs/2609.11271v1)** | 2026-09-10 |  |
 | **[In-Context Multiple Instance Learning](https://arxiv.org/abs/2606.06458v2)** | 2026-09-08 |  |
 | **[CAR-MIL: Counterfactual Attention Regularization for Multiple Instance Learning](https://arxiv.org/abs/2609.08419v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 | **[Conserved Immune Topology Improves Pathology Foundation Model Generalization for Cross-Cancer MSI-H Prediction](https://arxiv.org/abs/2609.05182v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench). 15 pages, 2 figures</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
 | **[Test-Time Instance Selection for Improved Whole Slide Image Analysis](https://arxiv.org/abs/2608.14759v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at The 2nd MICCAI Workshop on Efficient Medical AI (EMA4MICCAI 2026)</p></details> |
 | **[KHiM-Mamba: Injecting Pathology Knowledge into Mamba via Hidden-State Modulation for Whole Slide Image Analysis](https://arxiv.org/abs/2608.14757v1)** | 2026-08-14 |  |
-| **[DeCo-MIL: Debiased Counterfactual Reasoning for Long-Tailed Whole Slide Image Analysis](https://arxiv.org/abs/2608.14719v1)** | 2026-08-12 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
