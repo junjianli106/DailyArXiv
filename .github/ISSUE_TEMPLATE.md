@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 11, 2026
+title: Latest 20 Papers - September 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
+| **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
 | **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 | **[Seamless Whole Slide Label-Free Virtual Staining](https://arxiv.org/abs/2609.10914v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
@@ -25,12 +27,12 @@ labels: documentation
 | **[SlideMix: Enhancing Whole Slide Image Analysis via Multimodal Shuffling](https://arxiv.org/abs/2609.00396v1)** | 2026-08-31 |  |
 | **[SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning](https://arxiv.org/abs/2609.00342v1)** | 2026-08-31 | 23 pages, 5 figures |
 | **[Reliable Benchmarking of Artifact Detection in Computational Pathology: A Reproducibility and Uncertainty Analysis](https://arxiv.org/abs/2608.30835v1)** | 2026-08-31 | 5 figures |
-| **[Predicting Metastatic Risk from Primary Cancer Tissue Architecture via Distance-Aware Spatial Modeling](https://arxiv.org/abs/2606.28676v2)** | 2026-08-31 |  |
-| **[Whole-Slide Image Analysis under Realistic Few-Shot Annotation Protocols](https://arxiv.org/abs/2608.30420v1)** | 2026-08-31 | <details><summary>Prepr...</summary><p>Preprint under review</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
+| **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
 | **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 | **[Seamless Whole Slide Label-Free Virtual Staining](https://arxiv.org/abs/2609.10914v1)** | 2026-09-09 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026</p></details> |
 | **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
@@ -49,12 +51,12 @@ labels: documentation
 | **[SlideMix: Enhancing Whole Slide Image Analysis via Multimodal Shuffling](https://arxiv.org/abs/2609.00396v1)** | 2026-08-31 |  |
 | **[SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning](https://arxiv.org/abs/2609.00342v1)** | 2026-08-31 | 23 pages, 5 figures |
 | **[Reliable Benchmarking of Artifact Detection in Computational Pathology: A Reproducibility and Uncertainty Analysis](https://arxiv.org/abs/2608.30835v1)** | 2026-08-31 | 5 figures |
-| **[Predicting Metastatic Risk from Primary Cancer Tissue Architecture via Distance-Aware Spatial Modeling](https://arxiv.org/abs/2606.28676v2)** | 2026-08-31 |  |
-| **[Whole-Slide Image Analysis under Realistic Few-Shot Annotation Protocols](https://arxiv.org/abs/2608.30420v1)** | 2026-08-31 | <details><summary>Prepr...</summary><p>Preprint under review</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Designing UNICORN: a Unified Benchmark for Imaging in Computational Pathology, Radiology, and Natural Language](https://arxiv.org/abs/2603.02790v2)** | 2026-09-14 | <details><summary>This ...</summary><p>This paper describes the dataset and design of the UNICORN challenge and provides the link to Grand Challenge</p></details> |
+| **[Sharing standardized image-derived data in computational pathology using DICOM](https://arxiv.org/abs/2609.14530v1)** | 2026-09-13 | <details><summary>Danie...</summary><p>Daniela P. Schacherer, Christopher P. Bridge: contributed equally</p></details> |
 | **[BEACON: A Versatile Accelerator for Computational Pathology Applications](https://arxiv.org/abs/2609.11044v1)** | 2026-09-10 |  |
 | **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
 | **[Semi-Supervised Domain Adaptation with Latent Diffusion for Pathology Image Classification](https://arxiv.org/abs/2601.17228v2)** | 2026-09-08 |  |
@@ -73,12 +75,12 @@ labels: documentation
 | **[VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology](https://arxiv.org/abs/2608.26382v1)** | 2026-08-26 |  |
 | **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
 | **[Pretreatment DCE-MRI Resolves Response Quality Within Pathologic Endpoints in Neoadjuvant Breast Cancer](https://arxiv.org/abs/2608.22097v1)** | 2026-08-22 |  |
-| **[ADMIL: Attention-Distilled Multiple Instance Learning for Selective Foundation Model Inference in Pathology](https://arxiv.org/abs/2608.22066v1)** | 2026-08-22 |  |
-| **[CellPath-Bench: A Multidimensional Benchmark for Whole-Slide Cellular Representations in Pathology Foundation Models](https://arxiv.org/abs/2608.21060v1)** | 2026-08-21 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778v1)** | 2026-09-15 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Code available at https://github.com/ALCOR-Lab-DIAG/MoE-JEPA</p></details> |
+| **[Multi-Label Proportion Learning for Sea-Ice Type Prediction](https://arxiv.org/abs/2609.16347v1)** | 2026-09-14 |  |
 | **[Order-Aware 2.5D Multiple Instance Learning for Preoperative MRI-Based Perineural Invasion Risk Assessment in Intrahepatic Cholangiocarcinoma](https://arxiv.org/abs/2609.11271v1)** | 2026-09-10 |  |
 | **[In-Context Multiple Instance Learning](https://arxiv.org/abs/2606.06458v2)** | 2026-09-08 |  |
 | **[CAR-MIL: Counterfactual Attention Regularization for Multiple Instance Learning](https://arxiv.org/abs/2609.08419v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
@@ -97,8 +99,6 @@ labels: documentation
 | **[Every Step of the Way: Video-based Parkinsonian Turning Step Counting](https://arxiv.org/abs/2606.27918v2)** | 2026-08-20 | Accepted in BMVC 26' |
 | **[BagShift: Measuring How Patch Selection Changes the Evidence Seen by Whole-Slide MIL](https://arxiv.org/abs/2608.15970v1)** | 2026-08-16 | <details><summary>18 pa...</summary><p>18 pages include Supplementary Material. 8 figures</p></details> |
 | **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
-| **[Test-Time Instance Selection for Improved Whole Slide Image Analysis](https://arxiv.org/abs/2608.14759v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at The 2nd MICCAI Workshop on Efficient Medical AI (EMA4MICCAI 2026)</p></details> |
-| **[KHiM-Mamba: Injecting Pathology Knowledge into Mamba via Hidden-State Modulation for Whole Slide Image Analysis](https://arxiv.org/abs/2608.14757v1)** | 2026-08-14 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
