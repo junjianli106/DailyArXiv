@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 16, 2026
+title: Latest 20 Papers - September 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
 | **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
 | **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[MUFASA: An Information Utility-Aware Preprocessing Framework for Reliable Model Reasoning in Computational Pathology](https://arxiv.org/abs/2609.00424v1)** | 2026-08-31 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 7 tables</p></details> |
 | **[SlideMix: Enhancing Whole Slide Image Analysis via Multimodal Shuffling](https://arxiv.org/abs/2609.00396v1)** | 2026-08-31 |  |
 | **[SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning](https://arxiv.org/abs/2609.00342v1)** | 2026-08-31 | 23 pages, 5 figures |
-| **[Reliable Benchmarking of Artifact Detection in Computational Pathology: A Reproducibility and Uncertainty Analysis](https://arxiv.org/abs/2608.30835v1)** | 2026-08-31 | 5 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
 | **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
 | **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
@@ -50,11 +51,12 @@ labels: documentation
 | **[MUFASA: An Information Utility-Aware Preprocessing Framework for Reliable Model Reasoning in Computational Pathology](https://arxiv.org/abs/2609.00424v1)** | 2026-08-31 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 7 tables</p></details> |
 | **[SlideMix: Enhancing Whole Slide Image Analysis via Multimodal Shuffling](https://arxiv.org/abs/2609.00396v1)** | 2026-08-31 |  |
 | **[SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning](https://arxiv.org/abs/2609.00342v1)** | 2026-08-31 | 23 pages, 5 figures |
-| **[Reliable Benchmarking of Artifact Detection in Computational Pathology: A Reproducibility and Uncertainty Analysis](https://arxiv.org/abs/2608.30835v1)** | 2026-08-31 | 5 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalist-Specialist Mixture-of-Experts for Rare Pathology Detection in Multimodal Imaging](https://arxiv.org/abs/2609.18688v1)** | 2026-09-16 |  |
+| **[Lumen: Parameter-Efficient Alignment of Pretrained Vision and Language Encoders for Zero-Shot Computational Pathology](https://arxiv.org/abs/2609.17868v1)** | 2026-09-15 |  |
 | **[Designing UNICORN: a Unified Benchmark for Imaging in Computational Pathology, Radiology, and Natural Language](https://arxiv.org/abs/2603.02790v2)** | 2026-09-14 | <details><summary>This ...</summary><p>This paper describes the dataset and design of the UNICORN challenge and provides the link to Grand Challenge</p></details> |
 | **[Sharing standardized image-derived data in computational pathology using DICOM](https://arxiv.org/abs/2609.14530v1)** | 2026-09-13 | <details><summary>Danie...</summary><p>Daniela P. Schacherer, Christopher P. Bridge: contributed equally</p></details> |
 | **[BEACON: A Versatile Accelerator for Computational Pathology Applications](https://arxiv.org/abs/2609.11044v1)** | 2026-09-10 |  |
@@ -73,13 +75,11 @@ labels: documentation
 | **[EXPOSE: Explainable and Domain-Robust Embeddings from Pathology Vision Foundation Models using Sparse Autoencoders](https://arxiv.org/abs/2608.28191v1)** | 2026-08-28 |  |
 | **[STEP: A Modular Silent Trial Engine for Operational Evaluation of Digital Pathology AI in Routine Workflow](https://arxiv.org/abs/2608.28708v1)** | 2026-08-27 |  |
 | **[VIPER: An Expert-Curated Benchmark for Vision-Language Models in Veterinary Pathology](https://arxiv.org/abs/2608.26382v1)** | 2026-08-26 |  |
-| **[EviPathBench: Benchmarking Evidence Acquisition and Reasoning in Vision-Language Models for Whole-Slide Pathology](https://arxiv.org/abs/2607.19261v4)** | 2026-08-25 |  |
-| **[Pretreatment DCE-MRI Resolves Response Quality Within Pathologic Endpoints in Neoadjuvant Breast Cancer](https://arxiv.org/abs/2608.22097v1)** | 2026-08-22 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778v1)** | 2026-09-15 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Code available at https://github.com/ALCOR-Lab-DIAG/MoE-JEPA</p></details> |
+| **[Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778v2)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at the 2026 Workshop on AI for Multimedia Forensics & Disinformation Detection @ ECCV. Code available at https://github.com/ALCOR-Lab-DIAG/MoE-JEPA</p></details> |
 | **[Multi-Label Proportion Learning for Sea-Ice Type Prediction](https://arxiv.org/abs/2609.16347v1)** | 2026-09-14 |  |
 | **[Order-Aware 2.5D Multiple Instance Learning for Preoperative MRI-Based Perineural Invasion Risk Assessment in Intrahepatic Cholangiocarcinoma](https://arxiv.org/abs/2609.11271v1)** | 2026-09-10 |  |
 | **[In-Context Multiple Instance Learning](https://arxiv.org/abs/2606.06458v2)** | 2026-09-08 |  |
