@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 20, 2026
+title: Latest 20 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention](https://arxiv.org/abs/2609.21811v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at the COMPAYL 2026 Workshop on Computational Pathology and Multimodal Data at MICCAI 2026. 11 pages, 2 figures, 4 tables</p></details> |
 | **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
 | **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[FTU-Seek: Foundation Model-Guided Hard-Negative Learning for Sparse Functional Tissue Unit Segmentation](https://arxiv.org/abs/2609.00704v1)** | 2026-09-01 |  |
 | **[MUFASA: An Information Utility-Aware Preprocessing Framework for Reliable Model Reasoning in Computational Pathology](https://arxiv.org/abs/2609.00424v1)** | 2026-08-31 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 7 tables</p></details> |
 | **[SlideMix: Enhancing Whole Slide Image Analysis via Multimodal Shuffling](https://arxiv.org/abs/2609.00396v1)** | 2026-08-31 |  |
-| **[SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning](https://arxiv.org/abs/2609.00342v1)** | 2026-08-31 | 23 pages, 5 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention](https://arxiv.org/abs/2609.21811v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at the COMPAYL 2026 Workshop on Computational Pathology and Multimodal Data at MICCAI 2026. 11 pages, 2 figures, 4 tables</p></details> |
 | **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
 | **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
 | **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
@@ -50,7 +51,6 @@ labels: documentation
 | **[FTU-Seek: Foundation Model-Guided Hard-Negative Learning for Sparse Functional Tissue Unit Segmentation](https://arxiv.org/abs/2609.00704v1)** | 2026-09-01 |  |
 | **[MUFASA: An Information Utility-Aware Preprocessing Framework for Reliable Model Reasoning in Computational Pathology](https://arxiv.org/abs/2609.00424v1)** | 2026-08-31 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 7 tables</p></details> |
 | **[SlideMix: Enhancing Whole Slide Image Analysis via Multimodal Shuffling](https://arxiv.org/abs/2609.00396v1)** | 2026-08-31 |  |
-| **[SlideBank: A Persistent Hierarchical Evidence Bank for Consistent Whole-Slide Reasoning](https://arxiv.org/abs/2609.00342v1)** | 2026-08-31 | 23 pages, 5 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
