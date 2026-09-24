@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 23, 2026
+title: Latest 20 Papers - September 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v2)** | 2026-09-22 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
 | **[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966v2)** | 2026-09-22 |  |
 | **[Patch-to-Global: Random Patch Diffusion for Globally Consistent Megapixel Artifact Inpainting in Whole Slide Images](https://arxiv.org/abs/2609.24116v1)** | 2026-09-21 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted at MICCAI 2026</p></details> |
@@ -26,11 +27,11 @@ labels: documentation
 | **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 | **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
-| **[Morphology signal in whole slide image foundation models can automatically triage slides](https://arxiv.org/abs/2609.01987v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 4 tables</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v2)** | 2026-09-22 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
 | **[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966v2)** | 2026-09-22 |  |
 | **[Patch-to-Global: Random Patch Diffusion for Globally Consistent Megapixel Artifact Inpainting in Whole Slide Images](https://arxiv.org/abs/2609.24116v1)** | 2026-09-21 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted at MICCAI 2026</p></details> |
@@ -50,11 +51,12 @@ labels: documentation
 | **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 | **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
-| **[Morphology signal in whole slide image foundation models can automatically triage slides](https://arxiv.org/abs/2609.01987v1)** | 2026-09-02 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 4 tables</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
+| **[FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology](https://arxiv.org/abs/2609.27710v1)** | 2026-09-23 |  |
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v2)** | 2026-09-22 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
 | **[SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models](https://arxiv.org/abs/2609.24894v1)** | 2026-09-21 | <details><summary>Proje...</summary><p>Project Page: https://cyberiada.github.io/SLICEChat/ Code: https://github.com/ali-kerem/SLICEChat</p></details> |
 | **[ART-NAD: An Articulatory Inversion-based Neural Acoustic Distance for Pathological Speech Intelligibility Assessment](https://arxiv.org/abs/2609.24046v1)** | 2026-09-21 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table. Accepted at Speech and Language Technology Workshop 2026. Accepted at SLT 2026. Source code: https://github.com/karkirowle/pathbench</p></details> |
@@ -73,12 +75,11 @@ labels: documentation
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 | **[Benchmarking Vision-Language Models for Automated Pathology Diagnosis and Report Generation](https://arxiv.org/abs/2609.00866v1)** | 2026-09-01 |  |
 | **[MUFASA: An Information Utility-Aware Preprocessing Framework for Reliable Model Reasoning in Computational Pathology](https://arxiv.org/abs/2609.00424v1)** | 2026-08-31 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 7 tables</p></details> |
-| **[LUCAID: Agentic Multimodal AI for Lung Cancer Precision Pathology](https://arxiv.org/abs/2608.23803v2)** | 2026-08-31 |  |
-| **[Towards Accurate and Lightweight Peripheral Neuroblastic Tumor Diagnosis via Contrastive Multi-scale Pathological Image Analysis](https://arxiv.org/abs/2504.13754v4)** | 2026-08-31 | 14pages, 10 figures |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
 | **[Unifying Semantic Priors and High-Frequency Traces: Enhancing V-JEPA with Mixture-of-Experts for Robust Synthetic Image Forensics](https://arxiv.org/abs/2609.16778v2)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at the 2026 Workshop on AI for Multimedia Forensics & Disinformation Detection @ ECCV. Code available at https://github.com/ALCOR-Lab-DIAG/MoE-JEPA</p></details> |
 | **[Multi-Label Proportion Learning for Sea-Ice Type Prediction](https://arxiv.org/abs/2609.16347v1)** | 2026-09-14 |  |
 | **[Order-Aware 2.5D Multiple Instance Learning for Preoperative MRI-Based Perineural Invasion Risk Assessment in Intrahepatic Cholangiocarcinoma](https://arxiv.org/abs/2609.11271v1)** | 2026-09-10 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[MIL-BERT: Classification of Arbitrarily Large Text with Performance and Explanatory Guarantees](https://arxiv.org/abs/2608.20636v1)** | 2026-08-21 |  |
 | **[Every Step of the Way: Video-based Parkinsonian Turning Step Counting](https://arxiv.org/abs/2606.27918v2)** | 2026-08-20 | Accepted in BMVC 26' |
 | **[BagShift: Measuring How Patch Selection Changes the Evidence Seen by Whole-Slide MIL](https://arxiv.org/abs/2608.15970v1)** | 2026-08-16 | <details><summary>18 pa...</summary><p>18 pages include Supplementary Material. 8 figures</p></details> |
-| **[Decomposing Whole Slide Image Report Generation with Graph-Constrained Multiple Instance Learning Workflows](https://arxiv.org/abs/2608.15353v1)** | 2026-08-15 | <details><summary>Accep...</summary><p>Accepted at the MICCAI 2026 REG Challenge</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
