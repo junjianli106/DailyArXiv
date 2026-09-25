@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 24, 2026
+title: Latest 20 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers](https://arxiv.org/abs/2602.15783v2)** | 2026-09-24 | <details><summary>17 pa...</summary><p>17 pages, 2 figures. Version 2: add links to dataset and code repository, now published and open-source. Add citation of paper in related work</p></details> |
+| **[A Multimodal Dataset for Survival Prediction in Resected Pancreatic Ductal Adenocarcinoma](https://arxiv.org/abs/2609.29726v1)** | 2026-09-24 |  |
 | **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v2)** | 2026-09-22 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
 | **[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966v2)** | 2026-09-22 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](https://arxiv.org/abs/2609.05202v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026 Workshop on Data Curation & Augmentation in Medical Imaging</p></details> |
 | **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v2)** | 2026-09-04 | <details><summary>Needs...</summary><p>Needs further revision</p></details> |
 | **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
-| **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
-| **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers](https://arxiv.org/abs/2602.15783v2)** | 2026-09-24 | <details><summary>17 pa...</summary><p>17 pages, 2 figures. Version 2: add links to dataset and code repository, now published and open-source. Add citation of paper in related work</p></details> |
+| **[A Multimodal Dataset for Survival Prediction in Resected Pancreatic Ductal Adenocarcinoma](https://arxiv.org/abs/2609.29726v1)** | 2026-09-24 |  |
 | **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v2)** | 2026-09-22 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
 | **[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966v2)** | 2026-09-22 |  |
@@ -49,8 +51,6 @@ labels: documentation
 | **[Real-World Multi-Modal and Longitudinal Lung Cancer Dataset](https://arxiv.org/abs/2609.05202v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026 Workshop on Data Curation & Augmentation in Medical Imaging</p></details> |
 | **[Synergistic Information Disentanglement for Omni-modal Slide Representation Learning in Computational Pathology](https://arxiv.org/abs/2609.02118v2)** | 2026-09-04 | <details><summary>Needs...</summary><p>Needs further revision</p></details> |
 | **[Semantic-Aware Subgraph State Space Model for WSI Classification in Histopathology](https://arxiv.org/abs/2609.03689v1)** | 2026-09-03 |  |
-| **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
-| **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
