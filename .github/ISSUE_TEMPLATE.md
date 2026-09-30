@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 29, 2026
+title: Latest 20 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v1)** | 2026-09-29 | ICLR 2027 Submission |
+| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
+| **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v1)** | 2026-09-28 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables</p></details> |
 | **[Role-Guided MOE for Encoder-Level Pathology Representation Learning in WSI Classification](https://arxiv.org/abs/2609.34897v1)** | 2026-09-28 |  |
 | **[Modeling Whole-Slide Images as Dynamic Tumor Microenvironment Fields](https://arxiv.org/abs/2609.34451v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[MoSPR: Histology-to-Gene Expression Prediction with Morpho-Spatial Macrostates and Low-Rank Molecular Programs](https://arxiv.org/abs/2609.34280v1)** | 2026-09-28 |  |
@@ -24,13 +27,13 @@ labels: documentation
 | **[WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v1)** | 2026-09-20 | <details><summary>56 pa...</summary><p>56 pages, 6 main figures, with 11 additional figures and 28 tables in the appendices</p></details> |
 | **[MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention](https://arxiv.org/abs/2609.21811v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at the COMPAYL 2026 Workshop on Computational Pathology and Multimodal Data at MICCAI 2026. 11 pages, 2 figures, 4 tables</p></details> |
 | **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
-| **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
-| **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
-| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v1)** | 2026-09-29 | ICLR 2027 Submission |
+| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
+| **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v1)** | 2026-09-28 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables</p></details> |
 | **[Role-Guided MOE for Encoder-Level Pathology Representation Learning in WSI Classification](https://arxiv.org/abs/2609.34897v1)** | 2026-09-28 |  |
 | **[Modeling Whole-Slide Images as Dynamic Tumor Microenvironment Fields](https://arxiv.org/abs/2609.34451v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[MoSPR: Histology-to-Gene Expression Prediction with Morpho-Spatial Macrostates and Low-Rank Molecular Programs](https://arxiv.org/abs/2609.34280v1)** | 2026-09-28 |  |
@@ -48,18 +51,17 @@ labels: documentation
 | **[WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v1)** | 2026-09-20 | <details><summary>56 pa...</summary><p>56 pages, 6 main figures, with 11 additional figures and 28 tables in the appendices</p></details> |
 | **[MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention](https://arxiv.org/abs/2609.21811v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at the COMPAYL 2026 Workshop on Computational Pathology and Multimodal Data at MICCAI 2026. 11 pages, 2 figures, 4 tables</p></details> |
 | **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
-| **[Accurate and Scalable Multimodal Pathology Retrieval via Attentive Vision-Language Alignment](https://arxiv.org/abs/2510.23224v2)** | 2026-09-14 |  |
-| **[Conditioning noise is a free regularizer for LoRA fine-tuning: no pathology encoder required for diffusion-based artifact detection in histopathology](https://arxiv.org/abs/2609.16032v1)** | 2026-09-11 | <details><summary>23 pa...</summary><p>23 pages, 3 figures. Code and laboratory record: https://github.com/kmouts/condnoise-histoqc (doi:10.5281/zenodo.22702198). Data: doi:10.5281/zenodo.22702800. Companion study: arXiv:2608.30835</p></details> |
-| **[ProsMAE: Multi-Source MAE Pretraining for ISUP Grade Classification](https://arxiv.org/abs/2607.08162v2)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to APCCAS 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BEACON: A Versatile Accelerator for Computational Pathology Applications](https://arxiv.org/abs/2609.11044v2)** | 2026-09-29 |  |
+| **[Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](https://arxiv.org/abs/2609.32876v2)** | 2026-09-29 | <details><summary>To ap...</summary><p>To appear in NeurIPS 2026 (https://neurips.cc/virtual/2026/poster/152201)</p></details> |
+| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
 | **[Stuck on Suggestions: Automation Bias, the Anchoring Effect, and the Factors That Shape Them in Computational Pathology](https://arxiv.org/abs/2603.11821v3)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2026:007</p></details> |
 | **[Role-Guided MOE for Encoder-Level Pathology Representation Learning in WSI Classification](https://arxiv.org/abs/2609.34897v1)** | 2026-09-28 |  |
 | **[See, Measure, and Reason: Learning Visually Grounded Reasoning in Pathology](https://arxiv.org/abs/2609.34277v1)** | 2026-09-28 |  |
 | **[Can Protein-Derived Knowledge Improve Pathology Foundation Models?](https://arxiv.org/abs/2609.33178v1)** | 2026-09-27 |  |
-| **[Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](https://arxiv.org/abs/2609.32876v1)** | 2026-09-26 |  |
 | **[Do Center Biases Propagate? Robustness of Pathology Foundation Models in Whole-Slide Image Classification](https://arxiv.org/abs/2609.28231v1)** | 2026-09-23 | <details><summary>Submi...</summary><p>Submitted to CASEIB'26</p></details> |
 | **[FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology](https://arxiv.org/abs/2609.27710v1)** | 2026-09-23 |  |
 | **[CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation](https://arxiv.org/abs/2608.03079v2)** | 2026-09-22 | <details><summary>The c...</summary><p>The code will be made publicly available upon publication</p></details> |
@@ -71,14 +73,13 @@ labels: documentation
 | **[Lumen: Parameter-Efficient Alignment of Pretrained Vision and Language Encoders for Zero-Shot Computational Pathology](https://arxiv.org/abs/2609.17868v1)** | 2026-09-15 |  |
 | **[Designing UNICORN: a Unified Benchmark for Imaging in Computational Pathology, Radiology, and Natural Language](https://arxiv.org/abs/2603.02790v2)** | 2026-09-14 | <details><summary>This ...</summary><p>This paper describes the dataset and design of the UNICORN challenge and provides the link to Grand Challenge</p></details> |
 | **[Sharing standardized image-derived data in computational pathology using DICOM](https://arxiv.org/abs/2609.14530v1)** | 2026-09-13 | <details><summary>Danie...</summary><p>Daniela P. Schacherer, Christopher P. Bridge: contributed equally</p></details> |
-| **[BEACON: A Versatile Accelerator for Computational Pathology Applications](https://arxiv.org/abs/2609.11044v1)** | 2026-09-10 |  |
 | **[PathoHR: Breast Cancer Survival Prediction on High-Resolution Pathological Images](https://arxiv.org/abs/2503.17970v2)** | 2026-09-09 | <details><summary>First...</summary><p>First author comment: We are withdrawing this manuscript to address several unresolved limitations and complete the necessary internal review and approval procedures before further dissemination (confirmed by the corresponding author)</p></details> |
 | **[Semi-Supervised Domain Adaptation with Latent Diffusion for Pathology Image Classification](https://arxiv.org/abs/2601.17228v2)** | 2026-09-08 |  |
-| **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v2)** | 2026-09-04 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](https://arxiv.org/abs/2609.36882v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[Modeling Whole-Slide Images as Dynamic Tumor Microenvironment Fields](https://arxiv.org/abs/2609.34451v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[PHOEBI: An Open-World Benchmark for Bacterial Identification in Phase-Contrast Microscopy](https://arxiv.org/abs/2606.22890v2)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 ED Track</p></details> |
 | **[Anatomy-Structured Hierarchical MIL for Weakly-Supervised Thoracic Disease Detection in Chest X-rays](https://arxiv.org/abs/2609.33520v1)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
@@ -98,7 +99,6 @@ labels: documentation
 | **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 | **[Seeing Beyond the Lesion: Disease Recognition from Reactive CNS Tissue](https://arxiv.org/abs/2609.02390v1)** | 2026-09-02 |  |
 | **[Audio-Text Cross-Attention with Psycholinguistic Support Features for Ambivalence/Hesitancy Recognition](https://arxiv.org/abs/2607.13345v2)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 European Conference on Computer Vision (ECCV) - ABAW Workshop</p></details> |
-| **[Benchmarking Vision-Language Models for Automated Pathology Diagnosis and Report Generation](https://arxiv.org/abs/2609.00866v1)** | 2026-09-01 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
