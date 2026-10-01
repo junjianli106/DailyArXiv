@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 30, 2026
+title: Latest 20 Papers - October 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tissue Detection Determines False Positives in Diffusion-Based Histopathology Artifact Detection](https://arxiv.org/abs/2609.40083v1)** | 2026-09-30 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 4 tables, including supplementary material. Submitted to Computerized Medical Imaging and Graphics. Code, data and models: https://doi.org/10.5281/zenodo.23016733</p></details> |
+| **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v2)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v1)** | 2026-09-29 | ICLR 2027 Submission |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
 | **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v1)** | 2026-09-28 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables</p></details> |
@@ -25,12 +27,12 @@ labels: documentation
 | **[Patch-to-Global: Random Patch Diffusion for Globally Consistent Megapixel Artifact Inpainting in Whole Slide Images](https://arxiv.org/abs/2609.24116v1)** | 2026-09-21 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted at MICCAI 2026</p></details> |
 | **[Statistical Testing for Multiple Instance Learning via Selective Inference with Applications to Computational Pathology](https://arxiv.org/abs/2609.31712v1)** | 2026-09-21 | 37 pages, 11 figures |
 | **[WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v1)** | 2026-09-20 | <details><summary>56 pa...</summary><p>56 pages, 6 main figures, with 11 additional figures and 28 tables in the appendices</p></details> |
-| **[MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention](https://arxiv.org/abs/2609.21811v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at the COMPAYL 2026 Workshop on Computational Pathology and Multimodal Data at MICCAI 2026. 11 pages, 2 figures, 4 tables</p></details> |
-| **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tissue Detection Determines False Positives in Diffusion-Based Histopathology Artifact Detection](https://arxiv.org/abs/2609.40083v1)** | 2026-09-30 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 4 tables, including supplementary material. Submitted to Computerized Medical Imaging and Graphics. Code, data and models: https://doi.org/10.5281/zenodo.23016733</p></details> |
+| **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v2)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v1)** | 2026-09-29 | ICLR 2027 Submission |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
 | **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v1)** | 2026-09-28 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables</p></details> |
@@ -49,8 +51,6 @@ labels: documentation
 | **[Patch-to-Global: Random Patch Diffusion for Globally Consistent Megapixel Artifact Inpainting in Whole Slide Images](https://arxiv.org/abs/2609.24116v1)** | 2026-09-21 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, accepted at MICCAI 2026</p></details> |
 | **[Statistical Testing for Multiple Instance Learning via Selective Inference with Applications to Computational Pathology](https://arxiv.org/abs/2609.31712v1)** | 2026-09-21 | 37 pages, 11 figures |
 | **[WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v1)** | 2026-09-20 | <details><summary>56 pa...</summary><p>56 pages, 6 main figures, with 11 additional figures and 28 tables in the appendices</p></details> |
-| **[MIST: Multimodal Survival Prediction with Genomic-Guided Histology Attention](https://arxiv.org/abs/2609.21811v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at the COMPAYL 2026 Workshop on Computational Pathology and Multimodal Data at MICCAI 2026. 11 pages, 2 figures, 4 tables</p></details> |
-| **[CARA: Collision-Aware Resolution Adaptation for Multiresolution Hash Encoding Based Image Fitting](https://arxiv.org/abs/2609.18554v1)** | 2026-09-16 | <details><summary>32 pa...</summary><p>32 pages, 12 figures, ECCV 2026</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
