@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 08, 2026
+title: Latest 20 Papers - October 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PathLang: A Language-Centered Benchmark for Vision-Language Models in Computational Pathology](https://arxiv.org/abs/2610.11329v1)** | 2026-10-08 |  |
 | **[One-Slide Calibration of Pathology Foundation Models](https://arxiv.org/abs/2610.08944v1)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 Workshop AI at Scale for Clinical Impact (ASCI): Cancer Pathology Foundation Models</p></details> |
 | **[CHARTER: Auditing Reference Substitution in Hierarchical Compact-Evidence Evaluation for Computational Pathology](https://arxiv.org/abs/2610.07843v1)** | 2026-10-06 |  |
 | **[Comprehensive Evaluation and Fine-Tuning of Foundational Cell Nuclei Segmentation Models in Renal Pathology](https://arxiv.org/abs/2610.07711v1)** | 2026-10-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 4 tables. Submitted to SPIE Medical Imaging 2027</p></details> |
@@ -74,11 +75,11 @@ labels: documentation
 | **[ART-NAD: An Articulatory Inversion-based Neural Acoustic Distance for Pathological Speech Intelligibility Assessment](https://arxiv.org/abs/2609.24046v1)** | 2026-09-21 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 1 table. Accepted at Speech and Language Technology Workshop 2026. Accepted at SLT 2026. Source code: https://github.com/karkirowle/pathbench</p></details> |
 | **[Statistical Testing for Multiple Instance Learning via Selective Inference with Applications to Computational Pathology](https://arxiv.org/abs/2609.31712v1)** | 2026-09-21 | 37 pages, 11 figures |
 | **[WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v1)** | 2026-09-20 | <details><summary>56 pa...</summary><p>56 pages, 6 main figures, with 11 additional figures and 28 tables in the appendices</p></details> |
-| **[Generalist-Specialist Mixture-of-Experts for Rare Pathology Detection in Multimodal Imaging](https://arxiv.org/abs/2609.18688v1)** | 2026-09-16 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Healthy Counterfactual Generation via Diffusion Inpainting for Mammography Classification](https://arxiv.org/abs/2610.12147v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at MICCAI Workshop Deep-Brea3th 2026</p></details> |
 | **[Masked Feature Encoding for Large-Scale Whole Slide Image Representation](https://arxiv.org/abs/2610.10225v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026</p></details> |
 | **[Component-Adaptive and Lesion-Level Supervision for Improved Small Structure Segmentation in Brain MRI](https://arxiv.org/abs/2604.08015v3)** | 2026-10-07 | <details><summary>This ...</summary><p>This version added evaluation on a second dataset (3D-MR-MS) and a held-out test set; added statistical significance tests and error analysis; added new references; corrected the optimizer description; update figures</p></details> |
 | **[CHARTER: Auditing Reference Substitution in Hierarchical Compact-Evidence Evaluation for Computational Pathology](https://arxiv.org/abs/2610.07843v1)** | 2026-10-06 |  |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Order-Aware 2.5D Multiple Instance Learning for Preoperative MRI-Based Perineural Invasion Risk Assessment in Intrahepatic Cholangiocarcinoma](https://arxiv.org/abs/2609.11271v1)** | 2026-09-10 |  |
 | **[In-Context Multiple Instance Learning](https://arxiv.org/abs/2606.06458v2)** | 2026-09-08 |  |
 | **[CAR-MIL: Counterfactual Attention Regularization for Multiple Instance Learning](https://arxiv.org/abs/2609.08419v1)** | 2026-09-08 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
-| **[Conserved Immune Topology Improves Pathology Foundation Model Generalization for Cross-Cancer MSI-H Prediction](https://arxiv.org/abs/2609.05182v1)** | 2026-09-04 | <details><summary>Accep...</summary><p>Accepted at the ECCV 2026 Workshop on Medical Foundation Models and Benchmarks (MedFM-Bench). 15 pages, 2 figures</p></details> |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
