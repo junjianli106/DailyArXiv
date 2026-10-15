@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 14, 2026
+title: Latest 20 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
 | **[PathPilot: An Adaptive Question-Conditioned Multi-Magnification Navigation Agent for Whole-Slide Image Analysis](https://arxiv.org/abs/2610.16734v1)** | 2026-10-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v4)** | 2026-10-11 |  |
-| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v1)** | 2026-10-11 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[BigCell: Generating Gigapixel Whole-Slide Images](https://arxiv.org/abs/2610.14261v1)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Project page: https://histodiffusion.github.io/docs/projects/bigcell/</p></details> |
 | **[Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation](https://arxiv.org/abs/2610.00678v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, SPIGM@ICML 2026</p></details> |
 | **[Masked Feature Encoding for Large-Scale Whole Slide Image Representation](https://arxiv.org/abs/2610.10225v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026</p></details> |
@@ -31,10 +31,10 @@ labels: documentation
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
 | **[PathPilot: An Adaptive Question-Conditioned Multi-Magnification Navigation Agent for Whole-Slide Image Analysis](https://arxiv.org/abs/2610.16734v1)** | 2026-10-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v4)** | 2026-10-11 |  |
-| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v1)** | 2026-10-11 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[BigCell: Generating Gigapixel Whole-Slide Images](https://arxiv.org/abs/2610.14261v1)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Project page: https://histodiffusion.github.io/docs/projects/bigcell/</p></details> |
 | **[Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation](https://arxiv.org/abs/2610.00678v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, SPIGM@ICML 2026</p></details> |
 | **[Masked Feature Encoding for Large-Scale Whole Slide Image Representation](https://arxiv.org/abs/2610.10225v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026</p></details> |
@@ -55,11 +55,11 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[PlanPath: Exploration-Guided Orchestration for Patient-Level Pathology Reasoning](https://arxiv.org/abs/2610.18664v1)** | 2026-10-13 |  |
 | **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v1)** | 2026-10-12 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
 | **[FOCUS: A Subspecialty Foundation Model for Intraoperative Central Nervous System Pathology](https://arxiv.org/abs/2610.16914v1)** | 2026-10-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v4)** | 2026-10-11 |  |
-| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v1)** | 2026-10-11 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[Bayesian Uncertainty Quantification of Breast-Cancer Pathology AI Agreement under Reader- and Annotation-Condition-Dependent Reference Labels](https://arxiv.org/abs/2610.14642v1)** | 2026-10-10 | <details><summary>In Re...</summary><p>In Review with Journal of Medical Imaging</p></details> |
 | **[From Classification to Cross-Modal Understanding: Leveraging Vision-Language Models for Fine-Grained Renal Pathology](https://arxiv.org/abs/2511.11984v2)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2026:052</p></details> |
 | **[Scaling Multi-Teacher Distillation for Digital Pathology](https://arxiv.org/abs/2610.12574v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Project page: https://sofiene-boutaj.github.io/omni-projectpage/</p></details> |
@@ -79,11 +79,11 @@ labels: documentation
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[Sea-Net: A Small and Inherently Interpretable Neural Network for Time Series Classification](https://arxiv.org/abs/2610.17939v1)** | 2026-10-13 |  |
 | **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
 | **[Masked Attention Pooling Is Invariant to Padding and Permutation: A Formal Proof in Lean](https://arxiv.org/abs/2610.17132v1)** | 2026-10-12 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 2 tables. Code: https://github.com/y2x0/masked-attention-lean</p></details> |
 | **[RespFocus: Learning Temporal Evidence for Weakly Supervised Respiratory Sound Classification](https://arxiv.org/abs/2610.15702v1)** | 2026-10-11 | <details><summary>9 pag...</summary><p>9 pages, 5 figures,2 tables</p></details> |
-| **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v1)** | 2026-10-11 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[UNISON: A Unified Framework for Learning from Scored Bags](https://arxiv.org/abs/2610.15564v1)** | 2026-10-11 |  |
 | **[When Do External Priors Help Low-Resource Structured Prediction? A Ranking-Level Alignment Study](https://arxiv.org/abs/2610.11146v2)** | 2026-10-09 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 16 tables</p></details> |
 | **[Component-Adaptive and Lesion-Level Supervision for Improved Small Structure Segmentation in Brain MRI](https://arxiv.org/abs/2604.08015v4)** | 2026-10-09 | <details><summary>v04: ...</summary><p>v04: This version added evaluation on a second dataset (3D-MR-MS) and a held-out test set; added statistical significance tests and error analysis; added new references; corrected the optimizer description; update figures</p></details> |
