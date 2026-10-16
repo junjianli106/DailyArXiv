@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 15, 2026
+title: Latest 20 Papers - October 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,10 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Dominant Label: Recovering Coexisting Lesion Evidence with Multiple Instance Learning](https://arxiv.org/abs/2610.22091v1)** | 2026-10-15 | 7 pages, 2 figures |
+| **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
 | **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
-| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
+| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v2)** | 2026-10-14 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
 | **[PathPilot: An Adaptive Question-Conditioned Multi-Magnification Navigation Agent for Whole-Slide Image Analysis](https://arxiv.org/abs/2610.16734v1)** | 2026-10-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v4)** | 2026-10-11 |  |
 | **[BigCell: Generating Gigapixel Whole-Slide Images](https://arxiv.org/abs/2610.14261v1)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Project page: https://histodiffusion.github.io/docs/projects/bigcell/</p></details> |
@@ -25,14 +27,14 @@ labels: documentation
 | **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v2)** | 2026-10-01 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables; author information updated; scientific content unchanged</p></details> |
 | **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v2)** | 2026-10-01 | <details><summary>Under...</summary><p>Under review as a conference paper at ICLR 2027</p></details> |
 | **[AI-assisted mitotic counting improves reproducibility and efficiency across multiple tumour types](https://arxiv.org/abs/2610.01813v1)** | 2026-10-01 |  |
-| **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v2)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Dominant Label: Recovering Coexisting Lesion Evidence with Multiple Instance Learning](https://arxiv.org/abs/2610.22091v1)** | 2026-10-15 | 7 pages, 2 figures |
+| **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
 | **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
-| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
+| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v2)** | 2026-10-14 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
 | **[PathPilot: An Adaptive Question-Conditioned Multi-Magnification Navigation Agent for Whole-Slide Image Analysis](https://arxiv.org/abs/2610.16734v1)** | 2026-10-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v4)** | 2026-10-11 |  |
 | **[BigCell: Generating Gigapixel Whole-Slide Images](https://arxiv.org/abs/2610.14261v1)** | 2026-10-09 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Project page: https://histodiffusion.github.io/docs/projects/bigcell/</p></details> |
@@ -49,15 +51,14 @@ labels: documentation
 | **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v2)** | 2026-10-01 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables; author information updated; scientific content unchanged</p></details> |
 | **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v2)** | 2026-10-01 | <details><summary>Under...</summary><p>Under review as a conference paper at ICLR 2027</p></details> |
 | **[AI-assisted mitotic counting improves reproducibility and efficiency across multiple tumour types](https://arxiv.org/abs/2610.01813v1)** | 2026-10-01 |  |
-| **[SheafStain: Sheaf-Theoretic Schrödinger Bridge for Spatially and Biologically Coherent Virtual Staining](https://arxiv.org/abs/2606.11846v2)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
+| **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v2)** | 2026-10-15 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
 | **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
 | **[PlanPath: Exploration-Guided Orchestration for Patient-Level Pathology Reasoning](https://arxiv.org/abs/2610.18664v1)** | 2026-10-13 |  |
-| **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v1)** | 2026-10-12 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
 | **[FOCUS: A Subspecialty Foundation Model for Intraoperative Central Nervous System Pathology](https://arxiv.org/abs/2610.16914v1)** | 2026-10-12 |  |
 | **[Streamline pathology foundation model by cross-magnification distillation](https://arxiv.org/abs/2509.23097v4)** | 2026-10-11 |  |
 | **[Bayesian Uncertainty Quantification of Breast-Cancer Pathology AI Agreement under Reader- and Annotation-Condition-Dependent Reference Labels](https://arxiv.org/abs/2610.14642v1)** | 2026-10-10 | <details><summary>In Re...</summary><p>In Review with Journal of Medical Imaging</p></details> |
@@ -74,14 +75,15 @@ labels: documentation
 | **[Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](https://arxiv.org/abs/2609.32876v2)** | 2026-09-29 | <details><summary>To ap...</summary><p>To appear in NeurIPS 2026 (https://neurips.cc/virtual/2026/poster/152201)</p></details> |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
 | **[Stuck on Suggestions: Automation Bias, the Anchoring Effect, and the Factors That Shape Them in Computational Pathology](https://arxiv.org/abs/2603.11821v3)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2026:007</p></details> |
-| **[Role-Guided MOE for Encoder-Level Pathology Representation Learning in WSI Classification](https://arxiv.org/abs/2609.34897v1)** | 2026-09-28 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Dominant Label: Recovering Coexisting Lesion Evidence with Multiple Instance Learning](https://arxiv.org/abs/2610.22091v1)** | 2026-10-15 | 7 pages, 2 figures |
+| **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
 | **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
+| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v2)** | 2026-10-14 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
 | **[Sea-Net: A Small and Inherently Interpretable Neural Network for Time Series Classification](https://arxiv.org/abs/2610.17939v1)** | 2026-10-13 |  |
-| **[Morphology-aware deep learning predicts colorectal cancer survival from whole-slide images](https://arxiv.org/abs/2610.17603v1)** | 2026-10-13 | <details><summary>Suppl...</summary><p>Supplementary material included: one figure and two tables</p></details> |
 | **[Masked Attention Pooling Is Invariant to Padding and Permutation: A Formal Proof in Lean](https://arxiv.org/abs/2610.17132v1)** | 2026-10-12 | <details><summary>9 pag...</summary><p>9 pages, 1 figure, 2 tables. Code: https://github.com/y2x0/masked-attention-lean</p></details> |
 | **[RespFocus: Learning Temporal Evidence for Weakly Supervised Respiratory Sound Classification](https://arxiv.org/abs/2610.15702v1)** | 2026-10-11 | <details><summary>9 pag...</summary><p>9 pages, 5 figures,2 tables</p></details> |
 | **[UNISON: A Unified Framework for Learning from Scored Bags](https://arxiv.org/abs/2610.15564v1)** | 2026-10-11 |  |
@@ -97,13 +99,11 @@ labels: documentation
 | **[Anatomy-Structured Hierarchical MIL for Weakly-Supervised Thoracic Disease Detection in Chest X-rays](https://arxiv.org/abs/2609.33520v1)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
 | **[Max-pooling Network Revisited: Analyzing the Role of Semantic Probability in Multiple Instance Learning for Hallucination Detection](https://arxiv.org/abs/2605.08863v3)** | 2026-09-26 |  |
 | **[The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](https://arxiv.org/abs/2606.27739v2)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Oral). Camera-ready version. Code: https://github.com/JiaTianyu20031016/MIL.git</p></details> |
-| **[Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning](https://arxiv.org/abs/2609.31376v1)** | 2026-09-25 |  |
-| **[LadderMIL: Multiple Instance Learning with Coarse-to-Fine Self-Distillation](https://arxiv.org/abs/2502.02707v5)** | 2026-09-25 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v1)** | 2026-10-12 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
+| **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v2)** | 2026-10-15 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
 | **[Multimodal Knowledge Distillation for Gastric Adenocarcinoma Classification from Whole-Slide Images](https://arxiv.org/abs/2610.07913v1)** | 2026-10-06 |  |
 | **[MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory](https://arxiv.org/abs/2609.30939v1)** | 2026-09-25 |  |
 | **[WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v1)** | 2026-09-20 | <details><summary>56 pa...</summary><p>56 pages, 6 main figures, with 11 additional figures and 28 tables in the appendices</p></details> |
