@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 18, 2026
+title: Latest 20 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,6 +55,7 @@ labels: documentation
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PAC-KD: Pathology-Aware Compositional Knowledge Distillation for Respiratory Sound Classification](https://arxiv.org/abs/2610.22826v1)** | 2026-10-16 |  |
 | **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
 | **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v2)** | 2026-10-15 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
 | **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
@@ -74,7 +75,6 @@ labels: documentation
 | **[BEACON: A Versatile Accelerator for Computational Pathology Applications](https://arxiv.org/abs/2609.11044v2)** | 2026-09-29 |  |
 | **[Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](https://arxiv.org/abs/2609.32876v2)** | 2026-09-29 | <details><summary>To ap...</summary><p>To appear in NeurIPS 2026 (https://neurips.cc/virtual/2026/poster/152201)</p></details> |
 | **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
-| **[Stuck on Suggestions: Automation Bias, the Anchoring Effect, and the Factors That Shape Them in Computational Pathology](https://arxiv.org/abs/2603.11821v3)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted for publication at the Journal of Machine Learning for Biomedical Imaging (MELBA) https://melba-journal.org/2026:007</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
