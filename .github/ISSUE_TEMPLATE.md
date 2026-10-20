@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 19, 2026
+title: Latest 20 Papers - October 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,16 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Vision Foundation Models for Toxicologic Pathology](https://arxiv.org/abs/2610.26586v1)** | 2026-10-19 |  |
+| **[MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images](https://arxiv.org/abs/2607.04747v2)** | 2026-10-19 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 1 table</p></details> |
+| **[HGASurv: Hierarchical Granularity-Aware Integration for Multimodal Survival Prediction](https://arxiv.org/abs/2610.26357v1)** | 2026-10-19 | Preprint |
+| **[SAR2Net: Learning Spatially Anchored Representations for Retrieval-Guided Cross-Stain Alignment](https://arxiv.org/abs/2610.26217v1)** | 2026-10-19 | 10 pages, CVPR 2026 |
+| **[Multi-scale Fusion of Fast Vision Mamba and Foundation Model Features for Patch-Level Gleason Grading in Computational Pathology](https://arxiv.org/abs/2610.25904v1)** | 2026-10-19 | <details><summary>13 pa...</summary><p>13 pages, 4 figures and 4 tables (including supplementary), Accepted to COMPAYL workshop MICCAI 2026, Comments are welcome!</p></details> |
+| **[PRET is a few-shot system for pan-cancer recognition without example training](https://arxiv.org/abs/2610.25054v1)** | 2026-10-18 | <details><summary>Natur...</summary><p>Nature Cancer Accepted</p></details> |
+| **[WILSON - Multi-magnification composites as a foundation for patient-level pathology analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v2)** | 2026-10-18 | <details><summary>61 pa...</summary><p>61 pages, 6 main figures, with 11 additional figures and 29 tables in the appendices</p></details> |
+| **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v3)** | 2026-10-16 |  |
+| **[Benchmarking and Improvement of Artifact Segmentation Methods in H&E-Stained Whole Slide Imaging](https://arxiv.org/abs/2610.24037v1)** | 2026-10-16 |  |
+| **[ProtoGTX: Prototype-Aligned Graph Transformer for Explainable Whole-Slide Image Analysis](https://arxiv.org/abs/2610.24023v1)** | 2026-10-16 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 tables. Code: https://github.com/mizuno-group/ProtoGTX</p></details> |
 | **[Beyond the Dominant Label: Recovering Coexisting Lesion Evidence with Multiple Instance Learning](https://arxiv.org/abs/2610.22091v1)** | 2026-10-15 | 7 pages, 2 figures |
 | **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
 | **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
@@ -17,20 +27,20 @@ labels: documentation
 | **[Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation](https://arxiv.org/abs/2610.00678v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, SPIGM@ICML 2026</p></details> |
 | **[Masked Feature Encoding for Large-Scale Whole Slide Image Representation](https://arxiv.org/abs/2610.10225v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026</p></details> |
 | **[Multimodal Knowledge Distillation for Gastric Adenocarcinoma Classification from Whole-Slide Images](https://arxiv.org/abs/2610.07913v1)** | 2026-10-06 |  |
-| **[CHARTER: Auditing Reference Substitution in Hierarchical Compact-Evidence Evaluation for Computational Pathology](https://arxiv.org/abs/2610.07843v1)** | 2026-10-06 |  |
-| **[Anchor-driven Multi-modal Multi-scale Expert Selection for Survival Prediction](https://arxiv.org/abs/2610.07694v1)** | 2026-10-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 7 tables</p></details> |
-| **[Label-Free Coreset Selection with Foundation Models for Efficient Annotation in Computational Pathology](https://arxiv.org/abs/2610.05987v1)** | 2026-10-05 | 32 pages, 7 figures |
-| **[Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology](https://arxiv.org/abs/2610.05157v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026 CaPTion Workshop</p></details> |
-| **[The Effect of Tissue Detection on False Positives of Diffusion-Based Artifact Detection in Histopathology](https://arxiv.org/abs/2609.40083v2)** | 2026-10-04 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 4 tables, including supplementary material. Code, data and models: https://doi.org/10.5281/zenodo.23016733</p></details> |
-| **[One Tile, Multiple Instances: Rethinking MIL for Sparse Diagnostic Evidence](https://arxiv.org/abs/2610.04853v1)** | 2026-10-04 |  |
-| **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v2)** | 2026-10-02 |  |
-| **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v2)** | 2026-10-01 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables; author information updated; scientific content unchanged</p></details> |
-| **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v2)** | 2026-10-01 | <details><summary>Under...</summary><p>Under review as a conference paper at ICLR 2027</p></details> |
-| **[AI-assisted mitotic counting improves reproducibility and efficiency across multiple tumour types](https://arxiv.org/abs/2610.01813v1)** | 2026-10-01 |  |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Vision Foundation Models for Toxicologic Pathology](https://arxiv.org/abs/2610.26586v1)** | 2026-10-19 |  |
+| **[MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images](https://arxiv.org/abs/2607.04747v2)** | 2026-10-19 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 1 table</p></details> |
+| **[HGASurv: Hierarchical Granularity-Aware Integration for Multimodal Survival Prediction](https://arxiv.org/abs/2610.26357v1)** | 2026-10-19 | Preprint |
+| **[SAR2Net: Learning Spatially Anchored Representations for Retrieval-Guided Cross-Stain Alignment](https://arxiv.org/abs/2610.26217v1)** | 2026-10-19 | 10 pages, CVPR 2026 |
+| **[Multi-scale Fusion of Fast Vision Mamba and Foundation Model Features for Patch-Level Gleason Grading in Computational Pathology](https://arxiv.org/abs/2610.25904v1)** | 2026-10-19 | <details><summary>13 pa...</summary><p>13 pages, 4 figures and 4 tables (including supplementary), Accepted to COMPAYL workshop MICCAI 2026, Comments are welcome!</p></details> |
+| **[PRET is a few-shot system for pan-cancer recognition without example training](https://arxiv.org/abs/2610.25054v1)** | 2026-10-18 | <details><summary>Natur...</summary><p>Nature Cancer Accepted</p></details> |
+| **[WILSON - Multi-magnification composites as a foundation for patient-level pathology analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v2)** | 2026-10-18 | <details><summary>61 pa...</summary><p>61 pages, 6 main figures, with 11 additional figures and 29 tables in the appendices</p></details> |
+| **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v3)** | 2026-10-16 |  |
+| **[Benchmarking and Improvement of Artifact Segmentation Methods in H&E-Stained Whole Slide Imaging](https://arxiv.org/abs/2610.24037v1)** | 2026-10-16 |  |
+| **[ProtoGTX: Prototype-Aligned Graph Transformer for Explainable Whole-Slide Image Analysis](https://arxiv.org/abs/2610.24023v1)** | 2026-10-16 | <details><summary>14 pa...</summary><p>14 pages, 3 figures, 2 tables. Code: https://github.com/mizuno-group/ProtoGTX</p></details> |
 | **[Beyond the Dominant Label: Recovering Coexisting Lesion Evidence with Multiple Instance Learning](https://arxiv.org/abs/2610.22091v1)** | 2026-10-15 | 7 pages, 2 figures |
 | **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
 | **[ProtoPur: Prototype-Purity Pseudo-Labeling for Weakly Supervised Instance Learning in Pathology](https://arxiv.org/abs/2610.15669v2)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted to IEEE BIBM 2026</p></details> |
@@ -41,20 +51,15 @@ labels: documentation
 | **[Nonparametric Distribution Matching for Self-Supervised Whole-Slide Image Condensation](https://arxiv.org/abs/2610.00678v2)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, SPIGM@ICML 2026</p></details> |
 | **[Masked Feature Encoding for Large-Scale Whole Slide Image Representation](https://arxiv.org/abs/2610.10225v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026</p></details> |
 | **[Multimodal Knowledge Distillation for Gastric Adenocarcinoma Classification from Whole-Slide Images](https://arxiv.org/abs/2610.07913v1)** | 2026-10-06 |  |
-| **[CHARTER: Auditing Reference Substitution in Hierarchical Compact-Evidence Evaluation for Computational Pathology](https://arxiv.org/abs/2610.07843v1)** | 2026-10-06 |  |
-| **[Anchor-driven Multi-modal Multi-scale Expert Selection for Survival Prediction](https://arxiv.org/abs/2610.07694v1)** | 2026-10-06 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 7 tables</p></details> |
-| **[Label-Free Coreset Selection with Foundation Models for Efficient Annotation in Computational Pathology](https://arxiv.org/abs/2610.05987v1)** | 2026-10-05 | 32 pages, 7 figures |
-| **[Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology](https://arxiv.org/abs/2610.05157v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026 CaPTion Workshop</p></details> |
-| **[The Effect of Tissue Detection on False Positives of Diffusion-Based Artifact Detection in Histopathology](https://arxiv.org/abs/2609.40083v2)** | 2026-10-04 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, 4 tables, including supplementary material. Code, data and models: https://doi.org/10.5281/zenodo.23016733</p></details> |
-| **[One Tile, Multiple Instances: Rethinking MIL for Sparse Diagnostic Evidence](https://arxiv.org/abs/2610.04853v1)** | 2026-10-04 |  |
-| **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v2)** | 2026-10-02 |  |
-| **[HERO: Histology Encoder for Robust Representation in Oncology](https://arxiv.org/abs/2609.35943v2)** | 2026-10-01 | <details><summary>22 pa...</summary><p>22 pages, 4 figures, 13 tables; author information updated; scientific content unchanged</p></details> |
-| **[What Makes High-Magnification Knowledge Transferable? A Study of Cross-Resolution Distillation in Whole-Slide Imaging](https://arxiv.org/abs/2609.36407v2)** | 2026-10-01 | <details><summary>Under...</summary><p>Under review as a conference paper at ICLR 2027</p></details> |
-| **[AI-assisted mitotic counting improves reproducibility and efficiency across multiple tumour types](https://arxiv.org/abs/2610.01813v1)** | 2026-10-01 |  |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models](https://arxiv.org/abs/2610.26805v1)** | 2026-10-19 |  |
+| **[Multi-scale Fusion of Fast Vision Mamba and Foundation Model Features for Patch-Level Gleason Grading in Computational Pathology](https://arxiv.org/abs/2610.25904v1)** | 2026-10-19 | <details><summary>13 pa...</summary><p>13 pages, 4 figures and 4 tables (including supplementary), Accepted to COMPAYL workshop MICCAI 2026, Comments are welcome!</p></details> |
+| **[WILSON - Multi-magnification composites as a foundation for patient-level pathology analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v2)** | 2026-10-18 | <details><summary>61 pa...</summary><p>61 pages, 6 main figures, with 11 additional figures and 29 tables in the appendices</p></details> |
+| **[ASR Personalization in Pathological Voice: Accuracy, Efficiency, and Duration Effects](https://arxiv.org/abs/2610.24572v1)** | 2026-10-17 | <details><summary>Prese...</summary><p>Presented at SPECOM 2026</p></details> |
+| **[Pathway-Structured Privileged Distillation for Deployable Computational Pathology](https://arxiv.org/abs/2606.02877v3)** | 2026-10-16 |  |
 | **[PAC-KD: Pathology-Aware Compositional Knowledge Distillation for Respiratory Sound Classification](https://arxiv.org/abs/2610.22826v1)** | 2026-10-16 |  |
 | **[Pathology foundation models for training-free case retrieval in salivary gland tumors](https://arxiv.org/abs/2610.22087v1)** | 2026-10-15 |  |
 | **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v2)** | 2026-10-15 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
@@ -70,11 +75,6 @@ labels: documentation
 | **[CHARTER: Auditing Reference Substitution in Hierarchical Compact-Evidence Evaluation for Computational Pathology](https://arxiv.org/abs/2610.07843v1)** | 2026-10-06 |  |
 | **[Comprehensive Evaluation and Fine-Tuning of Foundational Cell Nuclei Segmentation Models in Renal Pathology](https://arxiv.org/abs/2610.07711v1)** | 2026-10-06 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 4 tables. Submitted to SPIE Medical Imaging 2027</p></details> |
 | **[Label-Free Coreset Selection with Foundation Models for Efficient Annotation in Computational Pathology](https://arxiv.org/abs/2610.05987v1)** | 2026-10-05 | 32 pages, 7 figures |
-| **[FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology](https://arxiv.org/abs/2609.27710v2)** | 2026-10-03 |  |
-| **[Uncertainty Estimation in Pathology Foundation Models via Deep Mutual Learning](https://arxiv.org/abs/2606.30020v2)** | 2026-10-02 |  |
-| **[BEACON: A Versatile Accelerator for Computational Pathology Applications](https://arxiv.org/abs/2609.11044v2)** | 2026-09-29 |  |
-| **[Multimodal LLMs Outperform Pathology Foundation Models in Cross-Domain Histological Similarity](https://arxiv.org/abs/2609.32876v2)** | 2026-09-29 | <details><summary>To ap...</summary><p>To appear in NeurIPS 2026 (https://neurips.cc/virtual/2026/poster/152201)</p></details> |
-| **[Gated Spatial Redundancy Projection for Pathology Transformer Attentions](https://arxiv.org/abs/2608.08374v3)** | 2026-09-28 | <details><summary>BMVC ...</summary><p>BMVC 2026 Oral Presentation</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
@@ -93,12 +93,12 @@ labels: documentation
 | **[Masked Feature Encoding for Large-Scale Whole Slide Image Representation](https://arxiv.org/abs/2610.10225v1)** | 2026-10-07 | <details><summary>Accep...</summary><p>Accepted at ACCV 2026</p></details> |
 | **[CHARTER: Auditing Reference Substitution in Hierarchical Compact-Evidence Evaluation for Computational Pathology](https://arxiv.org/abs/2610.07843v1)** | 2026-10-06 |  |
 | **[Cross-Modal Contrastive Learning for the Retrieval of Immunotherapy-Associated Molecular Signatures from Histopathology](https://arxiv.org/abs/2610.05157v1)** | 2026-10-04 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2026 CaPTion Workshop</p></details> |
-| **[PHOEBI: An Open-World Benchmark for Multi-Label Bacterial Identification in Phase-Contrast Microscopy](https://arxiv.org/abs/2606.22890v3)** | 2026-10-03 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 ED Track</p></details> |
 | **[Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](https://arxiv.org/abs/2609.36882v2)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[Modeling Whole-Slide Images as Dynamic Tumor Microenvironment Fields](https://arxiv.org/abs/2609.34451v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
 | **[Anatomy-Structured Hierarchical MIL for Weakly-Supervised Thoracic Disease Detection in Chest X-rays](https://arxiv.org/abs/2609.33520v1)** | 2026-09-27 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
 | **[Max-pooling Network Revisited: Analyzing the Role of Semantic Probability in Multiple Instance Learning for Hallucination Detection](https://arxiv.org/abs/2605.08863v3)** | 2026-09-26 |  |
 | **[The Weakest Link Tells It All: Outcome-Supervised Process Reward Modeling via Learnable Credit Assignment](https://arxiv.org/abs/2606.27739v2)** | 2026-09-26 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Oral). Camera-ready version. Code: https://github.com/JiaTianyu20031016/MIL.git</p></details> |
+| **[Towards Whole-Study Screening for Congenital Heart Disease in Fetal Ultrasound Using Multiple Instance Learning](https://arxiv.org/abs/2609.31376v1)** | 2026-09-25 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
@@ -106,7 +106,6 @@ labels: documentation
 | **[Beyond Sparse Captions: Aligning Slide-Level Text and Patch-Level Vision in Pathology](https://arxiv.org/abs/2610.17233v2)** | 2026-10-15 | <details><summary>Neuri...</summary><p>Neurips 2026 Spotlight</p></details> |
 | **[Multimodal Knowledge Distillation for Gastric Adenocarcinoma Classification from Whole-Slide Images](https://arxiv.org/abs/2610.07913v1)** | 2026-10-06 |  |
 | **[MACBT: A Multi-Agent Cognitive Behavioral Therapy Decision Support System with Longitudinal Memory](https://arxiv.org/abs/2609.30939v1)** | 2026-09-25 |  |
-| **[WILSON - a pathology foundation model framework for patient-level analysis and diagnostic text generation](https://arxiv.org/abs/2609.25123v1)** | 2026-09-20 | <details><summary>56 pa...</summary><p>56 pages, 6 main figures, with 11 additional figures and 28 tables in the appendices</p></details> |
 | **[Toward AI-Assisted Poultry Coccidiosis Diagnosis: Evaluating Gemini and BiomedParse on Eimeria Microscopy Images](https://arxiv.org/abs/2609.31679v1)** | 2026-09-16 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 3 tables, accepted at IEEE International Conference on Sustainability, Innovation and Technology (ICSIT 2026)</p></details> |
 | **[Semantic Context-aware mOdality fUsion Transformer (SCOUT): A Context-Aware Multimodal Transformer for Concept-Grounded Pathology Report Generation](https://arxiv.org/abs/2605.01144v2)** | 2026-09-04 |  |
 | **[Benchmarking Vision-Language Models for Automated Pathology Diagnosis and Report Generation](https://arxiv.org/abs/2609.00866v1)** | 2026-09-01 |  |
@@ -123,6 +122,7 @@ labels: documentation
 | **[CaresAI at SMM4H-HeaRD 2026: Predicting TNM Staging](https://arxiv.org/abs/2607.03466v1)** | 2026-07-03 |  |
 | **[Prior-Anchored Debiasing for Long-Tailed Multi-Organ Pathology Report Generation](https://arxiv.org/abs/2607.00499v2)** | 2026-07-02 |  |
 | **[Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives](https://arxiv.org/abs/2606.19852v2)** | 2026-06-25 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables. Affiliations: (1) Department of Health Outcomes and Biomedical Informatics, College of Medicine, University of Florida, Gainesville, FL, USA (2) Division of Pulmonary, Critical Care and Sleep Medicine, Department of Medicine, College of Medicine, University of Florida, Gainesville, FL, USA (3) College of Nursing, Florida State University, Tallahassee, FL, USA</p></details> |
+| **[HiPath: Hierarchical Vision-Language Alignment for Structured Pathology Report Prediction](https://arxiv.org/abs/2603.19957v2)** | 2026-06-23 | <details><summary>10 pa...</summary><p>10 pages, 1 figures, 3 tables</p></details> |
 
 ## Pathology Report Generation
 | **Title** | **Date** | **Comment** |
