@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 25, 2026
+title: Latest 20 Papers - November 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards progressive whole-slide image analysis with multi-scale pyramidal network, a pathologist inspired approach](https://arxiv.org/abs/2602.01951v3)** | 2026-11-24 |  |
 | **[DARE: Dual-Level Adversarial Learning with Domain-Aware Regularization for Whole Slide Image Classification](https://arxiv.org/abs/2611.30589v1)** | 2026-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 22 pages, 7 figures, including the appendix</p></details> |
 | **[A Search Worth a Billion Pixels: Explaining Gigapixel Classifiers](https://arxiv.org/abs/2611.30578v1)** | 2026-11-23 |  |
 | **[PathStream: Towards Streaming Diagnostic Copilots for Whole-Slide Pathology](https://arxiv.org/abs/2611.30167v1)** | 2026-11-23 |  |
@@ -26,11 +27,11 @@ labels: documentation
 | **[SCOUT: Risk-Guided Foundation-Model Escalation for Robust Tissue Detection in Whole-Slide Images](https://arxiv.org/abs/2611.24366v1)** | 2026-11-18 |  |
 | **[MI-Hyper: Generating Multiple Instance Models for Weight Space Transfer Learning in Histopathology via Mixed Tasks Pretrained HyperNetwork](https://arxiv.org/abs/2611.22968v1)** | 2026-11-17 |  |
 | **[PathoGaze1.0: An AI-Ready Navigation, Eye-Tracking, and Decision Dataset in Pathology](https://arxiv.org/abs/2510.24653v2)** | 2026-11-16 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 3 tables, submitted to Nature Scientific Data</p></details> |
-| **[When Do Histology Foundation Models Need Geometric Test-Time Augmentation?](https://arxiv.org/abs/2611.21565v1)** | 2026-11-16 | 17 pages, 5 figures |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards progressive whole-slide image analysis with multi-scale pyramidal network, a pathologist inspired approach](https://arxiv.org/abs/2602.01951v3)** | 2026-11-24 |  |
 | **[DARE: Dual-Level Adversarial Learning with Domain-Aware Regularization for Whole Slide Image Classification](https://arxiv.org/abs/2611.30589v1)** | 2026-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 22 pages, 7 figures, including the appendix</p></details> |
 | **[A Search Worth a Billion Pixels: Explaining Gigapixel Classifiers](https://arxiv.org/abs/2611.30578v1)** | 2026-11-23 |  |
 | **[PathStream: Towards Streaming Diagnostic Copilots for Whole-Slide Pathology](https://arxiv.org/abs/2611.30167v1)** | 2026-11-23 |  |
@@ -50,11 +51,11 @@ labels: documentation
 | **[SCOUT: Risk-Guided Foundation-Model Escalation for Robust Tissue Detection in Whole-Slide Images](https://arxiv.org/abs/2611.24366v1)** | 2026-11-18 |  |
 | **[MI-Hyper: Generating Multiple Instance Models for Weight Space Transfer Learning in Histopathology via Mixed Tasks Pretrained HyperNetwork](https://arxiv.org/abs/2611.22968v1)** | 2026-11-17 |  |
 | **[PathoGaze1.0: An AI-Ready Navigation, Eye-Tracking, and Decision Dataset in Pathology](https://arxiv.org/abs/2510.24653v2)** | 2026-11-16 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 3 tables, submitted to Nature Scientific Data</p></details> |
-| **[When Do Histology Foundation Models Need Geometric Test-Time Augmentation?](https://arxiv.org/abs/2611.21565v1)** | 2026-11-16 | 17 pages, 5 figures |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tempering and few-shot calibration of pathology foundation models improve digital biomarker reproducibility across slide scanners](https://arxiv.org/abs/2611.31536v1)** | 2026-11-23 |  |
 | **[PathStream: Towards Streaming Diagnostic Copilots for Whole-Slide Pathology](https://arxiv.org/abs/2611.30167v1)** | 2026-11-23 |  |
 | **[CLASP: Deciding Structure and Claims Before Decoding for Whole-Slide Pathology Report Generation](https://arxiv.org/abs/2611.28576v1)** | 2026-11-21 |  |
 | **[Interpretable Tissue Architecture Complements Pathology Foundation Models](https://arxiv.org/abs/2611.27881v1)** | 2026-11-20 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 5 tables. Submitted to Biomedical Signal Processing and Control</p></details> |
@@ -74,11 +75,13 @@ labels: documentation
 | **[PathXAI: Evidence-guided structured pathology reporting by transferable tissue segmentation](https://arxiv.org/abs/2611.09117v3)** | 2026-11-10 | <details><summary>More ...</summary><p>More experimental results will be added in the future version</p></details> |
 | **[Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives](https://arxiv.org/abs/2611.07935v2)** | 2026-11-10 |  |
 | **[Predicting Single-Cell Spatial Gene Expression from H&E using Pathology Foundation Models](https://arxiv.org/abs/2611.13649v1)** | 2026-11-10 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Workshop on AI at Scale for Clinical Impact. Project page: https://he2sc-st.github.io/</p></details> |
-| **[Uni-Loc: Weakly Supervised 3D CT Pathology Localization via Spatially Grounded Vision-Language Classification](https://arxiv.org/abs/2611.13330v1)** | 2026-11-09 |  |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards progressive whole-slide image analysis with multi-scale pyramidal network, a pathologist inspired approach](https://arxiv.org/abs/2602.01951v3)** | 2026-11-24 |  |
+| **[Reliable and grounded reporting of any computed tomography scan with FORA](https://arxiv.org/abs/2611.32823v1)** | 2026-11-24 | <details><summary>58 pa...</summary><p>58 pages, 5 figures, 7 Extended Data figures, 17 Supplementary figures. Code and models: https://github.com/forithmus/FORA</p></details> |
+| **[Glioma IDH Classification via CVAE: Synthetic Augmentation, Generative Classification, and MIL for Raman Biopsies](https://arxiv.org/abs/2607.10196v2)** | 2026-11-24 |  |
 | **[PoRef-MIL: Plug-and-Play Posterior Refinement for Multiple Instance Learning in QSM-Based Brain Disease Classification](https://arxiv.org/abs/2611.19193v2)** | 2026-11-23 | 5figure, 6tables; |
 | **[More Is Never Less: Affordable Robustness to Additive Attacks via Monotone Multiple-Instance Learning](https://arxiv.org/abs/2611.28825v1)** | 2026-11-21 | <details><summary>19 Pa...</summary><p>19 Pages, 5 Figures, 7 Tables</p></details> |
 | **[JevNavAgent: A Single-Forward Visual Navigation Agent with Trajectory-Level RL for Gigapixel Pathology](https://arxiv.org/abs/2611.28766v1)** | 2026-11-21 |  |
@@ -96,9 +99,6 @@ labels: documentation
 | **[Towards Democratising Low-Data Medical Image Classification: CPU-Trainable ZACH-ViT and Its Geometric Variants](https://arxiv.org/abs/2611.16608v1)** | 2026-11-12 | 17 pages, 4 figures |
 | **[Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](https://arxiv.org/abs/2609.36882v3)** | 2026-11-07 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
 | **[Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology](https://arxiv.org/abs/2611.09851v1)** | 2026-11-06 | <details><summary>35 pa...</summary><p>35 pages, 4 main figures, 2 supplementary figures, and 10 supplementary tables. Interactive Results Atlas and Hypothesis Explorer accompany the manuscript</p></details> |
-| **[OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity](https://arxiv.org/abs/2611.08360v1)** | 2026-11-05 |  |
-| **[TRACK: Multiple Instance Learning for Anti-Money Laundering in Transaction Networks](https://arxiv.org/abs/2611.06035v1)** | 2026-11-04 | <details><summary>11 pa...</summary><p>11 pages, 3 figures. Accepted at the 20th ACM International Conference on Web Search and Data Mining (WSDM 2027)</p></details> |
-| **[Bridging the Modality Bottleneck in Pathology MIL through Molecularly Guided Feature Adaptation](https://arxiv.org/abs/2605.16392v2)** | 2026-11-04 |  |
 
 ## pathology reports
 | **Title** | **Date** | **Comment** |
