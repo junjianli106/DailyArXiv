@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 26, 2026
+title: Latest 20 Papers - November 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## whole slide image
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rank Before You Encode: Reading a Few Percent of a Whole-Slide Image](https://arxiv.org/abs/2611.34523v1)** | 2026-11-25 | CVPR 2027 submission |
+| **[BayesPath: Reliability-Aware Bayesian Reasoning for Whole-Slide Pathology Agents](https://arxiv.org/abs/2611.33935v1)** | 2026-11-25 |  |
 | **[Towards progressive whole-slide image analysis with multi-scale pyramidal network, a pathologist inspired approach](https://arxiv.org/abs/2602.01951v3)** | 2026-11-24 |  |
 | **[DARE: Dual-Level Adversarial Learning with Domain-Aware Regularization for Whole Slide Image Classification](https://arxiv.org/abs/2611.30589v1)** | 2026-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 22 pages, 7 figures, including the appendix</p></details> |
 | **[A Search Worth a Billion Pixels: Explaining Gigapixel Classifiers](https://arxiv.org/abs/2611.30578v1)** | 2026-11-23 |  |
@@ -25,12 +27,12 @@ labels: documentation
 | **[When Foundation Models Disagree: Representational Heterogeneity for Calibrated Uncertainty in Whole-Slide Image Classification](https://arxiv.org/abs/2611.26159v1)** | 2026-11-19 | <details><summary>accep...</summary><p>accepted by IEEE BIBM 2026</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v4)** | 2026-11-19 | <details><summary>Accep...</summary><p>Accepted to WACV 2027. Code: https://github.com/WinstonHuTiger/loc_path</p></details> |
 | **[SCOUT: Risk-Guided Foundation-Model Escalation for Robust Tissue Detection in Whole-Slide Images](https://arxiv.org/abs/2611.24366v1)** | 2026-11-18 |  |
-| **[MI-Hyper: Generating Multiple Instance Models for Weight Space Transfer Learning in Histopathology via Mixed Tasks Pretrained HyperNetwork](https://arxiv.org/abs/2611.22968v1)** | 2026-11-17 |  |
-| **[PathoGaze1.0: An AI-Ready Navigation, Eye-Tracking, and Decision Dataset in Pathology](https://arxiv.org/abs/2510.24653v2)** | 2026-11-16 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 3 tables, submitted to Nature Scientific Data</p></details> |
 
 ## whole slide images
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rank Before You Encode: Reading a Few Percent of a Whole-Slide Image](https://arxiv.org/abs/2611.34523v1)** | 2026-11-25 | CVPR 2027 submission |
+| **[BayesPath: Reliability-Aware Bayesian Reasoning for Whole-Slide Pathology Agents](https://arxiv.org/abs/2611.33935v1)** | 2026-11-25 |  |
 | **[Towards progressive whole-slide image analysis with multi-scale pyramidal network, a pathologist inspired approach](https://arxiv.org/abs/2602.01951v3)** | 2026-11-24 |  |
 | **[DARE: Dual-Level Adversarial Learning with Domain-Aware Regularization for Whole Slide Image Classification](https://arxiv.org/abs/2611.30589v1)** | 2026-11-23 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. 22 pages, 7 figures, including the appendix</p></details> |
 | **[A Search Worth a Billion Pixels: Explaining Gigapixel Classifiers](https://arxiv.org/abs/2611.30578v1)** | 2026-11-23 |  |
@@ -49,12 +51,11 @@ labels: documentation
 | **[When Foundation Models Disagree: Representational Heterogeneity for Calibrated Uncertainty in Whole-Slide Image Classification](https://arxiv.org/abs/2611.26159v1)** | 2026-11-19 | <details><summary>accep...</summary><p>accepted by IEEE BIBM 2026</p></details> |
 | **[LoC-Path: Learning to Compress for Pathology Multimodal Large Language Models](https://arxiv.org/abs/2512.05391v4)** | 2026-11-19 | <details><summary>Accep...</summary><p>Accepted to WACV 2027. Code: https://github.com/WinstonHuTiger/loc_path</p></details> |
 | **[SCOUT: Risk-Guided Foundation-Model Escalation for Robust Tissue Detection in Whole-Slide Images](https://arxiv.org/abs/2611.24366v1)** | 2026-11-18 |  |
-| **[MI-Hyper: Generating Multiple Instance Models for Weight Space Transfer Learning in Histopathology via Mixed Tasks Pretrained HyperNetwork](https://arxiv.org/abs/2611.22968v1)** | 2026-11-17 |  |
-| **[PathoGaze1.0: An AI-Ready Navigation, Eye-Tracking, and Decision Dataset in Pathology](https://arxiv.org/abs/2510.24653v2)** | 2026-11-16 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 3 tables, submitted to Nature Scientific Data</p></details> |
 
 ## pathology
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A gene informed benchmark for BioScoring of pathology foundation models](https://arxiv.org/abs/2611.34930v1)** | 2026-11-25 | 32 pages, 18 figures |
 | **[Tempering and few-shot calibration of pathology foundation models improve digital biomarker reproducibility across slide scanners](https://arxiv.org/abs/2611.31536v1)** | 2026-11-23 |  |
 | **[PathStream: Towards Streaming Diagnostic Copilots for Whole-Slide Pathology](https://arxiv.org/abs/2611.30167v1)** | 2026-11-23 |  |
 | **[CLASP: Deciding Structure and Claims Before Decoding for Whole-Slide Pathology Report Generation](https://arxiv.org/abs/2611.28576v1)** | 2026-11-21 |  |
@@ -74,7 +75,6 @@ labels: documentation
 | **[Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations](https://arxiv.org/abs/2601.21334v2)** | 2026-11-10 | <details><summary>30 pa...</summary><p>30 pages, 21 figures, 6 tables. Appendix included. NeurIPS Main Track 2026</p></details> |
 | **[PathXAI: Evidence-guided structured pathology reporting by transferable tissue segmentation](https://arxiv.org/abs/2611.09117v3)** | 2026-11-10 | <details><summary>More ...</summary><p>More experimental results will be added in the future version</p></details> |
 | **[Towards Scalable Diagnostic-Driven Whole-Slide Image Retrieval for Pathology Archives](https://arxiv.org/abs/2611.07935v2)** | 2026-11-10 |  |
-| **[Predicting Single-Cell Spatial Gene Expression from H&E using Pathology Foundation Models](https://arxiv.org/abs/2611.13649v1)** | 2026-11-10 | <details><summary>NeurI...</summary><p>NeurIPS 2026 Workshop on AI at Scale for Clinical Impact. Project page: https://he2sc-st.github.io/</p></details> |
 
 ## Multiple Instance Learning
 | **Title** | **Date** | **Comment** |
